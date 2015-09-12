@@ -26437,4 +26437,5 @@ zone "zyrdu.cruisingsmallship.com" { type master; notify no; file "/etc/bind/nul
 zone "zyrtec.1.p2l.info" { type master; notify no; file "/etc/bind/null.zone.file"; };
 zone "zyrtec.3.p2l.info" { type master; notify no; file "/etc/bind/null.zone.file"; };
 zone "zyrtec.4.p2l.info" { type master; notify no; file "/etc/bind/null.zone.file"; };
-zone "zz.cqcounter.com" { type master;
+zone "zz.cqcounter.com" { type master; notify no; file "/etc/bind/null.zone.file"; };
+zone "zzz.clickbank.net" { type master; notify no; file "/etc/bind/null.zone.file"; };
