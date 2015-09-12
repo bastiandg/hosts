@@ -2949,6 +2949,7 @@ zone "ads.newcitynet.com" { type master; notify no; file "/etc/bind/null.zone.fi
 zone "ads.newdream.net" { type master; notify no; file "/etc/bind/null.zone.file"; };
 zone "ads.newgrounds.com" { type master; notify no; file "/etc/bind/null.zone.file"; };
 zone "ads.newmedia.cz" { type master; notify no; file "/etc/bind/null.zone.file"; };
+zone "ads.newsbtc.com" { type master; notify no; file "/etc/bind/null.zone.file"; };
 zone "ads.newsint.co.uk" { type master; notify no; file "/etc/bind/null.zone.file"; };
 zone "ads.newsminerextra.com" { type master; notify no; file "/etc/bind/null.zone.file"; };
 zone "ads.newsobserver.com" { type master; notify no; file "/etc/bind/null.zone.file"; };
@@ -26436,5 +26437,4 @@ zone "zyrdu.cruisingsmallship.com" { type master; notify no; file "/etc/bind/nul
 zone "zyrtec.1.p2l.info" { type master; notify no; file "/etc/bind/null.zone.file"; };
 zone "zyrtec.3.p2l.info" { type master; notify no; file "/etc/bind/null.zone.file"; };
 zone "zyrtec.4.p2l.info" { type master; notify no; file "/etc/bind/null.zone.file"; };
-zone "zz.cqcounter.com" { type master; notify no; file "/etc/bind/null.zone.file"; };
-zone "zzz.clickbank.net" { type maste
+zone "zz.cqcounter.com" { type master;
