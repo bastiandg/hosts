@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sep 12th, 2015 at 11:00
+# Last updated: Sep 14th, 2015 at 07:32
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1694,6 +1694,7 @@
 127.0.0.1 feaecebook.com
 127.0.0.1 fengyixin.com
 127.0.0.1 filosvybfimpsv.ru.gg
+127.0.0.1 fr.apple.com-services-assistance-recuperations-des-comptes.com
 127.0.0.1 froling.bee.pl
 127.0.0.1 fromru.su
 127.0.0.1 ftdownload.com
@@ -8364,6 +8365,7 @@
 127.0.0.1 uproar.com
 127.0.0.1 uproar.fortunecity.com
 127.0.0.1 upsellit.com
+127.0.0.1 urban.adspirit.de
 127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 us.adserver.yahoo.com
 127.0.0.1 us-ads.openx.net
