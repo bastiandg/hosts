@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sep 14th, 2015 at 07:32
+# Last updated: Sep 15th, 2015 at 13:38
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3020,7 +3020,8 @@
 
 #<oewabox-sites>
 
-# oewabox.at -- 'Austrian Webanalysis Society'127.0.0.1 1000ps.oewabox.at
+# oewabox.at -- 'Austrian Webanalysis Society'
+127.0.0.1 1000ps.oewabox.at
 127.0.0.1 afinder.oewabox.at
 127.0.0.1 alphalux.oewabox.at
 127.0.0.1 car4you.oewabox.at
@@ -11723,7 +11724,8 @@
 
 #<Windows10>
 
-# Windows 10 reporting domains127.0.0.1 a-0001.a-msedge.net
+# Windows 10 reporting domains
+127.0.0.1 a-0001.a-msedge.net
 127.0.0.1 a.ads1.msn.com
 127.0.0.1 a.ads2.msn.com
 127.0.0.1 adnexus.net
