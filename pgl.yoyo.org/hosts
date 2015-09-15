@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 10 Sep 2015 11:06:32 GMT
-# entries:        2393
+# last updated:   Tue, 15 Sep 2015 15:03:36 GMT
+# entries:        2394
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1695,6 +1695,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mas.sector.sk
 127.0.0.1 mastermind.com
 127.0.0.1 matchcraft.com
+127.0.0.1 mathtag.com
 127.0.0.1 max.i12.de
 127.0.0.1 maximumcash.com
 127.0.0.1 mbn.com.ua
