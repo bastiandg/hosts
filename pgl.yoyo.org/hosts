@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 16 Sep 2015 08:42:36 GMT
-# entries:        2395
+# last updated:   Wed, 16 Sep 2015 20:41:14 GMT
+# entries:        2396
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1849,6 +1849,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 optmd.com
 127.0.0.1 ota.cartrawler.com
 127.0.0.1 otto-images.developershed.com
+127.0.0.1 outbrain.com
 127.0.0.1 overture.com
 127.0.0.1 owebmoney.ru
 127.0.0.1 oxado.com
