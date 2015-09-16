@@ -2045,6 +2045,7 @@
 0.0.0.0 adserver.ro
 0.0.0.0 adserver.sabc.co.za
 0.0.0.0 adserver.sabcnews.co.za
+0.0.0.0 adserver.sandbox.cxad.cxense.com
 0.0.0.0 adserver.sanomawsoy.fi
 0.0.0.0 adserver.scmp.com
 0.0.0.0 adserver.securityfocus.com
@@ -7920,6 +7921,7 @@
 0.0.0.0 russian-sex.com
 0.0.0.0 rv.adcpx.v1.de.eusem.adaos-ads.net
 0.0.0.0 rya.rockyou.com
+0.0.0.0 s-adserver.sandbox.cxad.cxense.com
 0.0.0.0 s.ad121m.com
 0.0.0.0 s.ad131m.com
 0.0.0.0 s.admob.com

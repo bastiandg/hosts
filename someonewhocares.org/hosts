@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sep 15th, 2015 at 13:38
+# Last updated: Sep 15th, 2015 at 23:12
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -4338,6 +4338,7 @@
 127.0.0.1 adserver.ro
 127.0.0.1 adserver.sabc.co.za
 127.0.0.1 adserver.sabcnews.co.za
+127.0.0.1 adserver.sandbox.cxad.cxense.com
 127.0.0.1 adserver.sanomawsoy.fi
 127.0.0.1 adserver.scmp.com
 127.0.0.1 adserver.securityfocus.com
@@ -7796,6 +7797,7 @@
 127.0.0.1 s.ad131m.com
 127.0.0.1 s.admob.com
 127.0.0.1 s.admulti.com
+127.0.0.1 s-adserver.sandbox.cxad.cxense.com
 127.0.0.1 sad.sharethis.com
 127.0.0.1 safari-critical-alert.com
 127.0.0.1 safe.hyperpaysys.com
