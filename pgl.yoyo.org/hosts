@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 15 Sep 2015 15:03:36 GMT
-# entries:        2394
+# last updated:   Wed, 16 Sep 2015 08:42:36 GMT
+# entries:        2395
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -340,7 +340,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adrevolver.com
 127.0.0.1 adriver.ru
 127.0.0.1 adrolays.de
-127.0.0.1 adroll.com
 127.0.0.1 adrotate.de
 127.0.0.1 adrotator.net
 127.0.0.1 adrotator.se
@@ -1316,6 +1315,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 customad.cnn.com
 127.0.0.1 cyberbounty.com
 127.0.0.1 cybermonitor.com
+127.0.0.1 d.adroll.com
 127.0.0.1 d1.openx.org
 127.0.0.1 danban.com
 127.0.0.1 dapper.net
@@ -2041,6 +2041,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ru-traffic.com
 127.0.0.1 ru4.com
 127.0.0.1 rubiconproject.com
+127.0.0.1 s.adroll.com
 127.0.0.1 s2d6.com
 127.0.0.1 sageanalyst.net
 127.0.0.1 sbx.pagesjaunes.fr
