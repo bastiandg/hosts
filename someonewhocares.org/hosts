@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sep 15th, 2015 at 23:12
+# Last updated: Sep 19th, 2015 at 06:51
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3308,6 +3308,7 @@
 127.0.0.1 ad.bannerbank.ru
 127.0.0.1 ad.bannerconnect.net
 127.0.0.1 adb.fling.com
+127.0.0.1 adbg.hit.gemius.pl
 127.0.0.1 adbit.co
 127.0.0.1 adblade.com
 127.0.0.1 ad.bnmla.com
@@ -4162,6 +4163,7 @@
 127.0.0.1 adserver-5.ig.com.br
 127.0.0.1 adserver.71i.de
 127.0.0.1 adserver9.contextad.com
+127.0.0.1 adserver.abv.bg
 127.0.0.1 adserver.ad-it.dk
 127.0.0.1 adserver.adreactor.com
 127.0.0.1 adserver.adremedy.com
@@ -5311,6 +5313,7 @@
 127.0.0.1 as3.falkag.de
 127.0.0.1 as4.falkag.de
 127.0.0.1 as.5to1.com
+127.0.0.1 as.adwise.bg
 127.0.0.1 asa.tynt.com
 127.0.0.1 asb.tynt.com
 127.0.0.1 as.casalemedia.com
@@ -5533,6 +5536,7 @@
 127.0.0.1 bet-at-home.com
 127.0.0.1 betterperformance.goldenopps.info
 127.0.0.1 bfast.com
+127.0.0.1 b.grabo.bg
 127.0.0.1 bidclix.net
 127.0.0.1 bid.openx.net
 127.0.0.1 bidsystem.com
@@ -6250,6 +6254,7 @@
 127.0.0.1 fliteilex.com
 127.0.0.1 floatingads.madisonavenue.com
 127.0.0.1 floridat.app.ur.gcion.com
+127.0.0.1 flower.bg
 127.0.0.1 flowers-offer.com
 127.0.0.1 fls-na.amazon.com
 127.0.0.1 flu23.com
@@ -6586,6 +6591,7 @@
 127.0.0.1 iadc.qwapi.com
 127.0.0.1 i.admob.com
 #127.0.0.1 iadsdk.apple.com	#may interfere with iTunes radio
+127.0.0.1 i.adwise.bg
 127.0.0.1 ialaddin.genieesspv.jp
 127.0.0.1 ib.adnxs.com
 127.0.0.1 ibis.lgappstv.com
@@ -6759,6 +6765,7 @@
 127.0.0.1 isg09.casalemedia.com
 127.0.0.1 i.simpli.fi
 127.0.0.1 islamicmarketing.net
+127.0.0.1 i.static.zaplata.bg
 127.0.0.1 it.adserver.yahoo.com
 127.0.0.1 itemagic.net
 127.0.0.1 i.total-media.net
@@ -7036,6 +7043,7 @@
 127.0.0.1 mediacharger.com
 127.0.0.1 media.charter.com
 127.0.0.1 media.contextweb.com
+127.0.0.1 media.easyads.bg
 127.0.0.1 media.elb-kind.de
 127.0.0.1 media.espace-plus.net
 127.0.0.1 media.fairlink.ru
