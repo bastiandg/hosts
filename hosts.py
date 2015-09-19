@@ -6,7 +6,8 @@ import re
 import subprocess
 import datetime
 
-repoDirectory = "/home/bastian/hosts"
+homeDirectory = os.path.expanduser("~")
+repoDirectory = "%s/hosts" % homeDirectory
 hostListUrls =    ["http://someonewhocares.org/hosts/hosts",
 		"http://adaway.org/hosts.txt",
 		"http://www.malwaredomainlist.com/hostslist/hosts.txt",
