@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sep 19th, 2015 at 06:51
+# Last updated: Sep 21st, 2015 at 08:18
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8829,7 +8829,7 @@
 127.0.0.1 www.avsads.com
 127.0.0.1 www.a.websponsors.com
 127.0.0.1 www.awesomevipoffers.com
-127.0.0.1 www.awin1.com
+#127.0.0.1 www.awin1.com	# Causes problems with British Airways
 127.0.0.1 www.awltovhc.com	#qksrv
 127.0.0.1 www.bananacashback.com
 127.0.0.1 www.banner4all.dk
