@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sep 21st, 2015 at 08:18
+# Last updated: Sep 21st, 2015 at 16:17
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8255,6 +8255,8 @@
 127.0.0.1 tmx.technoratimedia.com
 127.0.0.1 tn.adserve.com
 127.0.0.1 toads.osdn.com
+127.0.0.1 tommysbookmarks.com
+127.0.0.1 tommysbookmarks.net
 127.0.0.1 tongji.baidu.com
 127.0.0.1 tons-to-see.com
 127.0.0.1 toofanshadid.com
@@ -8271,6 +8273,7 @@
 127.0.0.1 top.list.ru
 127.0.0.1 toplist.throughput.de
 127.0.0.1 topmarketcenter.com
+127.0.0.1 topsurvey-offers.com
 127.0.0.1 toroadvertisingmedia.com
 127.0.0.1 touche.adcentric.proximi-t.com
 127.0.0.1 tower.adexpedia.com
@@ -8421,6 +8424,7 @@
 127.0.0.1 vht.tradedoubler.com
 127.0.0.1 vibrantmedia.com
 127.0.0.1 vid.atm.youku.com
+127.0.0.1 videobox.com
 127.0.0.1 videocop.com
 127.0.0.1 videoegg.adbureau.net
 127.0.0.1 video-game-rewards-central.com
