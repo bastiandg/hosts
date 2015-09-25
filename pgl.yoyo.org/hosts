@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 25 Sep 2015 07:40:35 GMT
-# entries:        2423
+# entries:        2422
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -247,6 +247,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adecn.com
 127.0.0.1 ademails.com
 127.0.0.1 adengage.com
+127.0.0.1 adexpose.com
 127.0.0.1 adext.inkclub.com
 127.0.0.1 adf.ly
 127.0.0.1 adfarm.mediaplex.com
@@ -478,7 +479,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.foxnetworks.com
 127.0.0.1 ads.foxnews.com
 127.0.0.1 ads.freecity.de
-127.0.0.1 ads.freeze.com
 127.0.0.1 ads.friendfinder.com
 127.0.0.1 ads.ft.com
 127.0.0.1 ads.futurenet.com
@@ -1741,7 +1741,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mediaz.angloinfo.com
 127.0.0.1 medleyads.com
 127.0.0.1 megacash.de
-127.0.0.1 megago.com
 127.0.0.1 megastats.com
 127.0.0.1 megawerbung.de
 127.0.0.1 memorix.sdv.fr
@@ -1798,7 +1797,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 nedstatpro.net
 127.0.0.1 nend.net
 127.0.0.1 neocounter.neoworx-blog-tools.net
-127.0.0.1 neoffic.com
 127.0.0.1 net-filter.com
 127.0.0.1 netaffiliation.com
 127.0.0.1 netagent.cz
@@ -2041,6 +2039,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 retargeter.com
 127.0.0.1 revenue.net
 127.0.0.1 revenuedirect.com
+127.0.0.1 revenuepilot.com
 127.0.0.1 revsci.net
 127.0.0.1 revstats.com
 127.0.0.1 rewardster.com
