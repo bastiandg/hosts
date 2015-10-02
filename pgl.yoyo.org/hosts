@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 29 Sep 2015 20:38:10 GMT
-# entries:        2423
+# last updated:   Fri, 02 Oct 2015 09:18:12 GMT
+# entries:        2424
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1648,6 +1648,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 k.iinfo.cz
 127.0.0.1 kanoodle.com
 127.0.0.1 keymedia.hu
+127.0.0.1 kindads.com
 127.0.0.1 kissmetrics.com
 127.0.0.1 kliks.nl
 127.0.0.1 komoona.com
