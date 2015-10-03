@@ -92,9 +92,12 @@ diffProcess = subprocess.Popen(["git", "diff", "--exit-code"])
 diffReturn = diffProcess.wait()
 print "Git diff return: %r" % diffReturn
 if diffProcess.wait() != 0:
-	gitProcess = subprocess.Popen(["git", "commit", "-a", "-m", gitMessage])
-	gitReturn = gitProcess.wait()
-	print "Git commit return: %r" % gitReturn
+	gitCommitProcess = subprocess.Popen(["git", "commit", "-a", "-m", gitMessage])
+	gitCommitReturn = gitCommitProcess.wait()
+	print "Git commit return: %r" % gitCommitReturn
+	gitPushProcess = subprocess.Popen(["git", "push", "origin", "master"])
+	gitPushReturn = gitPushProcess.wait()
+	print "Git push return: %r" % gitPushReturn
 
 for hostListPath in hostListPaths:
 	os.remove(hostListPath)
