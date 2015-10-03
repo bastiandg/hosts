@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 02 Oct 2015 09:18:12 GMT
-# entries:        2422
+# last updated:   Sat, 03 Oct 2015 00:21:46 GMT
+# entries:        2425
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -122,6 +122,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ad.cooks.com
 127.0.0.1 ad.crwdcntrl.net
 127.0.0.1 ad.digitallook.com
+127.0.0.1 ad.directrev.com
 127.0.0.1 ad.doctissimo.fr
 127.0.0.1 ad.domainfactory.de
 127.0.0.1 ad.e-kolay.net
@@ -1146,6 +1147,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 boersego-ads.de
 127.0.0.1 boldchat.com
 127.0.0.1 boom.ro
+127.0.0.1 boomads.com
 127.0.0.1 boost-my-pr.de
 127.0.0.1 box.anchorfree.net
 127.0.0.1 bpath.com
@@ -1247,6 +1249,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 clicktrade.com
 127.0.0.1 clickxchange.com
 127.0.0.1 clickz.com
+127.0.0.1 clickzxc.com
 127.0.0.1 clicmanager.fr
 127.0.0.1 clictrafic.com
 127.0.0.1 clients.tbo.com
