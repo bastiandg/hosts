@@ -6,8 +6,9 @@ import re
 import subprocess
 import datetime
 
-homeDirectory = os.path.expanduser("~")
-repoDirectory = "%s/hosts" % homeDirectory
+#homeDirectory = os.path.expanduser("~")
+#repoDirectory = "%s/hosts" % homeDirectory
+repoDirectory = os.path.dirname(os.path.realpath(sys.argv[0]))
 hostListUrls =    ["http://someonewhocares.org/hosts/hosts",
 		"http://adaway.org/hosts.txt",
 		"http://www.malwaredomainlist.com/hostslist/hosts.txt",
@@ -30,6 +31,9 @@ for list in hostListUrls:
 		sys.exit(2)
 	hostListDomains.append(m.group(1))
 	hostListPaths.append("%s/tmp/%s" % (repoDirectory, m.group(1)))
+
+if not os.path.exists("%s/tmp/" % repoDirectory):
+	os.mkdir("%s/tmp/" % repoDirectory)
 
 wgetReturn = 0
 for hostListUrl, hostListPath in zip(hostListUrls, hostListPaths):
