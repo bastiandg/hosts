@@ -6,8 +6,6 @@ import re
 import subprocess
 import datetime
 
-#homeDirectory = os.path.expanduser("~")
-#repoDirectory = "%s/hosts" % homeDirectory
 repoDirectory = os.path.dirname(os.path.realpath(sys.argv[0]))
 hostListUrls =    ["http://someonewhocares.org/hosts/hosts",
 		"http://adaway.org/hosts.txt",
@@ -80,6 +78,8 @@ hostFile = open("%s/hosts" % repoDirectory, "w")
 hostFileZero = open("%s/hosts.zero" % repoDirectory, "w")
 zoneFile = open("%s/adserver.conf" % repoDirectory, "w")
 
+hostListFile.write("%s\n" % hostListPrefix)
+hostFileZero.write("%s\n" % hostListPrefix)
 for host in sorted(aggregateHostList):
 	hostListFile.write("%s\n" % host)
 	hostFile.write("127.0.0.1 %s\n" % host)
