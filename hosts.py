@@ -61,7 +61,6 @@ for hostListDomain in hostListDomains:
 	hostListFile = open("%s/%s/hostlist" % (repoDirectory, hostListDomain), "w")
 	hostFileZero = open("%s/%s/hosts.zero" % (repoDirectory, hostListDomain), "w")
 	zoneFile = open("%s/%s/adserver.conf" % (repoDirectory, hostListDomain), "w")
-	hostListFile.write("%s\n" % hostListPrefix)
 	hostFileZero.write("%s\n" % hostListPrefix)
 
 	for host in sorted(hostList):
@@ -78,7 +77,7 @@ hostFile = open("%s/hosts" % repoDirectory, "w")
 hostFileZero = open("%s/hosts.zero" % repoDirectory, "w")
 zoneFile = open("%s/adserver.conf" % repoDirectory, "w")
 
-hostListFile.write("%s\n" % hostListPrefix)
+hostFile.write("%s\n" % hostListPrefix)
 hostFileZero.write("%s\n" % hostListPrefix)
 for host in sorted(aggregateHostList):
 	hostListFile.write("%s\n" % host)
