@@ -14,6 +14,12 @@ hostListUrls =    ["http://someonewhocares.org/hosts/hosts",
 		"http://www.mvps.org/winhelp2002/hosts.txt",
 		"http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&startdate%5Bday%5D=&startdate%5Bmonth%5D=&star"]
 gitMessage = "Hostfile change %s" % str(datetime.datetime.now())
+hostListPrefix = """127.0.0.1       localhost
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+"""
 
 hostListPaths = []
 hostListDomains = []
@@ -53,6 +59,8 @@ for hostListDomain in hostListDomains:
 	hostListFile = open("%s/%s/hostlist" % (repoDirectory, hostListDomain), "w")
 	hostFileZero = open("%s/%s/hosts.zero" % (repoDirectory, hostListDomain), "w")
 	zoneFile = open("%s/%s/adserver.conf" % (repoDirectory, hostListDomain), "w")
+	hostListFile.write("%s\n" % hostListPrefix)
+	hostFileZero.write("%s\n" % hostListPrefix)
 
 	for host in sorted(hostList):
 		hostListFile.write("%s\n" % host)
