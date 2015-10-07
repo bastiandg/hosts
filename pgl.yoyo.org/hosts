@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 07 Oct 2015 16:28:21 GMT
-# entries:        2427
+# last updated:   Wed, 07 Oct 2015 19:13:22 GMT
+# entries:        2432
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -319,6 +319,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 admob.com
 127.0.0.1 admonitor.com
 127.0.0.1 admotion.com.ar
+127.0.0.1 admtpmp123.com
+127.0.0.1 admtpmp124.com
 127.0.0.1 adnet-media.net
 127.0.0.1 adnet.asahi.com
 127.0.0.1 adnet.biz
@@ -338,6 +340,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adpepper.nl
 127.0.0.1 adperium.com
 127.0.0.1 adpia.vn
+127.0.0.1 adplxmd.com
 127.0.0.1 adpost.com
 127.0.0.1 adprofile.net
 127.0.0.1 adprojekt.pl
@@ -955,6 +958,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 affiliatewindow.com
 127.0.0.1 affiliation-france.com
 127.0.0.1 ah-ha.com
+127.0.0.1 ahalogy.com
 127.0.0.1 aidu-ads.de
 127.0.0.1 aim4media.com
 127.0.0.1 aistat.net
@@ -1572,6 +1576,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ia.iinfo.cz
 127.0.0.1 iad.anm.co.uk
 127.0.0.1 iadnet.com
+127.0.0.1 iasds01.com
 127.0.0.1 iconadserver.com
 127.0.0.1 icptrack.com
 127.0.0.1 idcounter.com

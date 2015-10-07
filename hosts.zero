@@ -1895,6 +1895,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 admp-tc.iltalehti.fi
 0.0.0.0 admp-tc.krak.dk
 0.0.0.0 adms.physorg.com
+0.0.0.0 admtpmp123.com
+0.0.0.0 admtpmp124.com
 0.0.0.0 admtpmp127.adsk2.co
 0.0.0.0 adn.ebay.com
 0.0.0.0 adn.entrecard.com
@@ -1969,6 +1971,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adplay.tudou.com
 0.0.0.0 adplus.goo.mx
 0.0.0.0 adplus.yonhapnews.co.kr
+0.0.0.0 adplxmd.com
 0.0.0.0 adportal.advertisingnemesis.com
 0.0.0.0 adpost.com
 0.0.0.0 adprofile.net
@@ -4928,6 +4931,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 agwebshots.112.2o7.net
 0.0.0.0 agyahooag.112.2o7.net
 0.0.0.0 ah-ha.com
+0.0.0.0 ahalogy.com
 0.0.0.0 ahbn1.hitbox.com
 0.0.0.0 ahbn2.hitbox.com
 0.0.0.0 ahbn3.hitbox.com
@@ -12143,6 +12147,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 iamnotageek.us.intellitxt.com
 0.0.0.0 ias.hitbox.com
 0.0.0.0 ias2.hitbox.com
+0.0.0.0 iasds01.com
 0.0.0.0 iavwbox.de
 0.0.0.0 ib.3lift.com
 0.0.0.0 ib.adnxs.com
