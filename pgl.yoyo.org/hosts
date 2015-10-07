@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 07 Oct 2015 19:13:22 GMT
-# entries:        2432
+# last updated:   Wed, 07 Oct 2015 21:03:56 GMT
+# entries:        2433
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1441,6 +1441,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 express-submit.de
 127.0.0.1 extractorandburner.com
 127.0.0.1 extreme-dm.com
+127.0.0.1 extremetracking.com
 127.0.0.1 eyeblaster.com
 127.0.0.1 eyereturn.com
 127.0.0.1 eyeviewads.com
