@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Oct 1st, 2015 at 07:13
+# Last updated: Oct 8th, 2015 at 06:49
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6303,6 +6303,7 @@
 127.0.0.1 enirocode.adtlgc.com
 127.0.0.1 enirodk.adtlgc.com
 127.0.0.1 enn.advertserve.com
+127.0.0.1 enquete-annuelle.info
 127.0.0.1 entertainment-rewardpath.com
 127.0.0.1 entertainment-specials.com
 127.0.0.1 erie.smartage.com
@@ -7073,6 +7074,7 @@
 127.0.0.1 m1.emea.2mdn.net.edgesuite.net
 127.0.0.1 m2.sexgarantie.nl
 127.0.0.1 m3.2mdn.net
+127.0.0.1 m4.afs.googleadservices.com
 127.0.0.1 ma.baidu.com
 127.0.0.1 macaddictads.snv.futurenet.com
 127.0.0.1 macads.net
@@ -7207,6 +7209,13 @@
 127.0.0.1 mightymagoo.com
 127.0.0.1 mii-image.adjuggler.com
 127.0.0.1 milyondolar.com
+127.0.0.1 mimageads1.googleadservices.com
+127.0.0.1 mimageads2.googleadservices.com                                             127.0.0.1 mimageads3.googleadservices.com
+127.0.0.1 mimageads4.googleadservices.com                                             127.0.0.1 mimageads5.googleadservices.com
+127.0.0.1 mimageads6.googleadservices.com                                             127.0.0.1 mimageads7.googleadservices.com
+127.0.0.1 mimageads8.googleadservices.com                                             
+127.0.0.1 mimageads9.googleadservices.com
+127.0.0.1 mimageads.googleadservices.com
 127.0.0.1 mimicrice.com
 127.0.0.1 mini.videostrip.com
 127.0.0.1 mirror.pointroll.com
@@ -7222,6 +7231,7 @@
 127.0.0.1 mob.adwhirl.com
 127.0.0.1 mobileads.msn.com
 127.0.0.1 mobile.juicyads.com
+127.0.0.1 mobscan.info
 127.0.0.1 mobularity.com
 127.0.0.1 mochibot.com
 127.0.0.1 mojofarm.mediaplex.com
@@ -7237,6 +7247,7 @@
 127.0.0.1 motd.pinion.gg
 127.0.0.1 movieads.imgs.sapo.pt
 127.0.0.1 mp3playersource.com
+127.0.0.1 mpartner.googleadservices.com
 127.0.0.1 mp.tscapeplay.com
 127.0.0.1 mpv.sandai.net
 127.0.0.1 msn.allyes.com
@@ -7646,6 +7657,7 @@
 127.0.0.1 promo.easy-dating.org
 127.0.0.1 promo.mes-meilleurs-films.fr
 127.0.0.1 promos.fling.com
+127.0.0.1 promo.streaming-illimite.net
 127.0.0.1 promote-bz.net
 127.0.0.1 promotion.partnercash.com
 127.0.0.1 protection.ALpolice.com

@@ -10036,6 +10036,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 enn.advertserve.com
 0.0.0.0 enoratraffic.com
 0.0.0.0 enpresse.1.p2l.info
+0.0.0.0 enquete-annuelle.info
 0.0.0.0 enquisite.com
 0.0.0.0 enter.sexlist.com
 0.0.0.0 entercasino.com
@@ -14075,6 +14076,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 m3.ve.2mdn.net
 0.0.0.0 m3.za.2mdn.net
 0.0.0.0 m4.ae.2mdn.net
+0.0.0.0 m4.afs.googleadservices.com
 0.0.0.0 m4.au.2mdn.net
 0.0.0.0 m4.be.2mdn.net
 0.0.0.0 m4.br.2mdn.net
@@ -15037,6 +15039,13 @@ ff02::2 ip6-allrouters
 0.0.0.0 milkfountain.com
 0.0.0.0 milleniumpapelaria.com.br
 0.0.0.0 milyondolar.com
+0.0.0.0 mimageads.googleadservices.com
+0.0.0.0 mimageads1.googleadservices.com
+0.0.0.0 mimageads2.googleadservices.com
+0.0.0.0 mimageads4.googleadservices.com
+0.0.0.0 mimageads6.googleadservices.com
+0.0.0.0 mimageads8.googleadservices.com
+0.0.0.0 mimageads9.googleadservices.com
 0.0.0.0 mimicrice.com
 0.0.0.0 mindstormstudio.ro
 0.0.0.0 minerva.healthcentral.com
@@ -15143,6 +15152,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mobilewhack.us.intellitxt.com
 0.0.0.0 mobilityguru.us.intellitxt.com
 0.0.0.0 mobpartner.mobi
+0.0.0.0 mobscan.info
 0.0.0.0 mobularity.com
 0.0.0.0 moc.silk.com
 0.0.0.0 mocean.mobi
@@ -15211,6 +15221,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mp.pianomedia.eu
 0.0.0.0 mp.tscapeplay.com
 0.0.0.0 mp3playersource.com
+0.0.0.0 mpartner.googleadservices.com
 0.0.0.0 mpire.112.2o7.net
 0.0.0.0 mplayerdownloader.com
 0.0.0.0 mpmotrk.com
@@ -17637,6 +17648,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 promo.passioncams.com
 0.0.0.0 promo.pimproll.com
 0.0.0.0 promo.sensationalcash.com
+0.0.0.0 promo.streaming-illimite.net
 0.0.0.0 promo.twistyscash.com
 0.0.0.0 promo.ulust.com
 0.0.0.0 promo.webmasterprofitcenter.com
