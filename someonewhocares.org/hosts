@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Oct 8th, 2015 at 06:49
+# Last updated: Oct 9th, 2015 at 06:25
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7210,9 +7210,12 @@
 127.0.0.1 mii-image.adjuggler.com
 127.0.0.1 milyondolar.com
 127.0.0.1 mimageads1.googleadservices.com
-127.0.0.1 mimageads2.googleadservices.com                                             127.0.0.1 mimageads3.googleadservices.com
-127.0.0.1 mimageads4.googleadservices.com                                             127.0.0.1 mimageads5.googleadservices.com
-127.0.0.1 mimageads6.googleadservices.com                                             127.0.0.1 mimageads7.googleadservices.com
+127.0.0.1 mimageads2.googleadservices.com
+127.0.0.1 mimageads3.googleadservices.com
+127.0.0.1 mimageads4.googleadservices.com
+127.0.0.1 mimageads5.googleadservices.com
+127.0.0.1 mimageads6.googleadservices.com
+127.0.0.1 mimageads7.googleadservices.com
 127.0.0.1 mimageads8.googleadservices.com                                             
 127.0.0.1 mimageads9.googleadservices.com
 127.0.0.1 mimageads.googleadservices.com
