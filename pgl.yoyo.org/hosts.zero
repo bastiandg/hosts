@@ -733,7 +733,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserv.quality-channel.de
 0.0.0.0 adserve.ams.rhythmxchange.com
 0.0.0.0 adserver-live.yoc.mobi
-0.0.0.0 adserver.3digit.de
 0.0.0.0 adserver.43plc.com
 0.0.0.0 adserver.71i.de
 0.0.0.0 adserver.adultfriendfinder.com
@@ -1726,6 +1725,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 medleyads.com
 0.0.0.0 medyanetads.com
 0.0.0.0 megacash.de
+0.0.0.0 megago.com
 0.0.0.0 megastats.com
 0.0.0.0 megawerbung.de
 0.0.0.0 memorix.sdv.fr
