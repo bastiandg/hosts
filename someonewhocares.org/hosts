@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Oct 9th, 2015 at 10:40
+# Last updated: Oct 9th, 2015 at 20:59
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6327,6 +6327,7 @@
 127.0.0.1 exclusivegiftcards.com
 127.0.0.1 exits1.webquest.net
 127.0.0.1 exits2.webquest.net
+127.0.0.1 exity.info
 127.0.0.1 exponential.com
 127.0.0.1 eyewonder.com
 127.0.0.1 ezboard.bigbangmedia.com
@@ -7080,6 +7081,7 @@
 127.0.0.1 macaddictads.snv.futurenet.com
 127.0.0.1 macads.net
 127.0.0.1 mackeeperapp1.zeobit.com
+127.0.0.1 mackeeperapp3.mackeeper.com
 127.0.0.1 mackeeperapp.mackeeper.com
 127.0.0.1 mad2.brandreachsys.com
 127.0.0.1 madadsmedia.com
@@ -7977,6 +7979,7 @@
 127.0.0.1 searchportal.information.com
 127.0.0.1 searchwe.com
 127.0.0.1 seasonalsamplerspecials.com
+127.0.0.1 sebar.thand.info
 127.0.0.1 sec.hit.gemius.pl
 127.0.0.1 secimage.adtech.de
 127.0.0.1 secimage.adtech.fr
@@ -9421,6 +9424,7 @@
 127.0.0.1 www.projectwonderful.com
 127.0.0.1 www.psclicks.com
 127.0.0.1 www.pubdirecte.com
+127.0.0.1 www.pureadexchange.com
 127.0.0.1 www.qitrck.com
 127.0.0.1 www.quickbrowsersearch.com
 127.0.0.1 www.radiate.com
