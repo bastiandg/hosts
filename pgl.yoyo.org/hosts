@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 10 Oct 2015 20:28:15 GMT
-# entries:        2434
+# last updated:   Sun, 11 Oct 2015 19:47:07 GMT
+# entries:        2437
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1124,6 +1124,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 bestsearch.net
 127.0.0.1 bidclix.com
 127.0.0.1 bidclix.net
+127.0.0.1 bidtrk.com
 127.0.0.1 bidvertiser.com
 127.0.0.1 bigads.guj.de
 127.0.0.1 bigbangmedia.com
@@ -1671,6 +1672,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 leadboltads.net
 127.0.0.1 leadclick.com
 127.0.0.1 leadingedgecash.com
+127.0.0.1 leadzupc.com
 127.0.0.1 leanoisgo.com
 127.0.0.1 levelrate.de
 127.0.0.1 lfstmedia.com
@@ -2284,6 +2286,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 tracking101.com
 127.0.0.1 trackingsoft.com
 127.0.0.1 trackmysales.com
+127.0.0.1 tradeadexchange.com
 127.0.0.1 tradedoubler.com
 127.0.0.1 traffic-exchange.com
 127.0.0.1 traffic.liveuniversenetwork.com
