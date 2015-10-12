@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 11 Oct 2015 19:47:07 GMT
-# entries:        2437
+# last updated:   Mon, 12 Oct 2015 11:06:03 GMT
+# entries:        2439
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1919,6 +1919,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 perf.weborama.fr
 127.0.0.1 perfectaudience.com
 127.0.0.1 perfiliate.com
+127.0.0.1 performancerevenue.com
+127.0.0.1 performancerevenues.com
 127.0.0.1 performancing.com
 127.0.0.1 pgmediaserve.com
 127.0.0.1 pgpartner.com
