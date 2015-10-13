@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 12 Oct 2015 11:06:03 GMT
-# entries:        2439
+# last updated:   Tue, 13 Oct 2015 19:14:28 GMT
+# entries:        2440
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1160,6 +1160,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 brandreachsys.com
 127.0.0.1 bravenet.com.invalid
 127.0.0.1 bridgetrack.com
+127.0.0.1 brightinfo.com
 127.0.0.1 british-banners.com
 127.0.0.1 bs.yandex.ru
 127.0.0.1 budsinc.com
