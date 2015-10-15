@@ -168,6 +168,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 a.total-media.net
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 a.triggit.com
+0.0.0.0 a.twiago.com
 0.0.0.0 a.visualrevenue.com
 0.0.0.0 a.websponsors.com
 0.0.0.0 a.webwise.com
@@ -3296,6 +3297,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn1.ads.mofos.com
 0.0.0.0 cdn1.eyewonder.com
 0.0.0.0 cdn1.rmgserving.com
+0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 cdn1.traffichaus.com
 0.0.0.0 cdn1.xlightmedia.com
 0.0.0.0 cdn1sitescout.edgesuite.net

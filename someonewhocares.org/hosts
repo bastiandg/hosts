@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Oct 15th, 2015 at 00:17
+# Last updated: Oct 15th, 2015 at 07:51
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5473,6 +5473,7 @@
 127.0.0.1 a.total-media.net
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 a.triggit.com
+127.0.0.1 a.twiago.com
 127.0.0.1 au.adserver.yahoo.com
 127.0.0.1 au.ads.link4ads.com
 127.0.0.1 aud.pubmatic.com
@@ -5805,6 +5806,7 @@
 127.0.0.1 cdn1.eyewonder.com
 127.0.0.1 cdn1.rmgserving.com
 127.0.0.1 cdn1sitescout.edgesuite.net
+127.0.0.1 cdn1.smartadserver.com
 127.0.0.1 cdn1.traffichaus.com
 127.0.0.1 cdn1.xlightmedia.com
 127.0.0.1 cdn2.adsdk.com
