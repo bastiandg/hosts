@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 15 Oct 2015 22:04:30 GMT
-# entries:        2441
+# entries:        2435
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -551,7 +551,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.linuxjournal.com
 127.0.0.1 ads.linuxsecurity.com
 127.0.0.1 ads.livenation.com
-127.0.0.1 ads.lvz-online.de
 127.0.0.1 ads.mariuana.it
 127.0.0.1 ads.massinfra.nl
 127.0.0.1 ads.mcafee.com
@@ -907,7 +906,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adviva.com
 127.0.0.1 adviva.net
 127.0.0.1 advnt.com
-127.0.0.1 adwareremovergold.com
 127.0.0.1 adwhirl.com
 127.0.0.1 adwitserver.com
 127.0.0.1 adworldnetwork.com
@@ -1427,7 +1425,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 euros4click.de
 127.0.0.1 eusta.de
 127.0.0.1 evergage.com
-127.0.0.1 evidencecleanergold.com
 127.0.0.1 ewebcounter.com
 127.0.0.1 exchange-it.com
 127.0.0.1 exchange.bg
@@ -1441,7 +1438,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 experteerads.com
 127.0.0.1 exponential.com
 127.0.0.1 express-submit.de
-127.0.0.1 extractorandburner.com
 127.0.0.1 extreme-dm.com
 127.0.0.1 extremetracking.com
 127.0.0.1 eyeblaster.com
@@ -1775,7 +1771,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 moatads.com
 127.0.0.1 mobclix.com
 127.0.0.1 mocean.mobi
-127.0.0.1 modemspeedbooster.com
 127.0.0.1 moneyexpert.com
 127.0.0.1 monsterpops.com
 127.0.0.1 mopub.com
@@ -2271,7 +2266,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 topsearcher.com
 127.0.0.1 topsir.com
 127.0.0.1 topsite.lv
-127.0.0.1 topsites.com.br
 127.0.0.1 topstats.com
 127.0.0.1 totemcash.com
 127.0.0.1 touchclarity.com
