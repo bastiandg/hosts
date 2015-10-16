@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Oct 15th, 2015 at 07:51
+# Last updated: Oct 16th, 2015 at 07:23
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8580,6 +8580,7 @@
 127.0.0.1 vmix.adbureau.net
 127.0.0.1 vms.boldchat.com
 127.0.0.1 vnu.eu-adcenter.net
+127.0.0.1 vocal-mess.com
 127.0.0.1 vodafoneit.solution.weborama.fr
 127.0.0.1 vox-static.liverail.com
 127.0.0.1 vp.tscapeplay.com
