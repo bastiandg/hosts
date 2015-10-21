@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Oct 16th, 2015 at 07:23
+# Last updated: Oct 20th, 2015 at 20:07
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -11887,7 +11887,6 @@
 127.0.0.1 choice.microsoft.com.nsatc.net
 127.0.0.1 compatexchange.cloudapp.net
 127.0.0.1 corpext.msitadfs.glbdns2.microsoft.com
-127.0.0.1 corp.sts.microsoft.com
 127.0.0.1 df.telemetry.microsoft.com
 127.0.0.1 diagnostics.support.microsoft.com
 127.0.0.1 feedback.microsoft-hohm.com
