@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Oct 20th, 2015 at 20:07
+# Last updated: Oct 22nd, 2015 at 12:32
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5953,6 +5953,7 @@
 127.0.0.1 clickthruserver.com
 127.0.0.1 clickthrutraffic.com
 127.0.0.1 clicktorrent.info
+127.0.0.1 clien.info
 127.0.0.1 clipserv.adclip.com
 127.0.0.1 clk.addmt.com
 127.0.0.1 clkads.com
@@ -6735,7 +6736,6 @@
 127.0.0.1 imagec08.247realmedia.com
 127.0.0.1 imagec12.247realmedia.com
 127.0.0.1 imagec14.247realmedia.com
-127.0.0.1 imagecache2.allposters.com
 127.0.0.1 imageceu1.247realmedia.com
 127.0.0.1 image.click.livedoor.com
 127.0.0.1 image.i1img.com
