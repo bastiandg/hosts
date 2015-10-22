@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 15 Oct 2015 22:04:30 GMT
-# entries:        2434
+# last updated:   Thu, 22 Oct 2015 19:30:25 GMT
+# entries:        2437
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -331,6 +331,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adnetwork.net
 127.0.0.1 adnetworkperformance.com
 127.0.0.1 adnews.maddog2000.de
+127.0.0.1 adnotch.com
 127.0.0.1 adnxs.com
 127.0.0.1 adocean.pl
 127.0.0.1 adonspot.com
@@ -1880,6 +1881,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 oxado.com
 127.0.0.1 oxcash.com
 127.0.0.1 oxen.hillcountrytexas.com
+127.0.0.1 p.adpdx.com
 127.0.0.1 pagead.l.google.com
 127.0.0.1 pagefair.com
 127.0.0.1 pagerank-estate-spb.ru
@@ -2225,6 +2227,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 textlinks.com
 127.0.0.1 tfag.de
 127.0.0.1 theadhost.com
+127.0.0.1 theads.me
 127.0.0.1 thebugs.ws
 127.0.0.1 thecounter.com
 127.0.0.1 thefreesitez.com
