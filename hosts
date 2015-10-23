@@ -3467,7 +3467,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.unixathome.org
 127.0.0.1 ads.up-value.de
 127.0.0.1 ads.update.com
-127.0.0.1 ads.uploading.com
 127.0.0.1 ads.uproar.com
 127.0.0.1 ads.urbandictionary.com
 127.0.0.1 ads.urlfan.com
@@ -6007,7 +6006,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bannerads.standard.net
 127.0.0.1 bannerads.zwire.com
 127.0.0.1 banneradvertising.adclickmedia.com
-127.0.0.1 bannerbank.ru
 127.0.0.1 bannerboxes.com
 127.0.0.1 bannerco-op.com
 127.0.0.1 bannercommunity.de
@@ -6356,7 +6354,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 belointeractive.122.2o7.net
 127.0.0.1 beloysoff.ru
 127.0.0.1 belstat.com
-127.0.0.1 belstat.nl
 127.0.0.1 benchmarkconsultant.com
 127.0.0.1 benimreklam.com
 127.0.0.1 berkleynude.ca.tt
@@ -6495,7 +6492,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 biz-offer.com
 127.0.0.1 biz5.sandai.net
 127.0.0.1 bizad.nikkeibp.co.jp
-127.0.0.1 bizban.net
 127.0.0.1 bizbor.popunder.ru
 127.0.0.1 bizjournals.112.2o7.net
 127.0.0.1 bizographics.com
@@ -21592,6 +21588,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 topsir.com
 127.0.0.1 topsite.lv
 127.0.0.1 topsites.blogflux.com
+127.0.0.1 topsites.com.br
 127.0.0.1 topsocialite.us.intellitxt.com
 127.0.0.1 topspeed.us.intellitxt.com
 127.0.0.1 topstats.com

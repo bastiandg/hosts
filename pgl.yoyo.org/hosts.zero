@@ -647,7 +647,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.ultimate-guitar.com
 0.0.0.0 ads.uncrate.com
 0.0.0.0 ads.undertone.com
-0.0.0.0 ads.uploading.com
 0.0.0.0 ads.usatoday.com
 0.0.0.0 ads.v3.com
 0.0.0.0 ads.verticalresponse.com
@@ -1027,7 +1026,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 banner.webmersion.com
 0.0.0.0 banner.wirenode.com
 0.0.0.0 bannerads.de
-0.0.0.0 bannerbank.ru
 0.0.0.0 bannerboxes.com
 0.0.0.0 bannercommunity.de
 0.0.0.0 bannerconnect.com
@@ -1088,7 +1086,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bbn.img.com.ua
 0.0.0.0 begun.ru
 0.0.0.0 belstat.com
-0.0.0.0 belstat.nl
 0.0.0.0 berp.com
 0.0.0.0 best-pr.info
 0.0.0.0 best-top.ro
@@ -1104,7 +1101,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bitads.net
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 bizad.nikkeibp.co.jp
-0.0.0.0 bizban.net
 0.0.0.0 bizrate.com
 0.0.0.0 blast4traffic.com
 0.0.0.0 blingbucks.com
@@ -2240,6 +2236,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 topsearcher.com
 0.0.0.0 topsir.com
 0.0.0.0 topsite.lv
+0.0.0.0 topsites.com.br
 0.0.0.0 topstats.com
 0.0.0.0 totemcash.com
 0.0.0.0 touchclarity.com
