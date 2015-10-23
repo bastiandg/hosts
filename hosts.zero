@@ -92,7 +92,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 123found.com
 0.0.0.0 123go.com
 0.0.0.0 123greetings.com
-0.0.0.0 123pagerank.com
 0.0.0.0 123specialgifts.com
 0.0.0.0 123stat.com
 0.0.0.0 1262.hittail.com
@@ -1187,7 +1186,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.parrot.mable-inc.com
 0.0.0.0 ad.partis.si
 0.0.0.0 ad.payclick.it
-0.0.0.0 ad.pbs.bb.ru
 0.0.0.0 ad.petel.bg
 0.0.0.0 ad.ph-prt.tbn.ru
 0.0.0.0 ad.philipstreehouse.info
@@ -1419,7 +1417,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad2.bal.dotandad.com
 0.0.0.0 ad2.bannerbank.ru
 0.0.0.0 ad2.bannerhost.ru
-0.0.0.0 ad2.bb.ru
 0.0.0.0 ad2.bbmedia.cz
 0.0.0.0 ad2.cooks.com
 0.0.0.0 ad2.doubleclick.net

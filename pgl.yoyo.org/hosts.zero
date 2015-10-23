@@ -7,7 +7,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
-0.0.0.0 123pagerank.com
 0.0.0.0 180hits.de
 0.0.0.0 180searchassistant.com
 0.0.0.0 1x1rank.com
@@ -117,7 +116,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.ilove.ch
 0.0.0.0 ad.infoseek.com
 0.0.0.0 ad.investopedia.com
-0.0.0.0 ad.ir.ru
 0.0.0.0 ad.jamba.net
 0.0.0.0 ad.jamster.co.uk
 0.0.0.0 ad.jetsoftware.com
@@ -136,7 +134,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.nwt.cz
 0.0.0.0 ad.onad.eu
 0.0.0.0 ad.pandora.tv
-0.0.0.0 ad.pbs.bb.ru
 0.0.0.0 ad.playground.ru
 0.0.0.0 ad.preferances.com
 0.0.0.0 ad.profiwin.de
@@ -173,7 +170,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad1.emule-project.org
 0.0.0.0 ad1.kde.cz
 0.0.0.0 ad1.pamedia.com.au
-0.0.0.0 ad2.bb.ru
 0.0.0.0 ad2.iinfo.cz
 0.0.0.0 ad2.ip.ro
 0.0.0.0 ad2.linxcz.cz
