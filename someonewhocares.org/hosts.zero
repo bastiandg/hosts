@@ -133,7 +133,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 961.com
 0.0.0.0 9ivwbox.de
 0.0.0.0 9vwbox.de
-0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 a-ads.com
 0.0.0.0 a.0day.kiev.ua
 0.0.0.0 a.ad.playstation.net
@@ -798,7 +797,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adnetwork.nextgen.net
 0.0.0.0 adnetwork.rovicorp.com
 0.0.0.0 adnetxchange.com
-0.0.0.0 adnexus.net
 0.0.0.0 adng.ascii24.com
 0.0.0.0 adnxs.com
 0.0.0.0 adnxs.revsci.net
@@ -1296,7 +1294,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.movieweb.com
 0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 ads.mp3searchy.com
-0.0.0.0 ads.msn.com
 0.0.0.0 ads.mt.valueclick.net
 0.0.0.0 ads.mtv.uol.com.br
 0.0.0.0 ads.multimania.lycos.fr
@@ -2649,8 +2646,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 axp.zedo.com
 0.0.0.0 aynachatsrv.com
 0.0.0.0 az.5.p2l.info
-0.0.0.0 az361816.vo.msecnd.net
-0.0.0.0 az512334.vo.msecnd.net
 0.0.0.0 azcentra.app.ur.gcion.com
 0.0.0.0 azoogleads.com
 0.0.0.0 azz.badazz.org
@@ -3362,8 +3357,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 chicagosuntimes.122.2o7.net
 0.0.0.0 chip.popmarker.com
 0.0.0.0 chkpt.zdnet.com
-0.0.0.0 choice.microsoft.com
-0.0.0.0 choice.microsoft.com.nsatc.net
 0.0.0.0 choicedealz.com
 0.0.0.0 choicesurveypanel.com
 0.0.0.0 christianbusinessadvertising.com
@@ -3552,7 +3545,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 commerce.www.ibm.com
 0.0.0.0 common.ziffdavisinternet.com
 0.0.0.0 companion.adap.tv
-0.0.0.0 compatexchange.cloudapp.net
 0.0.0.0 compolice.com
 0.0.0.0 compolice.net
 0.0.0.0 computer-offer.com
@@ -3607,7 +3599,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 coreg.flashtrack.net
 0.0.0.0 coreglead.co.uk
 0.0.0.0 cornflakes.pathfinder.com
-0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
 0.0.0.0 corusads.dserv.ca
 0.0.0.0 cosmeticscentre.uk.com
 0.0.0.0 count.casino-trade.com
@@ -3945,12 +3936,10 @@ ff02::2 ip6-allrouters
 0.0.0.0 devfw.imrworldwide.com
 0.0.0.0 devlp1.linkpulse.com
 0.0.0.0 devshed.us.intellitxt.com
-0.0.0.0 df.telemetry.microsoft.com
 0.0.0.0 dg.specificclick.net
 0.0.0.0 dgm2.com
 0.0.0.0 dgmaustralia.com
 0.0.0.0 dhauzja511.co.cc
-0.0.0.0 diagnostics.support.microsoft.com
 0.0.0.0 diazepam.ourtablets.com
 0.0.0.0 diazepam.razma.net
 0.0.0.0 diazepam.shengen.ru
@@ -4486,9 +4475,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 fee-hydrocodone.bebto.com
 0.0.0.0 feedads.g.doubleclick.net
 0.0.0.0 feedads.googleadservices.com
-0.0.0.0 feedback.microsoft-hohm.com
-0.0.0.0 feedback.search.microsoft.com
-0.0.0.0 feedback.windows.com
 0.0.0.0 feeds.videosz.com
 0.0.0.0 feeds.weselltraffic.com
 0.0.0.0 fei.pro-market.net
@@ -5200,8 +5186,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 i.total-media.net
 0.0.0.0 i.trkjmp.com
 0.0.0.0 i.w.inmobi.com
-0.0.0.0 i1.services.social.microsoft.com
-0.0.0.0 i1.services.social.microsoft.com.nsatc.net
 0.0.0.0 i1.teaser-goods.ru
 0.0.0.0 i8vwbox.de
 0.0.0.0 i9vwbox.de
@@ -7198,8 +7182,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 obozua.adocean.pl
 0.0.0.0 obs.nnm2.ru
 0.0.0.0 observer.advertserve.com
-0.0.0.0 oca.telemetry.microsoft.com
-0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 ocslab.com
 0.0.0.0 octopusgirl.com
 0.0.0.0 oe24.oewabox.at
@@ -7638,7 +7620,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pq.stat.ku6.com
 0.0.0.0 pr.5.p2l.info
 0.0.0.0 pr.ydp.yahoo.com
-0.0.0.0 pre.footprintpredict.com
 0.0.0.0 precisioncounter.com
 0.0.0.0 premium-live-scan.com
 0.0.0.0 premium-reward-club.com
@@ -7652,7 +7633,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 preteensite.com
 0.0.0.0 prevacid.1.p2l.info
 0.0.0.0 prevent-asian-flu.com
-0.0.0.0 preview.msn.com
 0.0.0.0 prexyone.appspot.com
 0.0.0.0 prilosec.1.p2l.info
 0.0.0.0 primetime.ad.primetime.net
@@ -7872,7 +7852,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 red04.as-eu.falkag.net
 0.0.0.0 red04.as-us.falkag.net
 0.0.0.0 redherring.ngadcenter.net
-0.0.0.0 redir.metaservices.microsoft.com
 0.0.0.0 redirect.click2net.com
 0.0.0.0 redirect.hotkeys.com
 0.0.0.0 redirect.xmlheads.com
@@ -7919,7 +7898,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 reportimage.adtech.fr
 0.0.0.0 reportimage.adtech.us
 0.0.0.0 reports.extreme-dm.com
-0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 req.adsmogo.com
 0.0.0.0 resanium.com
 0.0.0.0 reseller.hitbox.com
@@ -8341,14 +8319,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 services.adtech.de
 0.0.0.0 services.adtech.fr
 0.0.0.0 services.adtech.us
-0.0.0.0 services.wes.df.telemetry.microsoft.com
 0.0.0.0 services1.adtech.de
 0.0.0.0 services1.adtech.fr
 0.0.0.0 services1.adtech.us
 0.0.0.0 serving.plexop.net
 0.0.0.0 servserv.generals.ea.com
 0.0.0.0 servustv.oewabox.at
-0.0.0.0 settings-sandbox.data.microsoft.com
 0.0.0.0 sexcounter.com
 0.0.0.0 sexitnow.com
 0.0.0.0 sexpartnerx.com
@@ -8544,9 +8520,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sq2trk2.com
 0.0.0.0 sq7.co.uk
 0.0.0.0 sql-server-driver.beesearch.info
-0.0.0.0 sqm.df.telemetry.microsoft.com
-0.0.0.0 sqm.telemetry.microsoft.com
-0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
 0.0.0.0 src.kitcode.net
 0.0.0.0 srs.targetpoint.com
 0.0.0.0 srv.juiceadv.com
@@ -8773,9 +8746,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 stats5.lightningcast.com
 0.0.0.0 stats6.lightningcast.net
 0.0.0.0 statse.webtrendslive.com
-0.0.0.0 statsfe1.ws.microsoft.com
-0.0.0.0 statsfe2.update.microsoft.com.akadns.net
-0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 status.addthis.com
 0.0.0.0 stl.p.a1.traceworks.com
 0.0.0.0 stocker.bonnint.net
@@ -8819,7 +8789,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 survey.112.2o7.net
 0.0.0.0 survey.china.alibaba.com
 0.0.0.0 survey.nuggad.net
-0.0.0.0 survey.watson.microsoft.com
 0.0.0.0 survey1-au.imrworldwide.com
 0.0.0.0 surveycentral.directinsure.info
 0.0.0.0 surveymonkeycom.tt.omtrdc.net
@@ -8976,12 +8945,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 teeser.ru
 0.0.0.0 tel.geenstijl.nl
 0.0.0.0 tele.oewabox.at
-0.0.0.0 telecommand.telemetry.microsoft.com
-0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
 0.0.0.0 telefonica.webnavegador.com.br
-0.0.0.0 telemetry.appex.bing.net
-0.0.0.0 telemetry.microsoft.com
-0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 telstra.imrworldwide.com
 0.0.0.0 tennis.oewabox.at
 0.0.0.0 tenuate.1.p2l.info
@@ -9519,9 +9483,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 vodafoneit.solution.weborama.fr
 0.0.0.0 voken.eyereturn.com
 0.0.0.0 vomitgirl.org
-0.0.0.0 vortex-sandbox.data.microsoft.com
-0.0.0.0 vortex-win.data.microsoft.com
-0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vox-static.liverail.com
 0.0.0.0 vp.tscapeplay.com
 0.0.0.0 vs.dmtracker.com
@@ -9783,11 +9744,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 warp.crystalad.com
 0.0.0.0 warp2search.us.intellitxt.com
 0.0.0.0 water-bed.8p.org.uk
-0.0.0.0 watson.live.com
-0.0.0.0 watson.microsoft.com
-0.0.0.0 watson.ppe.telemetry.microsoft.com
-0.0.0.0 watson.telemetry.microsoft.com
-0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
 0.0.0.0 wau.tynt.com
 0.0.0.0 wdm29.com
 0.0.0.0 web-counter.5u.com
@@ -9843,7 +9799,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 wellbutrin.3.p2l.info
 0.0.0.0 wellbutrin.4.p2l.info
 0.0.0.0 wellnessmonitor.bravehost.com
-0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 west.05tz2e9.com
 0.0.0.0 westjet.112.2o7.net
 0.0.0.0 wewillrocknow.com
