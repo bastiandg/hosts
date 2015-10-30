@@ -326,7 +326,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adriver.ru
 0.0.0.0 adrolays.de
 0.0.0.0 adrotate.de
-0.0.0.0 adrotator.net
 0.0.0.0 adrotator.se
 0.0.0.0 ads-click.com
 0.0.0.0 ads.4tube.com
@@ -390,7 +389,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.cbc.ca
 0.0.0.0 ads.cc
 0.0.0.0 ads.cc-dt.com
-0.0.0.0 ads.cdfreaks.com
 0.0.0.0 ads.centraliprom.com
 0.0.0.0 ads.cgnetworks.com
 0.0.0.0 ads.channel4.com
@@ -1086,6 +1084,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 bbn.img.com.ua
 0.0.0.0 begun.ru
 0.0.0.0 belstat.com
+0.0.0.0 belstat.nl
 0.0.0.0 berp.com
 0.0.0.0 best-pr.info
 0.0.0.0 best-top.ro
@@ -1207,7 +1206,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 clickhype.com
 0.0.0.0 clicklink.jp
 0.0.0.0 clickmedia.ro
-0.0.0.0 clickosmedia.com
 0.0.0.0 clicks.equantum.com
 0.0.0.0 clicks.mods.de
 0.0.0.0 clicks.stripsaver.com
@@ -1438,7 +1436,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 fonecta.leiki.com
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 forex-affiliate.net
-0.0.0.0 forrestersurveys.com
 0.0.0.0 fpctraffic.com
 0.0.0.0 fpctraffic2.com
 0.0.0.0 fragmentserv.iac-online.de
@@ -1678,7 +1675,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 madclient.uimserv.net
 0.0.0.0 madisonavenue.com
 0.0.0.0 mads.cnet.com
-0.0.0.0 mads.gamespot.com
 0.0.0.0 madvertise.de
 0.0.0.0 malware-scan.com
 0.0.0.0 marchex.com
@@ -2198,7 +2194,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 theads.me
 0.0.0.0 thebugs.ws
 0.0.0.0 thecounter.com
-0.0.0.0 thefreesitez.com
 0.0.0.0 therapistla.com
 0.0.0.0 therichkids.com
 0.0.0.0 thesearchworks.com
