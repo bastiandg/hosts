@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Nov 2nd, 2015 at 19:51
+# Last updated: Nov 3rd, 2015 at 07:39
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1770,6 +1770,7 @@
 127.0.0.1 mshelp247.weebly.com
 127.0.0.1 murcia-ban.es
 127.0.0.1 mylike.co.uk				# Facebook trojan
+127.0.0.1 myprivateemails.com
 127.0.0.1 nactx.com
 127.0.0.1 natashyabaydesign.com
 127.0.0.1 new-dating-2012.info
