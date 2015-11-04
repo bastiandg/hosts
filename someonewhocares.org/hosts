@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Nov 3rd, 2015 at 07:39
+# Last updated: Nov 3rd, 2015 at 18:33
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5521,6 +5521,7 @@
 127.0.0.1 avpa.javalobby.org
 127.0.0.1 awesomevipoffers.com
 127.0.0.1 awrz.net
+127.0.0.1 axbetb2.com
 127.0.0.1 axp.zedo.com
 127.0.0.1 aynachatsrv.com
 127.0.0.1 azcentra.app.ur.gcion.com
@@ -5661,9 +5662,12 @@
 127.0.0.1 bbcdn.go.adlt.bbelements.com
 127.0.0.1 bbcdn.go.adnet.bbelements.com
 127.0.0.1 bbcdn.go.arbo.bbelements.com
+127.0.0.1 bbcdn.go.arbopl.bbelements.com
+127.0.0.1 bbcdn.go.cz.bbelements.com
 127.0.0.1 bbcdn.go.eu.bbelements.com
 127.0.0.1 bbcdn.go.ihned.bbelements.com
 127.0.0.1 bbcdn.go.pl.bbelements.com
+127.0.0.1 bbcdn.go.pol.bbelements.com
 127.0.0.1 bbelements.com
 127.0.0.1 bbnaut.bbelements.com
 127.0.0.1 bc685d37-266c-488e-824e-dd95d1c0e98b.statcamp.net
@@ -6606,7 +6610,11 @@
 127.0.0.1 go.arbopl.bbelements.com
 127.0.0.1 go.arboru.bbelements.com
 127.0.0.1 go.bb007.bbelements.com
+127.0.0.1 go.cz.bbelements.com
+127.0.0.1 go.eu.bbelements.com
 127.0.0.1 go.evolutionmedia.bbelements.com
+127.0.0.1 go.idmnet.bbelements.com
+127.0.0.1 go.idnes.bbelements.com
 127.0.0.1 go.ihned.bbelements.com
 127.0.0.1 go.intact.bbelements.com
 127.0.0.1 go.lfstmedia.com
@@ -6615,6 +6623,7 @@
 127.0.0.1 go.padsdelivery.com
 127.0.0.1 go.padstm.com
 127.0.0.1 go.pl.bbelements.com
+127.0.0.1 go.pol.bbelements.com
 127.0.0.1 go2.hit.gemius.pl
 127.0.0.1 gofreegifts.com
 127.0.0.1 goldadpremium.com

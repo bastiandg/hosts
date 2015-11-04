@@ -2643,6 +2643,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 avwbox.de
 0.0.0.0 awesomevipoffers.com
 0.0.0.0 awrz.net
+0.0.0.0 axbetb2.com
 0.0.0.0 axp.zedo.com
 0.0.0.0 aynachatsrv.com
 0.0.0.0 az.5.p2l.info
@@ -2800,9 +2801,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 bbcdn.go.adlt.bbelements.com
 0.0.0.0 bbcdn.go.adnet.bbelements.com
 0.0.0.0 bbcdn.go.arbo.bbelements.com
+0.0.0.0 bbcdn.go.arbopl.bbelements.com
+0.0.0.0 bbcdn.go.cz.bbelements.com
 0.0.0.0 bbcdn.go.eu.bbelements.com
 0.0.0.0 bbcdn.go.ihned.bbelements.com
 0.0.0.0 bbcdn.go.pl.bbelements.com
+0.0.0.0 bbcdn.go.pol.bbelements.com
 0.0.0.0 bbcnewscouk.112.2o7.net
 0.0.0.0 bbelements.com
 0.0.0.0 bbnaut.bbelements.com
@@ -4862,7 +4866,11 @@ ff02::2 ip6-allrouters
 0.0.0.0 go.arbopl.bbelements.com
 0.0.0.0 go.arboru.bbelements.com
 0.0.0.0 go.bb007.bbelements.com
+0.0.0.0 go.cz.bbelements.com
+0.0.0.0 go.eu.bbelements.com
 0.0.0.0 go.evolutionmedia.bbelements.com
+0.0.0.0 go.idmnet.bbelements.com
+0.0.0.0 go.idnes.bbelements.com
 0.0.0.0 go.ihned.bbelements.com
 0.0.0.0 go.intact.bbelements.com
 0.0.0.0 go.lfstmedia.com
@@ -4871,6 +4879,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 go.padsdelivery.com
 0.0.0.0 go.padstm.com
 0.0.0.0 go.pl.bbelements.com
+0.0.0.0 go.pol.bbelements.com
 0.0.0.0 go2.hit.gemius.pl
 0.0.0.0 goat.cx
 0.0.0.0 goatse.bz
