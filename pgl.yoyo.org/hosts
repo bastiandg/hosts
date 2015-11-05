@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 22 Oct 2015 18:30:25 GMT
-# entries:        2425
+# last updated:   Thu, 05 Nov 2015 08:32:33 GMT
+# entries:        2426
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -604,6 +604,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.pof.com
 127.0.0.1 ads.powweb.com
 127.0.0.1 ads.primissima.it
+127.0.0.1 ads.printscr.com
 127.0.0.1 ads.prisacom.com
 127.0.0.1 ads.program3.com
 127.0.0.1 ads.psd2html.com
