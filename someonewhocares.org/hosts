@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Nov 3rd, 2015 at 18:33
+# Last updated: Nov 5th, 2015 at 09:45
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7501,6 +7501,7 @@
 127.0.0.1 optimize.indieclick.com
 127.0.0.1 optimized.by.vitalads.net
 127.0.0.1 optimzedby.rmxads.com
+127.0.0.1 orange.fr-enqueteannuelle.xyz
 127.0.0.1 orange.weborama.fr
 127.0.0.1 ordie.adbureau.net
 127.0.0.1 origin.chron.com
