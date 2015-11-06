@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 05 Nov 2015 08:32:33 GMT
-# entries:        2426
+# entries:        2425
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -766,7 +766,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserver.cams.com
 127.0.0.1 adserver.clashmusic.com
 127.0.0.1 adserver.com
-127.0.0.1 adserver.designertoday.com
 127.0.0.1 adserver.digitoday.com
 127.0.0.1 adserver.dotcommedia.de
 127.0.0.1 adserver.finditquick.com
