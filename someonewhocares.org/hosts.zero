@@ -1182,7 +1182,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.ihaberadserver.com
 0.0.0.0 ads.illuminatednation.com
 0.0.0.0 ads.imdb.com
-0.0.0.0 ads.imgur.com
 0.0.0.0 ads.imposibil.ro
 0.0.0.0 ads.indeed.com
 0.0.0.0 ads.indiatimes.com
@@ -9481,6 +9480,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 vipfastmoney.com
 0.0.0.0 viralvideo.112.2o7.net
 0.0.0.0 virtualbartendertrack.beer.com
+0.0.0.0 virus-notice.com
 0.0.0.0 vis.sexlist.com
 0.0.0.0 visit.theglobeandmail.com
 0.0.0.0 vitalitymax.1.p2l.info
