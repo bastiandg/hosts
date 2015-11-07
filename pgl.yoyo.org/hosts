@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 05 Nov 2015 08:32:33 GMT
-# entries:        2425
+# last updated:   Sat, 07 Nov 2015 10:22:37 GMT
+# entries:        2426
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2282,6 +2282,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 trafficcdn.liveuniversenetwork.com
 127.0.0.1 trafficfactory.biz
 127.0.0.1 trafficholder.com
+127.0.0.1 traffichunt.com
 127.0.0.1 trafficjunky.net
 127.0.0.1 trafficleader.com
 127.0.0.1 trafficmaxx.de
