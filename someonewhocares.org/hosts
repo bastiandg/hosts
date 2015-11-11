@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Nov 9th, 2015 at 15:52
+# Last updated: Nov 11th, 2015 at 06:45
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3168,7 +3168,6 @@
 #</maybe-ads>
 
 # ads
-127.0.0.1
 127.0.0.1 0101011.com
 127.0.0.1 0427d7.se
 127.0.0.1 0d79ed.r.axf8.net
@@ -5483,6 +5482,7 @@
 127.0.0.1 aureate.com
 127.0.0.1 auslieferung.commindo-media-ressourcen.de
 127.0.0.1 AUSpolice.com
+127.0.0.1 aussiemethod.com
 127.0.0.1 austria1.adverserve.net
 127.0.0.1 autocontext.begun.ru
 127.0.0.1 automotive-offer.com
