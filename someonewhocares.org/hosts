@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Nov 11th, 2015 at 06:45
+# Last updated: Nov 11th, 2015 at 13:54
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -41,8 +41,6 @@
 #    systems at "/private/etc/hosts". You will require root access to do
 #    this. Saving this file to "~/hosts" will allow you to run something
 #    like "sudo cp ~/hosts /etc/hosts".
-# Ubuntu users who experience trouble with apt-get should consult
-#    http://ubuntuforums.org/archive/index.php/t-613521.html
 # For OS/2 copy the file to "%ETC%\HOSTS" and in the CONFIG.SYS file,
 #    ensure that the line "SET USE_HOSTS_FIRST=1" is included.
 # For BeOS place it at "/boot/beos/etc/hosts"
