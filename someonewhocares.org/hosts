@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Nov 11th, 2015 at 17:45
+# Last updated: Nov 12th, 2015 at 11:00
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -95,6 +95,8 @@
 127.0.0.1 1man1jar.org
 127.0.0.1 1man2needles.com
 127.0.0.1 1priest1nun.com
+127.0.0.1 1priest1nun.net
+127.0.0.1 2girls1cup.cc
 127.0.0.1 2girls1cup.com
 127.0.0.1 2girls1cup-free.com
 127.0.0.1 2girls1cup.nl
@@ -107,6 +109,7 @@
 127.0.0.1 4girlsfingerpaint.org
 127.0.0.1 bagslap.com
 127.0.0.1 ballsack.org
+127.0.0.1 bestshockers.com
 127.0.0.1 bluewaffle.biz
 127.0.0.1 bottleguy.com
 127.0.0.1 bowlgirl.com
@@ -130,6 +133,7 @@
 127.0.0.1 homewares.org
 127.0.0.1 howtotroll.org
 127.0.0.1 japscat.org
+127.0.0.1 jarsquatter.com
 127.0.0.1 jiztini.com
 127.0.0.1 junecleeland.com
 127.0.0.1 kids-in-sandbox.com
@@ -137,6 +141,7 @@
 127.0.0.1 lemonparty.biz
 127.0.0.1 lemonparty.org
 127.0.0.1 lolhello.com
+127.0.0.1 lolshock.com
 127.0.0.1 loltrain.com
 127.0.0.1 meatspin.biz
 127.0.0.1 meatspin.com
@@ -150,6 +155,7 @@
 127.0.0.1 octopusgirl.com
 127.0.0.1 on.nimp.org
 127.0.0.1 painolympics.info
+127.0.0.1 painolympics.org
 127.0.0.1 phonejapan.com
 127.0.0.1 pressurespot.com
 127.0.0.1 prolapseman.com
@@ -176,6 +182,8 @@
 127.0.0.1 www.1man1jar.org
 127.0.0.1 www.1man2needles.com
 127.0.0.1 www.1priest1nun.com
+127.0.0.1 www.1priest1nun.net
+127.0.0.1 www.2girls1cup.cc
 127.0.0.1 www.2girls1cup-free.com
 127.0.0.1 www.2girls1cup.nl
 127.0.0.1 www.2girls1cup.ws
@@ -185,6 +193,7 @@
 127.0.0.1 www.4girlsfingerpaint.org
 127.0.0.1 www.bagslap.com
 127.0.0.1 www.ballsack.org
+127.0.0.1 www.bestshockers.com
 127.0.0.1 www.bluewaffle.biz
 127.0.0.1 www.bottleguy.com
 127.0.0.1 www.bowlgirl.com
@@ -215,6 +224,7 @@
 127.0.0.1 www.lemonparty.biz
 127.0.0.1 www.lemonparty.org
 127.0.0.1 www.lolhello.com
+127.0.0.1 www.lolshock.com
 127.0.0.1 www.loltrain.com
 127.0.0.1 www.meatspin.biz
 127.0.0.1 www.meatspin.com
@@ -228,6 +238,7 @@
 127.0.0.1 www.octopusgirl.com
 127.0.0.1 www.on.nimp.org
 127.0.0.1 www.painolympics.info
+127.0.0.1 www.painolympics.org
 127.0.0.1 www.phonejapan.com
 127.0.0.1 www.pressurespot.com
 127.0.0.1 www.prolapseman.com
