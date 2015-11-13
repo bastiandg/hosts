@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sat, 07 Nov 2015 10:22:37 GMT
-# entries:        2425
+# entries:        2421
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -361,7 +361,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.administrator.de
 127.0.0.1 ads.adshareware.net
 127.0.0.1 ads.adultfriendfinder.com
-127.0.0.1 ads.adultking.com
 127.0.0.1 ads.adultswim.com
 127.0.0.1 ads.advance.net
 127.0.0.1 ads.adverline.com
@@ -691,7 +690,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.wineenthusiast.com
 127.0.0.1 ads.wunderground.com
 127.0.0.1 ads.wwe.biz
-127.0.0.1 ads.xedo.com
 127.0.0.1 ads.xhamster.com
 127.0.0.1 ads.xtra.co.nz
 127.0.0.1 ads.y-0.net
@@ -1224,7 +1222,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 clickcompare.co.uk
 127.0.0.1 clickdensity.com
 127.0.0.1 clickedyclick.com
-127.0.0.1 clickforwebmasters.com
 127.0.0.1 clickhereforcellphones.com
 127.0.0.1 clickhouse.com
 127.0.0.1 clickhype.com
@@ -1840,7 +1837,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 offermatica.com
 127.0.0.1 olivebrandresponse.com
 127.0.0.1 omniture.com
-127.0.0.1 onclickads.com
 127.0.0.1 onclickads.net
 127.0.0.1 oneandonlynetwork.com
 127.0.0.1 onenetworkdirect.com
