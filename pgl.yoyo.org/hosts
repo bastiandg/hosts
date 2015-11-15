@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 07 Nov 2015 10:22:37 GMT
-# entries:        2421
+# last updated:   Sat, 14 Nov 2015 23:19:54 GMT
+# entries:        2422
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1699,6 +1699,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 madvertise.de
 127.0.0.1 malware-scan.com
 127.0.0.1 marchex.com
+127.0.0.1 market-buster.com
 127.0.0.1 marketing.888.com
 127.0.0.1 marketing.nyi.net
 127.0.0.1 marketing.osijek031.com
