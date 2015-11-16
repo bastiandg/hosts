@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 15 Nov 2015 00:03:24 GMT
-# entries:        2426
+# last updated:   Mon, 16 Nov 2015 13:15:08 GMT
+# entries:        2427
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2450,6 +2450,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 zde-affinity.edgecaching.net
 127.0.0.1 zedo.com
 127.0.0.1 zencudo.co.uk
+127.0.0.1 zenkreka.com
 127.0.0.1 zenzuu.com
 127.0.0.1 zeus.developershed.com
 127.0.0.1 zeusclicks.com
