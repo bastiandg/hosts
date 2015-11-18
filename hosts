@@ -16497,7 +16497,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 oixpre.net
 127.0.0.1 oixssp-lab.net
 127.0.0.1 oixssp-rubyem.net
-127.0.0.1 oixssp-stage.net
 127.0.0.1 oixssp.net
 127.0.0.1 oj.likewut.net
 127.0.0.1 ok.5.p2l.info
@@ -16662,7 +16661,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 opendownloadmanager.com
 127.0.0.1 openinternetexchange.com
 127.0.0.1 openinternetexchange.net
-127.0.0.1 openinternetexchange.org
 127.0.0.1 opensoftwareupdate.com
 127.0.0.1 opensoftwareupdater.com
 127.0.0.1 openstat.net

@@ -7250,7 +7250,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 oixpre.net
 0.0.0.0 oixssp-lab.net
 0.0.0.0 oixssp-rubyem.net
-0.0.0.0 oixssp-stage.net
 0.0.0.0 oixssp.net
 0.0.0.0 oj.likewut.net
 0.0.0.0 ok.5.p2l.info
@@ -7322,7 +7321,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 opencandy.com
 0.0.0.0 openinternetexchange.com
 0.0.0.0 openinternetexchange.net
-0.0.0.0 openinternetexchange.org
 0.0.0.0 opentable.tt.omtrdc.net
 0.0.0.0 openx.adfactor.nl
 0.0.0.0 openx.coolconcepts.nl

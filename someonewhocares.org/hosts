@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Nov 18th, 2015 at 07:57
+# Last updated: Nov 18th, 2015 at 08:12
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -86,8 +86,6 @@
 127.0.0.1 www.oralse.ca
 127.0.0.1 goat.cx
 127.0.0.1 www.goat.cx
-127.0.0.1 goatse.ru
-127.0.0.1 www.goatse.ru
 
 127.0.0.1 1girl1pitcher.com
 127.0.0.1 1girl1pitcher.org
@@ -776,7 +774,6 @@
 127.0.0.1 gator.com
 127.0.0.1 gcounter.hosting4u.net
 127.0.0.1 gd.mlb.com
-127.0.0.1 gemius.pl
 127.0.0.1 geocounter.net
 127.0.0.1 gkkzngresullts.com
 127.0.0.1 go-in-search.net
@@ -5822,7 +5819,6 @@
 127.0.0.1 bs.israelinfo.ru
 127.0.0.1 bs.serving-sys.com	#eyeblaster.com
 127.0.0.1 bt.linkpulse.com
-127.0.0.1 bt.webwise.com
 127.0.0.1 bumerangshowsites.hurriyet.com.tr
 127.0.0.1 burns.adtech.de
 127.0.0.1 burns.adtech.fr
@@ -6197,7 +6193,6 @@
 127.0.0.1 creative.ad131m.com
 127.0.0.1 creative.adshuffle.com
 127.0.0.1 creative.ak.facebook.com
-127.0.0.1 creative.cc-dt.com
 127.0.0.1 creatives.livejasmin.com
 127.0.0.1 creatives.rgadvert.com
 127.0.0.1 creatrixads.com
@@ -7191,8 +7186,6 @@
 127.0.0.1 lw2.gamecopyworld.com
 127.0.0.1 lycos.247realmedia.com
 127.0.0.1 l.yieldmanager.net
-127.0.0.1 m1.2mdn.net
-127.0.0.1 m1.au.2mdn.net
 127.0.0.1 m1.emea.2mdn.net
 127.0.0.1 m1.emea.2mdn.net.edgesuite.net
 127.0.0.1 m2.sexgarantie.nl
@@ -7247,7 +7240,6 @@
 127.0.0.1 mbox9.offermatica.com
 127.0.0.1 mcfg.sandai.net
 127.0.0.1 MCOpolice.com
-127.0.0.1 m.de.2mdn.net
 127.0.0.1 mds.centrport.net
 127.0.0.1 media10.popmarker.com
 127.0.0.1 media1.popmarker.com
@@ -7381,7 +7373,6 @@
 127.0.0.1 msn.allyes.com
 127.0.0.1 msnbe-hp.metriweb.be
 127.0.0.1 msn-cdn.effectivemeasure.net
-127.0.0.1 msn.oewabox.at
 127.0.0.1 msnsearch.srv.girafa.com
 127.0.0.1 msn.tns-cs.net
 127.0.0.1 msn.uvwbox.de
@@ -7428,8 +7419,6 @@
 127.0.0.1 nationalpost.adperfect.com
 127.0.0.1 nationalsurveypanel.com
 127.0.0.1 native.sharethrough.com
-127.0.0.1 navegador.oi.com.br
-127.0.0.1 navegador.telefonica.com.br
 127.0.0.1 nbads.com
 127.0.0.1 nbc.adbureau.net
 127.0.0.1 nbimg.dt00.net
@@ -7555,22 +7544,11 @@
 127.0.0.1 oix8.net
 127.0.0.1 oix9.net
 127.0.0.1 oixchina.com
-127.0.0.1 oix.com
-127.0.0.1 oixcrv-lab.net
-127.0.0.1 oixcrv.net
 127.0.0.1 oixcrv-rubyem.net
 127.0.0.1 oixcrv-rubytest.net
-127.0.0.1 oixcrv-stage.net
-127.0.0.1 oix.net
-127.0.0.1 oixpre.net
-127.0.0.1 oixpre-stage.net
 127.0.0.1 oix-rubyem.net
 127.0.0.1 oix-rubytest.net
-127.0.0.1 oixssp-lab.net
-127.0.0.1 oixssp.net
 127.0.0.1 oixssp-rubyem.net
-127.0.0.1 oixssp-stage.net
-127.0.0.1 oix-stage.net
 127.0.0.1 old-darkroast.adknowledge.com
 127.0.0.1 ometrics.warnerbros.com
 127.0.0.1 onclickads.net
@@ -7588,9 +7566,6 @@
 127.0.0.1 openads.zeads.com
 127.0.0.1 openad.travelnow.com
 127.0.0.1 opencandy.com
-127.0.0.1 openinternetexchange.com
-127.0.0.1 openinternetexchange.net
-127.0.0.1 openinternetexchange.org
 127.0.0.1 opentable.tt.omtrdc.net
 127.0.0.1 openx2.fotoflexer.com
 127.0.0.1 openx.adfactor.nl
@@ -8002,7 +7977,6 @@
 127.0.0.1 rmm1u.checkm8.com
 127.0.0.1 rms.admeta.com
 127.0.0.1 ro.bbelements.com
-127.0.0.1 romdiscover.com
 127.0.0.1 romepartners.com
 127.0.0.1 roosevelt.gjbig.com
 127.0.0.1 rosettastone.tt.omtrdc.net
@@ -8386,7 +8360,6 @@
 127.0.0.1 stats.tudou.com
 127.0.0.1 stat.tudou.com
 127.0.0.1 status.addthis.com
-127.0.0.1 stat.youku.com
 127.0.0.1 st.blogads.com
 127.0.0.1 s.tcimg.com
 127.0.0.1 st.marketgid.com
@@ -8854,15 +8827,11 @@
 127.0.0.1 weblogger.visilabs.com
 127.0.0.1 webmdcom.tt.omtrdc.net
 127.0.0.1 webnavegador.com
-127.0.0.1 webnavegador.com.br
 127.0.0.1 web.nyc.ads.juno.co
 127.0.0.1 webservices-rewardpath.com
 127.0.0.1 websurvey.spa-mr.com
 127.0.0.1 webuysupplystore.mooo.com
 127.0.0.1 webwise.bt.com
-127.0.0.1 webwise.com
-127.0.0.1 webwise.net
-127.0.0.1 webwise.org
 127.0.0.1 wegetpaid.net
 127.0.0.1 w.ic.tynt.com
 127.0.0.1 widget3.linkwithin.com
@@ -9410,7 +9379,6 @@
 127.0.0.1 www.joinfree.ro
 127.0.0.1 www.jxliu.com
 127.0.0.1 www.kampanyatakip.net
-127.0.0.1 www.keybinary.com
 127.0.0.1 www.keywordblocks.com
 127.0.0.1 www.kitaramarketplace.com
 127.0.0.1 www.kitaramedia.com
@@ -9769,9 +9737,6 @@
 127.0.0.1 youcanoptin.com
 127.0.0.1 youcanoptin.net
 127.0.0.1 youcanoptin.org
-127.0.0.1 youcanoptout.com
-127.0.0.1 youcanoptout.net
-127.0.0.1 youcanoptout.org
 127.0.0.1 youfck.com
 127.0.0.1 yourdvdplayer.com
 127.0.0.1 yourfreegascard.com
