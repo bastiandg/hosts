@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Nov 15th, 2015 at 15:21
+# Last updated: Nov 18th, 2015 at 07:57
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1637,6 +1637,8 @@
 127.0.0.1 antivirus-scanner.com
 127.0.0.1 a.oix.com
 127.0.0.1 a.oix.net
+127.0.0.1 a.openinternetexchange.com
+127.0.0.1 a.phormlabs.com
 127.0.0.1 apple-protection.info
 127.0.0.1 applestore.com-mobile.gift
 127.0.0.1 armsart.com
@@ -1655,7 +1657,9 @@
 127.0.0.1 b.oix.com
 127.0.0.1 b.oix.net
 127.0.0.1 BonusCashh.com
+127.0.0.1 br.phorm.com
 127.0.0.1 brunga.at	# Facebook phishing attempt
+127.0.0.1 bt.phorm.com
 127.0.0.1 bt.webwise.com
 127.0.0.1 bt.webwise.net
 127.0.0.1 bt.webwise.org
@@ -1687,7 +1691,9 @@
 127.0.0.1 dhauzja511.co.cc
 127.0.0.1 dietpharmacyrx.net
 127.0.0.1 documents-signature.com
+127.0.0.1 d.oix.com
 127.0.0.1 download.abetterinternet.com
+127.0.0.1 d.phormlabs.com
 127.0.0.1 drc-group.net
 127.0.0.1 dubstep.onedumb.com
 127.0.0.1 east.05tz2e9.com
@@ -1728,8 +1734,10 @@
 127.0.0.1 icecars.com
 127.0.0.1 idea21.org
 127.0.0.1 Iframecash.biz
+127.0.0.1 ig.fp.oix.net
 127.0.0.1 infopaypal.com
 127.0.0.1 installmac.com
+127.0.0.1 invite.gezinti.com
 127.0.0.1 ipadzu.net
 127.0.0.1 ircleaner.com
 127.0.0.1 istartsurf.com
@@ -1741,12 +1749,14 @@
 127.0.0.1 jump.ewoss.net
 127.0.0.1 juste.ru	# Twitter trojan
 127.0.0.1 kczambians.com
+127.0.0.1 kentsucks.youcanoptout.com
 127.0.0.1 keybinary.com
 127.0.0.1 kirgo.at	# Facebook phishing attempt
 127.0.0.1 klowns4phun.com
 127.0.0.1 konflow.com				# Facebook trojan
 127.0.0.1 kplusd.far.ru
 127.0.0.1 kpremium.com
+127.0.0.1 kr.phorm.com
 127.0.0.1 lank.ru
 127.0.0.1 lighthouse2k.com
 127.0.0.1 like.likewut.net
@@ -1769,40 +1779,68 @@
 127.0.0.1 m02.webwise.org
 127.0.0.1 mac-protection.info
 127.0.0.1 mail.cyberh.fr
+127.0.0.1 mail.youcanoptout.com
+127.0.0.1 mail.youcanoptout.net
+127.0.0.1 mail.youcanoptout.org
 127.0.0.1 malware-live-pro-scanv1.com
 127.0.0.1 maxi4.firstvds.ru
 127.0.0.1 megasurfin.com
+127.0.0.1 monitor.phorm.com
 127.0.0.1 monkeyball.osa.pl
 127.0.0.1 movies.701pages.com
 127.0.0.1 mplayerdownloader.com
 127.0.0.1 mshelp247.weebly.com
 127.0.0.1 murcia-ban.es
+127.0.0.1 mx01.openinternetexchange.com
+127.0.0.1 mx01.openinternetexchange.net
+127.0.0.1 mx01.webwise.com
+127.0.0.1 mx03.phorm.com
 127.0.0.1 mylike.co.uk				# Facebook trojan
 127.0.0.1 myprivateemails.com
 127.0.0.1 nactx.com
 127.0.0.1 natashyabaydesign.com
+127.0.0.1 navegador.oi.com.br
+127.0.0.1 navegador.telefonica.com.br
 127.0.0.1 new-dating-2012.info
 127.0.0.1 new-vid-zone-1.blogspot.com.au
 127.0.0.1 newwayscanner.info
 127.0.0.1 novemberrainx.com
 127.0.0.1 ns1.oix.com
 127.0.0.1 ns1.oix.net
+127.0.0.1 ns1.openinternetexchange.com
+127.0.0.1 ns1.phorm.com
 127.0.0.1 ns1.webwise.com
 127.0.0.1 ns1.webwise.net
 127.0.0.1 ns1.webwise.org
 127.0.0.1 ns2.oix.com
 127.0.0.1 ns2.oix.net
+127.0.0.1 ns2.openinternetexchange.com
+127.0.0.1 ns2.phorm.com
 127.0.0.1 ns2.webwise.com
 127.0.0.1 ns2.webwise.net
 127.0.0.1 ns2.webwise.org
+127.0.0.1 ns2.youcanoptout.com
+127.0.0.1 ns3.openinternetexchange.com
 127.0.0.1 nufindings.info
 127.0.0.1 oferty-online.com
 127.0.0.1 office.officenet.co.kr
+127.0.0.1 oi.webnavegador.com.br
 127.0.0.1 oix.com
+127.0.0.1 oixcrv-lab.net
+127.0.0.1 oixcrv.net
+127.0.0.1 oixcrv-stage.net
 127.0.0.1 oix.net
+127.0.0.1 oix.phorm.com
+127.0.0.1 oixpre.net
+127.0.0.1 oixpre-stage.net
+127.0.0.1 oixssp-lab.net
+127.0.0.1 oixssp.net
+127.0.0.1 oix-stage.net
 127.0.0.1 oj.likewut.net
 127.0.0.1 online-antispym4.com
 127.0.0.1 oo-na-na-pics.com
+127.0.0.1 openinternetexchange.com
+127.0.0.1 openinternetexchange.net
 127.0.0.1 ordersildenafil.com
 127.0.0.1 otsserver.com
 127.0.0.1 outerinfo.com
@@ -1811,10 +1849,41 @@
 127.0.0.1 pc-scanner16.com
 127.0.0.1 personalantispy.com
 127.0.0.1 phatthalung.go.th
+127.0.0.1 phorm.biz.tr
+127.0.0.1 phorm.ch
+127.0.0.1 phormchina.com
+127.0.0.1 phorm.cl
+127.0.0.1 phorm.co.in
+127.0.0.1 phorm.com
+127.0.0.1 phorm.com.br
+127.0.0.1 phorm.com.es
+127.0.0.1 phorm.com.mx
+127.0.0.1 phorm.com.tr
+127.0.0.1 phorm.co.uk
+127.0.0.1 phormdev.com
+127.0.0.1 phormdiscover.com
+127.0.0.1 phorm.dk
+127.0.0.1 phorm.es
+127.0.0.1 phorm.hk
+127.0.0.1 phorm.in
+127.0.0.1 phorm.info.tr
+127.0.0.1 phorm.jp
+127.0.0.1 phormkorea.com
+127.0.0.1 phorm.kr
+127.0.0.1 phormlabs.com
+127.0.0.1 phorm.nom.es
+127.0.0.1 phorm.org.es
+127.0.0.1 phormprivacy.com
+127.0.0.1 phorm.ro
+127.0.0.1 phormservice.com
+127.0.0.1 phormsolution.com
+127.0.0.1 phorm.tv.tr
+127.0.0.1 phorm.web.tr
 127.0.0.1 picture-uploads.com
 127.0.0.1 pilltabletsrxbargain.net
 127.0.0.1 powabcyfqe.com
 127.0.0.1 premium-live-scan.com
+127.0.0.1 prm-ext.phorm.com
 127.0.0.1 products-gold.net
 127.0.0.1 proflashdata.com			# Facebook trojan
 127.0.0.1 protectionupdatecenter.com
@@ -1825,6 +1894,8 @@
 127.0.0.1 rd.alphabirdnetwork.com
 127.0.0.1 rickrolling.com
 127.0.0.1 roifmd.info
+127.0.0.1 romdiscover.com
+127.0.0.1 rtc.romdiscover.com
 127.0.0.1 russian-sex.com
 127.0.0.1 s4d.in
 127.0.0.1 scan.antispyware-free-scanner.com
@@ -1851,6 +1922,9 @@
 127.0.0.1 sousay.info
 127.0.0.1 standardsandpraiserepurpose.com
 127.0.0.1 start.qip.ru
+127.0.0.1 stats.oix.com
+127.0.0.1 stopphoulplay.com
+127.0.0.1 stopphoulplay.net
 127.0.0.1 suddenplot.com
 127.0.0.1 superegler.net
 127.0.0.1 supernaturalart.com
@@ -1863,6 +1937,8 @@
 127.0.0.1 tattooshaha.info			# Facebook trojan
 127.0.0.1 technicalconsumerreports.com
 127.0.0.1 technology-revealed.com
+127.0.0.1 telefonica.webnavegador.com.br
+127.0.0.1 terra.fp.oix.net
 127.0.0.1 test.ishvara-yoga.com
 127.0.0.1 TheBizMeet.com
 127.0.0.1 thedatesafe.com			# Facebook trojan
@@ -1887,6 +1963,7 @@
 127.0.0.1 twitter.secure.bzpharma.net
 127.0.0.1 uawj.moqhixoz.cn
 127.0.0.1 ughmvqf.spitt.ru
+127.0.0.1 ui.oix.net
 127.0.0.1 uqz.com
 127.0.0.1 users16.jabry.com
 127.0.0.1 utenti.lycos.it
@@ -1897,6 +1974,7 @@
 127.0.0.1 vxiframe.biz
 127.0.0.1 waldenfarms.com
 127.0.0.1 weblover.info
+127.0.0.1 webnavegador.com.br
 127.0.0.1 webpaypal.com
 127.0.0.1 webwise.com
 127.0.0.1 webwise.net
@@ -1905,6 +1983,7 @@
 127.0.0.1 wewillrocknow.com
 127.0.0.1 willysy.com
 127.0.0.1 wm.maxysearch.info
+127.0.0.1 w.oix.net
 127.0.0.1 womo.corrmedic.ru
 127.0.0.1 www1.bmo.com.hotfrio.com.br
 127.0.0.1 www1.firesavez5.com
@@ -1938,8 +2017,10 @@
 127.0.0.1 www.fictioncinema.com
 127.0.0.1 www.fischereszter.hu
 127.0.0.1 www.froling.bee.pl
+127.0.0.1 www.gezinti.com
 127.0.0.1 www.gns-consola.com
 127.0.0.1 www.goggle.com
+127.0.0.1 www.gozatar.com
 127.0.0.1 www.grouphappy.com
 127.0.0.1 www.hakerzy.net
 127.0.0.1 www.haoyunlaid.com
@@ -1971,9 +2052,11 @@
 127.0.0.1 www.oix.com
 127.0.0.1 www.oix.net
 127.0.0.1 www.onlyfreeoffersonline.com
+127.0.0.1 www.openinternetexchange.com
 127.0.0.1 www.oreidofitilho.com.br
 127.0.0.1 www.otsserver.com
 127.0.0.1 www.pay-pal.com-cgibin-canada.4mcmeta4v.cn
+127.0.0.1 www.phormlabs.com
 127.0.0.1 www.picture-uploads.com
 127.0.0.1 www.portaldimensional.com
 127.0.0.1 www.poxudeli.ru
@@ -1989,6 +2072,7 @@
 127.0.0.1 www.shinilchurch.net	# domain was hacked and had a trojan installed
 127.0.0.1 www.sinera.org
 127.0.0.1 www.someonewhocares.com
+127.0.0.1 www.stopphoulplay.com
 127.0.0.1 www.tanger.com.br
 127.0.0.1 www.tattooshaha.info			# Facebook trojan
 127.0.0.1 www.te81.net
@@ -2008,10 +2092,17 @@
 127.0.0.1 www.webwise.org
 127.0.0.1 www.wewillrocknow.com
 127.0.0.1 www.willysy.com
+127.0.0.1 www.youcanoptout.com
+127.0.0.1 www.youcanoptout.net
+127.0.0.1 www.youcanoptout.org
 127.0.0.1 xfotosx01.fromru.su
 127.0.0.1 xponlinescanner.com
 127.0.0.1 xvrxyzba253.hotmail.ru
+127.0.0.1 xxyyzz.youcanoptout.com
 127.0.0.1 ymail-activate1.bugs3.com
+127.0.0.1 youcanoptout.com
+127.0.0.1 youcanoptout.net
+127.0.0.1 youcanoptout.org
 127.0.0.1 yrwap.cn
 127.0.0.1 zarozinski.info
 127.0.0.1 zb1.zeroredirect1.com
@@ -11797,116 +11888,6 @@
 127.0.0.1 zyrtec.3.p2l.info
 127.0.0.1 zyrtec.4.p2l.info
 #</wiki-spam-sites>
-
-#<Phorm-sites>
-
-# Phorm contextual advertising sites
-127.0.0.1 a.oix.com
-127.0.0.1 a.oix.net
-127.0.0.1 a.openinternetexchange.com
-127.0.0.1 a.phormlabs.com
-127.0.0.1 a.webwise.com
-127.0.0.1 a.webwise.net
-127.0.0.1 b.oix.net
-127.0.0.1 br.phorm.com
-127.0.0.1 bt.phorm.com
-127.0.0.1 bt.webwise.com
-127.0.0.1 b.webwise.net
-127.0.0.1 c.webwise.com
-127.0.0.1 c.webwise.net
-127.0.0.1 d.oix.com
-127.0.0.1 d.phormlabs.com
-127.0.0.1 ig.fp.oix.net
-127.0.0.1 invite.gezinti.com
-127.0.0.1 kentsucks.youcanoptout.com
-127.0.0.1 kr.phorm.com
-127.0.0.1 mail.youcanoptout.com
-127.0.0.1 mail.youcanoptout.net
-127.0.0.1 mail.youcanoptout.org
-127.0.0.1 monitor.phorm.com
-127.0.0.1 mx01.openinternetexchange.com
-127.0.0.1 mx01.openinternetexchange.net
-127.0.0.1 mx01.webwise.com
-127.0.0.1 mx03.phorm.com
-127.0.0.1 navegador.oi.com.br
-127.0.0.1 navegador.telefonica.com.br
-127.0.0.1 ns1.oix.com
-127.0.0.1 ns1.openinternetexchange.com
-127.0.0.1 ns1.phorm.com
-127.0.0.1 ns2.oix.com
-127.0.0.1 ns2.openinternetexchange.com
-127.0.0.1 ns2.phorm.com
-127.0.0.1 ns2.youcanoptout.com
-127.0.0.1 ns3.openinternetexchange.com
-127.0.0.1 oi.webnavegador.com.br
-127.0.0.1 oixcrv-lab.net
-127.0.0.1 oixcrv.net
-127.0.0.1 oixcrv-stage.net
-127.0.0.1 oix.phorm.com
-127.0.0.1 oixpre.net
-127.0.0.1 oixpre-stage.net
-127.0.0.1 oixssp-lab.net
-127.0.0.1 oixssp.net
-127.0.0.1 oix-stage.net
-127.0.0.1 openinternetexchange.com
-127.0.0.1 openinternetexchange.net
-127.0.0.1 phorm.biz.tr
-127.0.0.1 phorm.ch
-127.0.0.1 phormchina.com
-127.0.0.1 phorm.cl
-127.0.0.1 phorm.co.in
-127.0.0.1 phorm.com
-127.0.0.1 phorm.com.br
-127.0.0.1 phorm.com.es
-127.0.0.1 phorm.com.mx
-127.0.0.1 phorm.com.tr
-127.0.0.1 phorm.co.uk
-127.0.0.1 phormdev.com
-127.0.0.1 phormdiscover.com
-127.0.0.1 phorm.dk
-127.0.0.1 phorm.es
-127.0.0.1 phorm.hk
-127.0.0.1 phorm.in
-127.0.0.1 phorm.info.tr
-127.0.0.1 phorm.jp
-127.0.0.1 phormkorea.com
-127.0.0.1 phorm.kr
-127.0.0.1 phormlabs.com
-127.0.0.1 phorm.nom.es
-127.0.0.1 phorm.org.es
-127.0.0.1 phormprivacy.com
-127.0.0.1 phorm.ro
-127.0.0.1 phormservice.com
-127.0.0.1 phormsolution.com
-127.0.0.1 phorm.tv.tr
-127.0.0.1 phorm.web.tr
-127.0.0.1 prm-ext.phorm.com
-127.0.0.1 romdiscover.com
-127.0.0.1 rtc.romdiscover.com
-127.0.0.1 stats.oix.com
-127.0.0.1 stopphoulplay.com
-127.0.0.1 stopphoulplay.net
-127.0.0.1 telefonica.webnavegador.com.br
-127.0.0.1 terra.fp.oix.net
-127.0.0.1 ui.oix.net
-127.0.0.1 webnavegador.com.br
-127.0.0.1 webwise.com
-127.0.0.1 webwise.net
-127.0.0.1 w.oix.net
-127.0.0.1 www.gezinti.com
-127.0.0.1 www.gozatar.com
-127.0.0.1 www.oix.com
-127.0.0.1 www.openinternetexchange.com
-127.0.0.1 www.phormlabs.com
-127.0.0.1 www.stopphoulplay.com
-127.0.0.1 www.youcanoptout.com
-127.0.0.1 www.youcanoptout.net
-127.0.0.1 www.youcanoptout.org
-127.0.0.1 xxyyzz.youcanoptout.com
-127.0.0.1 youcanoptout.com
-127.0.0.1 youcanoptout.net
-127.0.0.1 youcanoptout.org
-#</Phorm-sites>
 
 #<Windows10>
 
