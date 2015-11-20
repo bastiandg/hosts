@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Nov 19th, 2015 at 16:56
+# Last updated: Nov 19th, 2015 at 21:40
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5928,6 +5928,7 @@
 127.0.0.1 cdn.8digits.com
 127.0.0.1 cdn.adigniter.org
 127.0.0.1 cdn.adnxs.com
+127.0.0.1 cdn.adplxmd.com
 127.0.0.1 cdnads.cam4.com
 127.0.0.1 cdn.ads.ookla.com
 127.0.0.1 cdn.adsrvmedia.net
@@ -5941,6 +5942,7 @@
 127.0.0.1 cdn.crowdignite.com
 127.0.0.1 cdn.directrev.com
 127.0.0.1 cdn.eyewonder.com
+127.0.0.1 cdn.freefaits.com
 127.0.0.1 cdn.go.arbo.bbelements.com
 127.0.0.1 cdn.go.arbopl.bbelements.com
 127.0.0.1 cdn.go.cz.bbelements.com
@@ -7098,6 +7100,7 @@
 127.0.0.1 l.5min.com
 127.0.0.1 l.admob.com
 127.0.0.1 ladyclicks.ru
+127.0.0.1 land.purifier.cc
 127.0.0.1 lanzar.publicidadweb.com
 127.0.0.1 laptopreportcard.com
 127.0.0.1 laptoprewards.com
@@ -7903,6 +7906,7 @@
 127.0.0.1 rc.rlcdn.com
 127.0.0.1 rc.wl.webads.nl
 127.0.0.1 r.domob.cn
+127.0.0.1 rdsa2012.com
 127.0.0.1 realads.realmedia.com
 127.0.0.1 realgfsbucks.com
 127.0.0.1 realmedia-a800.d4p.net	# Scientific American
@@ -8905,6 +8909,7 @@
 127.0.0.1 www2.bannerspace.com
 127.0.0.1 www2.glam.com
 127.0.0.1 www2.kampanyatakip.net
+127.0.0.1 www2.pubdirecte.com
 127.0.0.1 www2.zapadserver1.com
 127.0.0.1 www30a1.glam.com
 127.0.0.1 www30a1-orig.glam.com
