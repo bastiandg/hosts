@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Nov 18th, 2015 at 08:12
+# Last updated: Nov 19th, 2015 at 15:25
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1895,6 +1895,7 @@
 127.0.0.1 rtc.romdiscover.com
 127.0.0.1 russian-sex.com
 127.0.0.1 s4d.in
+127.0.0.1 safedownloadsrus166.com
 127.0.0.1 scan.antispyware-free-scanner.com
 127.0.0.1 scanner.best-click-av1.info
 127.0.0.1 scanner.best-protect.info
@@ -2078,6 +2079,7 @@
 127.0.0.1 www.tvshowslist.com
 127.0.0.1 www.upi6.pillsstore-c.com		# Facebook trojan
 127.0.0.1 www.uqz.com
+127.0.0.1 www.venturead.com
 127.0.0.1 www.via99.org
 127.0.0.1 www.videolove.clanteam.com
 127.0.0.1 www.videostan.ru
@@ -2092,6 +2094,7 @@
 127.0.0.1 www.youcanoptout.com
 127.0.0.1 www.youcanoptout.net
 127.0.0.1 www.youcanoptout.org
+127.0.0.1 www.youfiletor.com
 127.0.0.1 xfotosx01.fromru.su
 127.0.0.1 xponlinescanner.com
 127.0.0.1 xvrxyzba253.hotmail.ru
@@ -7169,6 +7172,7 @@
 127.0.0.1 lp1.linkpulse.com
 127.0.0.1 lp4.linkpulse.com
 127.0.0.1 lpcloudsvr405.com
+127.0.0.1 lp.empire.goodgamestudios.com
 127.0.0.1 lp.jeux-lk.com
 127.0.0.1 l.qq.com
 127.0.0.1 lsassoc.com
@@ -7449,6 +7453,7 @@
 127.0.0.1 newjunk4u.com
 127.0.0.1 news6health.com
 127.0.0.1 newsblock.marketgid.com
+127.0.0.1 news-finances.com
 127.0.0.1 new.smartcontext.pl
 127.0.0.1 newssourceoftoday.com #security risk/fake news#
 127.0.0.1 newsterminalvelocity.com
@@ -7578,6 +7583,7 @@
 127.0.0.1 optimize.indieclick.com
 127.0.0.1 optimzedby.rmxads.com
 127.0.0.1 orange.fr-enqueteannuelle.xyz
+127.0.0.1 orange.fr-votre-opinion.xyz
 127.0.0.1 orange.weborama.fr
 127.0.0.1 ordie.adbureau.net
 127.0.0.1 origin.chron.com
@@ -8980,6 +8986,7 @@
 127.0.0.1 www.adnet.biz
 127.0.0.1 www.adnet.com
 127.0.0.1 www.adnet.de
+127.0.0.1 www.adnetworkperformance.com
 127.0.0.1 www.adobee.com
 127.0.0.1 www.adobur.com
 127.0.0.1 www.adocean.pl
