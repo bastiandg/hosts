@@ -546,7 +546,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.newsint.co.uk
 0.0.0.0 ads.newsquest.co.uk
 0.0.0.0 ads.newtention.net
-0.0.0.0 ads.nigella.com
 0.0.0.0 ads.ninemsn.com.au
 0.0.0.0 ads.nj.com
 0.0.0.0 ads.nola.com
@@ -607,7 +606,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.silverdisc.co.uk
 0.0.0.0 ads.slim.com
 0.0.0.0 ads.smartclick.com
-0.0.0.0 ads.smartshopping.co.uk
 0.0.0.0 ads.soft32.com
 0.0.0.0 ads.space.com
 0.0.0.0 ads.spoonfeduk.com
@@ -876,6 +874,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adviva.com
 0.0.0.0 adviva.net
 0.0.0.0 advnt.com
+0.0.0.0 adwareremovergold.com
 0.0.0.0 adwhirl.com
 0.0.0.0 adwitserver.com
 0.0.0.0 adworldnetwork.com
@@ -1207,7 +1206,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 clickmedia.ro
 0.0.0.0 clicks.equantum.com
 0.0.0.0 clicks.mods.de
-0.0.0.0 clicks.stripsaver.com
 0.0.0.0 clickserve.cc-dt.com
 0.0.0.0 clicksor.com
 0.0.0.0 clicktag.de
@@ -1257,7 +1255,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 counted.com
 0.0.0.0 counter.avtoindex.com
 0.0.0.0 counter.bloke.com
-0.0.0.0 counter.cgiworld.net
 0.0.0.0 counter.cnw.cz
 0.0.0.0 counter.cz
 0.0.0.0 counter.dreamhost.com
@@ -1390,6 +1387,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 euros4click.de
 0.0.0.0 eusta.de
 0.0.0.0 evergage.com
+0.0.0.0 evidencecleanergold.com
 0.0.0.0 ewebcounter.com
 0.0.0.0 exchange-it.com
 0.0.0.0 exchange.bg
@@ -1403,6 +1401,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 experteerads.com
 0.0.0.0 exponential.com
 0.0.0.0 express-submit.de
+0.0.0.0 extractorandburner.com
 0.0.0.0 extreme-dm.com
 0.0.0.0 extremetracking.com
 0.0.0.0 eyeblaster.com

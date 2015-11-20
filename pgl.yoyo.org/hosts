@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 16 Nov 2015 13:15:08 GMT
-# entries:        2427
+# entries:        2426
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -571,7 +571,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.newsint.co.uk
 127.0.0.1 ads.newsquest.co.uk
 127.0.0.1 ads.newtention.net
-127.0.0.1 ads.nigella.com
 127.0.0.1 ads.ninemsn.com.au
 127.0.0.1 ads.nj.com
 127.0.0.1 ads.nola.com
@@ -632,7 +631,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.silverdisc.co.uk
 127.0.0.1 ads.slim.com
 127.0.0.1 ads.smartclick.com
-127.0.0.1 ads.smartshopping.co.uk
 127.0.0.1 ads.soft32.com
 127.0.0.1 ads.space.com
 127.0.0.1 ads.spoonfeduk.com
@@ -901,6 +899,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adviva.com
 127.0.0.1 adviva.net
 127.0.0.1 advnt.com
+127.0.0.1 adwareremovergold.com
 127.0.0.1 adwhirl.com
 127.0.0.1 adwitserver.com
 127.0.0.1 adworldnetwork.com
@@ -1232,7 +1231,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 clickmedia.ro
 127.0.0.1 clicks.equantum.com
 127.0.0.1 clicks.mods.de
-127.0.0.1 clicks.stripsaver.com
 127.0.0.1 clickserve.cc-dt.com
 127.0.0.1 clicksor.com
 127.0.0.1 clicktag.de
@@ -1282,7 +1280,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 counted.com
 127.0.0.1 counter.avtoindex.com
 127.0.0.1 counter.bloke.com
-127.0.0.1 counter.cgiworld.net
 127.0.0.1 counter.cnw.cz
 127.0.0.1 counter.cz
 127.0.0.1 counter.dreamhost.com
@@ -1415,6 +1412,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 euros4click.de
 127.0.0.1 eusta.de
 127.0.0.1 evergage.com
+127.0.0.1 evidencecleanergold.com
 127.0.0.1 ewebcounter.com
 127.0.0.1 exchange-it.com
 127.0.0.1 exchange.bg
@@ -1428,6 +1426,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 experteerads.com
 127.0.0.1 exponential.com
 127.0.0.1 express-submit.de
+127.0.0.1 extractorandburner.com
 127.0.0.1 extreme-dm.com
 127.0.0.1 extremetracking.com
 127.0.0.1 eyeblaster.com
