@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Nov 19th, 2015 at 15:25
+# Last updated: Nov 19th, 2015 at 16:56
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3272,6 +3272,7 @@
 127.0.0.1 0427d7.se
 127.0.0.1 0d79ed.r.axf8.net
 127.0.0.1 0pn.ru
+127.0.0.1 0qizz.super-promo.hoxo.info
 127.0.0.1 104231.dtiblog.com
 127.0.0.1 10.im.cz
 127.0.0.1 121media.com
