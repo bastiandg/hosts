@@ -839,6 +839,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad-feeds.com
 127.0.0.1 ad-flow.com
 127.0.0.1 ad-g.doubleclick.net
+127.0.0.1 ad-gb.mgid.com
 127.0.0.1 ad-gbn.com
 127.0.0.1 ad-hoc-news.de.intellitxt.com
 127.0.0.1 ad-images.suntimes.com
@@ -14784,6 +14785,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 messagia.adcentric.proximi-t.com
 127.0.0.1 met.adwhirl.com
 127.0.0.1 meta.7search.com
+127.0.0.1 metaapi.bulletproofserving.com
 127.0.0.1 metacafe.122.2o7.net
 127.0.0.1 metacount.com
 127.0.0.1 metaffiliation.com
@@ -20700,6 +20702,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stopphoulplay.com
 127.0.0.1 stopphoulplay.net
 127.0.0.1 storage.adsolutions.nl
+127.0.0.1 storage.bulletproofserving.com
 127.0.0.1 storage.hitrang.com
 127.0.0.1 storage.outbrain.com
 127.0.0.1 storage.softure.com
