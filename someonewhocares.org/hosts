@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Nov 25th, 2015 at 15:20
+# Last updated: Nov 27th, 2015 at 12:04
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1704,6 +1704,7 @@
 127.0.0.1 faggotry.com
 127.0.0.1 familyupport1.com
 127.0.0.1 feaecebook.com
+127.0.0.1 feedbackexplorer.com
 127.0.0.1 fengyixin.com
 127.0.0.1 filosvybfimpsv.ru.gg
 127.0.0.1 fr.apple.com-services-assistance-recuperations-des-comptes.com
@@ -7382,6 +7383,7 @@
 127.0.0.1 mpartner.googleadservices.com
 127.0.0.1 mp.tscapeplay.com
 127.0.0.1 mpv.sandai.net
+127.0.0.1 mr4evmd0r1.s.ad6media.fr
 127.0.0.1 msn.allyes.com
 127.0.0.1 msnbe-hp.metriweb.be
 127.0.0.1 msn-cdn.effectivemeasure.net
@@ -7540,6 +7542,7 @@
 127.0.0.1 observer.advertserve.com
 127.0.0.1 obs.nnm2.ru
 127.0.0.1 ocslab.com
+127.0.0.1 offer.alibaba.com
 127.0.0.1 offers.bycontext.com
 127.0.0.1 offers.impower.com
 127.0.0.1 offerx.co.uk
@@ -7591,7 +7594,9 @@
 127.0.0.1 optimize.indieclick.com
 127.0.0.1 optimzedby.rmxads.com
 127.0.0.1 orange.fr-enqueteannuelle.xyz
+127.0.0.1 orange.fr-enqueteofficielle2015.xyz
 127.0.0.1 orange.fr-votre-opinion.xyz
+127.0.0.1 orange.fr-votreopinion.xyz
 127.0.0.1 orange.weborama.fr
 127.0.0.1 ordie.adbureau.net
 127.0.0.1 origin.chron.com
@@ -9611,6 +9616,7 @@
 127.0.0.1 www.sports-premiumblvd.com
 127.0.0.1 www.sq2trk2.com
 127.0.0.1 www.star-advertising.com
+127.0.0.1 www.startnewtab.com
 127.0.0.1 www.subsitesadserver.co.uk
 127.0.0.1 www.sudokuwhiz.com
 127.0.0.1 www.superbrewards.com
@@ -9647,6 +9653,7 @@
 127.0.0.1 www.toy-offer.com
 127.0.0.1 www.toy-offer.net
 127.0.0.1 www.tqlkg.com		#commission junction
+127.0.0.1 www.track2cash.com
 127.0.0.1 www.trackadvertising.net
 127.0.0.1 www.tracklead.net
 127.0.0.1 www.trafficrevenue.net
@@ -9685,6 +9692,7 @@
 127.0.0.1 www.vibrantmedia.com
 127.0.0.1 www.video-game-rewards-central.com
 127.0.0.1 www.videogamerewardscentral.com
+127.0.0.1 www.videohube.eu
 127.0.0.1 www.view4cash.de
 127.0.0.1 www.virtumundo.com
 127.0.0.1 www.vmcsatellite.com
