@@ -2585,6 +2585,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.freecaster.tv
 127.0.0.1 ads.freecity.de
 127.0.0.1 ads.freeonlinegames.com
+127.0.0.1 ads.freeskreen.com
 127.0.0.1 ads.fresh.bg
 127.0.0.1 ads.freshmeat.net
 127.0.0.1 ads.fresnobee.com
@@ -18527,6 +18528,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rtax.criteo.com
 127.0.0.1 rtb-ads.avazu.net
 127.0.0.1 rtb-csync.smartadserver.com
+127.0.0.1 rtb-lb-event-sjc.tubemogul.com
 127.0.0.1 rtb.metrigo.com
 127.0.0.1 rtb.pclick.yahoo.com
 127.0.0.1 rtb.tubemogul.com
@@ -18958,6 +18960,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sayfabulunamadi.com
 127.0.0.1 sayhello.popunder.ru
 127.0.0.1 sayherbal.com
+127.0.0.1 sb.freeskreen.com
 127.0.0.1 sb.monetate.net
 127.0.0.1 sb.scorecardresearch.com
 127.0.0.1 sb.voicefive.com
@@ -20280,6 +20283,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.fmpub.net
 127.0.0.1 static.forezach.com
 127.0.0.1 static.freenet.de
+127.0.0.1 static.freeskreen.com
 127.0.0.1 static.getclicky.com
 127.0.0.1 static.gfx.streamate.com
 127.0.0.1 static.gfx.streamen.com
@@ -20507,6 +20511,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stats.topofblogs.com
 127.0.0.1 stats.townnews.com
 127.0.0.1 stats.triggit.com
+127.0.0.1 stats.tubemogul.com
 127.0.0.1 stats.tudou.com
 127.0.0.1 stats.tunt.lv
 127.0.0.1 stats.twistage.com

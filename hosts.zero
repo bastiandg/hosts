@@ -2585,6 +2585,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.freecaster.tv
 0.0.0.0 ads.freecity.de
 0.0.0.0 ads.freeonlinegames.com
+0.0.0.0 ads.freeskreen.com
 0.0.0.0 ads.fresh.bg
 0.0.0.0 ads.freshmeat.net
 0.0.0.0 ads.fresnobee.com
@@ -18527,6 +18528,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rtax.criteo.com
 0.0.0.0 rtb-ads.avazu.net
 0.0.0.0 rtb-csync.smartadserver.com
+0.0.0.0 rtb-lb-event-sjc.tubemogul.com
 0.0.0.0 rtb.metrigo.com
 0.0.0.0 rtb.pclick.yahoo.com
 0.0.0.0 rtb.tubemogul.com
@@ -18958,6 +18960,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 sayfabulunamadi.com
 0.0.0.0 sayhello.popunder.ru
 0.0.0.0 sayherbal.com
+0.0.0.0 sb.freeskreen.com
 0.0.0.0 sb.monetate.net
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sb.voicefive.com
@@ -20280,6 +20283,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.forezach.com
 0.0.0.0 static.freenet.de
+0.0.0.0 static.freeskreen.com
 0.0.0.0 static.getclicky.com
 0.0.0.0 static.gfx.streamate.com
 0.0.0.0 static.gfx.streamen.com
@@ -20507,6 +20511,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 stats.topofblogs.com
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.triggit.com
+0.0.0.0 stats.tubemogul.com
 0.0.0.0 stats.tudou.com
 0.0.0.0 stats.tunt.lv
 0.0.0.0 stats.twistage.com

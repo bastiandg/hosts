@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Nov 27th, 2015 at 12:04
+# Last updated: Nov 27th, 2015 at 20:33
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -4669,6 +4669,7 @@
 127.0.0.1 ads.foxnews.com
 127.0.0.1 ads.fredericksburg.com
 127.0.0.1 ads.freebannertrade.com
+127.0.0.1 ads.freeskreen.com
 127.0.0.1 ads.freshmeat.net
 127.0.0.1 ads.fresnobee.com
 127.0.0.1 ads.friendfinder.com
@@ -8020,6 +8021,7 @@
 127.0.0.1 rss.buysellads.com
 127.0.0.1 rt2.infolinks.com
 127.0.0.1 rt3.infolinks.com
+127.0.0.1 rtb-lb-event-sjc.tubemogul.com
 127.0.0.1 rtb.pclick.yahoo.com
 127.0.0.1 rtb.tubemogul.com
 127.0.0.1 rtr.innovid.com
@@ -8071,6 +8073,7 @@
 127.0.0.1 sayac.hurriyet.com.tr
 127.0.0.1 sayfabulunamadi.com
 127.0.0.1 s.baidu.com
+127.0.0.1 sb.freeskreen.com
 127.0.0.1 s.boom.ro
 127.0.0.1 sc1.admob.com
 127.0.0.1 sc9.admob.com
@@ -8349,6 +8352,7 @@
 127.0.0.1 static.firehunt.com
 127.0.0.1 static.fmpub.net
 127.0.0.1 static.freenet.de
+127.0.0.1 static.freeskreen.com
 127.0.0.1 static.groupy.co.nz
 127.0.0.1 static.hitfarm.com
 127.0.0.1 static.ifa.camads.net
@@ -8377,6 +8381,7 @@
 127.0.0.1 stats.ipinyou.com
 127.0.0.1 stats.jtvnw.net
 127.0.0.1 stats.shopify.com
+127.0.0.1 stats.tubemogul.com
 127.0.0.1 stats.tudou.com
 127.0.0.1 stat.tudou.com
 127.0.0.1 status.addthis.com

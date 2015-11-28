@@ -1114,6 +1114,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.foxnews.com
 0.0.0.0 ads.fredericksburg.com
 0.0.0.0 ads.freebannertrade.com
+0.0.0.0 ads.freeskreen.com
 0.0.0.0 ads.freshmeat.net
 0.0.0.0 ads.fresnobee.com
 0.0.0.0 ads.friendfinder.com
@@ -8013,6 +8014,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rt.visilabs.com
 0.0.0.0 rt2.infolinks.com
 0.0.0.0 rt3.infolinks.com
+0.0.0.0 rtb-lb-event-sjc.tubemogul.com
 0.0.0.0 rtb.pclick.yahoo.com
 0.0.0.0 rtb.tubemogul.com
 0.0.0.0 rtc.romdiscover.com
@@ -8143,6 +8145,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 savings-time.com
 0.0.0.0 sayac.hurriyet.com.tr
 0.0.0.0 sayfabulunamadi.com
+0.0.0.0 sb.freeskreen.com
 0.0.0.0 sc-spyware.com
 0.0.0.0 sc.5.p2l.info
 0.0.0.0 sc.intellitxt.com
@@ -8652,6 +8655,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 static.firehunt.com
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.freenet.de
+0.0.0.0 static.freeskreen.com
 0.0.0.0 static.groupy.co.nz
 0.0.0.0 static.hitfarm.com
 0.0.0.0 static.ifa.camads.net
@@ -8765,6 +8769,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 stats.telegraph.co.uk
 0.0.0.0 stats.thoughtcatalog.com
 0.0.0.0 stats.townnews.com
+0.0.0.0 stats.tubemogul.com
 0.0.0.0 stats.tudou.com
 0.0.0.0 stats.ultimate-webservices.com
 0.0.0.0 stats.unionleader.com
