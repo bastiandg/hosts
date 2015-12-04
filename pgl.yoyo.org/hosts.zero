@@ -57,7 +57,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad-balancer.at
 0.0.0.0 ad-balancer.net
 0.0.0.0 ad-center.com
-0.0.0.0 ad-flow.com
 0.0.0.0 ad-images.suntimes.com
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-rotator.com
@@ -114,7 +113,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.iinfo.cz
 0.0.0.0 ad.ilove.ch
 0.0.0.0 ad.infoseek.com
-0.0.0.0 ad.investopedia.com
 0.0.0.0 ad.jamba.net
 0.0.0.0 ad.jamster.co.uk
 0.0.0.0 ad.jetsoftware.com
