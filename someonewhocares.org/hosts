@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Nov 27th, 2015 at 20:33
+# Last updated: Dec 6th, 2015 at 19:52
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3269,6 +3269,7 @@
 #</maybe-ads>
 
 # ads
+127.0.0.1
 127.0.0.1 0101011.com
 127.0.0.1 0427d7.se
 127.0.0.1 0d79ed.r.axf8.net
@@ -5874,6 +5875,7 @@
 127.0.0.1 campaigns.f2.com.au
 127.0.0.1 campaigns.interclick.com
 127.0.0.1 canadaalltax.com
+127.0.0.1 canuckmethod.com
 127.0.0.1 capath.com
 127.0.0.1 cardgamespidersolitaire.com
 127.0.0.1 cards.virtuagirlhd.com
@@ -7208,6 +7210,7 @@
 127.0.0.1 macaddictads.snv.futurenet.com
 127.0.0.1 macads.net
 127.0.0.1 mackeeperapp1.zeobit.com
+127.0.0.1 mackeeperapp2.mackeeper.com
 127.0.0.1 mackeeperapp3.mackeeper.com
 127.0.0.1 mackeeperapp.mackeeper.com
 127.0.0.1 mad2.brandreachsys.com
@@ -8496,6 +8499,7 @@
 127.0.0.1 thinknyc.eu-adcenter.net
 127.0.0.1 thinktarget.com
 127.0.0.1 thinlaptoprewards.com
+127.0.0.1 thirtydaychange.com
 127.0.0.1 this.content.served.by.addshuffle.com
 127.0.0.1 this.content.served.by.adshuffle.com
 127.0.0.1 thoughtfully-free.com
