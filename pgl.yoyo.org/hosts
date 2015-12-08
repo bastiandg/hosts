@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 08 Dec 2015 21:34:51 GMT
-# entries:        2423
+# last updated:   Tue, 08 Dec 2015 22:56:33 GMT
+# entries:        2434
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -339,6 +339,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adprofile.net
 127.0.0.1 adprojekt.pl
 127.0.0.1 adq.nextag.com
+127.0.0.1 adrazzi.com
 127.0.0.1 adreactor.com
 127.0.0.1 adremedy.com
 127.0.0.1 adreporting.com
@@ -1266,6 +1267,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 content.ad
 127.0.0.1 contentabc.com
 127.0.0.1 contextweb.com
+127.0.0.1 conversantmedia.com
 127.0.0.1 conversionruler.com
 127.0.0.1 cookies.cmpnet.com
 127.0.0.1 coremetrics.com
@@ -1374,6 +1376,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 eclick.vn
 127.0.0.1 ecoupons.com
 127.0.0.1 edgeio.com
+127.0.0.1 effectivemeasure.com
 127.0.0.1 effectivemeasure.net
 127.0.0.1 eiv.baidu.com
 127.0.0.1 elitedollars.com
@@ -1435,6 +1438,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 fast-adv.it
 127.0.0.1 fastclick.com
 127.0.0.1 fastclick.com.edgesuite.net
+127.0.0.1 fastclick.net
 127.0.0.1 fb-promotions.com
 127.0.0.1 fc.webmasterpro.de
 127.0.0.1 feedbackresearch.com
@@ -1491,6 +1495,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 globaltakeoff.net
 127.0.0.1 globaltrack.com
 127.0.0.1 globe7.com
+127.0.0.1 globus-inter.com
 127.0.0.1 gmads.net
 127.0.0.1 go-clicks.de
 127.0.0.1 go-rank.de
@@ -1505,6 +1510,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 gpr.hu
 127.0.0.1 grafstat.ro
 127.0.0.1 grapeshot.co.uk
+127.0.0.1 greystripe.com
 127.0.0.1 gtop.ro
 127.0.0.1 gtop100.com
 127.0.0.1 gtsads.com
@@ -1723,6 +1729,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mediacharger.com
 127.0.0.1 mediadvertising.ro
 127.0.0.1 mediageneral.com
+127.0.0.1 mediamath.com
 127.0.0.1 mediamgr.ugo.com
 127.0.0.1 mediaplazza.com
 127.0.0.1 mediaplex.com
@@ -1752,6 +1759,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mixtraffic.com
 127.0.0.1 mlm.de
 127.0.0.1 mmismm.com
+127.0.0.1 mmtro.com
 127.0.0.1 moatads.com
 127.0.0.1 mobclix.com
 127.0.0.1 mocean.mobi
@@ -1813,6 +1821,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ngs.impress.co.jp
 127.0.0.1 nitroclicks.com
 127.0.0.1 novem.pl
+127.0.0.1 nugg.ad
+127.0.0.1 nuggad.net
 127.0.0.1 numax.nu-1.com
 127.0.0.1 nuseek.com
 127.0.0.1 oas.benchmark.fr
@@ -1917,9 +1927,9 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 planetactive.com
 127.0.0.1 play4traffic.com
 127.0.0.1 playhaven.com
+127.0.0.1 plista.com
 127.0.0.1 plugrush.com
 127.0.0.1 pointroll.com
-127.0.0.1 pokerstrategy.com
 127.0.0.1 pop-under.ru
 127.0.0.1 popub.com
 127.0.0.1 popunder.ru
@@ -2038,7 +2048,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 revenuepilot.com
 127.0.0.1 revsci.net
 127.0.0.1 revstats.com
-127.0.0.1 rewardster.com
 127.0.0.1 richmails.com
 127.0.0.1 richmedia.yimg.com
 127.0.0.1 richwebmaster.com
@@ -2182,6 +2191,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 supertop100.com
 127.0.0.1 suptullog.com
 127.0.0.1 surfmusik-adserver.de
+127.0.0.1 swissadsolutions.com
 127.0.0.1 swordfishdc.com
 127.0.0.1 sx.trhnt.com
 127.0.0.1 t.pusk.ru
@@ -2350,6 +2360,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 vpon.com
 127.0.0.1 vrs.cz
 127.0.0.1 vs.tucows.com
+127.0.0.1 vungle.com
 127.0.0.1 wads.webteh.com
 127.0.0.1 warlog.info
 127.0.0.1 warlog.ru

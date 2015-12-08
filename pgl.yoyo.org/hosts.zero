@@ -314,6 +314,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adprofile.net
 0.0.0.0 adprojekt.pl
 0.0.0.0 adq.nextag.com
+0.0.0.0 adrazzi.com
 0.0.0.0 adreactor.com
 0.0.0.0 adremedy.com
 0.0.0.0 adreporting.com
@@ -1241,6 +1242,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 content.ad
 0.0.0.0 contentabc.com
 0.0.0.0 contextweb.com
+0.0.0.0 conversantmedia.com
 0.0.0.0 conversionruler.com
 0.0.0.0 cookies.cmpnet.com
 0.0.0.0 coremetrics.com
@@ -1349,6 +1351,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 eclick.vn
 0.0.0.0 ecoupons.com
 0.0.0.0 edgeio.com
+0.0.0.0 effectivemeasure.com
 0.0.0.0 effectivemeasure.net
 0.0.0.0 eiv.baidu.com
 0.0.0.0 elitedollars.com
@@ -1410,6 +1413,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 fast-adv.it
 0.0.0.0 fastclick.com
 0.0.0.0 fastclick.com.edgesuite.net
+0.0.0.0 fastclick.net
 0.0.0.0 fb-promotions.com
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 feedbackresearch.com
@@ -1466,6 +1470,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 globaltakeoff.net
 0.0.0.0 globaltrack.com
 0.0.0.0 globe7.com
+0.0.0.0 globus-inter.com
 0.0.0.0 gmads.net
 0.0.0.0 go-clicks.de
 0.0.0.0 go-rank.de
@@ -1480,6 +1485,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 gpr.hu
 0.0.0.0 grafstat.ro
 0.0.0.0 grapeshot.co.uk
+0.0.0.0 greystripe.com
 0.0.0.0 gtop.ro
 0.0.0.0 gtop100.com
 0.0.0.0 gtsads.com
@@ -1698,6 +1704,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mediacharger.com
 0.0.0.0 mediadvertising.ro
 0.0.0.0 mediageneral.com
+0.0.0.0 mediamath.com
 0.0.0.0 mediamgr.ugo.com
 0.0.0.0 mediaplazza.com
 0.0.0.0 mediaplex.com
@@ -1727,6 +1734,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mixtraffic.com
 0.0.0.0 mlm.de
 0.0.0.0 mmismm.com
+0.0.0.0 mmtro.com
 0.0.0.0 moatads.com
 0.0.0.0 mobclix.com
 0.0.0.0 mocean.mobi
@@ -1788,6 +1796,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 ngs.impress.co.jp
 0.0.0.0 nitroclicks.com
 0.0.0.0 novem.pl
+0.0.0.0 nugg.ad
+0.0.0.0 nuggad.net
 0.0.0.0 numax.nu-1.com
 0.0.0.0 nuseek.com
 0.0.0.0 oas.benchmark.fr
@@ -1892,9 +1902,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 planetactive.com
 0.0.0.0 play4traffic.com
 0.0.0.0 playhaven.com
+0.0.0.0 plista.com
 0.0.0.0 plugrush.com
 0.0.0.0 pointroll.com
-0.0.0.0 pokerstrategy.com
 0.0.0.0 pop-under.ru
 0.0.0.0 popub.com
 0.0.0.0 popunder.ru
@@ -2013,7 +2023,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 revenuepilot.com
 0.0.0.0 revsci.net
 0.0.0.0 revstats.com
-0.0.0.0 rewardster.com
 0.0.0.0 richmails.com
 0.0.0.0 richmedia.yimg.com
 0.0.0.0 richwebmaster.com
@@ -2157,6 +2166,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 supertop100.com
 0.0.0.0 suptullog.com
 0.0.0.0 surfmusik-adserver.de
+0.0.0.0 swissadsolutions.com
 0.0.0.0 swordfishdc.com
 0.0.0.0 sx.trhnt.com
 0.0.0.0 t.pusk.ru
@@ -2325,6 +2335,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 vpon.com
 0.0.0.0 vrs.cz
 0.0.0.0 vs.tucows.com
+0.0.0.0 vungle.com
 0.0.0.0 wads.webteh.com
 0.0.0.0 warlog.info
 0.0.0.0 warlog.ru
