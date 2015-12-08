@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Dec 7th, 2015 at 02:25
+# Last updated: Dec 8th, 2015 at 02:36
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8143,6 +8143,7 @@
 127.0.0.1 serv.ad-rotator.com
 127.0.0.1 servads.aip.org
 127.0.0.1 serv.adspeed.com
+127.0.0.1 serve.adplxmd.com
 127.0.0.1 servedbyadbutler.com
 127.0.0.1 servedby.adcombination.com
 127.0.0.1 servedby.advertising.com
