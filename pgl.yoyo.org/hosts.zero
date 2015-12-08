@@ -813,6 +813,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adstest.weather.com
 0.0.0.0 adsupply.com
 0.0.0.0 adsupplyads.com
+0.0.0.0 adswitcher.com
 0.0.0.0 adsymptotic.com
 0.0.0.0 adsynergy.com
 0.0.0.0 adsys.townnews.com
@@ -1340,6 +1341,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 e-planning.net
 0.0.0.0 e.kde.cz
 0.0.0.0 eadexchange.com
+0.0.0.0 eas.almamedia.fi
 0.0.0.0 easyhits4u.com
 0.0.0.0 ebocornac.com
 0.0.0.0 ebuzzing.com
@@ -2156,6 +2158,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 suptullog.com
 0.0.0.0 surfmusik-adserver.de
 0.0.0.0 swordfishdc.com
+0.0.0.0 sx.trhnt.com
 0.0.0.0 t.pusk.ru
 0.0.0.0 taboola.com
 0.0.0.0 tacoda.net
