@@ -101,6 +101,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.e-kolay.net
 0.0.0.0 ad.eurosport.com
 0.0.0.0 ad.f1cd.ru
+0.0.0.0 ad.flurry.com
 0.0.0.0 ad.foxnetworks.com
 0.0.0.0 ad.freecity.de
 0.0.0.0 ad.gate24.ch
@@ -647,6 +648,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.virtual-nights.com
 0.0.0.0 ads.virtualcountries.com
 0.0.0.0 ads.vnumedia.com
+0.0.0.0 ads.waps.cn
+0.0.0.0 ads.wapx.cn
 0.0.0.0 ads.weather.ca
 0.0.0.0 ads.web.aol.com
 0.0.0.0 ads.web.cs.com
@@ -796,6 +799,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adsmart.co.uk
 0.0.0.0 adsmart.com
 0.0.0.0 adsmart.net
+0.0.0.0 adsmogo.com
 0.0.0.0 adsnative.com
 0.0.0.0 adsoftware.com
 0.0.0.0 adsoldier.com
@@ -1226,7 +1230,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 clustrmaps.com
 0.0.0.0 cmpstar.com
 0.0.0.0 cnomy.com
-0.0.0.0 cnt.one.ru
 0.0.0.0 cnt.spbland.ru
 0.0.0.0 cnt1.pocitadlo.cz
 0.0.0.0 code-server.biz
@@ -2094,7 +2097,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sixsigmatraffic.com
 0.0.0.0 skylink.vn
 0.0.0.0 slickaffiliate.com
-0.0.0.0 sm.aport.ru
 0.0.0.0 sma.punto.net
 0.0.0.0 smart4ads.com
 0.0.0.0 smartadserver.com
@@ -2169,6 +2171,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 swissadsolutions.com
 0.0.0.0 swordfishdc.com
 0.0.0.0 sx.trhnt.com
+0.0.0.0 t.insigit.com
 0.0.0.0 t.pusk.ru
 0.0.0.0 taboola.com
 0.0.0.0 tacoda.net
@@ -2212,7 +2215,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 top-site-list.com
 0.0.0.0 top.list.ru
 0.0.0.0 top.mail.ru
-0.0.0.0 top.one.ru
 0.0.0.0 top.proext.com
 0.0.0.0 top100-images.rambler.ru
 0.0.0.0 top100.mafia.ru

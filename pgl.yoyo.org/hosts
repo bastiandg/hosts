@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 08 Dec 2015 22:56:33 GMT
-# entries:        2434
+# last updated:   Tue, 08 Dec 2015 23:21:15 GMT
+# entries:        2436
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -126,6 +126,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ad.e-kolay.net
 127.0.0.1 ad.eurosport.com
 127.0.0.1 ad.f1cd.ru
+127.0.0.1 ad.flurry.com
 127.0.0.1 ad.foxnetworks.com
 127.0.0.1 ad.freecity.de
 127.0.0.1 ad.gate24.ch
@@ -672,6 +673,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.virtual-nights.com
 127.0.0.1 ads.virtualcountries.com
 127.0.0.1 ads.vnumedia.com
+127.0.0.1 ads.waps.cn
+127.0.0.1 ads.wapx.cn
 127.0.0.1 ads.weather.ca
 127.0.0.1 ads.web.aol.com
 127.0.0.1 ads.web.cs.com
@@ -821,6 +824,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adsmart.co.uk
 127.0.0.1 adsmart.com
 127.0.0.1 adsmart.net
+127.0.0.1 adsmogo.com
 127.0.0.1 adsnative.com
 127.0.0.1 adsoftware.com
 127.0.0.1 adsoldier.com
@@ -1251,7 +1255,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 clustrmaps.com
 127.0.0.1 cmpstar.com
 127.0.0.1 cnomy.com
-127.0.0.1 cnt.one.ru
 127.0.0.1 cnt.spbland.ru
 127.0.0.1 cnt1.pocitadlo.cz
 127.0.0.1 code-server.biz
@@ -2119,7 +2122,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 sixsigmatraffic.com
 127.0.0.1 skylink.vn
 127.0.0.1 slickaffiliate.com
-127.0.0.1 sm.aport.ru
 127.0.0.1 sma.punto.net
 127.0.0.1 smart4ads.com
 127.0.0.1 smartadserver.com
@@ -2194,6 +2196,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 swissadsolutions.com
 127.0.0.1 swordfishdc.com
 127.0.0.1 sx.trhnt.com
+127.0.0.1 t.insigit.com
 127.0.0.1 t.pusk.ru
 127.0.0.1 taboola.com
 127.0.0.1 tacoda.net
@@ -2237,7 +2240,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 top-site-list.com
 127.0.0.1 top.list.ru
 127.0.0.1 top.mail.ru
-127.0.0.1 top.one.ru
 127.0.0.1 top.proext.com
 127.0.0.1 top100-images.rambler.ru
 127.0.0.1 top100.mafia.ru

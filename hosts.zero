@@ -1035,6 +1035,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.filmweb.pl
 0.0.0.0 ad.firstadsolution.com
 0.0.0.0 ad.floq.jp
+0.0.0.0 ad.flurry.com
 0.0.0.0 ad.flux.com
 0.0.0.0 ad.fnnews.com
 0.0.0.0 ad.fo.net
@@ -4384,6 +4385,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adsmart.co.uk
 0.0.0.0 adsmart.com
 0.0.0.0 adsmart.net
+0.0.0.0 adsmogo.com
 0.0.0.0 adsnative.com
 0.0.0.0 adsnew.gsmarena.com
 0.0.0.0 adsnew.internethaber.com
@@ -8122,7 +8124,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cnocanoecaprod.112.2o7.net
 0.0.0.0 cnomy.com
 0.0.0.0 cnoompprod.112.2o7.net
-0.0.0.0 cnt.one.ru
 0.0.0.0 cnt.spbland.ru
 0.0.0.0 cnt.sup.com
 0.0.0.0 cnt.trafficstars.com
@@ -19768,7 +19769,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 slimxxxtubeyza.ddns.name
 0.0.0.0 slovakia.hit.gemius.pl
 0.0.0.0 sltravelcom.112.2o7.net
-0.0.0.0 sm.aport.ru
 0.0.0.0 sm1.sitemeter.com
 0.0.0.0 sm2.sitemeter.com
 0.0.0.0 sm3.sitemeter.com
@@ -20835,6 +20835,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 t.dtscout.com
 0.0.0.0 t.extreme-dm.com
 0.0.0.0 t.flux.com
+0.0.0.0 t.insigit.com
 0.0.0.0 t.invitemedia.com
 0.0.0.0 t.mdn2015x2.com
 0.0.0.0 t.mdn2015x3.com
@@ -21447,7 +21448,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 top.list.ru
 0.0.0.0 top.mail.ru
 0.0.0.0 top.oewabox.at
-0.0.0.0 top.one.ru
 0.0.0.0 top.pcanywhere.net
 0.0.0.0 top.proext.com
 0.0.0.0 top1.list.ru
