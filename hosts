@@ -5416,6 +5416,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 appcache.admission.net
 127.0.0.1 appdev.addthis.com
 127.0.0.1 apple-protection.info
+127.0.0.1 apple.com-safetyalert.com
 127.0.0.1 applebox.co.id
 127.0.0.1 applestore.com-mobile.gift
 127.0.0.1 applets.sulekha.com
@@ -10059,6 +10060,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 err.chicappa.jp
 127.0.0.1 err.lolipop.jp
 127.0.0.1 err.spring-tns.net
+127.0.0.1 err1.9939118.info
+127.0.0.1 err2.9939118.info
+127.0.0.1 err3.9939118.info
 127.0.0.1 errdoc.gabia.net
 127.0.0.1 error.000webhost.com
 127.0.0.1 error.banan.cz

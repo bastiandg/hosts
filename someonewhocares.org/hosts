@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Dec 8th, 2015 at 10:37
+# Last updated: Dec 10th, 2015 at 00:42
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1636,6 +1636,7 @@
 127.0.0.1 a.oix.net
 127.0.0.1 a.openinternetexchange.com
 127.0.0.1 a.phormlabs.com
+127.0.0.1 apple.com-safetyalert.com
 127.0.0.1 apple-protection.info
 127.0.0.1 applestore.com-mobile.gift
 127.0.0.1 armsart.com
@@ -1697,6 +1698,9 @@
 127.0.0.1 e-kasa.w8w.pl
 127.0.0.1 en.likefever.org			# Facebook trojan
 127.0.0.1 enteryouremail.net
+127.0.0.1 err1.9939118.info
+127.0.0.1 err2.9939118.info
+127.0.0.1 err3.9939118.info
 127.0.0.1 eviboli576.o-f.com
 127.0.0.1 facebook-repto1040s2.ahlamountada.com
 127.0.0.1 faceboook-replyei0ki.montadalitihad.com
