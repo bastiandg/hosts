@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Dec 12th, 2015 at 03:00
+# Last updated: Dec 13th, 2015 at 18:55
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7550,8 +7550,10 @@
 127.0.0.1 obs.nnm2.ru
 127.0.0.1 ocslab.com
 127.0.0.1 offer.alibaba.com
+127.0.0.1 offerfactory.click
 127.0.0.1 offers.bycontext.com
 127.0.0.1 offers.impower.com
+127.0.0.1 offertunity.click
 127.0.0.1 offerx.co.uk
 127.0.0.1 oidiscover.com
 127.0.0.1 oimsgad.qq.com
