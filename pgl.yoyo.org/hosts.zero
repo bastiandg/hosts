@@ -236,6 +236,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adimages.carsoup.com
 0.0.0.0 adimages.go.com
 0.0.0.0 adimages.homestore.com
+0.0.0.0 adimages.omroepzeeland.nl
 0.0.0.0 adimages.sanomawsoy.fi
 0.0.0.0 adimg.cnet.com
 0.0.0.0 adimg.com.com
@@ -310,6 +311,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adpepper.nl
 0.0.0.0 adperium.com
 0.0.0.0 adpia.vn
+0.0.0.0 adplus.co.id
 0.0.0.0 adplxmd.com
 0.0.0.0 adpost.com
 0.0.0.0 adprofile.net
@@ -756,6 +758,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.nydailynews.com
 0.0.0.0 adserver.o2.pl
 0.0.0.0 adserver.oddschecker.com
+0.0.0.0 adserver.omroepzeeland.nl
 0.0.0.0 adserver.pl
 0.0.0.0 adserver.plhb.com
 0.0.0.0 adserver.portalofevil.com
@@ -1681,6 +1684,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 marchex.com
 0.0.0.0 market-buster.com
 0.0.0.0 marketing.888.com
+0.0.0.0 marketing.hearstmagazines.nl
 0.0.0.0 marketing.nyi.net
 0.0.0.0 marketing.osijek031.com
 0.0.0.0 marketingsolutions.yahoo.com
@@ -2070,6 +2074,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 services.hearstmags.com
 0.0.0.0 serving-sys.com
 0.0.0.0 sexaddpro.de
+0.0.0.0 sexadvertentiesite.nl
 0.0.0.0 sexcounter.com
 0.0.0.0 sexinyourcity.com
 0.0.0.0 sexlist.com
@@ -2150,7 +2155,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.unwired-i.net
 0.0.0.0 stats.wordpress.com
+0.0.0.0 stats.x14.eu
 0.0.0.0 stats4all.com
+0.0.0.0 statsie.com
 0.0.0.0 statxpress.com
 0.0.0.0 steelhouse.com
 0.0.0.0 steelhousemedia.com
@@ -2250,6 +2257,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracker.marinsm.com
 0.0.0.0 tracking.crunchiemedia.com
 0.0.0.0 tracking.gajmp.com
+0.0.0.0 tracking.internetstores.de
 0.0.0.0 tracking.yourfilehost.com
 0.0.0.0 tracking101.com
 0.0.0.0 trackingsoft.com

@@ -1692,6 +1692,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adimages.go.com
 0.0.0.0 adimages.homestore.com
 0.0.0.0 adimages.mp3.com
+0.0.0.0 adimages.omroepzeeland.nl
 0.0.0.0 adimages.sanomawsoy.fi
 0.0.0.0 adimages.scrippsnetworks.com
 0.0.0.0 adimages.sina.com.hk
@@ -1980,6 +1981,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adping.qq.com
 0.0.0.0 adplay.tudou.com
 0.0.0.0 adplexmedia.adk2.co
+0.0.0.0 adplus.co.id
 0.0.0.0 adplus.goo.mx
 0.0.0.0 adplus.yonhapnews.co.kr
 0.0.0.0 adplxmd.com
@@ -4188,6 +4190,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.o2.pl
 0.0.0.0 adserver.oddschecker.com
 0.0.0.0 adserver.omroepflevoland.nl
+0.0.0.0 adserver.omroepzeeland.nl
 0.0.0.0 adserver.online-tech.com
 0.0.0.0 adserver.onwisconsin.com
 0.0.0.0 adserver.outpersonals.com
@@ -14340,6 +14343,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 marketing.888.com
 0.0.0.0 marketing.beesearch.info
 0.0.0.0 marketing.doubleclickindustries.com
+0.0.0.0 marketing.hearstmagazines.nl
 0.0.0.0 marketing.nyi.net
 0.0.0.0 marketing.osijek031.com
 0.0.0.0 marketingenhanced.com
@@ -19499,6 +19503,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 sevenoneintermedia.112.2o7.net
 0.0.0.0 seventeen.co.za
 0.0.0.0 sexaddpro.de
+0.0.0.0 sexadvertentiesite.nl
 0.0.0.0 sexcounter.com
 0.0.0.0 sexinyourcity.com
 0.0.0.0 sexitnow.com
@@ -20563,6 +20568,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wp.com
 0.0.0.0 stats.www.ibm.com
+0.0.0.0 stats.x14.eu
 0.0.0.0 stats.xxxkey.com
 0.0.0.0 stats.xxxrewards.com
 0.0.0.0 stats.yourminis.com
@@ -20604,6 +20610,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 stats5.lightningcast.com
 0.0.0.0 stats6.lightningcast.net
 0.0.0.0 statse.webtrendslive.com
+0.0.0.0 statsie.com
 0.0.0.0 statstracker.celebrity-gossip.net
 0.0.0.0 statsv3.gaycash.com
 0.0.0.0 statto.plus8.net
@@ -21753,6 +21760,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracking.ientry.net
 0.0.0.0 tracking.immobilienscout24.de
 0.0.0.0 tracking.intermundomedia.com
+0.0.0.0 tracking.internetstores.de
 0.0.0.0 tracking.inuvo.com
 0.0.0.0 tracking.iol.co.za
 0.0.0.0 tracking.joker.com

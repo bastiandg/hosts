@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 08 Dec 2015 23:21:15 GMT
-# entries:        2430
+# last updated:   Fri, 18 Dec 2015 16:28:56 GMT
+# entries:        2438
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -261,6 +261,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adimages.carsoup.com
 127.0.0.1 adimages.go.com
 127.0.0.1 adimages.homestore.com
+127.0.0.1 adimages.omroepzeeland.nl
 127.0.0.1 adimages.sanomawsoy.fi
 127.0.0.1 adimg.cnet.com
 127.0.0.1 adimg.com.com
@@ -335,6 +336,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adpepper.nl
 127.0.0.1 adperium.com
 127.0.0.1 adpia.vn
+127.0.0.1 adplus.co.id
 127.0.0.1 adplxmd.com
 127.0.0.1 adpost.com
 127.0.0.1 adprofile.net
@@ -781,6 +783,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserver.nydailynews.com
 127.0.0.1 adserver.o2.pl
 127.0.0.1 adserver.oddschecker.com
+127.0.0.1 adserver.omroepzeeland.nl
 127.0.0.1 adserver.pl
 127.0.0.1 adserver.plhb.com
 127.0.0.1 adserver.portalofevil.com
@@ -1706,6 +1709,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 marchex.com
 127.0.0.1 market-buster.com
 127.0.0.1 marketing.888.com
+127.0.0.1 marketing.hearstmagazines.nl
 127.0.0.1 marketing.nyi.net
 127.0.0.1 marketing.osijek031.com
 127.0.0.1 marketingsolutions.yahoo.com
@@ -2095,6 +2099,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 services.hearstmags.com
 127.0.0.1 serving-sys.com
 127.0.0.1 sexaddpro.de
+127.0.0.1 sexadvertentiesite.nl
 127.0.0.1 sexcounter.com
 127.0.0.1 sexinyourcity.com
 127.0.0.1 sexlist.com
@@ -2175,7 +2180,9 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 stats.townnews.com
 127.0.0.1 stats.unwired-i.net
 127.0.0.1 stats.wordpress.com
+127.0.0.1 stats.x14.eu
 127.0.0.1 stats4all.com
+127.0.0.1 statsie.com
 127.0.0.1 statxpress.com
 127.0.0.1 steelhouse.com
 127.0.0.1 steelhousemedia.com
@@ -2275,6 +2282,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 tracker.marinsm.com
 127.0.0.1 tracking.crunchiemedia.com
 127.0.0.1 tracking.gajmp.com
+127.0.0.1 tracking.internetstores.de
 127.0.0.1 tracking.yourfilehost.com
 127.0.0.1 tracking101.com
 127.0.0.1 trackingsoft.com
