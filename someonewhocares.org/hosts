@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Dec 13th, 2015 at 18:55
+# Last updated: Dec 17th, 2015 at 15:56
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7591,6 +7591,7 @@
 127.0.0.1 openads.zeads.com
 127.0.0.1 openad.travelnow.com
 127.0.0.1 opencandy.com
+127.0.0.1 openload.info
 127.0.0.1 opentable.tt.omtrdc.net
 127.0.0.1 openx2.fotoflexer.com
 127.0.0.1 openx.adfactor.nl
@@ -9251,6 +9252,7 @@
 127.0.0.1 www.entertainment-specials.com
 127.0.0.1 www.eshopads2.com
 127.0.0.1 www.euros4click.de
+127.0.0.1 www.exasharetab.com
 127.0.0.1 www.exclusivegiftcards.com
 127.0.0.1 www.eyeblaster-bs.com
 127.0.0.1 www.eyewonder.com #: Interactive Digital Advertising, Rich Media Ads, Flash Ads, Online Advertising
