@@ -2021,14 +2021,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 rev2pub.com
 0.0.0.0 revenue.net
 0.0.0.0 revenuedirect.com
-0.0.0.0 revenuepilot.com
 0.0.0.0 revsci.net
 0.0.0.0 revstats.com
 0.0.0.0 richmails.com
 0.0.0.0 richmedia.yimg.com
 0.0.0.0 richwebmaster.com
 0.0.0.0 rightstats.com
-0.0.0.0 rl.auto.ru
 0.0.0.0 rlcdn.com
 0.0.0.0 rle.ru
 0.0.0.0 rmads.msn.com
@@ -2356,7 +2354,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 webpower.com
 0.0.0.0 webreseau.com
 0.0.0.0 webseoanalytics.com
-0.0.0.0 websitepagerank.net
 0.0.0.0 websponsors.com
 0.0.0.0 webstat.channel4.com
 0.0.0.0 webstat.com
@@ -2432,6 +2429,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 zedo.com
 0.0.0.0 zencudo.co.uk
 0.0.0.0 zenkreka.com
+0.0.0.0 zenzuu.com
 0.0.0.0 zeus.developershed.com
 0.0.0.0 zeusclicks.com
 0.0.0.0 zintext.com
