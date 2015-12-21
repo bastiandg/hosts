@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 18 Dec 2015 16:28:56 GMT
-# entries:        2438
+# last updated:   Mon, 21 Dec 2015 16:15:24 GMT
+# entries:        2444
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -209,6 +209,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adbanner.ro
 127.0.0.1 adbard.net
 127.0.0.1 adblade.com
+127.0.0.1 adblockanalytics.com
 127.0.0.1 adboost.de.vu
 127.0.0.1 adboost.net
 127.0.0.1 adbooth.net
@@ -245,6 +246,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adexpose.com
 127.0.0.1 adext.inkclub.com
 127.0.0.1 adf.ly
+127.0.0.1 adfactor.nl
 127.0.0.1 adfarm.mediaplex.com
 127.0.0.1 adflight.com
 127.0.0.1 adforce.com
@@ -306,6 +308,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 admedia.com
 127.0.0.1 admedia.ro
 127.0.0.1 admeld.com
+127.0.0.1 admerize.be
 127.0.0.1 admeta.com
 127.0.0.1 admex.com
 127.0.0.1 adminder.com
@@ -1116,6 +1119,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 best-pr.info
 127.0.0.1 best-top.ro
 127.0.0.1 bestsearch.net
+127.0.0.1 bhclicks.com
 127.0.0.1 bidclix.com
 127.0.0.1 bidclix.net
 127.0.0.1 bidtrk.com
@@ -1375,6 +1379,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 eadexchange.com
 127.0.0.1 eas.almamedia.fi
 127.0.0.1 easyhits4u.com
+127.0.0.1 ebayadvertising.com
 127.0.0.1 ebocornac.com
 127.0.0.1 ebuzzing.com
 127.0.0.1 ecircle-ag.com
@@ -1660,6 +1665,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 layer-ads.de
 127.0.0.1 lbn.ru
 127.0.0.1 lct.salesforce.com
+127.0.0.1 lead-analytics.nl
 127.0.0.1 leadaffiliates.com
 127.0.0.1 leadboltads.net
 127.0.0.1 leadclick.com
