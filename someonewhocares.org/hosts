@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Dec 17th, 2015 at 15:56
+# Last updated: Dec 20th, 2015 at 20:41
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -4493,6 +4493,7 @@
 127.0.0.1 adserver.ig.com.br
 127.0.0.1 adserver.ign.com
 127.0.0.1 adserver.ilounge.com
+127.0.0.1 adserver-images.adikteev.com
 127.0.0.1 adserver.infinit.net
 127.0.0.1 adserver.infotiger.com
 127.0.0.1 adserver.interfree.it
@@ -5462,6 +5463,7 @@
 127.0.0.1 ak.maxserving.com
 127.0.0.1 ako.cc
 127.0.0.1 ak.p.openx.net
+127.0.0.1 aksdk-images.adikteev.com
 127.0.0.1 aktif.haberx.com
 127.0.0.1 al1.sharethis.com
 127.0.0.1 alert.police-patrol-agent.com
@@ -5935,6 +5937,7 @@
 127.0.0.1 cdn6.emediate.eu
 127.0.0.1 cdn.8digits.com
 127.0.0.1 cdn.adigniter.org
+127.0.0.1 cdn.adikteev.com
 127.0.0.1 cdn.adnxs.com
 127.0.0.1 cdn.adplxmd.com
 127.0.0.1 cdnads.cam4.com

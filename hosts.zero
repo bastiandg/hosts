@@ -3972,6 +3972,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver-4.ig.com.br
 0.0.0.0 adserver-5.ig.com.br
 0.0.0.0 adserver-espnet.sportszone.net
+0.0.0.0 adserver-images.adikteev.com
 0.0.0.0 adserver-live.yoc.mobi
 0.0.0.0 adserver-static1.iweb.cortica.com
 0.0.0.0 adserver-voice-online.co.uk
@@ -5000,6 +5001,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 akihabaranews.us.intellitxt.com
 0.0.0.0 akirkpatrick.com
 0.0.0.0 ako.cc
+0.0.0.0 aksdk-images.adikteev.com
 0.0.0.0 aktif.haberx.com
 0.0.0.0 aktrack.pubmatic.com
 0.0.0.0 al.5.p2l.info
@@ -7380,6 +7382,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.adengage.com
 0.0.0.0 cdn.adgear.com
 0.0.0.0 cdn.adigniter.org
+0.0.0.0 cdn.adikteev.com
 0.0.0.0 cdn.adk2.co
 0.0.0.0 cdn.adk2.com
 0.0.0.0 cdn.admitad.com

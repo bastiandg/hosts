@@ -1877,6 +1877,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver-4.ig.com.br
 0.0.0.0 adserver-5.ig.com.br
 0.0.0.0 adserver-espnet.sportszone.net
+0.0.0.0 adserver-images.adikteev.com
 0.0.0.0 adserver.100free.com
 0.0.0.0 adserver.163.com
 0.0.0.0 adserver.2618.com
@@ -2403,6 +2404,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 akaads-espn.starwave.com
 0.0.0.0 akamai.invitemedia.com
 0.0.0.0 ako.cc
+0.0.0.0 aksdk-images.adikteev.com
 0.0.0.0 aktif.haberx.com
 0.0.0.0 al.5.p2l.info
 0.0.0.0 al1.sharethis.com
@@ -3259,6 +3261,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdb.hitbox.com
 0.0.0.0 cdn.8digits.com
 0.0.0.0 cdn.adigniter.org
+0.0.0.0 cdn.adikteev.com
 0.0.0.0 cdn.adnxs.com
 0.0.0.0 cdn.adplxmd.com
 0.0.0.0 cdn.ads.ookla.com
