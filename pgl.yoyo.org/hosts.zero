@@ -316,7 +316,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adpia.vn
 0.0.0.0 adplus.co.id
 0.0.0.0 adplxmd.com
-0.0.0.0 adpost.com
 0.0.0.0 adprofile.net
 0.0.0.0 adprojekt.pl
 0.0.0.0 adq.nextag.com
@@ -947,6 +946,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 amung.us
 0.0.0.0 an.tacoda.net
 0.0.0.0 anahtars.com
+0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.live.com
 0.0.0.0 analytics.yahoo.com

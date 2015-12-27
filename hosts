@@ -2102,7 +2102,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adplus.yonhapnews.co.kr
 127.0.0.1 adplxmd.com
 127.0.0.1 adportal.advertisingnemesis.com
-127.0.0.1 adpost.com
 127.0.0.1 adprofile.net
 127.0.0.1 adprojekt.pl
 127.0.0.1 adprovider.adlure.net
@@ -5257,6 +5256,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analytics-api-samples.googlecode.com
 127.0.0.1 analytics-static.unister-gmbh.de
 127.0.0.1 analytics.admob.com
+127.0.0.1 analytics.adpost.org
 127.0.0.1 analytics.amakings.com
 127.0.0.1 analytics.analytics-egain.com
 127.0.0.1 analytics.androidandme.com

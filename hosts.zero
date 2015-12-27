@@ -2102,7 +2102,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adplus.yonhapnews.co.kr
 0.0.0.0 adplxmd.com
 0.0.0.0 adportal.advertisingnemesis.com
-0.0.0.0 adpost.com
 0.0.0.0 adprofile.net
 0.0.0.0 adprojekt.pl
 0.0.0.0 adprovider.adlure.net
@@ -5257,6 +5256,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 analytics-api-samples.googlecode.com
 0.0.0.0 analytics-static.unister-gmbh.de
 0.0.0.0 analytics.admob.com
+0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics.amakings.com
 0.0.0.0 analytics.analytics-egain.com
 0.0.0.0 analytics.androidandme.com
