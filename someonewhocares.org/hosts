@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Dec 23rd, 2015 at 02:20
+# Last updated: Dec 30th, 2015 at 09:21
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1686,6 +1686,7 @@
 127.0.0.1 c.oix.net
 127.0.0.1 conduit.com
 127.0.0.1 counter.yadro.ru
+127.0.0.1 cra-arc.gc.ca.bioder.com.tr
 127.0.0.1 cra-arc-gc-ca.noads.biz
 127.0.0.1 custom3hurricanedigitalmedia.com
 127.0.0.1 c.webwise.com
