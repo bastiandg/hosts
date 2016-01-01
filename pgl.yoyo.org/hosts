@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 27 Dec 2015 17:12:58 GMT
-# entries:        2443
+# entries:        2441
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2221,7 +2221,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 targetpoint.com
 127.0.0.1 tatsumi-sys.jp
 127.0.0.1 tcads.net
-127.0.0.1 tdsearchware.com
 127.0.0.1 techclicks.net
 127.0.0.1 teenrevenue.com
 127.0.0.1 teliad.de
@@ -2238,7 +2237,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 thecounter.com
 127.0.0.1 therapistla.com
 127.0.0.1 therichkids.com
-127.0.0.1 thesearchworks.com
 127.0.0.1 thruport.com
 127.0.0.1 tinybar.com
 127.0.0.1 tizers.net
