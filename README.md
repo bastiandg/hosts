@@ -1,4 +1,4 @@
-Host files from differrent Lists
+Host files from differrent Lists 
 
 Don't thank me for the host file, thank these fine people:
 - http://www.malwaredomainlist.com/hostslist/hosts.txt
