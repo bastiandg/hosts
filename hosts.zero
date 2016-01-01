@@ -852,7 +852,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad-logics.com
 0.0.0.0 ad-media.xe.gr
 0.0.0.0 ad-noise.net
-0.0.0.0 ad-pay.de
 0.0.0.0 ad-plus.cn
 0.0.0.0 ad-rotator.com
 0.0.0.0 ad-server.co.za
@@ -1674,6 +1673,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adcentre.it-advanced.com
 0.0.0.0 adcentric.randomseed.com
 0.0.0.0 adcentriconline.com
+0.0.0.0 adcept.net
 0.0.0.0 adchimp.com
 0.0.0.0 adclick.com
 0.0.0.0 adclick.g.doubleclick.net

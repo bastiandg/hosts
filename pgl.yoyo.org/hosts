@@ -83,7 +83,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ad-balancer.net
 127.0.0.1 ad-center.com
 127.0.0.1 ad-images.suntimes.com
-127.0.0.1 ad-pay.de
 127.0.0.1 ad-rotator.com
 127.0.0.1 ad-server.gulasidorna.se
 127.0.0.1 ad-serverparc.nl
@@ -227,6 +226,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adcenter.mdf.se
 127.0.0.1 adcenter.net
 127.0.0.1 adcentriconline.com
+127.0.0.1 adcept.net
 127.0.0.1 adclick.com
 127.0.0.1 adclient.uimserv.net
 127.0.0.1 adclient1.tucows.com

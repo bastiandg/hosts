@@ -852,7 +852,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad-logics.com
 127.0.0.1 ad-media.xe.gr
 127.0.0.1 ad-noise.net
-127.0.0.1 ad-pay.de
 127.0.0.1 ad-plus.cn
 127.0.0.1 ad-rotator.com
 127.0.0.1 ad-server.co.za
@@ -1674,6 +1673,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adcentre.it-advanced.com
 127.0.0.1 adcentric.randomseed.com
 127.0.0.1 adcentriconline.com
+127.0.0.1 adcept.net
 127.0.0.1 adchimp.com
 127.0.0.1 adclick.com
 127.0.0.1 adclick.g.doubleclick.net
