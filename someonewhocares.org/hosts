@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Jan 4th, 2016 at 16:39
+# Last updated: Jan 6th, 2016 at 10:58
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -4652,6 +4652,7 @@
 127.0.0.1 adserver.juicyads.com
 127.0.0.1 adserver.kcilink.com
 127.0.0.1 adserver.killeraces.com
+127.0.0.1 adserver.kimia.es
 127.0.0.1 adserver.kylemedia.com
 127.0.0.1 adserver.lanacion.com.ar
 127.0.0.1 adserver.lanepress.com
@@ -7606,6 +7607,7 @@
 127.0.0.1 movieads.imgs.sapo.pt
 127.0.0.1 mp3playersource.com
 127.0.0.1 mpartner.googleadservices.com
+127.0.0.1 m.pl.pornzone.tv
 127.0.0.1 mp.tscapeplay.com
 127.0.0.1 mpv.sandai.net
 127.0.0.1 mr4evmd0r1.s.ad6media.fr
@@ -7616,6 +7618,7 @@
 127.0.0.1 msn.tns-cs.net
 127.0.0.1 msn.uvwbox.de
 127.0.0.1 msn.wrating.com
+127.0.0.1 ms.yandex.ru
 127.0.0.1 mt58.mtree.com
 127.0.0.1 m.tribalfusion.com
 127.0.0.1 mu-in-f167.1e100.net
@@ -8102,6 +8105,7 @@
 127.0.0.1 protection.VIpolice.com
 127.0.0.1 proximityads.flipcorp.com
 127.0.0.1 proxy.blogads.com
+127.0.0.1 prpops.com
 127.0.0.1 pr.ydp.yahoo.com
 127.0.0.1 pstatic.datafastguru.info
 127.0.0.1 ptrads.mp3.com
@@ -10139,6 +10143,7 @@
 127.0.0.1 youcanoptin.net
 127.0.0.1 youcanoptin.org
 127.0.0.1 youfck.com
+127.0.0.1 your.dailytopdealz.com
 127.0.0.1 yourdvdplayer.com
 127.0.0.1 yourfreegascard.com
 127.0.0.1 your-free-iphone.com
