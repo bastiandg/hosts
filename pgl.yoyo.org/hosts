@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 27 Dec 2015 17:12:58 GMT
-# entries:        2441
+# last updated:   Wed, 06 Jan 2016 21:47:51 GMT
+# entries:        2445
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1764,6 +1764,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 microstatic.pl
 127.0.0.1 microticker.com
 127.0.0.1 midnightclicking.com
+127.0.0.1 mintrace.com
 127.0.0.1 misstrends.com
 127.0.0.1 miva.com
 127.0.0.1 mixpanel.com
@@ -1855,6 +1856,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 offermatica.com
 127.0.0.1 olivebrandresponse.com
 127.0.0.1 omniture.com
+127.0.0.1 onclasrv.com
 127.0.0.1 onclickads.net
 127.0.0.1 oneandonlynetwork.com
 127.0.0.1 onenetworkdirect.com
@@ -1941,6 +1943,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 plugrush.com
 127.0.0.1 pointroll.com
 127.0.0.1 pop-under.ru
+127.0.0.1 popads.net
 127.0.0.1 popub.com
 127.0.0.1 popunder.ru
 127.0.0.1 popup.msn.com
@@ -2323,6 +2326,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 tubedspots.com
 127.0.0.1 tubemogul.com
 127.0.0.1 turn.com
+127.0.0.1 tvas-a.pw
 127.0.0.1 tvas-c.pw
 127.0.0.1 tvmtracker.com
 127.0.0.1 twittad.com
