@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 06 Jan 2016 21:47:51 GMT
-# entries:        2444
+# last updated:   Sat, 09 Jan 2016 20:26:21 GMT
+# entries:        2446
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1777,6 +1777,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 moneyexpert.com
 127.0.0.1 monsterpops.com
 127.0.0.1 mopub.com
+127.0.0.1 mouseflow.com
 127.0.0.1 mpstat.us
 127.0.0.1 mr-rank.de
 127.0.0.1 mrskincash.com
@@ -2446,6 +2447,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 xtendmedia.com
 127.0.0.1 xtremetop100.com
 127.0.0.1 xxxcounter.com
+127.0.0.1 xxxmyself.com
 127.0.0.1 y.ibsys.com
 127.0.0.1 yab-adimages.s3.amazonaws.com
 127.0.0.1 yabuka.com
