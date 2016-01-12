@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 09 Jan 2016 20:26:21 GMT
-# entries:        2446
+# last updated:   Tue, 12 Jan 2016 06:59:31 GMT
+# entries:        2447
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1562,6 +1562,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 hotkeys.com
 127.0.0.1 hotlog.ru
 127.0.0.1 hotrank.com.tw
+127.0.0.1 htmlhubing.xyz
 127.0.0.1 httpool.com
 127.0.0.1 hurricanedigitalmedia.com
 127.0.0.1 hydramedia.com
