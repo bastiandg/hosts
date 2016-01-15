@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Jan 14th, 2016 at 13:26
+# Last updated: Jan 14th, 2016 at 16:07
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6889,6 +6889,7 @@
 127.0.0.1 gimg.baidu.com
 127.0.0.1 gimmethatreward.com
 127.0.0.1 gingert.net
+127.0.0.1 global.msmtrakk03a.com
 127.0.0.1 globalnetworkanalys.com
 127.0.0.1 global-promotions.internationalredirects.com
 127.0.0.1 globalwebads.com
@@ -7778,6 +7779,7 @@
 127.0.0.1 offerfactory.click
 127.0.0.1 offers.bycontext.com
 127.0.0.1 offers.impower.com
+127.0.0.1 offertrakking.info
 127.0.0.1 offertunity.click
 127.0.0.1 offerx.co.uk
 127.0.0.1 oidiscover.com
@@ -7985,6 +7987,7 @@
 127.0.0.1 platads.com
 127.0.0.1 playlink.pl
 127.0.0.1 playtime.tubemogul.com
+127.0.0.1 play.traffpartners.com
 127.0.0.1 pl.bbelements.com
 127.0.0.1 p.l.qq.com
 127.0.0.1 pl.spanel.gem.pl
@@ -9411,6 +9414,7 @@
 127.0.0.1 www.apparelncs.com
 127.0.0.1 www.apparel-offer.com
 127.0.0.1 www.applelounge.com
+127.0.0.1 www.applicationwiki.com
 127.0.0.1 www.appliedsemantics.com
 127.0.0.1 www.appnexus.com
 127.0.0.1 www.art-music-rewardpath.com
