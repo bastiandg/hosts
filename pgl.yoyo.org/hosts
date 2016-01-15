@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 13 Jan 2016 08:26:30 GMT
-# entries:        2448
+# entries:        2445
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -810,7 +810,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserver1.mindshare.de
 127.0.0.1 adserver1.mokono.com
 127.0.0.1 adserver1.ogilvy-interactive.de
-127.0.0.1 adserver1.w00tmedia.net
 127.0.0.1 adserver2.mindshare.de
 127.0.0.1 adserver2.popdata.de
 127.0.0.1 adserverplus.com
@@ -1486,6 +1485,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 funpageexchange.com
 127.0.0.1 fusionads.net
 127.0.0.1 fusionquest.com
+127.0.0.1 fxclix.com
 127.0.0.1 fxstyle.net
 127.0.0.1 galaxien.com
 127.0.0.1 game-advertising-online.com
@@ -1592,7 +1592,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ilead.itrack.it
 127.0.0.1 iliillliO00OO0.321.cn
 127.0.0.1 ilovecheating.com
-127.0.0.1 image.ugo.com
 127.0.0.1 imageads.canoe.ca
 127.0.0.1 imagecash.net
 127.0.0.1 images-pw.secureserver.net
@@ -1738,7 +1737,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 media.funpic.de
 127.0.0.1 media6degrees.com
 127.0.0.1 mediaarea.eu
-127.0.0.1 mediacharger.com
 127.0.0.1 mediadvertising.ro
 127.0.0.1 mediageneral.com
 127.0.0.1 mediamath.com
@@ -2024,7 +2022,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ranking-street.de
 127.0.0.1 rankingchart.de
 127.0.0.1 rankingscout.com
-127.0.0.1 rankingscout.org
 127.0.0.1 rankyou.com
 127.0.0.1 rapidcounter.com
 127.0.0.1 rate.ru

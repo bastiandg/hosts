@@ -785,7 +785,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver1.mindshare.de
 0.0.0.0 adserver1.mokono.com
 0.0.0.0 adserver1.ogilvy-interactive.de
-0.0.0.0 adserver1.w00tmedia.net
 0.0.0.0 adserver2.mindshare.de
 0.0.0.0 adserver2.popdata.de
 0.0.0.0 adserverplus.com
@@ -1461,6 +1460,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 funpageexchange.com
 0.0.0.0 fusionads.net
 0.0.0.0 fusionquest.com
+0.0.0.0 fxclix.com
 0.0.0.0 fxstyle.net
 0.0.0.0 galaxien.com
 0.0.0.0 game-advertising-online.com
@@ -1567,7 +1567,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ilead.itrack.it
 0.0.0.0 iliilllio00oo0.321.cn
 0.0.0.0 ilovecheating.com
-0.0.0.0 image.ugo.com
 0.0.0.0 imageads.canoe.ca
 0.0.0.0 imagecash.net
 0.0.0.0 images-pw.secureserver.net
@@ -1713,7 +1712,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 media.funpic.de
 0.0.0.0 media6degrees.com
 0.0.0.0 mediaarea.eu
-0.0.0.0 mediacharger.com
 0.0.0.0 mediadvertising.ro
 0.0.0.0 mediageneral.com
 0.0.0.0 mediamath.com
@@ -1999,7 +1997,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ranking-street.de
 0.0.0.0 rankingchart.de
 0.0.0.0 rankingscout.com
-0.0.0.0 rankingscout.org
 0.0.0.0 rankyou.com
 0.0.0.0 rapidcounter.com
 0.0.0.0 rate.ru

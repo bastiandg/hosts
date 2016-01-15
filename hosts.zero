@@ -4426,7 +4426,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver1.realtracker.com
 0.0.0.0 adserver1.sonymusiceurope.com
 0.0.0.0 adserver1.teracent.net
-0.0.0.0 adserver1.w00tmedia.net
 0.0.0.0 adserver1.wmads.com
 0.0.0.0 adserver2.adserver.com.pl
 0.0.0.0 adserver2.atman.pl
@@ -11010,6 +11009,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 fwxyd.ru
 0.0.0.0 fx.gtop.ro
 0.0.0.0 fx.gtopstats.com
+0.0.0.0 fxclix.com
 0.0.0.0 fxlayer.net
 0.0.0.0 fxstyle.net
 0.0.0.0 fxyc0dwa.com
@@ -18263,7 +18263,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ranking-street.de
 0.0.0.0 rankingchart.de
 0.0.0.0 rankingscout.com
-0.0.0.0 rankingscout.org
 0.0.0.0 rankmytattoos.us.intellitxt.com
 0.0.0.0 ranks.boardtracker.com
 0.0.0.0 ranks.sextracker.com
