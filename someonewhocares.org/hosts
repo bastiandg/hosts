@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Jan 14th, 2016 at 16:07
+# Last updated: Jan 16th, 2016 at 11:26
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7434,6 +7434,7 @@
 127.0.0.1 mads.aol.com
 127.0.0.1 mads.cnet.com
 127.0.0.1 mail.radar.imgsmail.ru
+127.0.0.1 main.exoclick.com
 127.0.0.1 main.vodonet.net
 127.0.0.1 manage001.adtech.de
 127.0.0.1 manage001.adtech.fr
