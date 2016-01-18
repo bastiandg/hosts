@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Jan 16th, 2016 at 11:26
+# Last updated: Jan 17th, 2016 at 17:49
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6919,6 +6919,7 @@
 127.0.0.1 go.lfstmedia.com
 127.0.0.1 go.lotech.bbelements.com
 127.0.0.1 goodbizez.com
+127.0.0.1 goodbookbook.com
 127.0.0.1 goodsblock.marketgid.com
 127.0.0.1 goody-garage.com
 127.0.0.1 go.onclasrv.com
