@@ -4674,6 +4674,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adunit.namiflow.com
 0.0.0.0 adv-adserver.com
 0.0.0.0 adv-banner.libero.it
+0.0.0.0 adv-op2.joygames.me
 0.0.0.0 adv.0tub.com
 0.0.0.0 adv.440net.com
 0.0.0.0 adv.440network.com
@@ -14503,7 +14504,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 marketingsolutions.yahoo.com
 0.0.0.0 marketlive.122.2o7.net
 0.0.0.0 marketscore.com
-0.0.0.0 marketwatch.com
 0.0.0.0 marketwatch.com.edgesuite.net
 0.0.0.0 marketworksinc.122.2o7.net
 0.0.0.0 marksandspencer.122.2o7.net
@@ -17712,6 +17712,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 post.securestudies.com
 0.0.0.0 postchronicle.us.intellitxt.com
 0.0.0.0 postclick.adcentriconline.com
+0.0.0.0 poster-op2joygames.me
 0.0.0.0 postgazettecollect.247realmedia.com
 0.0.0.0 postimees.spring-tns.net
 0.0.0.0 postmasterbannernet.com
@@ -21541,7 +21542,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 thetechherald.uk.intellitxt.com
 0.0.0.0 thetechlounge.us.intellitxt.com
 0.0.0.0 thetechzone.us.intellitxt.com
-0.0.0.0 thetradedesk.com
 0.0.0.0 theunwired.us.intellitxt.com
 0.0.0.0 theuploadbusiness.com
 0.0.0.0 theuseful.com
@@ -25385,7 +25385,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.marketbill.com
 0.0.0.0 www.marketing-rewardpath.com
 0.0.0.0 www.marketscore.com
-0.0.0.0 www.marketwatch.com
 0.0.0.0 www.marketwatch.com.edgesuite.net
 0.0.0.0 www.marss.eu
 0.0.0.0 www.masterspace.biz
@@ -26156,7 +26155,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.thesparkmachine.com
 0.0.0.0 www.thesurfshield.com
 0.0.0.0 www.thetop10.com
-0.0.0.0 www.thetradedesk.com
 0.0.0.0 www.thetraderinpajamas.com
 0.0.0.0 www.theuniquesearch.com
 0.0.0.0 www.theuseful.com

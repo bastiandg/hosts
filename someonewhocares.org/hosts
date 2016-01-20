@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Jan 17th, 2016 at 17:49
+# Last updated: Jan 19th, 2016 at 18:19
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5523,6 +5523,7 @@
 127.0.0.1 adv.merlin.co.il
 127.0.0.1 adv.netshelter.net
 127.0.0.1 ad-void.com
+127.0.0.1 adv-op2.joygames.me
 127.0.0.1 advplace.com
 127.0.0.1 advplace.nuggad.net
 127.0.0.1 adv.publy.net
@@ -7456,7 +7457,6 @@
 127.0.0.1 marketing.888.com
 127.0.0.1 marketing.hearstmagazines.nl
 127.0.0.1 marketing-rewardpath.com
-127.0.0.1 marketwatch.com
 127.0.0.1 marketwatch.com.edgesuite.net
 127.0.0.1 marriottinternationa.tt.omtrdc.net
 127.0.0.1 mashinkhabar.com
@@ -8019,6 +8019,7 @@
 127.0.0.1 popup.taboola.com
 127.0.0.1 pos.baidu.com
 127.0.0.1 posed2shade.com
+127.0.0.1 poster-op2joygames.me
 127.0.0.1 postmasterdirect.com
 127.0.0.1 post.rmbn.ru
 127.0.0.1 pp2.pptv.com
@@ -8808,7 +8809,6 @@
 127.0.0.1 thepiratetrader.com
 127.0.0.1 the-smart-stop.com
 127.0.0.1 thesuperdeliciousnews.com
-127.0.0.1 thetradedesk.com
 127.0.0.1 theuploadbusiness.com
 127.0.0.1 theuseful.com
 127.0.0.1 theuseful.net
@@ -9815,7 +9815,6 @@
 127.0.0.1 www.macombdisplayads.com
 127.0.0.1 www.market-buster.com
 127.0.0.1 www.marketing-rewardpath.com
-127.0.0.1 www.marketwatch.com
 127.0.0.1 www.marketwatch.com.edgesuite.net
 127.0.0.1 www.mastertracks.be
 127.0.0.1 www.maxbounty.com
@@ -10013,7 +10012,6 @@
 127.0.0.1 www.the-binary-theorem.com
 127.0.0.1 www.the-path-gateway.com
 127.0.0.1 www.the-smart-stop.com
-127.0.0.1 www.thetradedesk.com
 127.0.0.1 www.thetraderinpajamas.com
 127.0.0.1 www.theuseful.com
 127.0.0.1 www.theuseful.net
