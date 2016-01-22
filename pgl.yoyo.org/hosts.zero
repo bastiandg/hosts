@@ -428,7 +428,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.elitetrader.com
 0.0.0.0 ads.emirates.net.ae
 0.0.0.0 ads.epltalk.com
-0.0.0.0 ads.escalatemedia.com
 0.0.0.0 ads.esmas.com
 0.0.0.0 ads.eu.msn.com
 0.0.0.0 ads.exactdrive.com
@@ -637,7 +636,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.tripod.lycos.nl
 0.0.0.0 ads.tripod.spray.se
 0.0.0.0 ads.tso.dennisnet.co.uk
-0.0.0.0 ads.tweetmeme.com
 0.0.0.0 ads.uknetguide.co.uk
 0.0.0.0 ads.ultimate-guitar.com
 0.0.0.0 ads.uncrate.com
@@ -1817,7 +1815,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 oas.toronto.com
 0.0.0.0 oas.uniontrib.com
 0.0.0.0 oas.villagevoice.com
-0.0.0.0 oas.wwwheise.de
 0.0.0.0 oascentral.businessweek.com
 0.0.0.0 oascentral.chicagobusiness.com
 0.0.0.0 oascentral.fortunecity.com
@@ -1987,7 +1984,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 rank-master.com
 0.0.0.0 rank-master.de
 0.0.0.0 rankchamp.de
-0.0.0.0 ranking-charts.de
 0.0.0.0 ranking-hits.de
 0.0.0.0 ranking-id.de
 0.0.0.0 ranking-links.de

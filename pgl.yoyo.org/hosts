@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 13 Jan 2016 08:26:30 GMT
-# entries:        2443
+# entries:        2439
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -453,7 +453,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.elitetrader.com
 127.0.0.1 ads.emirates.net.ae
 127.0.0.1 ads.epltalk.com
-127.0.0.1 ads.escalatemedia.com
 127.0.0.1 ads.esmas.com
 127.0.0.1 ads.eu.msn.com
 127.0.0.1 ads.exactdrive.com
@@ -662,7 +661,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.tripod.lycos.nl
 127.0.0.1 ads.tripod.spray.se
 127.0.0.1 ads.tso.dennisnet.co.uk
-127.0.0.1 ads.tweetmeme.com
 127.0.0.1 ads.uknetguide.co.uk
 127.0.0.1 ads.ultimate-guitar.com
 127.0.0.1 ads.uncrate.com
@@ -1842,7 +1840,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 oas.toronto.com
 127.0.0.1 oas.uniontrib.com
 127.0.0.1 oas.villagevoice.com
-127.0.0.1 oas.wwwheise.de
 127.0.0.1 oascentral.businessweek.com
 127.0.0.1 oascentral.chicagobusiness.com
 127.0.0.1 oascentral.fortunecity.com
@@ -2012,7 +2009,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 rank-master.com
 127.0.0.1 rank-master.de
 127.0.0.1 rankchamp.de
-127.0.0.1 ranking-charts.de
 127.0.0.1 ranking-hits.de
 127.0.0.1 ranking-id.de
 127.0.0.1 ranking-links.de
