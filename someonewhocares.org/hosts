@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Jan 24th, 2016 at 20:22
+# Last updated: Jan 25th, 2016 at 11:07
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1685,7 +1685,6 @@
 127.0.0.1 c.oix.com
 127.0.0.1 c.oix.net
 127.0.0.1 conduit.com
-127.0.0.1 counter.yadro.ru
 127.0.0.1 cra-arc.gc.ca.bioder.com.tr
 127.0.0.1 cra-arc-gc-ca.noads.biz
 127.0.0.1 custom3hurricanedigitalmedia.com
@@ -1912,7 +1911,6 @@
 127.0.0.1 roifmd.info
 127.0.0.1 romdiscover.com
 127.0.0.1 rtc.romdiscover.com
-127.0.0.1 r.turn.com
 127.0.0.1 russian-sex.com
 127.0.0.1 s4d.in
 127.0.0.1 safedownloadsrus166.com
@@ -2126,7 +2124,6 @@
 127.0.0.1 xponlinescanner.com
 127.0.0.1 xvrxyzba253.hotmail.ru
 127.0.0.1 xxyyzz.youcanoptout.com
-127.0.0.1 yadro.ru
 127.0.0.1 ymail-activate1.bugs3.com
 127.0.0.1 youcanoptout.com
 127.0.0.1 youcanoptout.net
