@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 25 Jan 2016 20:57:11 GMT
-# entries:        2440
+# last updated:   Tue, 26 Jan 2016 15:25:42 GMT
+# entries:        2444
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2022,6 +2022,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 rate.ru
 127.0.0.1 ratings.lycos.com
 127.0.0.1 rb1.design.ru
+127.0.0.1 re-directme.com
 127.0.0.1 reachjunction.com
 127.0.0.1 reactx.com
 127.0.0.1 readserver.net
@@ -2125,6 +2126,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 sixsigmatraffic.com
 127.0.0.1 skylink.vn
 127.0.0.1 slickaffiliate.com
+127.0.0.1 slopeaota.com
 127.0.0.1 sma.punto.net
 127.0.0.1 smart4ads.com
 127.0.0.1 smartadserver.com
@@ -2234,6 +2236,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 thecounter.com
 127.0.0.1 therapistla.com
 127.0.0.1 therichkids.com
+127.0.0.1 thrnt.com
 127.0.0.1 thruport.com
 127.0.0.1 tinybar.com
 127.0.0.1 tizers.net
@@ -2311,6 +2314,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 trekblue.com
 127.0.0.1 trekdata.com
 127.0.0.1 trendcounter.com
+127.0.0.1 trhunt.com
 127.0.0.1 tribalfusion.com
 127.0.0.1 trix.net
 127.0.0.1 truehits.net
