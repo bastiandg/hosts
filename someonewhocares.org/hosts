@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Jan 25th, 2016 at 11:07
+# Last updated: Jan 26th, 2016 at 14:52
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1795,6 +1795,7 @@
 127.0.0.1 malware-live-pro-scanv1.com
 127.0.0.1 maxi4.firstvds.ru
 127.0.0.1 megasurfin.com
+127.0.0.1 miercuri.gq
 127.0.0.1 monitor.phorm.com
 127.0.0.1 monkeyball.osa.pl
 127.0.0.1 movies.701pages.com
