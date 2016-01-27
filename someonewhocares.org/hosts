@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Jan 26th, 2016 at 14:52
+# Last updated: Jan 27th, 2016 at 14:33
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9001,6 +9001,7 @@
 127.0.0.1 ve.tscapeplay.com
 127.0.0.1 vht.tradedoubler.com
 127.0.0.1 viamichelin.cdn11.contentabc.com
+127.0.0.1 viamichelin.media.trafficjunky.net
 127.0.0.1 vibrantmedia.com
 127.0.0.1 vice-ads-cdn.vice.com
 127.0.0.1 vid.atm.youku.com
