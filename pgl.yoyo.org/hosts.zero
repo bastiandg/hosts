@@ -329,7 +329,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adrolays.de
 0.0.0.0 adrotate.de
 0.0.0.0 adrotator.se
-0.0.0.0 ads-click.com
 0.0.0.0 ads.4tube.com
 0.0.0.0 ads.5ci.lt
 0.0.0.0 ads.abovetopsecret.com
@@ -825,7 +824,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adsynergy.com
 0.0.0.0 adsys.townnews.com
 0.0.0.0 adsystem.simplemachines.org
-0.0.0.0 adsystem.tt-forums.net
 0.0.0.0 adtech.de
 0.0.0.0 adtechus.com
 0.0.0.0 adtegrity.net
@@ -1149,7 +1147,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 carbonads.net
 0.0.0.0 casalemedia.com
 0.0.0.0 casalmedia.com
-0.0.0.0 cash4banner.de
 0.0.0.0 cash4members.com
 0.0.0.0 cash4popup.de
 0.0.0.0 cashcrate.com
@@ -1821,7 +1818,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 oascentral.businessweek.com
 0.0.0.0 oascentral.chicagobusiness.com
 0.0.0.0 oascentral.fortunecity.com
-0.0.0.0 oascentral.ggl.com
 0.0.0.0 oascentral.register.com
 0.0.0.0 oewa.at
 0.0.0.0 oewabox.at
@@ -1987,6 +1983,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rank-master.com
 0.0.0.0 rank-master.de
 0.0.0.0 rankchamp.de
+0.0.0.0 ranking-charts.de
 0.0.0.0 ranking-hits.de
 0.0.0.0 ranking-id.de
 0.0.0.0 ranking-links.de

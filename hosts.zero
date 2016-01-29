@@ -2133,7 +2133,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads-bg.info
 0.0.0.0 ads-by.madadsmedia.com
 0.0.0.0 ads-by.yieldselect.com
-0.0.0.0 ads-click.com
 0.0.0.0 ads-colruytgroup.adhese.com
 0.0.0.0 ads-cpm.com
 0.0.0.0 ads-de.spray.net
@@ -4607,7 +4606,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adsyst.biz
 0.0.0.0 adsystem.adbull.com
 0.0.0.0 adsystem.simplemachines.org
-0.0.0.0 adsystem.tt-forums.net
 0.0.0.0 adt.m7z.net
 0.0.0.0 adtactics.com
 0.0.0.0 adtag.asiaone.com
@@ -7417,7 +7415,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 casalmedia.com
 0.0.0.0 casga.sogesca.al
 0.0.0.0 cash-advance.now-cash.com
-0.0.0.0 cash4banner.de
 0.0.0.0 cash4members.com
 0.0.0.0 cash4popup.de
 0.0.0.0 cashback.co.uk
@@ -18267,6 +18264,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rank-master.de
 0.0.0.0 rankchamp.de
 0.0.0.0 ranker.springboardplatform.com
+0.0.0.0 ranking-charts.de
 0.0.0.0 ranking-hits.de
 0.0.0.0 ranking-id.de
 0.0.0.0 ranking-links.de
