@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: http://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 26 Jan 2016 15:25:42 GMT
-# entries:        2444
+# entries:        2446
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -83,6 +83,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ad-balancer.net
 127.0.0.1 ad-center.com
 127.0.0.1 ad-images.suntimes.com
+127.0.0.1 ad-pay.de
 127.0.0.1 ad-rotator.com
 127.0.0.1 ad-server.gulasidorna.se
 127.0.0.1 ad-serverparc.nl
@@ -208,6 +209,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adbard.net
 127.0.0.1 adblade.com
 127.0.0.1 adblockanalytics.com
+127.0.0.1 adboost.de.vu
 127.0.0.1 adboost.net
 127.0.0.1 adbooth.net
 127.0.0.1 adbot.com

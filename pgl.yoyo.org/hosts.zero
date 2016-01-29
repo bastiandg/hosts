@@ -58,6 +58,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad-balancer.net
 0.0.0.0 ad-center.com
 0.0.0.0 ad-images.suntimes.com
+0.0.0.0 ad-pay.de
 0.0.0.0 ad-rotator.com
 0.0.0.0 ad-server.gulasidorna.se
 0.0.0.0 ad-serverparc.nl
@@ -183,6 +184,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adbard.net
 0.0.0.0 adblade.com
 0.0.0.0 adblockanalytics.com
+0.0.0.0 adboost.de.vu
 0.0.0.0 adboost.net
 0.0.0.0 adbooth.net
 0.0.0.0 adbot.com
