@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Jan 27th, 2016 at 14:33
+# Last updated: Jan 29th, 2016 at 18:17
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7529,6 +7529,7 @@
 127.0.0.1 mediaupdate41.com
 127.0.0.1 media.ventivmedia.com
 127.0.0.1 media.viwii.net
+127.0.0.1 media.xxxnavy.com
 127.0.0.1 medical-offer.com
 127.0.0.1 medical-rewardpath.com
 127.0.0.1 medleyads.com
