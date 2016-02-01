@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Jan 29th, 2016 at 18:17
+# Last updated: Jan 31st, 2016 at 18:45
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6455,6 +6455,7 @@
 127.0.0.1 d.adserve.com
 127.0.0.1 dads.new.digg.com
 127.0.0.1 d.ads.readwriteweb.com
+127.0.0.1 d.adxcore.com
 #127.0.0.1 da.feedsportal.com	# interferes with TechRepublic email newsletters
 127.0.0.1 d.agkn.com
 127.0.0.1 daily-saver.com
@@ -7284,6 +7285,7 @@
 127.0.0.1 keys.dmtracker.com
 127.0.0.1 keywordblocks.com
 127.0.0.1 keywords.adtlgc.com
+127.0.0.1 khalto.info
 127.0.0.1 kitaramarketplace.com
 127.0.0.1 kitaramedia.com
 127.0.0.1 kitaratrk.com
