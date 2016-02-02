@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Feb 1st, 2016 at 01:21
+# Last updated: Feb 2nd, 2016 at 10:52
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5778,6 +5778,7 @@
 127.0.0.1 b1.adbrite.com
 127.0.0.1 b1.azjmp.com
 127.0.0.1 b2b.filecloud.me
+127.0.0.1 babanetwork.adk2x.com
 127.0.0.1 babycenter.tt.omtrdc.net
 127.0.0.1 b.admob.com
 127.0.0.1 b.ads2.msn.com
@@ -7182,6 +7183,7 @@
 127.0.0.1 insurance-rewardpath.com
 127.0.0.1 intela.com
 127.0.0.1 intelliads.com
+127.0.0.1 intensedigital.adk2x.com
 127.0.0.1 interia.adsearch.adkontekst.pl
 127.0.0.1 internet.billboard.cz
 127.0.0.1 intnet-offer.com
