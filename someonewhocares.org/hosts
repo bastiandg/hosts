@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Feb 2nd, 2016 at 10:52
+# Last updated: Feb 2nd, 2016 at 12:30
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -373,6 +373,7 @@
 127.0.0.1 ai087.insightexpress.com
 127.0.0.1 ai113.insightexpressai.com
 127.0.0.1 ai125.insightexpressai.com
+127.0.0.1 alert.mac-notification.com
 127.0.0.1 alpha.easy-hit-counters.com
 127.0.0.1 amateur.xxxcounter.com
 127.0.0.1 amer.hops.glbdns.microsoft.com
