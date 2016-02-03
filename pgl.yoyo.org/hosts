@@ -19,15 +19,15 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 <p><pre>
 # Ad server list for use with hosts files to block ads
 #
-# For more information about this list, see: http://pgl.yoyo.org/adservers/
+# For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 26 Jan 2016 15:25:42 GMT
 # entries:        2443
 # format:         hosts (hosts -- in hosts file format)
-# credits:        Peter Lowe - pgl@yoyo.org - http://pgl.yoyo.org/ - https://twitter.com/pgl
+# credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
-# other formats:  http://pgl.yoyo.org/adservers/formats.php
-# policy:         http://pgl.yoyo.org/adservers/policy.php
+# other formats:  https://pgl.yoyo.org/adservers/formats.php
+# policy:         https://pgl.yoyo.org/adservers/policy.php
 #
 127.0.0.1 101com.com
 127.0.0.1 101order.com
