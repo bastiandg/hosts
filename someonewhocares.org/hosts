@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Feb 2nd, 2016 at 17:24
+# Last updated: Feb 8th, 2016 at 15:39
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7892,6 +7892,7 @@
 127.0.0.1 partner03.oingo.com
 127.0.0.1 partner.ah-ha.com
 127.0.0.1 partner.ceneo.pl
+127.0.0.1 partner.googleadservices.com
 127.0.0.1 partner.join.com.ua
 127.0.0.1 partner.magna.ru
 127.0.0.1 partner.pobieraczek.pl
@@ -9894,6 +9895,7 @@
 127.0.0.1 www.optiad.net
 127.0.0.1 www.paperg.com
 127.0.0.1 www.parsads.com
+127.0.0.1 www.partner.googleadservices.com
 127.0.0.1 www.partycasino.com
 127.0.0.1 www.pathforpoints.com
 127.0.0.1 www.paypopup.com

@@ -7679,6 +7679,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 partner.ah-ha.com
 0.0.0.0 partner.alerts.aol.com
 0.0.0.0 partner.ceneo.pl
+0.0.0.0 partner.googleadservices.com
 0.0.0.0 partner.join.com.ua
 0.0.0.0 partner.magna.ru
 0.0.0.0 partner.pobieraczek.pl
@@ -11314,6 +11315,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.painolympics.org
 0.0.0.0 www.paperg.com
 0.0.0.0 www.parsads.com
+0.0.0.0 www.partner.googleadservices.com
 0.0.0.0 www.partycasino.com
 0.0.0.0 www.pathforpoints.com
 0.0.0.0 www.pawnauctions.net
