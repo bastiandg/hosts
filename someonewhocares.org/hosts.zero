@@ -2662,6 +2662,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.airpush.com
 0.0.0.0 api.bizographics.com
 0.0.0.0 api.content.ad
+0.0.0.0 api.gameanalytics.com
+0.0.0.0 api.infinario.com
 0.0.0.0 api.linkgist.com
 0.0.0.0 api.linkz.net
 0.0.0.0 api.opencandy.com

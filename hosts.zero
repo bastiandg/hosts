@@ -5495,7 +5495,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.contentclick.co.uk
 0.0.0.0 api.demandbase.com
 0.0.0.0 api.ero-advertising.com
+0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.hexagram.com
+0.0.0.0 api.infinario.com
 0.0.0.0 api.instantdollarz.com
 0.0.0.0 api.intensifier.de
 0.0.0.0 api.iperceptions.com
