@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 03 Feb 2016 18:31:00 GMT
-# entries:        2440
+# entries:        2439
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -917,7 +917,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adzerk.s3.amazonaws.com
 127.0.0.1 adzones.com
 127.0.0.1 af-ad.co.uk
-127.0.0.1 afbtracking09.com
 127.0.0.1 affbuzzads.com
 127.0.0.1 affili.net
 127.0.0.1 affiliate.1800flowers.com
