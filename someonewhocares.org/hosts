@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 12 Feb 2016 at 09:06:33 GMT
+# Last updated: Mon, 15 Feb 2016 at 10:27:37 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9428,6 +9428,7 @@
 127.0.0.1 www.agkn.com
 127.0.0.1 www.alexxe.com
 127.0.0.1 www.allosponsor.com
+127.0.0.1 www.amazing-opportunities.info
 127.0.0.1 www.annuaire-autosurf.com
 127.0.0.1 www.apparelncs.com
 127.0.0.1 www.apparel-offer.com
