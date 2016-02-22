@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 22 Feb 2016 at 06:57:52 GMT
+# Last updated: Mon, 22 Feb 2016 at 20:59:03 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1930,6 +1930,7 @@
 127.0.0.1 search.privitize.com
 127.0.0.1 securedliveuploads.com
 127.0.0.1 securitas232maximus.xyz
+127.0.0.1 securitas25maximus.xyz
 127.0.0.1 securityandroidupdate.dinamikaprinting.com
 127.0.0.1 securityscan.us
 127.0.0.1 sexymarissa.net
