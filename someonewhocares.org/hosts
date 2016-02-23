@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 22 Feb 2016 at 20:59:03 GMT
+# Last updated: Tue, 23 Feb 2016 at 10:02:20 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -670,6 +670,7 @@
 127.0.0.1 digistats.westjet.com
 127.0.0.1 dimeprice.com		# "spam bugs"
 127.0.0.1 directads.mcafee.com
+127.0.0.1 dkb01.webtrekk.net
 127.0.0.1 dotcomsecrets.com
 127.0.0.1 dpbolvw.net
 127.0.0.1 dpm.demdex.net
@@ -1419,6 +1420,7 @@
 127.0.0.1 u920.31.spylog.com
 127.0.0.1 u977.40.spylog.com
 127.0.0.1 udc.msn.com
+127.0.0.1 uip.semasio.net
 127.0.0.1 uk.cqcounter.com
 127.0.0.1 uk.sitestat.com
 127.0.0.1 ultimatecounter.com

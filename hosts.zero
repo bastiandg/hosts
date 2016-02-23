@@ -9464,6 +9464,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 dk.adserver.yahoo.com
 0.0.0.0 dk.gmads.net
 0.0.0.0 dk1.siteimprove.com
+0.0.0.0 dkb01.webtrekk.net
 0.0.0.0 dl-plugin.com
 0.0.0.0 dl.downf468.com
 0.0.0.0 dl.ezthemes.com
@@ -22445,6 +22446,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ui.ppjol.com
 0.0.0.0 uidbox.uimserv.net
 0.0.0.0 uim.tifbs.net
+0.0.0.0 uip.semasio.net
 0.0.0.0 uivwbox.de
 0.0.0.0 uk-ad2.adinfuse.com
 0.0.0.0 uk-ads.openx.net
