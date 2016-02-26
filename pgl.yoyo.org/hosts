@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 22 Feb 2016 09:11:57 GMT
-# entries:        2438
+# entries:        2434
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -757,7 +757,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserver.betandwin.de
 127.0.0.1 adserver.bing.com
 127.0.0.1 adserver.bizhat.com
-127.0.0.1 adserver.bluewin.ch
 127.0.0.1 adserver.break-even.it
 127.0.0.1 adserver.cams.com
 127.0.0.1 adserver.clashmusic.com
@@ -1030,6 +1029,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 banner.goldenpalace.com
 127.0.0.1 banner.img.co.za
 127.0.0.1 banner.inyourpocket.com
+127.0.0.1 banner.jobsahead.com
 127.0.0.1 banner.joylandcasino.com
 127.0.0.1 banner.kiev.ua
 127.0.0.1 banner.linux.se
@@ -1445,7 +1445,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 feedbackresearch.com
 127.0.0.1 feedjit.com
 127.0.0.1 ffxcam.fairfax.com.au
-127.0.0.1 filitrac.com
 127.0.0.1 fimc.net
 127.0.0.1 fimserve.com
 127.0.0.1 findcommerce.com
@@ -1686,7 +1685,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 linktarget.com
 127.0.0.1 liquidad.narrowcastmedia.com
 127.0.0.1 liveintent.com
-127.0.0.1 liveinternet.ru
 127.0.0.1 liverail.com
 127.0.0.1 loading321.com
 127.0.0.1 log.btopenworld.com
@@ -1942,7 +1940,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 popuptraffic.com
 127.0.0.1 porngraph.com
 127.0.0.1 porntrack.com
-127.0.0.1 postmasterbannernet.com
 127.0.0.1 postrelease.com
 127.0.0.1 potenza.cz
 127.0.0.1 pr-star.de
@@ -1960,7 +1957,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 pro.i-doctor.co.kr
 127.0.0.1 proext.com
 127.0.0.1 profero.com
-127.0.0.1 professorbanner.com
 127.0.0.1 projectwonderful.com
 127.0.0.1 promo.badoink.com
 127.0.0.1 promo.ulust.com
