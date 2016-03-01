@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 01 Mar 2016 at 01:46:44 GMT
+# Last updated: Tue, 01 Mar 2016 at 04:32:28 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5494,6 +5494,7 @@
 127.0.0.1 adverterenbijnh.nl
 127.0.0.1 adverterenbijsbs.nl
 127.0.0.1 adverteren.vakmedianet.nl
+127.0.0.1 advertere.zamunda.net
 127.0.0.1 advert.gittigidiyor.com
 127.0.0.1 advertise.com
 127.0.0.1 advertisers.federatedmedia.net
@@ -8018,6 +8019,7 @@
 127.0.0.1 pl.bbelements.com
 127.0.0.1 p.l.qq.com
 127.0.0.1 pl.spanel.gem.pl
+127.0.0.1 pmelon.com
 127.0.0.1 pmstrk.mercadolivre.com.br
 127.0.0.1 pm.w55c.net
 127.0.0.1 p.nexac.com
@@ -8026,6 +8028,7 @@
 127.0.0.1 pol.bbelements.com
 127.0.0.1 pole.6rooms.com
 127.0.0.1 politicalopinionsurvey.com
+127.0.0.1 pool.admedo.com
 127.0.0.1 pool.pebblemedia.adhese.com
 127.0.0.1 pool-roularta.adhese.com
 127.0.0.1 popadscdn.net
