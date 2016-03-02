@@ -3416,6 +3416,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.specificmedia.com
 127.0.0.1 ads.specificpop.com
 127.0.0.1 ads.spilgames.com
+127.0.0.1 ads.spintrade.com
 127.0.0.1 ads.spoonfeduk.com
 127.0.0.1 ads.sport1.bg
 127.0.0.1 ads.sportingnews.com
@@ -3694,6 +3695,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.yankscash.com
 127.0.0.1 ads.yashi.com
 127.0.0.1 ads.yeshanews.com
+127.0.0.1 ads.yieldmedia.net
 127.0.0.1 ads.yimg.com
 127.0.0.1 ads.yimg.com.edgesuite.net
 127.0.0.1 ads.yldmgrimg.net
@@ -7723,6 +7725,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.wg.uproxx.com
 127.0.0.1 cdn.www1.arch-nicto.com
 127.0.0.1 cdn.yb0t.com
+127.0.0.1 cdn.yieldmedia.net
 127.0.0.1 cdn.yldbt.com
 127.0.0.1 cdn.yottos.com
 127.0.0.1 cdn.zettata.com
@@ -16525,6 +16528,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 obs.nnm2.ru
 127.0.0.1 observare.de
 127.0.0.1 observer.advertserve.com
+127.0.0.1 ocdn.adsterra.com
 127.0.0.1 oceanup.us.intellitxt.com
 127.0.0.1 ocick.frost-electric-supply.com
 127.0.0.1 ocp.bnet.com

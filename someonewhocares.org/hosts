@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 01 Mar 2016 at 19:26:41 GMT
+# Last updated: Wed, 02 Mar 2016 at 11:16:04 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -4851,6 +4851,7 @@
 127.0.0.1 ads.gawker.com
 127.0.0.1 ads.gettools.com
 127.0.0.1 ads.gigaom.com.php5-12.websitetestlink.com
+127.0.0.1 ads.glispa.com
 127.0.0.1 ads.globeandmail.com
 127.0.0.1 ads.globo.com
 127.0.0.1 ads.gmg.valueclick.net
@@ -5267,6 +5268,7 @@
 127.0.0.1 ads.specificmedia.com
 127.0.0.1 ads.specificpop.com
 127.0.0.1 ads.spilgames.com
+127.0.0.1 ads.spintrade.com
 127.0.0.1 ads.sptimes.com
 127.0.0.1 ads.spymac.net
 127.0.0.1 ads.stackoverflow.com
@@ -5422,6 +5424,7 @@
 127.0.0.1 ads.xtramsn.co.nz
 127.0.0.1 ads.xxxbunker.com
 127.0.0.1 ads.yahoo.com
+127.0.0.1 ads.yieldmedia.net
 127.0.0.1 ads.yimg.com
 127.0.0.1 ads.yimg.com.edgesuite.net
 127.0.0.1 ads.yldmgrimg.net
@@ -5741,6 +5744,7 @@
 127.0.0.1 askmen.thruport.com
 127.0.0.1 asm2.z1.adserver.com
 127.0.0.1 asm3.z1.adserver.com
+127.0.0.1 asmedia.adsupplyssl.com
 127.0.0.1 asn.advolution.de
 127.0.0.1 asn.cunda.advolution.biz
 127.0.0.1 a.ss34.on9mail.com
@@ -6174,6 +6178,7 @@
 127.0.0.1 cdn.viglink.com
 127.0.0.1 cdn.wg.uproxx.com
 127.0.0.1 cdnw.ringtonepartner.com
+127.0.0.1 cdn.yieldmedia.net
 127.0.0.1 cdn.yottos.com
 127.0.0.1 cdn.zeusclicks.com
 127.0.0.1 cds.adecn.com
@@ -7284,6 +7289,7 @@
 127.0.0.1 js.goods.redtram.com
 127.0.0.1 js.himediads.com
 127.0.0.1 js.hotkeys.com
+127.0.0.1 js.moatads.com
 127.0.0.1 jsn.dt07.net
 127.0.0.1 js.ru.redtram.com
 127.0.0.1 js.selectornews.com
@@ -7801,6 +7807,7 @@
 127.0.0.1 obozua.adocean.pl
 127.0.0.1 observer.advertserve.com
 127.0.0.1 obs.nnm2.ru
+127.0.0.1 ocdn.adsterra.com
 127.0.0.1 ocslab.com
 127.0.0.1 offer.alibaba.com
 127.0.0.1 offerfactory.click
@@ -8969,6 +8976,7 @@
 127.0.0.1 ugo.eu-adcenter.net
 127.0.0.1 ui.ppjol.com
 127.0.0.1 uk.adserver.yahoo.com
+127.0.0.1 uk-ads.openx.net
 127.0.0.1 uleadstrk.com
 127.0.0.1 ulic.baidu.com
 127.0.0.1 ultimatefashiongifts.com

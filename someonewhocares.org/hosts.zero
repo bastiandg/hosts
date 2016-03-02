@@ -1254,6 +1254,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.gawker.com
 0.0.0.0 ads.gettools.com
 0.0.0.0 ads.gigaom.com.php5-12.websitetestlink.com
+0.0.0.0 ads.glispa.com
 0.0.0.0 ads.globeandmail.com
 0.0.0.0 ads.globo.com
 0.0.0.0 ads.gmg.valueclick.net
@@ -1598,6 +1599,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.specificmedia.com
 0.0.0.0 ads.specificpop.com
 0.0.0.0 ads.spilgames.com
+0.0.0.0 ads.spintrade.com
 0.0.0.0 ads.sptimes.com
 0.0.0.0 ads.spymac.net
 0.0.0.0 ads.stackoverflow.com
@@ -1739,6 +1741,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.xtramsn.co.nz
 0.0.0.0 ads.xxxbunker.com
 0.0.0.0 ads.yahoo.com
+0.0.0.0 ads.yieldmedia.net
 0.0.0.0 ads.yimg.com
 0.0.0.0 ads.yimg.com.edgesuite.net
 0.0.0.0 ads.yldmgrimg.net
@@ -2751,6 +2754,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 askmen2.us.intellitxt.com
 0.0.0.0 asm2.z1.adserver.com
 0.0.0.0 asm3.z1.adserver.com
+0.0.0.0 asmedia.adsupplyssl.com
 0.0.0.0 asn.advolution.de
 0.0.0.0 asn.cunda.advolution.biz
 0.0.0.0 aspirin.about-tabs.com
@@ -3468,6 +3472,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.vidible.tv
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cdn.wg.uproxx.com
+0.0.0.0 cdn.yieldmedia.net
 0.0.0.0 cdn.yottos.com
 0.0.0.0 cdn.zeusclicks.com
 0.0.0.0 cdn1.adexprt.com
@@ -5938,6 +5943,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 js.goods.redtram.com
 0.0.0.0 js.himediads.com
 0.0.0.0 js.hotkeys.com
+0.0.0.0 js.moatads.com
 0.0.0.0 js.revsci.net
 0.0.0.0 js.ru.redtram.com
 0.0.0.0 js.selectornews.com
@@ -7457,6 +7463,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 obozua.adocean.pl
 0.0.0.0 obs.nnm2.ru
 0.0.0.0 observer.advertserve.com
+0.0.0.0 ocdn.adsterra.com
 0.0.0.0 ocslab.com
 0.0.0.0 octopusgirl.com
 0.0.0.0 oe24.oewabox.at
@@ -9671,6 +9678,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ui.ppjol.com
 0.0.0.0 uip.semasio.net
 0.0.0.0 uivwbox.de
+0.0.0.0 uk-ads.openx.net
 0.0.0.0 uk.adserver.yahoo.com
 0.0.0.0 uk.cqcounter.com
 0.0.0.0 uk.i1.yimg.com
