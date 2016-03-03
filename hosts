@@ -510,9 +510,19 @@ ff02::2 ip6-allrouters
 127.0.0.1 9down.us.intellitxt.com
 127.0.0.1 9ivwbox.de
 127.0.0.1 9vwbox.de
+127.0.0.1 a-0001.a-msedge.net
+127.0.0.1 a-0002.a-msedge.net
+127.0.0.1 a-0003.a-msedge.net
+127.0.0.1 a-0004.a-msedge.net
+127.0.0.1 a-0005.a-msedge.net
+127.0.0.1 a-0006.a-msedge.net
+127.0.0.1 a-0007.a-msedge.net
+127.0.0.1 a-0008.a-msedge.net
+127.0.0.1 a-0009.a-msedge.net
 127.0.0.1 a-ads.com
 127.0.0.1 a-atraffickim.tf
 127.0.0.1 a-counter.kiev.ua
+127.0.0.1 a-msedge.net
 127.0.0.1 a.0day.kiev.ua
 127.0.0.1 a.1nimo.com
 127.0.0.1 a.abnad.net
@@ -2044,6 +2054,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adnetxchange.com
 127.0.0.1 adnews.maddog2000.de
 127.0.0.1 adnext.fr
+127.0.0.1 adnexus.net
 127.0.0.1 adng.ascii24.com
 127.0.0.1 adnotch.com
 127.0.0.1 adnxs.com
@@ -5573,6 +5584,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apps.conduit-banners.com
 127.0.0.1 apps.mobilityware.com
 127.0.0.1 apps.nastydollars.com
+127.0.0.1 apps.skype.com
 127.0.0.1 apps5.oingo.com
 127.0.0.1 appscout.us.intellitxt.com
 127.0.0.1 appsrv1.madserving.cn
@@ -5884,6 +5896,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 aylarl.com
 127.0.0.1 aynachatsrv.com
 127.0.0.1 az.5.p2l.info
+127.0.0.1 az361816.vo.msecnd.net
+127.0.0.1 az512334.vo.msecnd.net
 127.0.0.1 azcentra.app.ur.gcion.com
 127.0.0.1 azfront.com
 127.0.0.1 azoogleads.com
@@ -7061,6 +7075,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.mdnhinc.com
 127.0.0.1 c.medialytics.com
 127.0.0.1 c.mgid.com
+127.0.0.1 c.msn.com
 127.0.0.1 c.mtro.co
 127.0.0.1 c.my.msn.com
 127.0.0.1 c.mystat-in.net
@@ -7554,6 +7569,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.appendad.com
 127.0.0.1 cdn.assets.craveonline.com
 127.0.0.1 cdn.at.atwola.com
+127.0.0.1 cdn.atdmt.com
 127.0.0.1 cdn.atlassbx.com
 127.0.0.1 cdn.atomex.net
 127.0.0.1 cdn.atwola.com
@@ -7787,6 +7803,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdrinfo.us.intellitxt.com
 127.0.0.1 cdrom-guide.us.intellitxt.com
 127.0.0.1 cds.adecn.com
+127.0.0.1 cds26.ams9.msecn.net
 127.0.0.1 cdslog.contextweb.com
 127.0.0.1 cdsusa.veinteractive.com
 127.0.0.1 cdxbin.vulnerap.com
@@ -9177,6 +9194,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 db2.sitestats.com
 127.0.0.1 db3.net-filter.com
 127.0.0.1 db3.sitestats.com
+127.0.0.1 db3aqu.atdmt.com
 127.0.0.1 db4.net-filter.com
 127.0.0.1 db4.sitestats.com
 127.0.0.1 db5.net-filter.com
@@ -10608,6 +10626,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fe1-fi.imrworldwide.com
 127.0.0.1 fe1-it.imrworldwide.com
 127.0.0.1 fe2-au.imrworldwide.com
+127.0.0.1 fe2.update.microsoft.com.akadns.net
 127.0.0.1 fe3-au.imrworldwide.com
 127.0.0.1 fe3-gc.imrworldwide.com
 127.0.0.1 fe3-uk.imrworldwide.com
@@ -10626,6 +10645,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 feed3.hype-ads.com
 127.0.0.1 feedads.g.doubleclick.net
 127.0.0.1 feedads.googleadservices.com
+127.0.0.1 feedback.microsoft-hohm.com
 127.0.0.1 feedbackexplorer.com
 127.0.0.1 feedbackresearch.com
 127.0.0.1 feedjit.com
@@ -11032,6 +11052,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 g.adnxs.com
 127.0.0.1 g.adspeed.net
 127.0.0.1 g.blogads.com
+127.0.0.1 g.msn.com
 127.0.0.1 g.p.mybuys.com
 127.0.0.1 g.promosrv.com
 127.0.0.1 g.thinktarget.com
@@ -11764,6 +11785,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 h.zedo.com
 127.0.0.1 h06.hotrank.com.tw
 127.0.0.1 h0rnd0g.popunder.ru
+127.0.0.1 h1.msn.com
 127.0.0.1 h1.ripway.com
 127.0.0.1 h1317070.stratoserver.net
 127.0.0.1 h1666015.stratoserver.net
@@ -13662,6 +13684,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 lb.hitbox.com
 127.0.0.1 lb.usemaxserver.de
 127.0.0.1 lb.web-stat.com
+127.0.0.1 lb1.www.ms.akadns.net
 127.0.0.1 lbn.ru
 127.0.0.1 lc.livefyre.com
 127.0.0.1 lc17.prod.livefyre.com
@@ -13817,6 +13840,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 live-cams-1.livejasmin.com
 127.0.0.1 live-dir.tk
 127.0.0.1 live.monitus.net
+127.0.0.1 live.rads.msn.com
 127.0.0.1 live.sekindo.com
 127.0.0.1 livecamgirls.streamray.com
 127.0.0.1 livecams.nl
@@ -14116,6 +14140,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 m.adbridge.de
 127.0.0.1 m.admedia.com
 127.0.0.1 m.admob.com
+127.0.0.1 m.adnxs.com
 127.0.0.1 m.adsymptotic.com
 127.0.0.1 m.adx.bg
 127.0.0.1 m.altitude-arena.com
@@ -14126,6 +14151,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 m.fr.2mdn.net
 127.0.0.1 m.fr.a2dfp.net
 127.0.0.1 m.friendlyduck.com
+127.0.0.1 m.hotmail.com
 127.0.0.1 m.openv.tv
 127.0.0.1 m.pl.pornzone.tv
 127.0.0.1 m.quantserve.com
@@ -15422,9 +15448,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 ms.yandex.ru
 127.0.0.1 ms11.net
 127.0.0.1 msalt.mysearch.com
+127.0.0.1 msedge.net
 127.0.0.1 mseuppremain.112.2o7.net
 127.0.0.1 mseupwinxpfam.112.2o7.net
 127.0.0.1 msfn.us.intellitxt.com
+127.0.0.1 msftncsi.com
 127.0.0.1 msgtag.com
 127.0.0.1 mshelp247.weebly.com
 127.0.0.1 msmobiles.de.intellitxt.com
@@ -15445,6 +15473,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 msnbcnewsvine.112.2o7.net
 127.0.0.1 msnbcom.112.2o7.net
 127.0.0.1 msnbe-hp.metriweb.be
+127.0.0.1 msnbot-65-55-108-23.search.msn.com
 127.0.0.1 msneshopbase.112.2o7.net
 127.0.0.1 msninvite.112.2o7.net
 127.0.0.1 msninviteprod.112.2o7.net
@@ -15466,6 +15495,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 msnportalvideo.112.2o7.net
 127.0.0.1 msnsearch.srv.girafa.com
 127.0.0.1 msnservices.112.2o7.net
+127.0.0.1 msntest.serving-sys.com
 127.0.0.1 msntrademarketing.112.2o7.net
 127.0.0.1 msnwinonecare.112.2o7.net
 127.0.0.1 mssbcprod.112.2o7.net
@@ -17778,7 +17808,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 prevacid.1.p2l.info
 127.0.0.1 prevent-asian-flu.com
 127.0.0.1 preview.leadmediapartners.com
+127.0.0.1 preview.msn.com
 127.0.0.1 prexyone.appspot.com
+127.0.0.1 pricelist.skype.com
 127.0.0.1 pride-u-bike.com
 127.0.0.1 pridesource.advertserve.com
 127.0.0.1 prilosec.1.p2l.info
@@ -18527,6 +18559,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 reporting.singlefeed.com
 127.0.0.1 reports.extreme-dm.com
 127.0.0.1 reports.quisma.com
+127.0.0.1 reports.wes.df.telemetry.microsoft.com
 127.0.0.1 republer.com
 127.0.0.1 republika.onet.pl
 127.0.0.1 req.adsmogo.com
@@ -18885,6 +18918,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 s.estat.com
 127.0.0.1 s.fl-ads.com
 127.0.0.1 s.flite.com
+127.0.0.1 s.gateway.messenger.live.com
 127.0.0.1 s.idio.co
 127.0.0.1 s.innovid.com
 127.0.0.1 s.ivillage.us.intellitxt.com
@@ -19258,6 +19292,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 scdown.qq.com
 127.0.0.1 scdsfdfgdr12.tk
 127.0.0.1 schaeffers.112.2o7.net
+127.0.0.1 schemas.microsoft.akadns.net
 127.0.0.1 schlager.oewabox.at
 127.0.0.1 schoorsteen.geenstijl.nl
 127.0.0.1 schuelvz.ivwbox.de
@@ -19482,6 +19517,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 secure.directtrack.com
 127.0.0.1 secure.expressdelivery.biz
 127.0.0.1 secure.fhserve.com
+127.0.0.1 secure.flashtalking.com
 127.0.0.1 secure.gaug.es
 127.0.0.1 secure.img-cdn.mediaplex.com
 127.0.0.1 secure.indexstats.com
@@ -19734,6 +19770,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 serw.clicksor.com
 127.0.0.1 serw.myroitracking.com
 127.0.0.1 session.owneriq.net
+127.0.0.1 settings-win.data.microsoft.com
 127.0.0.1 settings.luckyorange.net
 127.0.0.1 setupspcp1.888.com
 127.0.0.1 sevenoneintermedia.112.2o7.net
@@ -20102,6 +20139,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 snoobi.com
 127.0.0.1 snowplow-collector.sugarops.com
 127.0.0.1 snwmedia.adk2x.com
+127.0.0.1 so.2mdn.net
 127.0.0.1 soase.buyyourbtc.com
 127.0.0.1 sobar.baidu.com
 127.0.0.1 sobartop.baidu.com
@@ -20865,6 +20903,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stats5.lightningcast.com
 127.0.0.1 stats6.lightningcast.net
 127.0.0.1 statse.webtrendslive.com
+127.0.0.1 statsfe2.ws.microsoft.com
 127.0.0.1 statsie.com
 127.0.0.1 statstracker.celebrity-gossip.net
 127.0.0.1 statsv3.gaycash.com
@@ -21412,6 +21451,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 telefonica.webnavegador.com.br
 127.0.0.1 telefonino.it.intellitxt.com
 127.0.0.1 telegraphcouk.skimlinks.com
+127.0.0.1 telemetry.appex.bing.net
 127.0.0.1 teletypos.nuggad.net
 127.0.0.1 telgids.adsolutions.nl
 127.0.0.1 teliad.de
@@ -22456,6 +22496,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ugo.eu-adcenter.net
 127.0.0.1 ui.oix.net
 127.0.0.1 ui.ppjol.com
+127.0.0.1 ui.skype.com
 127.0.0.1 uidbox.uimserv.net
 127.0.0.1 uim.tifbs.net
 127.0.0.1 uip.semasio.net
@@ -23481,6 +23522,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 werbung.diepresse.com
 127.0.0.1 werbung.meteoxpress.com
 127.0.0.1 werkenbijliones.nl
+127.0.0.1 wes.df.telemetry.microsoft.com
 127.0.0.1 west.05tz2e9.com
 127.0.0.1 west.adlink.de
 127.0.0.1 westjet.112.2o7.net
@@ -25480,6 +25522,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.mpression.net
 127.0.0.1 www.mrpeter.it
 127.0.0.1 www.ms-mvp.org
+127.0.0.1 www.msftncsi.com
 127.0.0.1 www.msgtag.com
 127.0.0.1 www.mshelp247.weebly.com
 127.0.0.1 www.mtmtrade.gr

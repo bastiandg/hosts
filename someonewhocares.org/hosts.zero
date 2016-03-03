@@ -137,7 +137,17 @@ ff02::2 ip6-allrouters
 0.0.0.0 961.com
 0.0.0.0 9ivwbox.de
 0.0.0.0 9vwbox.de
+0.0.0.0 a-0001.a-msedge.net
+0.0.0.0 a-0002.a-msedge.net
+0.0.0.0 a-0003.a-msedge.net
+0.0.0.0 a-0004.a-msedge.net
+0.0.0.0 a-0005.a-msedge.net
+0.0.0.0 a-0006.a-msedge.net
+0.0.0.0 a-0007.a-msedge.net
+0.0.0.0 a-0008.a-msedge.net
+0.0.0.0 a-0009.a-msedge.net
 0.0.0.0 a-ads.com
+0.0.0.0 a-msedge.net
 0.0.0.0 a.0day.kiev.ua
 0.0.0.0 a.ad.playstation.net
 0.0.0.0 a.admaxserver.com
@@ -146,6 +156,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 a.adready.com
 0.0.0.0 a.adroll.com
 0.0.0.0 a.ads1.msn.com
+0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.adstome.com
 0.0.0.0 a.as-eu.falkag.net
@@ -919,6 +930,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adnetwork.nextgen.net
 0.0.0.0 adnetwork.rovicorp.com
 0.0.0.0 adnetxchange.com
+0.0.0.0 adnexus.net
 0.0.0.0 adng.ascii24.com
 0.0.0.0 adnxs.com
 0.0.0.0 adnxs.revsci.net
@@ -2524,6 +2536,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 aibl.hitbox.com
 0.0.0.0 aics.hitbox.com
 0.0.0.0 aid-golf-golfdust-training.tabrays.com
+0.0.0.0 aidps.atdmt.com
 0.0.0.0 aimg.haber3.com
 0.0.0.0 air-plane-ticket.beesearch.info
 0.0.0.0 airline-ticket.gloses.net
@@ -2690,6 +2703,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 applestore.com-mobile.gift
 0.0.0.0 appnexus.com
 0.0.0.0 apprep.smartscreen.microsoft.com
+0.0.0.0 apps.skype.com
 0.0.0.0 apps5.oingo.com
 0.0.0.0 appsrv1.madserving.cn
 0.0.0.0 apx.moatads.com
@@ -2811,10 +2825,14 @@ ff02::2 ip6-allrouters
 0.0.0.0 axp.zedo.com
 0.0.0.0 aynachatsrv.com
 0.0.0.0 az.5.p2l.info
+0.0.0.0 az361816.vo.msecnd.net
+0.0.0.0 az512334.vo.msecnd.net
 0.0.0.0 azcentra.app.ur.gcion.com
 0.0.0.0 azoogleads.com
 0.0.0.0 azz.badazz.org
 0.0.0.0 b.admob.com
+0.0.0.0 b.ads1.msn.com
+0.0.0.0 b.ads2.msads.net
 0.0.0.0 b.ads2.msn.com
 0.0.0.0 b.am15.net
 0.0.0.0 b.as-us.falkag.net
@@ -3240,6 +3258,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 c.ar.msn.com
 0.0.0.0 c.as-us.falkag.net
 0.0.0.0 c.at.msn.com
+0.0.0.0 c.atdmt.com
 0.0.0.0 c.baidu.com
 0.0.0.0 c.be.msn.com
 0.0.0.0 c.blogads.com
@@ -3266,6 +3285,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 c.latam.msn.com
 0.0.0.0 c.lomadee.com
 0.0.0.0 c.mgid.com
+0.0.0.0 c.msn.com
 0.0.0.0 c.my.msn.com
 0.0.0.0 c.ninemsn.com.au
 0.0.0.0 c.nl.msn.com
@@ -3431,6 +3451,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.amateurmatch.com
 0.0.0.0 cdn.amgdgt.com
 0.0.0.0 cdn.assets.craveonline.com
+0.0.0.0 cdn.atdmt.com
 0.0.0.0 cdn.atlassbx.com
 0.0.0.0 cdn.augur.io
 0.0.0.0 cdn.banners.scubl.com
@@ -3498,6 +3519,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdnt.yottos.com
 0.0.0.0 cdnw.ringtonepartner.com
 0.0.0.0 cds.adecn.com
+0.0.0.0 cds26.ams9.msecn.net
 0.0.0.0 cdxbin.vulnerap.com
 0.0.0.0 cecash.com
 0.0.0.0 ced.sascdn.com
@@ -4077,6 +4099,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 date.ventivmedia.com
 0.0.0.0 datingadvertising.com
 0.0.0.0 dawnnationaladvertiser.com
+0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 db4.net-filter.com
 0.0.0.0 dbbsrv.com
 0.0.0.0 dbios.org
@@ -4350,6 +4373,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ebcom.112.2o7.net
 0.0.0.0 ebiads.ebiuniverse.com
 0.0.0.0 eblastengine.upickem.net
+0.0.0.0 ec.atdmt.com
 0.0.0.0 ec1.hitbox.com
 0.0.0.0 ecard4all.com
 0.0.0.0 ecestats.theglobeandmail.com
@@ -4682,6 +4706,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 fe1-fi.imrworldwide.com
 0.0.0.0 fe1-it.imrworldwide.com
 0.0.0.0 fe2-au.imrworldwide.com
+0.0.0.0 fe2.update.microsoft.com.akadns.net
 0.0.0.0 fe3-au.imrworldwide.com
 0.0.0.0 fe3-gc.imrworldwide.com
 0.0.0.0 fe3-uk.imrworldwide.com
@@ -4690,6 +4715,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 fee-hydrocodone.bebto.com
 0.0.0.0 feedads.g.doubleclick.net
 0.0.0.0 feedads.googleadservices.com
+0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 feedbackexplorer.com
 0.0.0.0 feeds.videosz.com
 0.0.0.0 feeds.weselltraffic.com
@@ -4729,6 +4755,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 fl.5.p2l.info
 0.0.0.0 fl01.ct2.comclick.com
 0.0.0.0 flashmagazine.us.intellitxt.com
+0.0.0.0 flex.msn.com
 0.0.0.0 flexeril.1.p2l.info
 0.0.0.0 flextra.1.p2l.info
 0.0.0.0 fliteilex.com
@@ -4872,6 +4899,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 g-wizzads.net
 0.0.0.0 g.admob.com
 0.0.0.0 g.adnxs.com
+0.0.0.0 g.msn.com
 0.0.0.0 g.thinktarget.com
 0.0.0.0 g1.idg.pl
 0.0.0.0 g2.gumgum.com
@@ -5231,6 +5259,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 h-afnetwww.adshuffle.com
 0.0.0.0 h.admob.com
 0.0.0.0 h.ppjol.com
+0.0.0.0 h1.msn.com
 0.0.0.0 h1.ripway.com
 0.0.0.0 h1317070.stratoserver.net
 0.0.0.0 hackedgadgets.us.intellitxt.com
@@ -6081,6 +6110,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 layer-ads.de
 0.0.0.0 lb-adserver.ig.com.br
 0.0.0.0 lb.hitbox.com
+0.0.0.0 lb1.www.ms.akadns.net
 0.0.0.0 ld1.criteo.com
 0.0.0.0 ld2.criteo.com
 0.0.0.0 ldglob01.adtech.de
@@ -6153,6 +6183,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 liquidad.narrowcastmedia.com
 0.0.0.0 listennewsnetwork.com
 0.0.0.0 live-cams-1.livejasmin.com
+0.0.0.0 live.rads.msn.com
 0.0.0.0 livestats.atlanta-airport.com
 0.0.0.0 livingnet.adtech.de
 0.0.0.0 livwbox.de
@@ -6250,11 +6281,13 @@ ff02::2 ip6-allrouters
 0.0.0.0 m.2mdn.net
 0.0.0.0 m.adbridge.de
 0.0.0.0 m.admob.com
+0.0.0.0 m.adnxs.com
 0.0.0.0 m.de.2mdn.net
 0.0.0.0 m.doubleclick.net
 0.0.0.0 m.fr.2mdn.net
 0.0.0.0 m.fr.a2dfp.net
 0.0.0.0 m.friendlyduck.com
+0.0.0.0 m.hotmail.com
 0.0.0.0 m.openv.tv
 0.0.0.0 m.pl.pornzone.tv
 0.0.0.0 m.tribalfusion.com
@@ -6957,7 +6990,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 mrtg.hitbox.com
 0.0.0.0 ms.5.p2l.info
 0.0.0.0 ms.yandex.ru
+0.0.0.0 msedge.net
 0.0.0.0 mseuppremain.112.2o7.net
+0.0.0.0 msftncsi.com
 0.0.0.0 mshelp247.weebly.com
 0.0.0.0 msn-cdn.effectivemeasure.net
 0.0.0.0 msn.allyes.com
@@ -6967,10 +7002,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 msn.wrating.com
 0.0.0.0 msn1.com
 0.0.0.0 msnbe-hp.metriweb.be
+0.0.0.0 msnbot-65-55-108-23.search.msn.com
 0.0.0.0 msnm.com
 0.0.0.0 msnmercom.112.2o7.net
 0.0.0.0 msnportal.112.2o7.net
 0.0.0.0 msnsearch.srv.girafa.com
+0.0.0.0 msntest.serving-sys.com
 0.0.0.0 mt.5.p2l.info
 0.0.0.0 mt122.mtree.com
 0.0.0.0 mt58.mtree.com
@@ -7959,7 +7996,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 preteensite.com
 0.0.0.0 prevacid.1.p2l.info
 0.0.0.0 prevent-asian-flu.com
+0.0.0.0 preview.msn.com
 0.0.0.0 prexyone.appspot.com
+0.0.0.0 pricelist.skype.com
 0.0.0.0 prilosec.1.p2l.info
 0.0.0.0 primetime.ad.primetime.net
 0.0.0.0 printmail.biz
@@ -8228,6 +8267,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 reportimage.adtech.fr
 0.0.0.0 reportimage.adtech.us
 0.0.0.0 reports.extreme-dm.com
+0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 req.adsmogo.com
 0.0.0.0 resanium.com
 0.0.0.0 reseller.hitbox.com
@@ -8371,6 +8411,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 s.di.com.pl
 0.0.0.0 s.domob.cn
 0.0.0.0 s.flite.com
+0.0.0.0 s.gateway.messenger.live.com
 0.0.0.0 s.innovid.com
 0.0.0.0 s.media-imdb.com
 0.0.0.0 s.megaclick.com
@@ -8483,6 +8524,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 scanner.best-click-av1.info
 0.0.0.0 scanner.best-protect.info
 0.0.0.0 scdown.qq.com
+0.0.0.0 schemas.microsoft.akadns.net
 0.0.0.0 schlager.oewabox.at
 0.0.0.0 schoorsteen.geenstijl.nl
 0.0.0.0 schumacher.adtech.de
@@ -8568,6 +8610,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.bidvertiser.com
 0.0.0.0 secure.bidvertiserr.com
+0.0.0.0 secure.flashtalking.com
 0.0.0.0 secure.img-cdn.mediaplex.com
 0.0.0.0 secure.webconnect.net
 0.0.0.0 secureads.ft.com
@@ -8708,6 +8751,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 serving.plexop.net
 0.0.0.0 servserv.generals.ea.com
 0.0.0.0 servustv.oewabox.at
+0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 sexcounter.com
 0.0.0.0 sexitnow.com
 0.0.0.0 sexpartnerx.com
@@ -8822,6 +8866,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 snaps.vidiemi.com
 0.0.0.0 snip.answers.com
 0.0.0.0 snipjs.answcdn.com
+0.0.0.0 so.2mdn.net
 0.0.0.0 sobar.baidu.com
 0.0.0.0 sobartop.baidu.com
 0.0.0.0 sobolev.net.ru
@@ -9148,6 +9193,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 stats5.lightningcast.com
 0.0.0.0 stats6.lightningcast.net
 0.0.0.0 statse.webtrendslive.com
+0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 statsie.com
 0.0.0.0 status.addthis.com
 0.0.0.0 stl.p.a1.traceworks.com
@@ -9352,6 +9398,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tel.geenstijl.nl
 0.0.0.0 tele.oewabox.at
 0.0.0.0 telefonica.webnavegador.com.br
+0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 telstra.imrworldwide.com
 0.0.0.0 tennis.oewabox.at
 0.0.0.0 tenuate.1.p2l.info
@@ -9682,6 +9729,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ugo.eu-adcenter.net
 0.0.0.0 ui.oix.net
 0.0.0.0 ui.ppjol.com
+0.0.0.0 ui.skype.com
 0.0.0.0 uip.semasio.net
 0.0.0.0 uivwbox.de
 0.0.0.0 uk-ads.openx.net
@@ -10227,6 +10275,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 wellbutrin.4.p2l.info
 0.0.0.0 wellnessmonitor.bravehost.com
 0.0.0.0 werkenbijliones.nl
+0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 west.05tz2e9.com
 0.0.0.0 westjet.112.2o7.net
 0.0.0.0 wewillrocknow.com
@@ -11268,6 +11317,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.mp3playersource.com
 0.0.0.0 www.mplayerdownloader.com
 0.0.0.0 www.mpression.net
+0.0.0.0 www.msftncsi.com
 0.0.0.0 www.mshelp247.weebly.com
 0.0.0.0 www.mudfall.com
 0.0.0.0 www.mudmonster.org
