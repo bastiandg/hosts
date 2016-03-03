@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 03 Mar 2016 at 08:35:07 GMT
+# Last updated: Thu, 03 Mar 2016 at 21:57:10 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6987,6 +6987,7 @@
 127.0.0.1 h.admob.com
 127.0.0.1 h-afnetwww.adshuffle.com
 127.0.0.1 halfords.ukrpts.net
+127.0.0.1 haouzy.info
 127.0.0.1 happydiscountspecials.com
 127.0.0.1 harvest176.adgardener.com
 127.0.0.1 harvest284.adgardener.com
@@ -7462,6 +7463,7 @@
 127.0.0.1 mackeeperapp2.mackeeper.com
 127.0.0.1 mackeeperapp3.mackeeper.com
 127.0.0.1 mackeeperapp.mackeeper.com
+127.0.0.1 mac.system-alert1.com
 127.0.0.1 mad2.brandreachsys.com
 127.0.0.1 madadsmedia.com
 127.0.0.1 m.adbridge.de
@@ -10248,7 +10250,6 @@
 127.0.0.1 cya2.net
 127.0.0.1 i.ligatus.com
 127.0.0.1 images.revtrax.com
-127.0.0.1 pof.com
 127.0.0.1 shorte.st
 127.0.0.1 src.kitcode.net
 127.0.0.1 stat.ringier.cz
