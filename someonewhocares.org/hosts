@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 02 Mar 2016 at 11:16:04 GMT
+# Last updated: Thu, 03 Mar 2016 at 02:56:34 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1209,6 +1209,7 @@
 127.0.0.1 static.kibboko.com
 127.0.0.1 static.smni.com		# Santa Monica - popunders
 127.0.0.1 statik.topica.com
+127.0.0.1 statique.secureguards.eu
 127.0.0.1 statistics.dynamicsitestats.com
 127.0.0.1 statistics.elsevier.nl
 127.0.0.1 statistics.reedbusiness.nl
@@ -6982,6 +6983,7 @@
 127.0.0.1 gwallet.com
 127.0.0.1 gw.youmi.net
 127.0.0.1 gx-in-f109.1e100.net
+127.0.0.1 hadik.info
 127.0.0.1 h.admob.com
 127.0.0.1 h-afnetwww.adshuffle.com
 127.0.0.1 halfords.ukrpts.net
@@ -7358,6 +7360,7 @@
 127.0.0.1 larivieracasino.com
 127.0.0.1 lasthr.info
 127.0.0.1 lastmeasure.zoy.org
+127.0.0.1 latestsearch.website
 127.0.0.1 latribune.electronicpromotions2015.com
 127.0.0.1 launch.adserver.yahoo.com
 127.0.0.1 layer-ads.de
@@ -7867,6 +7870,7 @@
 127.0.0.1 optimzedby.rmxads.com
 127.0.0.1 orange.fr-enqueteannuelle.xyz
 127.0.0.1 orange.fr-enqueteofficielle2015.xyz
+127.0.0.1 orange.fr-enqueteofficielle.online
 127.0.0.1 orange.fr-felicitations.xyz
 127.0.0.1 orange.fr-votre-opinion.xyz
 127.0.0.1 orange.fr-votreopinion.xyz
@@ -8243,6 +8247,7 @@
 127.0.0.1 regflow.com
 127.0.0.1 regie.espace-plus.net
 127.0.0.1 regio.adlink.de
+127.0.0.1 register.cinematrix.net
 127.0.0.1 rehabretie.com
 127.0.0.1 rek2.tascatlasa.com
 127.0.0.1 reklam-1.com
@@ -8454,6 +8459,7 @@
 127.0.0.1 secure.addthis.com
 127.0.0.1 secure.adnxs.com
 127.0.0.1 secureads.ft.com
+127.0.0.1 secure.bidvertiser.com
 127.0.0.1 secure.bidvertiserr.com
 127.0.0.1 securecontactinfo.com
 127.0.0.1 secure.img-cdn.mediaplex.com
@@ -9858,6 +9864,7 @@
 127.0.0.1 www.lpmxp2026.com
 127.0.0.1 www.lpmxp2027.com
 127.0.0.1 www.lucky-day-uk.com
+127.0.0.1 www.mac.com-w.net
 127.0.0.1 www.macombdisplayads.com
 127.0.0.1 www.market-buster.com
 127.0.0.1 www.marketing-rewardpath.com
@@ -9919,6 +9926,7 @@
 127.0.0.1 www.nysubwayoffer.com
 127.0.0.1 www.offerx.co.uk
 127.0.0.1 www.oinadserve.com
+127.0.0.1 www.onclicktop.com
 127.0.0.1 www.onlinebestoffers.net
 127.0.0.1 www.ontheweb.com
 127.0.0.1 www.opendownload.de
@@ -10094,6 +10102,7 @@
 127.0.0.1 www.trendsonline.biz
 127.0.0.1 www.trendsonline.me
 127.0.0.1 www.trendsonline.mobi
+127.0.0.1 www.trkfl.com
 127.0.0.1 www.trndsys.mobi
 127.0.0.1 www.ttnet.yandex.com.tr
 127.0.0.1 www.turn.com
