@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 03 Mar 2016 at 21:57:10 GMT
+# Last updated: Mon, 07 Mar 2016 at 17:54:46 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9973,6 +9973,7 @@
 127.0.0.1 www.pureadexchange.com
 127.0.0.1 www.qitrck.com
 127.0.0.1 www.quickbrowsersearch.com
+127.0.0.1 www.quickcash-system.com
 127.0.0.1 www.radiate.com
 127.0.0.1 www.rankyou.com
 127.0.0.1 www.ravel-rewardpath.com
