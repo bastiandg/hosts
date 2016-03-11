@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 22 Feb 2016 09:11:57 GMT
-# entries:        2431
+# entries:        2430
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -67,7 +67,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 a.ucoz.ru
 127.0.0.1 a.xanga.com
 127.0.0.1 a32.g.a.yimg.com
-127.0.0.1 aaddzz.com
 127.0.0.1 abacho.net
 127.0.0.1 abc-ads.com
 127.0.0.1 absoluteclickscom.com
