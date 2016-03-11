@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 22 Feb 2016 09:11:57 GMT
-# entries:        2430
+# entries:        2425
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -949,7 +949,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 aidu-ads.de
 127.0.0.1 aim4media.com
 127.0.0.1 aistat.net
-127.0.0.1 ajouter.net
 127.0.0.1 aktrack.pubmatic.com
 127.0.0.1 alclick.com
 127.0.0.1 alenty.com
@@ -1461,6 +1460,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 fpctraffic.com
 127.0.0.1 fpctraffic2.com
 127.0.0.1 fragmentserv.iac-online.de
+127.0.0.1 free-banners.com
 127.0.0.1 freebanner.com
 127.0.0.1 freelogs.com
 127.0.0.1 freeonlineusers.com
@@ -1510,7 +1510,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 greystripe.com
 127.0.0.1 gtop.ro
 127.0.0.1 gtop100.com
-127.0.0.1 gtsads.com
 127.0.0.1 harrenmedia.com
 127.0.0.1 harrenmedianetwork.com
 127.0.0.1 havamedia.net
@@ -1572,7 +1571,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 idot.cz
 127.0.0.1 idregie.com
 127.0.0.1 idtargeting.com
-127.0.0.1 ientrymail.com
 127.0.0.1 iesnare.com
 127.0.0.1 ifa.tube8live.com
 127.0.0.1 ilbanner.com
@@ -1622,12 +1620,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 itop.cz
 127.0.0.1 its-that-easy.com
 127.0.0.1 itsptp.com
-127.0.0.1 jbeet.cjt1.net
 127.0.0.1 jcount.com
-127.0.0.1 jedonkey.cjt1.net
 127.0.0.1 jinkads.de
-127.0.0.1 jkazaa.cjt1.net
-127.0.0.1 jnova.cjt1.net
 127.0.0.1 joetec.net
 127.0.0.1 jokedollars.com
 127.0.0.1 js.users.51.la
@@ -1873,6 +1867,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 p.adpdx.com
 127.0.0.1 pagead.l.google.com
 127.0.0.1 pagefair.com
+127.0.0.1 pagerank-estate-spb.ru
 127.0.0.1 pagerank-ranking.com
 127.0.0.1 pagerank-ranking.de
 127.0.0.1 pagerank-server7.de

@@ -924,7 +924,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 aidu-ads.de
 0.0.0.0 aim4media.com
 0.0.0.0 aistat.net
-0.0.0.0 ajouter.net
 0.0.0.0 aktrack.pubmatic.com
 0.0.0.0 alclick.com
 0.0.0.0 alenty.com
@@ -1436,6 +1435,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 fpctraffic.com
 0.0.0.0 fpctraffic2.com
 0.0.0.0 fragmentserv.iac-online.de
+0.0.0.0 free-banners.com
 0.0.0.0 freebanner.com
 0.0.0.0 freelogs.com
 0.0.0.0 freeonlineusers.com
@@ -1485,7 +1485,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 greystripe.com
 0.0.0.0 gtop.ro
 0.0.0.0 gtop100.com
-0.0.0.0 gtsads.com
 0.0.0.0 harrenmedia.com
 0.0.0.0 harrenmedianetwork.com
 0.0.0.0 havamedia.net
@@ -1547,7 +1546,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 idot.cz
 0.0.0.0 idregie.com
 0.0.0.0 idtargeting.com
-0.0.0.0 ientrymail.com
 0.0.0.0 iesnare.com
 0.0.0.0 ifa.tube8live.com
 0.0.0.0 ilbanner.com
@@ -1597,12 +1595,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 itop.cz
 0.0.0.0 its-that-easy.com
 0.0.0.0 itsptp.com
-0.0.0.0 jbeet.cjt1.net
 0.0.0.0 jcount.com
-0.0.0.0 jedonkey.cjt1.net
 0.0.0.0 jinkads.de
-0.0.0.0 jkazaa.cjt1.net
-0.0.0.0 jnova.cjt1.net
 0.0.0.0 joetec.net
 0.0.0.0 jokedollars.com
 0.0.0.0 js.users.51.la
@@ -1848,6 +1842,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 p.adpdx.com
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagefair.com
+0.0.0.0 pagerank-estate-spb.ru
 0.0.0.0 pagerank-ranking.com
 0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank-server7.de
