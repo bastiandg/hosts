@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 07 Mar 2016 at 17:54:46 GMT
+# Last updated: Sun, 13 Mar 2016 at 10:11:58 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5617,6 +5617,7 @@
 127.0.0.1 affpartners.com
 127.0.0.1 aff.promodeals.nl
 127.0.0.1 aff.ringtonepartner.com
+127.0.0.1 afftracking.justanswer.com
 127.0.0.1 afi.adocean.pl
 127.0.0.1 afilo.pl
 127.0.0.1 afkarehroshan.com
