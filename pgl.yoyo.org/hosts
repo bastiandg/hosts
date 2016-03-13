@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 22 Feb 2016 09:11:57 GMT
-# entries:        2424
+# last updated:   Sun, 13 Mar 2016 22:02:26 GMT
+# entries:        2425
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -944,6 +944,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 affiliatetracking.net
 127.0.0.1 affiliatewindow.com
 127.0.0.1 affiliation-france.com
+127.0.0.1 afftracking.justanswer.com
 127.0.0.1 ah-ha.com
 127.0.0.1 ahalogy.com
 127.0.0.1 aidu-ads.de
