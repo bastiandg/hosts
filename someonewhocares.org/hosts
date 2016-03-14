@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 13 Mar 2016 at 10:11:58 GMT
+# Last updated: Mon, 14 Mar 2016 at 07:34:45 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6176,7 +6176,7 @@
 127.0.0.1 cdn.udmserve.net
 127.0.0.1 cdn.undertone.com
 127.0.0.1 cdn.usabilitytracker.com
-127.0.0.1 cdn.vidible.tv
+#127.0.0.1 cdn.vidible.tv	#Breaks http://on.aol.com/
 127.0.0.1 cdn.viglink.com
 127.0.0.1 cdn.wg.uproxx.com
 127.0.0.1 cdnw.ringtonepartner.com
