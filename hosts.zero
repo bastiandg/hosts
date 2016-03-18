@@ -2924,7 +2924,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.kaldata.com
 0.0.0.0 ads.kartu.lt
 0.0.0.0 ads.kazaa.com
-0.0.0.0 ads.kelbymediagroup.com
 0.0.0.0 ads.keywordblocks.com
 0.0.0.0 ads.kickasstorrents.video
 0.0.0.0 ads.kidssports.bg
@@ -4935,6 +4934,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 af-gb.marketgid.com
 0.0.0.0 afa15.com.ne.kr
 0.0.0.0 afantispy.com
+0.0.0.0 afbtracking09.com
 0.0.0.0 afdbande.cn
 0.0.0.0 afe.specificclick.net
 0.0.0.0 afe2.specificclick.net
@@ -10878,7 +10878,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 fr.classic.clickintext.net
 0.0.0.0 fr.sitestat.com
 0.0.0.0 fr.slidein.clickintext.net
-0.0.0.0 fragmentserv.iac-online.de
 0.0.0.0 fratz.oewabox.at
 0.0.0.0 freakads.com
 0.0.0.0 free-banners.com
@@ -12388,6 +12387,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ieee.adbureau.net
 0.0.0.0 ieginc.com
 0.0.0.0 ientry.rotator.hadj1.adjuggler.net
+0.0.0.0 ientrymail.com
 0.0.0.0 ieplugin.com
 0.0.0.0 iesb.us.intellitxt.com
 0.0.0.0 iesnare.com

@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 13 Mar 2016 22:02:26 GMT
-# entries:        2426
+# entries:        2425
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -534,7 +534,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.jubii.dk
 127.0.0.1 ads.justhungry.com
 127.0.0.1 ads.kaktuz.net
-127.0.0.1 ads.kelbymediagroup.com
 127.0.0.1 ads.kinobox.cz
 127.0.0.1 ads.kinxxx.com
 127.0.0.1 ads.kompass.com
@@ -555,7 +554,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.moceanads.com
 127.0.0.1 ads.motor-forum.nl
 127.0.0.1 ads.motormedia.nl
-127.0.0.1 ads.movieflix.com
 127.0.0.1 ads.msn.com
 127.0.0.1 ads.multimania.lycos.fr
 127.0.0.1 ads.nationalgeographic.com
@@ -915,6 +913,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adzerk.s3.amazonaws.com
 127.0.0.1 adzones.com
 127.0.0.1 af-ad.co.uk
+127.0.0.1 afbtracking09.com
 127.0.0.1 affbuzzads.com
 127.0.0.1 affili.net
 127.0.0.1 affiliate.1800flowers.com
@@ -1461,7 +1460,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 forex-affiliate.net
 127.0.0.1 fpctraffic.com
 127.0.0.1 fpctraffic2.com
-127.0.0.1 fragmentserv.iac-online.de
 127.0.0.1 free-banners.com
 127.0.0.1 freebanner.com
 127.0.0.1 freelogs.com
@@ -1573,6 +1571,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 idot.cz
 127.0.0.1 idregie.com
 127.0.0.1 idtargeting.com
+127.0.0.1 ientrymail.com
 127.0.0.1 iesnare.com
 127.0.0.1 ifa.tube8live.com
 127.0.0.1 ilbanner.com
