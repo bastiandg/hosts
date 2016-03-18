@@ -510,15 +510,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 9down.us.intellitxt.com
 0.0.0.0 9ivwbox.de
 0.0.0.0 9vwbox.de
-0.0.0.0 a-0001.a-msedge.net
-0.0.0.0 a-0002.a-msedge.net
-0.0.0.0 a-0003.a-msedge.net
-0.0.0.0 a-0004.a-msedge.net
-0.0.0.0 a-0005.a-msedge.net
-0.0.0.0 a-0006.a-msedge.net
-0.0.0.0 a-0007.a-msedge.net
-0.0.0.0 a-0008.a-msedge.net
-0.0.0.0 a-0009.a-msedge.net
 0.0.0.0 a-ads.com
 0.0.0.0 a-atraffickim.tf
 0.0.0.0 a-counter.kiev.ua

@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 14 Mar 2016 at 07:34:45 GMT
+# Last updated: Fri, 18 Mar 2016 at 09:02:37 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -12331,15 +12331,6 @@
 #<Windows10>
 
 # Windows 10 reporting domains. 
-127.0.0.1 a-0001.a-msedge.net
-127.0.0.1 a-0002.a-msedge.net
-127.0.0.1 a-0003.a-msedge.net
-127.0.0.1 a-0004.a-msedge.net
-127.0.0.1 a-0005.a-msedge.net
-127.0.0.1 a-0006.a-msedge.net
-127.0.0.1 a-0007.a-msedge.net
-127.0.0.1 a-0008.a-msedge.net
-127.0.0.1 a-0009.a-msedge.net
 127.0.0.1 a.ads2.msads.net
 127.0.0.1 a.ads2.msn.com
 127.0.0.1 adnexus.net
