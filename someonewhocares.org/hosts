@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 19 Mar 2016 at 06:36:00 GMT
+# Last updated: Sat, 19 Mar 2016 at 15:32:54 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3356,6 +3356,7 @@
 127.0.0.1 7bpeople.com
 127.0.0.1 7bpeople.data.7bpeople.com
 127.0.0.1 7cnbcnews.com
+127.0.0.1 829331534d183e7d1f6a-8d91cc88b27b979d0ea53a10ce8855ec.r96.cf5.rackcdn.com
 127.0.0.1 85103.hittail.com
 127.0.0.1 8574dnj3yzjace8c8io6zr9u3n.hop.clickbank.net
 127.0.0.1 86file.megajoy.com
@@ -8160,6 +8161,7 @@
 127.0.0.1 prpops.com
 127.0.0.1 pr.ydp.yahoo.com
 127.0.0.1 pstatic.datafastguru.info
+127.0.0.1 pt21na.com
 127.0.0.1 ptrads.mp3.com
 127.0.0.1 ptreklam.com
 127.0.0.1 ptreklam.com.tr
@@ -9961,6 +9963,7 @@
 127.0.0.1 www.postmasterbannernet.com
 127.0.0.1 www.postmasterdirect.com
 127.0.0.1 www.postnewsads.com
+127.0.0.1 www.predictivadnetwork.com
 127.0.0.1 www.premiumholidayoffers.com
 127.0.0.1 www.premiumproductsonline.com
 127.0.0.1 www.premium-reward-club.com
