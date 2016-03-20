@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 20 Mar 2016 at 18:31:44 GMT
+# Last updated: Sun, 20 Mar 2016 at 22:23:28 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3349,6 +3349,7 @@
 127.0.0.1 4.adbrite.com
 127.0.0.1 4c28d6.r.axf8.net
 127.0.0.1 4qinvite.4q.iperceptions.com
+127.0.0.1 59nmk4u.tech
 127.0.0.1 6159.genieessp.com
 127.0.0.1 7500.com
 127.0.0.1 76.a.boom.ro
@@ -7456,6 +7457,7 @@
 127.0.0.1 l.yieldmanager.net
 127.0.0.1 m1.emea.2mdn.net
 127.0.0.1 m1.emea.2mdn.net.edgesuite.net
+127.0.0.1 m2.media-box.co
 127.0.0.1 m2.sexgarantie.nl
 127.0.0.1 m3.2mdn.net
 127.0.0.1 m4.afs.googleadservices.com
@@ -7550,6 +7552,7 @@
 127.0.0.1 media.elb-kind.de
 127.0.0.1 media.espace-plus.net
 127.0.0.1 media.fairlink.ru
+127.0.0.1 media-fire.org
 127.0.0.1 mediafr.247realmedia.com
 127.0.0.1 media.funpic.de
 127.0.0.1 medialand.relax.ru
@@ -8031,6 +8034,7 @@
 127.0.0.1 plasmatv4free.com
 127.0.0.1 plasmatvreward.com
 127.0.0.1 platads.com
+127.0.0.1 playinvaders.com
 127.0.0.1 playlink.pl
 127.0.0.1 playtime.tubemogul.com
 127.0.0.1 play.traffpartners.com
@@ -8846,6 +8850,7 @@
 127.0.0.1 te.kontera.com
 127.0.0.1 tel.geenstijl.nl
 127.0.0.1 testapp.adhood.com
+127.0.0.1 testpc24.profitableads.online
 127.0.0.1 textads.madisonavenue.com
 127.0.0.1 textad.traficdublu.ro
 127.0.0.1 text-link-ads.com
@@ -9503,6 +9508,7 @@
 127.0.0.1 www.banstex.com
 127.0.0.1 www.bargainbeautybuys.com
 127.0.0.1 www.bbelements.com
+127.0.0.1 www.best-iphone6s.com
 127.0.0.1 www.bestshopperrewards.com
 127.0.0.1 www.bet365.com
 127.0.0.1 www.bhclicks.com
