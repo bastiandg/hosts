@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 21 Mar 2016 at 22:00:04 GMT
+# Last updated: Tue, 22 Mar 2016 at 18:29:18 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7734,6 +7734,7 @@
 127.0.0.1 newadserver.interfree.it
 127.0.0.1 new-ads.eurogamer.net
 127.0.0.1 newbs.hutz.co.il
+127.0.0.1 newclk.com
 127.0.0.1 newip427.changeip.net
 127.0.0.1 newjunk4u.com
 127.0.0.1 news6health.com
@@ -9304,6 +9305,7 @@
 127.0.0.1 www1.popinads.com
 127.0.0.1 www1.safenyplanet.in
 127.0.0.1 www1.vip.sc9.admob.com
+127.0.0.1 www1.xmediaserve.com
 127.0.0.1 www1.zapadserver1.com
 127.0.0.1 www.2015rewardopportunities.com
 127.0.0.1 www210.paypopup.com
@@ -10010,6 +10012,7 @@
 127.0.0.1 www.rubyfortune.com
 127.0.0.1 www.rwpads.net
 127.0.0.1 www.sa44.net
+127.0.0.1 www.safesoftware182.com
 127.0.0.1 www.sagent.io
 127.0.0.1 www.salesonline.ie
 127.0.0.1 www.sanoma-adverteren.nl
