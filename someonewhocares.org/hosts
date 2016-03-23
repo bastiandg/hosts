@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 22 Mar 2016 at 18:29:18 GMT
+# Last updated: Wed, 23 Mar 2016 at 07:51:28 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -414,6 +414,7 @@
 127.0.0.1 bluekai.com
 127.0.0.1 bluestreak.com
 127.0.0.1 bookproplus.com
+127.0.0.1 brightroll.com
 127.0.0.1 broadcastpc.tv 
 127.0.0.1 report.broadcastpc.tv 
 127.0.0.1 www.broadcastpc.tv
@@ -496,6 +497,7 @@
 127.0.0.1 collector.newsx.cc
 127.0.0.1 connectionlead.com
 127.0.0.1 connexity.net
+127.0.0.1 convertro.com
 127.0.0.1 cookies.cmpnet.com
 127.0.0.1 count.channeladvisor.com
 127.0.0.1 counter10.bravenet.com
@@ -666,6 +668,7 @@
 127.0.0.1 delivery.loopingclick.com
 127.0.0.1 de.sitestat.com
 127.0.0.1 detectorcarecenter.in
+127.0.0.1 dgit.com
 127.0.0.1 didtheyreadit.com		# email bugs
 127.0.0.1 digistats.westjet.com
 127.0.0.1 dimeprice.com		# "spam bugs"
@@ -753,6 +756,7 @@
 127.0.0.1 e-n.y-1shz2prbmdj6wvny-1sez2pra2dj6wjmyepdzadpwudj6x9ny-1seq-2-2.stats.esomniture.com
 127.0.0.1 e-ny.a-1shz2prbmdj6wvny-1sez2pra2dj6wjny-1jcpgbowsdj6x9ny-1seq-2-2.stats.esomniture.com
 127.0.0.1 es.optimost.com
+127.0.0.1 extremereach.com
 127.0.0.1 fastcounter.bcentral.com
 127.0.0.1 fastcounter.com
 127.0.0.1 fastcounter.linkexchange.com
@@ -862,7 +866,7 @@
 127.0.0.1 link.masterstats.com
 127.0.0.1 linktrack.bravenet.com
 127.0.0.1 livestats.atlanta-airport.com
-#127.0.0.1 ll.a.hulu.com	# Uncomment to block Hulu. 
+#127.0.0.1 ll.a.hulu.com	# Uncomment to block Hulu.
 127.0.0.1 loc1.hitsprocessor.com
 127.0.0.1 log1.countomat.com
 127.0.0.1 log4.quintelligence.com
@@ -918,7 +922,7 @@
 127.0.0.1 metrics2.pricegrabber.com
 127.0.0.1 metrics.accuweather.com
 127.0.0.1 metrics.al.com
-127.0.0.1 metrics.att.com 
+127.0.0.1 metrics.att.com
 127.0.0.1 metrics.boston.com
 127.0.0.1 metrics.cbc.ca
 127.0.0.1 metrics.cleveland.com
@@ -1182,7 +1186,7 @@
 127.0.0.1 sm8.sitemeter.com
 127.0.0.1 sm9.sitemeter.com
 127.0.0.1 smartstats.com
-127.0.0.1 smetrics.att.com 
+127.0.0.1 smetrics.att.com
 127.0.0.1 socialize.eu1.gigya.com
 127.0.0.1 softcore.xxxcounter.com
 127.0.0.1 softonic.com
@@ -1297,7 +1301,7 @@
 127.0.0.1 stats.srvasnet.info
 127.0.0.1 stats.ssa.gov
 127.0.0.1 stats.street-jeni.us
-127.0.0.1 stats.styletechnology.me 
+127.0.0.1 stats.styletechnology.me
 127.0.0.1 stats.superstats.com
 127.0.0.1 stats.telegraph.co.uk
 127.0.0.1 stats.thoughtcatalog.com
@@ -1320,7 +1324,7 @@
 127.0.0.1 superstats.com
 127.0.0.1 s.youtube.com
 127.0.0.1 systweak.com
-#127.0.0.1 t2.hulu.com		# Uncomment to block Hulu. 
+#127.0.0.1 t2.hulu.com		# Uncomment to block Hulu.
 127.0.0.1 tagging.outrider.com
 127.0.0.1 tags.bkrtx.com
 127.0.0.1 talkcity.realtracker.com
@@ -1359,7 +1363,7 @@
 127.0.0.1 track.ft.com
 127.0.0.1 track.gawker.com
 127.0.0.1 track.homestead.com
-#127.0.0.1 track.hulu.com	# Uncomment to block Hulu. 
+#127.0.0.1 track.hulu.com	# Uncomment to block Hulu.
 127.0.0.1 tracking.10e20.com
 127.0.0.1 tracking.adjug.com
 127.0.0.1 tracking.allposters.com
@@ -8704,6 +8708,7 @@
 127.0.0.1 static.adtaily.pl
 127.0.0.1 static.adwo.com
 127.0.0.1 static.adzerk.net
+127.0.0.1 static.affiliation-france.com
 127.0.0.1 static.aff-landing-tmp.foxtab.com
 127.0.0.1 staticb.mydirtyhobby.com
 127.0.0.1 static.carbonads.com
