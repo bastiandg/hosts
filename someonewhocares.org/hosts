@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 24 Mar 2016 at 00:36:00 GMT
+# Last updated: Thu, 24 Mar 2016 at 05:25:04 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5638,6 +5638,7 @@
 127.0.0.1 aka-cdn-ns.adtech.de
 127.0.0.1 aka-cdn-ns.adtechus.com
 127.0.0.1 akamai.invitemedia.com
+127.0.0.1 a.karmatrail.club
 127.0.0.1 ak.buyservices.com
 127.0.0.1 a.kerg.net
 127.0.0.1 ak.maxserving.com
@@ -7465,6 +7466,7 @@
 127.0.0.1 m2.sexgarantie.nl
 127.0.0.1 m3.2mdn.net
 127.0.0.1 m4.afs.googleadservices.com
+127.0.0.1 m4ymh0220.tech
 127.0.0.1 ma.baidu.com
 127.0.0.1 macaddictads.snv.futurenet.com
 127.0.0.1 macads.net
