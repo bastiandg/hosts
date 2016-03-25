@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 24 Mar 2016 at 05:25:04 GMT
+# Last updated: Fri, 25 Mar 2016 at 18:02:49 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -853,6 +853,7 @@
 127.0.0.1 jkearns.freestats.com
 127.0.0.1 journalism.uk.smarttargetting.com
 127.0.0.1 js.cybermonitor.com
+127.0.0.1 js.hs-analytics.net
 127.0.0.1 jsonlinecollect.247realmedia.com
 127.0.0.1 js.revsci.net
 127.0.0.1 kissmetrics.com
