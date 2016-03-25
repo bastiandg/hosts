@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 13 Mar 2016 22:02:26 GMT
-# entries:        2425
+# entries:        2422
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -534,6 +534,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.jubii.dk
 127.0.0.1 ads.justhungry.com
 127.0.0.1 ads.kaktuz.net
+127.0.0.1 ads.kelbymediagroup.com
 127.0.0.1 ads.kinobox.cz
 127.0.0.1 ads.kinxxx.com
 127.0.0.1 ads.kompass.com
@@ -979,7 +980,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 as1.advfn.com
 127.0.0.1 as2.advfn.com
 127.0.0.1 as5000.com
-127.0.0.1 assets.loomia.com
 127.0.0.1 assets1.exgfnetwork.com
 127.0.0.1 assoc-amazon.com
 127.0.0.1 at-adserver.alltop.com
@@ -1556,7 +1556,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 hyperbanner.net
 127.0.0.1 hypertracker.com
 127.0.0.1 i-clicks.net
-127.0.0.1 i-lookup.com
 127.0.0.1 i.xx.openx.com
 127.0.0.1 i1img.com
 127.0.0.1 i1media.no
@@ -1731,7 +1730,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 medleyads.com
 127.0.0.1 medyanetads.com
 127.0.0.1 megacash.de
-127.0.0.1 megago.com
 127.0.0.1 megastats.com
 127.0.0.1 megawerbung.de
 127.0.0.1 memorix.sdv.fr
@@ -2081,7 +2079,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 servedbyadbutler.com
 127.0.0.1 servedbyopenx.com
 127.0.0.1 servethis.com
-127.0.0.1 service1.adten.de
 127.0.0.1 services.hearstmags.com
 127.0.0.1 serving-sys.com
 127.0.0.1 sexaddpro.de

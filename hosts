@@ -2927,6 +2927,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.kaldata.com
 127.0.0.1 ads.kartu.lt
 127.0.0.1 ads.kazaa.com
+127.0.0.1 ads.kelbymediagroup.com
 127.0.0.1 ads.keywordblocks.com
 127.0.0.1 ads.kickasstorrents.video
 127.0.0.1 ads.kidssports.bg
@@ -5732,7 +5733,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 assets.customer.io
 127.0.0.1 assets.igapi.com
 127.0.0.1 assets.kixer.com
-127.0.0.1 assets.loomia.com
 127.0.0.1 assets.luminate.com
 127.0.0.1 assets.percentmobile.com
 127.0.0.1 assets.popmarker.com
@@ -12265,7 +12265,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 i-clicks.net
 127.0.0.1 i-hacked.us.intellitxt.com
 127.0.0.1 i-itrafficim.tf
-127.0.0.1 i-lookup.com
 127.0.0.1 i.11zz.com
 127.0.0.1 i.admob.com
 127.0.0.1 i.adwise.bg
@@ -14898,7 +14897,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 meetupdev.122.2o7.net
 127.0.0.1 meevehdar.com
 127.0.0.1 megacash.de
-127.0.0.1 megago.com
 127.0.0.1 megapanel.gem.pl
 127.0.0.1 megaplex.oewabox.at
 127.0.0.1 megapopads.com
@@ -19765,7 +19763,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 service00x.adtech.de
 127.0.0.1 service00x.adtech.fr
 127.0.0.1 service00x.adtech.us
-127.0.0.1 service1.adten.de
 127.0.0.1 service1.predictad.com
 127.0.0.1 service2.predictad.com
 127.0.0.1 serviceo.comcast.net

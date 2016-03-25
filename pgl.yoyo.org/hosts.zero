@@ -509,6 +509,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.jubii.dk
 0.0.0.0 ads.justhungry.com
 0.0.0.0 ads.kaktuz.net
+0.0.0.0 ads.kelbymediagroup.com
 0.0.0.0 ads.kinobox.cz
 0.0.0.0 ads.kinxxx.com
 0.0.0.0 ads.kompass.com
@@ -954,7 +955,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 as1.advfn.com
 0.0.0.0 as2.advfn.com
 0.0.0.0 as5000.com
-0.0.0.0 assets.loomia.com
 0.0.0.0 assets1.exgfnetwork.com
 0.0.0.0 assoc-amazon.com
 0.0.0.0 at-adserver.alltop.com
@@ -1531,7 +1531,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 hyperbanner.net
 0.0.0.0 hypertracker.com
 0.0.0.0 i-clicks.net
-0.0.0.0 i-lookup.com
 0.0.0.0 i.xx.openx.com
 0.0.0.0 i1img.com
 0.0.0.0 i1media.no
@@ -1706,7 +1705,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 medleyads.com
 0.0.0.0 medyanetads.com
 0.0.0.0 megacash.de
-0.0.0.0 megago.com
 0.0.0.0 megastats.com
 0.0.0.0 megawerbung.de
 0.0.0.0 memorix.sdv.fr
@@ -2056,7 +2054,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 servedbyadbutler.com
 0.0.0.0 servedbyopenx.com
 0.0.0.0 servethis.com
-0.0.0.0 service1.adten.de
 0.0.0.0 services.hearstmags.com
 0.0.0.0 serving-sys.com
 0.0.0.0 sexaddpro.de
