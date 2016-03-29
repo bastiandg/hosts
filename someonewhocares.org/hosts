@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 26 Mar 2016 at 17:36:56 GMT
+# Last updated: Mon, 28 Mar 2016 at 23:17:30 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -11999,7 +11999,7 @@
 127.0.0.1 schemas.microsoft.akadns.net
 127.0.0.1 secure.flashtalking.com
 127.0.0.1 settings-win.data.microsoft.com
-127.0.0.1 s.gateway.messenger.live.com
+#127.0.0.1 s.gateway.messenger.live.com 	# Interferes with Skype
 127.0.0.1 sO.2mdn.net
 127.0.0.1 statsfe2.ws.microsoft.com
 127.0.0.1 telemetry.appex.bing.net:443
