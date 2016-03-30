@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 28 Mar 2016 at 23:17:30 GMT
+# Last updated: Wed, 30 Mar 2016 at 22:40:31 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6048,6 +6048,7 @@
 127.0.0.1 c1.popads.net
 127.0.0.1 c1.teaser-goods.ru
 127.0.0.1 c1.zedo.com
+127.0.0.1 c2366475.c.youradexchange.com
 127.0.0.1 c2.l.qq.com
 127.0.0.1 c2.zedo.com
 127.0.0.1 c3.zedo.com
@@ -6246,6 +6247,7 @@
 127.0.0.1 click3.rbc.magna.ru
 127.0.0.1 click4.rbc.magna.ru
 127.0.0.1 clickad.eo.pl
+127.0.0.1 click.adpile.net
 127.0.0.1 click.am1.adm.cnzz.net
 127.0.0.1 clickarrows.com
 127.0.0.1 click.avenuea.com
@@ -6503,6 +6505,7 @@
 127.0.0.1 data.flurry.com
 127.0.0.1 date.ventivmedia.com
 127.0.0.1 datingadvertising.com
+127.0.0.1 daweya.info
 127.0.0.1 dawnnationaladvertiser.com
 127.0.0.1 db4.net-filter.com
 127.0.0.1 dbbsrv.com
@@ -7931,6 +7934,7 @@
 127.0.0.1 PAKpolice.com
 127.0.0.1 panel.adtify.pl
 127.0.0.1 paperg.com
+127.0.0.1 paques-2016.offre-exceptionnelle.xyz
 127.0.0.1 parskabab.com
 127.0.0.1 partner01.oingo.com
 127.0.0.1 partner02.oingo.com
@@ -8210,6 +8214,7 @@
 127.0.0.1 qqlogo.qq.com
 127.0.0.1 qring-tms.qq.com
 127.0.0.1 qss-client.qq.com
+127.0.0.1 qualifiedourspecialoffer.com
 127.0.0.1 quickbrowsersearch.com
 127.0.0.1 quickupdateserv.com
 127.0.0.1 quik-serv.com
@@ -9955,6 +9960,7 @@
 127.0.0.1 www.nysubwayoffer.com
 127.0.0.1 www.offerx.co.uk
 127.0.0.1 www.oinadserve.com
+127.0.0.1 www.onclickpredictiv.com
 127.0.0.1 www.onclicktop.com
 127.0.0.1 www.onlinebestoffers.net
 127.0.0.1 www.ontheweb.com
@@ -11980,7 +11986,6 @@
 127.0.0.1 c.msn.com
 127.0.0.1 db3aqu.atdmt.com
 127.0.0.1 ec.atdmt.com
-127.0.0.1 fe2.update.microsoft.com.akadns.net
 127.0.0.1 feedback.microsoft-hohm.com
 127.0.0.1 flex.msn.com
 127.0.0.1 g.msn.com
@@ -11988,7 +11993,6 @@
 127.0.0.1 lb1.www.ms.akadns.net
 127.0.0.1 live.rads.msn.com
 127.0.0.1 m.adnxs.com
-127.0.0.1 m.hotmail.com
 127.0.0.1 msedge.net
 127.0.0.1 msftncsi.com
 127.0.0.1 msnbot-65-55-108-23.search.msn.com

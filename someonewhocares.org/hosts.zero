@@ -3311,6 +3311,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 c2.thecounter.de
 0.0.0.0 c2.xxxcounter.com
 0.0.0.0 c2.zedo.com
+0.0.0.0 c2366475.c.youradexchange.com
 0.0.0.0 c3.gostats.com
 0.0.0.0 c3.statcounter.com
 0.0.0.0 c3.thecounter.com
@@ -3581,6 +3582,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cleanchain.net
 0.0.0.0 click-find-save.com
 0.0.0.0 click-see-save.com
+0.0.0.0 click.adpile.net
 0.0.0.0 click.am1.adm.cnzz.net
 0.0.0.0 click.atdmt.com
 0.0.0.0 click.avenuea.com
@@ -4078,6 +4080,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 data2.perf.overture.com
 0.0.0.0 date.ventivmedia.com
 0.0.0.0 datingadvertising.com
+0.0.0.0 daweya.info
 0.0.0.0 dawnnationaladvertiser.com
 0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 db4.net-filter.com
@@ -4684,7 +4687,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 fe1-fi.imrworldwide.com
 0.0.0.0 fe1-it.imrworldwide.com
 0.0.0.0 fe2-au.imrworldwide.com
-0.0.0.0 fe2.update.microsoft.com.akadns.net
 0.0.0.0 fe3-au.imrworldwide.com
 0.0.0.0 fe3-gc.imrworldwide.com
 0.0.0.0 fe3-uk.imrworldwide.com
@@ -6113,7 +6115,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 m.fr.2mdn.net
 0.0.0.0 m.fr.a2dfp.net
 0.0.0.0 m.friendlyduck.com
-0.0.0.0 m.hotmail.com
 0.0.0.0 m.openv.tv
 0.0.0.0 m.pl.pornzone.tv
 0.0.0.0 m.tribalfusion.com
@@ -7550,6 +7551,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pakpolice.com
 0.0.0.0 panel.adtify.pl
 0.0.0.0 paperg.com
+0.0.0.0 paques-2016.offre-exceptionnelle.xyz
 0.0.0.0 parent.oewabox.at
 0.0.0.0 parskabab.com
 0.0.0.0 partner-ts.groupon.be
@@ -7976,6 +7978,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 qqlogo.qq.com
 0.0.0.0 qring-tms.qq.com
 0.0.0.0 qss-client.qq.com
+0.0.0.0 qualifiedourspecialoffer.com
 0.0.0.0 quantserve.com
 0.0.0.0 quareclk.com
 0.0.0.0 quickbrowsersearch.com
@@ -11029,6 +11032,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.oix.com
 0.0.0.0 www.oix.net
 0.0.0.0 www.on.nimp.org
+0.0.0.0 www.onclickpredictiv.com
 0.0.0.0 www.onclicktop.com
 0.0.0.0 www.onestat.com
 0.0.0.0 www.onlinebestoffers.net
