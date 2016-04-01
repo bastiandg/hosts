@@ -1730,6 +1730,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 medleyads.com
 127.0.0.1 medyanetads.com
 127.0.0.1 megacash.de
+127.0.0.1 megago.com
 127.0.0.1 megastats.com
 127.0.0.1 megawerbung.de
 127.0.0.1 memorix.sdv.fr
@@ -2231,7 +2232,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 top123.ro
 127.0.0.1 top20.com
 127.0.0.1 top20free.com
-127.0.0.1 top66.ro
 127.0.0.1 top90.ro
 127.0.0.1 topbarh.box.sk
 127.0.0.1 topblogarea.se
