@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 05 Apr 2016 at 04:41:04 GMT
+# Last updated: Tue, 05 Apr 2016 at 07:55:02 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -906,7 +906,7 @@
 127.0.0.1 m1.nedstatbasic.net
 127.0.0.1 m1.webstats4u.com
 127.0.0.1 mailcheckisp.biz	# "spam bugs"
-127.0.0.1 mailfoogae.appspot.com
+127.0.0.1 mailfoogae.appspot.com	# Streak email tracker
 127.0.0.1 mailtrack.me
 127.0.0.1 mama128.valuehost.ru
 127.0.0.1 marketscore.com
@@ -5501,6 +5501,7 @@
 127.0.0.1 adv.bannercity.ru
 127.0.0.1 adv.bbanner.it
 127.0.0.1 adv.bookclubservices.ca
+127.0.0.1 advconversion.com
 127.0.0.1 adveng.hiasys.com
 127.0.0.1 adveraction.pl
 127.0.0.1 adver.pengyou.com
@@ -9115,6 +9116,7 @@
 127.0.0.1 voordeel.ad.nl
 127.0.0.1 vox-static.liverail.com
 127.0.0.1 vp.tscapeplay.com
+127.0.0.1 vq91811.com
 127.0.0.1 vu.veoxa.com
 127.0.0.1 v.vomedia.tv
 127.0.0.1 vzarabotke.ru
@@ -9469,6 +9471,7 @@
 127.0.0.1 www.ad.twitchguru.com
 127.0.0.1 www.ad-up.com
 127.0.0.1 www.advaliant.com
+127.0.0.1 www.advconversion.com
 127.0.0.1 www.adverterenbijrtl.nl
 127.0.0.1 www.adverterenbijsbs.nl
 127.0.0.1 www.adverterenzeeland.nl
