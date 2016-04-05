@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 30 Mar 2016 at 22:40:31 GMT
+# Last updated: Tue, 05 Apr 2016 at 04:41:04 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -906,6 +906,7 @@
 127.0.0.1 m1.nedstatbasic.net
 127.0.0.1 m1.webstats4u.com
 127.0.0.1 mailcheckisp.biz	# "spam bugs"
+127.0.0.1 mailfoogae.appspot.com
 127.0.0.1 mailtrack.me
 127.0.0.1 mama128.valuehost.ru
 127.0.0.1 marketscore.com
@@ -6505,7 +6506,6 @@
 127.0.0.1 data.flurry.com
 127.0.0.1 date.ventivmedia.com
 127.0.0.1 datingadvertising.com
-127.0.0.1 daweya.info
 127.0.0.1 dawnnationaladvertiser.com
 127.0.0.1 db4.net-filter.com
 127.0.0.1 dbbsrv.com

@@ -4080,7 +4080,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 data2.perf.overture.com
 0.0.0.0 date.ventivmedia.com
 0.0.0.0 datingadvertising.com
-0.0.0.0 daweya.info
 0.0.0.0 dawnnationaladvertiser.com
 0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 db4.net-filter.com
@@ -6371,6 +6370,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mail.youcanoptout.net
 0.0.0.0 mail.youcanoptout.org
 0.0.0.0 mailcheckisp.biz
+0.0.0.0 mailfoogae.appspot.com
 0.0.0.0 mailforfreedom.com
 0.0.0.0 mailtrack.me
 0.0.0.0 mailtribune.112.2o7.net
