@@ -3300,6 +3300,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 c1.zedo.com
 0.0.0.0 c10.statcounter.com
 0.0.0.0 c11.statcounter.com
+0.0.0.0 c11370896.c.youradexchange.com
 0.0.0.0 c12.statcounter.com
 0.0.0.0 c13.statcounter.com
 0.0.0.0 c14.statcounter.com
@@ -5655,6 +5656,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ipdata.adtech.de
 0.0.0.0 ipdata.adtech.fr
 0.0.0.0 ipdata.adtech.us
+0.0.0.0 iphone-avril.offreflash.xyz
 0.0.0.0 iprocollect.realmedia.com
 0.0.0.0 iq001.adtech.de
 0.0.0.0 iq001.adtech.fr
