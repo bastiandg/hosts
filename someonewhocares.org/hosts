@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 05 Apr 2016 at 07:55:02 GMT
+# Last updated: Thu, 07 Apr 2016 at 05:30:46 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9981,6 +9981,7 @@
 127.0.0.1 www.persgroepadvertising.nl
 127.0.0.1 www.personalcare-offer.com
 127.0.0.1 www.personalcashbailout.com
+127.0.0.1 www.pfhsystem.com
 127.0.0.1 www.phoenixads.co.in
 127.0.0.1 www.phorm.com
 127.0.0.1 www.pick-savings.com
