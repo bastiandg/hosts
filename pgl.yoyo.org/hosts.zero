@@ -620,7 +620,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.theglobeandmail.com
 0.0.0.0 ads.themovienation.com
 0.0.0.0 ads.thestar.com
-0.0.0.0 ads.thewebfreaks.com
 0.0.0.0 ads.timeout.com
 0.0.0.0 ads.tjwi.info
 0.0.0.0 ads.tmcs.net
@@ -749,7 +748,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.janes.com
 0.0.0.0 adserver.kyoceramita-europe.com
 0.0.0.0 adserver.libero.it
-0.0.0.0 adserver.motorpresse.de
 0.0.0.0 adserver.news.com.au
 0.0.0.0 adserver.ngz-network.de
 0.0.0.0 adserver.nydailynews.com
@@ -1207,7 +1205,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 clickserve.cc-dt.com
 0.0.0.0 clicksor.com
 0.0.0.0 clicktag.de
-0.0.0.0 clickthrucash.com
 0.0.0.0 clickthruserver.com
 0.0.0.0 clickthrutraffic.com
 0.0.0.0 clicktrace.info
@@ -1248,7 +1245,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 count.rbc.ru
 0.0.0.0 count.rin.ru
 0.0.0.0 count.west263.com
-0.0.0.0 count6.rbc.ru
 0.0.0.0 counted.com
 0.0.0.0 counter.avtoindex.com
 0.0.0.0 counter.bloke.com

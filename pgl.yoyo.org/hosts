@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 13 Mar 2016 22:02:26 GMT
-# entries:        2421
+# entries:        2417
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -645,7 +645,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.theglobeandmail.com
 127.0.0.1 ads.themovienation.com
 127.0.0.1 ads.thestar.com
-127.0.0.1 ads.thewebfreaks.com
 127.0.0.1 ads.timeout.com
 127.0.0.1 ads.tjwi.info
 127.0.0.1 ads.tmcs.net
@@ -774,7 +773,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserver.janes.com
 127.0.0.1 adserver.kyoceramita-europe.com
 127.0.0.1 adserver.libero.it
-127.0.0.1 adserver.motorpresse.de
 127.0.0.1 adserver.news.com.au
 127.0.0.1 adserver.ngz-network.de
 127.0.0.1 adserver.nydailynews.com
@@ -1232,7 +1230,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 clickserve.cc-dt.com
 127.0.0.1 clicksor.com
 127.0.0.1 clicktag.de
-127.0.0.1 clickthrucash.com
 127.0.0.1 clickthruserver.com
 127.0.0.1 clickthrutraffic.com
 127.0.0.1 clicktrace.info
@@ -1273,7 +1270,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 count.rbc.ru
 127.0.0.1 count.rin.ru
 127.0.0.1 count.west263.com
-127.0.0.1 count6.rbc.ru
 127.0.0.1 counted.com
 127.0.0.1 counter.avtoindex.com
 127.0.0.1 counter.bloke.com
