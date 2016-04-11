@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 11 Apr 2016 at 07:16:54 GMT
+# Last updated: Mon, 11 Apr 2016 at 17:35:24 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1656,6 +1656,7 @@
 127.0.0.1 a.openinternetexchange.com
 127.0.0.1 a.phormlabs.com
 127.0.0.1 apple.com-safetyalert.com
+127.0.0.1 apple.com-scan-virus-detected.com
 127.0.0.1 apple-protection.info
 127.0.0.1 applestore.com-mobile.gift
 127.0.0.1 armsart.com
@@ -6053,6 +6054,7 @@
 127.0.0.1 c2366475.c.youradexchange.com
 127.0.0.1 c2.l.qq.com
 127.0.0.1 c2.zedo.com
+127.0.0.1 c35000246.c.youradexchange.com
 127.0.0.1 c3.zedo.com
 127.0.0.1 c4.maxserving.com
 127.0.0.1 c4.zedo.com
@@ -6216,6 +6218,7 @@
 127.0.0.1 charmedno1.com
 127.0.0.1 chartbeat.com
 127.0.0.1 checkintocash.data.7bpeople.com
+127.0.0.1 chefti.info
 127.0.0.1 cherryhi.app.ur.gcion.com
 127.0.0.1 chip.popmarker.com
 127.0.0.1 c.hk.msn.com
@@ -6577,6 +6580,7 @@
 127.0.0.1 dosugcz.biz
 127.0.0.1 dot.wp.pl
 127.0.0.1 dowelsobject.com
+127.0.0.1 downloadapps.tech
 127.0.0.1 downloadcdn.com
 127.0.0.1 do-wn-lo-ad.com
 127.0.0.1 downloadmpplayer.com
@@ -9285,9 +9289,11 @@
 127.0.0.1 wikiforosh.ir
 127.0.0.1 williamhill.es
 127.0.0.1 wineeniphone6.com-gen.online
+127.0.0.1 winprizesapp.com
 127.0.0.1 w.l.qq.com
 127.0.0.1 wm.baidu.com
 127.0.0.1 wmedia.rotator.hadj7.adjuggler.net
+127.0.0.1 wonderlandads.com
 127.0.0.1 worden.samenresultaat.nl
 127.0.0.1 wordplaywhiz.com
 127.0.0.1 work-offer.com
@@ -9494,6 +9500,7 @@
 127.0.0.1 www.agkn.com
 127.0.0.1 www.alexxe.com
 127.0.0.1 www.algocashmaster.com
+127.0.0.1 www.algocashmaster.net
 127.0.0.1 www.allosponsor.com
 127.0.0.1 www.amazing-opportunities.info
 127.0.0.1 www.annuaire-autosurf.com
@@ -9656,6 +9663,7 @@
 127.0.0.1 www.dirtyrhino.com
 127.0.0.1 www.discount-savings-more.com
 127.0.0.1 www.djugoogs.com
+127.0.0.1 www.dllfilestab.com
 127.0.0.1 www.dl-plugin.com
 127.0.0.1 www.drowle.com
 127.0.0.1 www.dt1blog.com
@@ -9690,6 +9698,7 @@
 127.0.0.1 www.fatcatrewards.com
 127.0.0.1 www.feedjit.com
 127.0.0.1 www.feedstermedia.com
+127.0.0.1 www.fellent.eu
 127.0.0.1 www.fif49.info
 127.0.0.1 www.finance-offer.com
 127.0.0.1 www.finder.cox.net
@@ -10128,6 +10137,7 @@
 127.0.0.1 www.track2cash.com
 127.0.0.1 www.trackadvertising.net
 127.0.0.1 www.tracklead.net
+127.0.0.1 www.tradeadexchange.com
 127.0.0.1 www.tradem.com
 127.0.0.1 www.trafficrevenue.net
 127.0.0.1 www.traffictrader.net
