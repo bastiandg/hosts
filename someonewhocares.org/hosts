@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 11 Apr 2016 at 17:35:24 GMT
+# Last updated: Tue, 12 Apr 2016 at 04:39:59 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -659,6 +659,7 @@
 127.0.0.1 cz6.clickzs.com
 127.0.0.1 da.ce.bd.a9.top.list.ru
 127.0.0.1 da.newstogram.com
+127.0.0.1 dap.digitalgov.gov
 127.0.0.1 data2.perf.overture.com
 127.0.0.1 data.coremetrics.com
 127.0.0.1 data.webads.co.nz
