@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 12 Apr 2016 at 04:39:59 GMT
+# Last updated: Thu, 14 Apr 2016 at 07:35:55 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1065,6 +1065,7 @@
 127.0.0.1 rightmedia.net
 127.0.0.1 rightstats.com
 127.0.0.1 roskatrack.roskadirect.com
+127.0.0.1 rotator.trafficstars.com
 127.0.0.1 rr1.xxxcounter.com
 127.0.0.1 rr2.xxxcounter.com
 127.0.0.1 rr3.xxxcounter.com
@@ -9249,6 +9250,7 @@
 127.0.0.1 w98.am15.net
 127.0.0.1 w99.am15.net
 127.0.0.1 w9.am15.net
+127.0.0.1 wac.2ddcc.alphacdn.net
 127.0.0.1 w.admob.com
 127.0.0.1 wafmedia3.com
 127.0.0.1 wahoha.com
