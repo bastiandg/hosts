@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 13 Mar 2016 22:02:26 GMT
-# entries:        2416
+# entries:        2413
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -429,7 +429,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.cybersales.cz
 127.0.0.1 ads.dada.it
 127.0.0.1 ads.datinggold.com
-127.0.0.1 ads.datingyes.com
 127.0.0.1 ads.dazoot.ro
 127.0.0.1 ads.deltha.hu
 127.0.0.1 ads.dennisnet.co.uk
@@ -440,7 +439,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.digitalmedianet.com
 127.0.0.1 ads.digitalpoint.com
 127.0.0.1 ads.directionsmag.com
-127.0.0.1 ads.discovery.com
 127.0.0.1 ads.domeus.com
 127.0.0.1 ads.eagletribune.com
 127.0.0.1 ads.easy-forex.com
@@ -1685,7 +1683,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 madisonavenue.com
 127.0.0.1 mads.cnet.com
 127.0.0.1 madvertise.de
-127.0.0.1 malware-scan.com
 127.0.0.1 marchex.com
 127.0.0.1 market-buster.com
 127.0.0.1 marketing.888.com
