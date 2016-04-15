@@ -1843,6 +1843,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads2.ljworld.com
 0.0.0.0 ads2.msn.com
 0.0.0.0 ads2.newtimes.com
+0.0.0.0 ads2.opensubtitles.org
 0.0.0.0 ads2.osdn.com
 0.0.0.0 ads2.pittsburghlive.com
 0.0.0.0 ads2.realcities.com
@@ -2759,6 +2760,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 assets.igapi.com
 0.0.0.0 assets.kixer.com
 0.0.0.0 assets.percentmobile.com
+0.0.0.0 assoc-amazon.com
 0.0.0.0 asv.nuggad.net
 0.0.0.0 at-adserver.alltop.com
 0.0.0.0 at-img1.tdimg.com
@@ -3373,6 +3375,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 car-truck-boat-bonuspath.com
 0.0.0.0 car-truck-boat-premiumblvd.com
 0.0.0.0 car4you.oewabox.at
+0.0.0.0 carambo.la
 0.0.0.0 cardgamespidersolitaire.com
 0.0.0.0 cards.virtuagirlhd.com
 0.0.0.0 careers-rewardpath.com
@@ -5315,6 +5318,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 highscanprotect.com
 0.0.0.0 hightrafficads.com
 0.0.0.0 himediads.com
+0.0.0.0 hipersushiads.com
 0.0.0.0 histats.com
 0.0.0.0 hit-counter.5u.com
 0.0.0.0 hit-counter.udub.com
@@ -7756,6 +7760,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 pixel.sitescout.com
 0.0.0.0 pixel.tapad.com
+0.0.0.0 pixel.watch
 0.0.0.0 pl.ads.justpremium.com
 0.0.0.0 pl.bbelements.com
 0.0.0.0 pl.spanel.gem.pl
@@ -9358,6 +9363,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 topconsumergifts.com
 0.0.0.0 topdemaroc.com
 0.0.0.0 topica.advertserve.com
+0.0.0.0 toplist.cz
+0.0.0.0 toplist.eu
 0.0.0.0 toplist.throughput.de
 0.0.0.0 topmarketcenter.com
 0.0.0.0 topmeds10.com

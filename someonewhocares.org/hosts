@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 14 Apr 2016 at 07:35:55 GMT
+# Last updated: Fri, 15 Apr 2016 at 19:49:19 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -4136,6 +4136,7 @@
 127.0.0.1 ads2.ljworld.com
 127.0.0.1 ads2.msn.com
 127.0.0.1 ads2.newtimes.com
+127.0.0.1 ads2.opensubtitles.org
 127.0.0.1 ads2.osdn.com
 127.0.0.1 ads2.pittsburghlive.com
 127.0.0.1 ads2.realcities.com
@@ -5766,6 +5767,7 @@
 127.0.0.1 assets.kixer.com
 127.0.0.1 assets.percentmobile.com
 127.0.0.1 as.sexad.net
+127.0.0.1 assoc-amazon.com
 127.0.0.1 asv.nuggad.net
 127.0.0.1 as.vs4entertainment.com
 127.0.0.1 as.webmd.com
@@ -6087,6 +6089,7 @@
 127.0.0.1 canadaalltax.com
 127.0.0.1 canuckmethod.com
 127.0.0.1 capath.com
+127.0.0.1 carambo.la
 127.0.0.1 cardgamespidersolitaire.com
 127.0.0.1 cards.virtuagirlhd.com
 127.0.0.1 careers.canwestad.net
@@ -7030,6 +7033,7 @@
 127.0.0.1 hermes.airad.com
 127.0.0.1 hightrafficads.com
 127.0.0.1 himediads.com
+127.0.0.1 hipersushiads.com
 127.0.0.1 histats.com
 127.0.0.1 hit4.hotlog.ru
 127.0.0.1 hit.8digits.com
@@ -8050,6 +8054,7 @@
 127.0.0.1 pixel.mathtag.com
 #127.0.0.1 pixel.quantserve.com		# Interferes with Video on CBS and Comcast
 127.0.0.1 pixel.sitescout.com
+127.0.0.1 pixel.watch
 127.0.0.1 pix.revsci.net
 127.0.0.1 pl.ads.justpremium.com
 127.0.0.1 plasmatv4free.com
@@ -8924,6 +8929,8 @@
 127.0.0.1 topconsumergifts.com
 127.0.0.1 topdemaroc.com
 127.0.0.1 topica.advertserve.com
+127.0.0.1 toplist.cz
+127.0.0.1 toplist.eu
 127.0.0.1 top.list.ru
 127.0.0.1 toplist.throughput.de
 127.0.0.1 topmarketcenter.com
