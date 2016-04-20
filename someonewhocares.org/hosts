@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 20 Apr 2016 at 16:58:03 GMT
+# Last updated: Wed, 20 Apr 2016 at 22:06:22 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -990,7 +990,6 @@
 127.0.0.1 mktg.actonsoftware.com
 127.0.0.1 mng1.clickalyzer.com
 127.0.0.1 monster.gostats.com
-127.0.0.1 mpsnare.iesnare.com	# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
 127.0.0.1 msn1.com
 127.0.0.1 msnm.com
 127.0.0.1 mt122.mtree.com
