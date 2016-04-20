@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 20 Apr 2016 at 02:51:24 GMT
+# Last updated: Wed, 20 Apr 2016 at 16:58:03 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1637,6 +1637,7 @@
 127.0.0.1 abruzzoinitaly.co.uk
 127.0.0.1 acglgoa.com
 127.0.0.1 acim.moqhixoz.cn
+127.0.0.1 acnenomor.com
 127.0.0.1 adshufffle.com
 127.0.0.1 adwitty.com
 127.0.0.1 adwords.google.lloymlincs.com
@@ -1645,10 +1646,14 @@
 127.0.0.1 a.kaytri.com
 127.0.0.1 alegratka.eu
 127.0.0.1 ale-gratka.pl
+127.0.0.1 allaskme.com
 127.0.0.1 allhqpics.com				# Facebook trojan
 127.0.0.1 alltereg0.ru
 127.0.0.1 alphabirdnetwork.com
 127.0.0.1 ams1.ib.adnxs.com
+127.0.0.1 android.bigresource.com
+127.0.0.1 androiddev.orkitra.com
+127.0.0.1 answerhub.com
 127.0.0.1 antispywareexpert.com
 127.0.0.1 antivirus-online-scan5.com
 127.0.0.1 antivirus-scanner8.com
@@ -1662,14 +1667,22 @@
 127.0.0.1 apple-protection.info
 127.0.0.1 applestore.com-mobile.gift
 127.0.0.1 armsart.com
+127.0.0.1 Arrayshift.com
 127.0.0.1 articlefuns.cn
 127.0.0.1 articleidea.cn
+127.0.0.1 a-scrip.org
 127.0.0.1 asianread.com
+127.0.0.1 ASKBOT.com
+127.0.0.1 ask-coder.com
+127.0.0.1 askto.net
+127.0.0.1 ask.webatall.com
 127.0.0.1 autohipnose.com
 127.0.0.1 a.webwise.com
 127.0.0.1 a.webwise.net
 127.0.0.1 a.webwise.org
 127.0.0.1 beloysoff.ru
+127.0.0.1 bhyuu.com
+127.0.0.1 bighow.net
 127.0.0.1 binsservicesonline.info
 127.0.0.1 blackhat.be
 127.0.0.1 blenz-me.net
@@ -1679,6 +1692,7 @@
 127.0.0.1 b.oix.com
 127.0.0.1 b.oix.net
 127.0.0.1 BonusCashh.com
+127.0.0.1 bountysource.com
 127.0.0.1 br.phorm.com
 127.0.0.1 brunga.at	# Facebook phishing attempt
 127.0.0.1 bt.phorm.com
@@ -1688,12 +1702,15 @@
 127.0.0.1 b.webwise.com
 127.0.0.1 b.webwise.net
 127.0.0.1 b.webwise.org
+127.0.0.1 cafecoc.com
+127.0.0.1 cahoots.com
 127.0.0.1 callawaypos.com
 127.0.0.1 callbling.com
 127.0.0.1 cambonanza.com
 127.0.0.1 ccudl.com
 127.0.0.1 changduk26.com			# Facebook trojan
 127.0.0.1 chelick.net				# Facebook trojan
+127.0.0.1 ciiycode.com
 127.0.0.1 cioco-froll.com
 127.0.0.1 cira.login.cqr.ssl.igotmyloverback.com
 127.0.0.1 cleanchain.net
@@ -1701,9 +1718,15 @@
 127.0.0.1 clien.net
 127.0.0.1 cnbc.com-article906773.us
 127.0.0.1 co8vd.cn
+127.0.0.1 codeexplain.com
+127.0.0.1 codegur.com
+127.0.0.1 codeotel.com
+127.0.0.1 coderexception.com
 127.0.0.1 c.oix.com
 127.0.0.1 c.oix.net
 127.0.0.1 conduit.com
+127.0.0.1 Coordino.com
+127.0.0.1 coordino.com
 127.0.0.1 cra-arc.gc.ca.bioder.com.tr
 127.0.0.1 cra-arc-gc-ca.noads.biz
 127.0.0.1 custom3hurricanedigitalmedia.com
@@ -1720,6 +1743,7 @@
 127.0.0.1 drc-group.net
 127.0.0.1 dubstep.onedumb.com
 127.0.0.1 east.05tz2e9.com
+127.0.0.1 efreedom.net
 127.0.0.1 e-kasa.w8w.pl
 127.0.0.1 en.likefever.org			# Facebook trojan
 127.0.0.1 enteryouremail.net
@@ -1727,6 +1751,8 @@
 127.0.0.1 err2.9939118.info
 127.0.0.1 err3.9939118.info
 127.0.0.1 eviboli576.o-f.com
+127.0.0.1 exasked.com
+127.0.0.1 expertland.net
 127.0.0.1 facebook-repto1040s2.ahlamountada.com
 127.0.0.1 faceboook-replyei0ki.montadalitihad.com
 127.0.0.1 facemail.com
@@ -1743,21 +1769,27 @@
 127.0.0.1 fromru.su
 127.0.0.1 ftdownload.com
 127.0.0.1 fu.golikeus.net			# Facebook trojan
+127.0.0.1 gadgetsytecnologia.com
 127.0.0.1 gamelights.ru
 127.0.0.1 gasasthe.freehostia.com
 127.0.0.1 get-answers-fast.com
 127.0.0.1 gglcash4u.info	# twitter worm
 127.0.0.1 girlownedbypolicelike.blogspot.com	# Facebook trojan
 127.0.0.1 goggle.com
+127.0.0.1 goobbe.com
 127.0.0.1 greatarcadehits.com
+127.0.0.1 grokbase.com
 127.0.0.1 gyros.es
 127.0.0.1 h1317070.stratoserver.net
 127.0.0.1 hackerz.ir
 127.0.0.1 hakerzy.net
 127.0.0.1 hatrecord.ru				# Facebook trojan
 127.0.0.1 hellwert.biz
+127.0.0.1 helpmedb.com
 127.0.0.1 hieruu.apicultoresweb.com
 127.0.0.1 hotchix.servepics.com
+127.0.0.1 howtobuildsoftware.com
+127.0.0.1 how-tosolve.com
 127.0.0.1 hsb-canada.com	# phishing site for hsbc.ca
 127.0.0.1 hsbconline.ca 	# phishing site for hsbc.ca
 127.0.0.1 icecars.com
@@ -1770,10 +1802,12 @@
 127.0.0.1 ipadzu.net
 127.0.0.1 ircleaner.com
 127.0.0.1 istartsurf.com
+127.0.0.1 iswwwup.com
 127.0.0.1 itwititer.com
 127.0.0.1 ity.elusmedic.ru
 127.0.0.1 jajajaj-thats-you-really.com
 127.0.0.1 janezk.50webs.co
+127.0.0.1 jqueryscript.net
 127.0.0.1 jujitsu-ostrava.info
 127.0.0.1 jump.ewoss.net
 127.0.0.1 juste.ru	# Twitter trojan
@@ -1788,6 +1822,7 @@
 127.0.0.1 kpremium.com
 127.0.0.1 kr.phorm.com
 127.0.0.1 lank.ru
+127.0.0.1 levenshteinanswer.com
 127.0.0.1 lighthouse2k.com
 127.0.0.1 like.likewut.net
 127.0.0.1 likeportal.com			# Facebook trojan
@@ -1815,6 +1850,7 @@
 127.0.0.1 malware-live-pro-scanv1.com
 127.0.0.1 maxi4.firstvds.ru
 127.0.0.1 megasurfin.com
+127.0.0.1 meta.osqa.net
 127.0.0.1 miercuri.gq
 127.0.0.1 monitor.phorm.com
 127.0.0.1 monkeyball.osa.pl
@@ -1834,6 +1870,7 @@
 127.0.0.1 navegador.oi.com.br
 127.0.0.1 navegador.telefonica.com.br
 127.0.0.1 new-dating-2012.info
+127.0.0.1 newtips.co
 127.0.0.1 new-vid-zone-1.blogspot.com.au
 127.0.0.1 newwayscanner.info
 127.0.0.1 nextbestgame.org
@@ -1875,7 +1912,10 @@
 127.0.0.1 oo-na-na-pics.com
 127.0.0.1 openinternetexchange.com
 127.0.0.1 openinternetexchange.net
+127.0.0.1 openoverflow.com
 127.0.0.1 ordersildenafil.com
+127.0.0.1 OSQA.com
+127.0.0.1 osqa.net
 127.0.0.1 otsserver.com
 127.0.0.1 outerinfo.com
 127.0.0.1 outlets-online.pl
@@ -1914,6 +1954,7 @@
 127.0.0.1 phormsolution.com
 127.0.0.1 phorm.tv.tr
 127.0.0.1 phorm.web.tr
+127.0.0.1 phpancake.com
 127.0.0.1 picture-uploads.com
 127.0.0.1 pilltabletsrxbargain.net
 127.0.0.1 powabcyfqe.com
@@ -1925,12 +1966,15 @@
 127.0.0.1 protectionupdatecenter.com
 127.0.0.1 puush.in
 127.0.0.1 pv.wantsfly.com
+127.0.0.1 qenabled.com
 127.0.0.1 qip.ru
+127.0.0.1 Question2Answer.com
 127.0.0.1 qy.corrmedic.ru
 127.0.0.1 rd.alphabirdnetwork.com
 127.0.0.1 rickrolling.com
 127.0.0.1 roifmd.info
 127.0.0.1 romdiscover.com
+127.0.0.1 rootbuzz.com
 127.0.0.1 rtc.romdiscover.com
 127.0.0.1 russian-sex.com
 127.0.0.1 s4d.in
@@ -1950,7 +1994,9 @@
 127.0.0.1 securitas611maximus.xyz
 127.0.0.1 securityandroidupdate.dinamikaprinting.com
 127.0.0.1 securityscan.us
+127.0.0.1 seeques.com
 127.0.0.1 sexymarissa.net
+127.0.0.1 shapado.com
 127.0.0.1 shell.xhhow4.com
 127.0.0.1 shoppstop.comood.opsource.net
 127.0.0.1 shop.skin-safety.com
@@ -1959,11 +2005,19 @@
 127.0.0.1 sinera.org
 127.0.0.1 sjguild.com
 127.0.0.1 smile-angel.com
+127.0.0.1 sn-gate.com
+127.0.0.1 soclone.com
 127.0.0.1 software-updates.co
 127.0.0.1 software-wenc.co.cc
+127.0.0.1 solutionscore.com
+127.0.0.1 solveseek.com
 127.0.0.1 someonewhocares.com
 127.0.0.1 sousay.info
 127.0.0.1 speedtestbeta.com
+127.0.0.1 stackoverflow.dluat.com
+127.0.0.1 stackoverflow.hex1.ru
+127.0.0.1 stackoverflow.xyz
+127.0.0.1 stacksee.lastestapk.com
 127.0.0.1 standardsandpraiserepurpose.com
 127.0.0.1 start.qip.ru
 127.0.0.1 stats.oix.com
@@ -1983,6 +2037,7 @@
 127.0.0.1 tech9638514.ru
 127.0.0.1 technicalconsumerreports.com
 127.0.0.1 technology-revealed.com
+127.0.0.1 techques.com
 127.0.0.1 telefonica.webnavegador.com.br
 127.0.0.1 terra.fp.oix.net
 127.0.0.1 test.ishvara-yoga.com
@@ -1991,6 +2046,8 @@
 127.0.0.1 themoneyclippodcast.com
 127.0.0.1 themusicnetwork.co.uk
 127.0.0.1 thinstall.abetterinternet.com
+127.0.0.1 tiku.io
+127.0.0.1 tipsforall.xyz
 127.0.0.1 tivvitter.com
 127.0.0.1 tomorrownewstoday.com	# I'm not sure what it does, but it seems to be associated with a phishing attempt on Facebook
 127.0.0.1 toolbarbest.biz
@@ -2018,6 +2075,7 @@
 127.0.0.1 videos.twitter.secure-logins01.com # twitter worm (http://mashable.com/2009/09/23/twitter-worm-dms/)
 127.0.0.1 virus-notice.com
 127.0.0.1 vxiframe.biz
+127.0.0.1 w3facility.org
 127.0.0.1 waldenfarms.com
 127.0.0.1 weblover.info
 127.0.0.1 webnavegador.com.br
@@ -2025,8 +2083,10 @@
 127.0.0.1 webwise.com
 127.0.0.1 webwise.net
 127.0.0.1 webwise.org
+127.0.0.1 wenda.io
 127.0.0.1 west.05tz2e9.com
 127.0.0.1 wewillrocknow.com
+127.0.0.1 wikidevs.com
 127.0.0.1 willysy.com
 127.0.0.1 wm.maxysearch.info
 127.0.0.1 w.oix.net
