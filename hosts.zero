@@ -5323,6 +5323,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 analytics.userreport.com
 0.0.0.0 analytics.vast.com
 0.0.0.0 analytics.verizonenterprise.com
+0.0.0.0 analytics.vodafone.co.uk
 0.0.0.0 analytics.wishabi.ca
 0.0.0.0 analytics.worldnow.com
 0.0.0.0 analytics.yahoo.com
@@ -13712,6 +13713,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 level3.applifier.com
 0.0.0.0 levelrate.de
 0.0.0.0 leveragemarketing.112.2o7.net
+0.0.0.0 levexis.com
 0.0.0.0 levitra.1.p2l.info
 0.0.0.0 levitra.3.p2l.info
 0.0.0.0 levitra.4.p2l.info
@@ -15349,6 +15351,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mommyish.us.intellitxt.com
 0.0.0.0 monarchslo.com
 0.0.0.0 mondoads.s3.amazonaws.com
+0.0.0.0 monetate.net
 0.0.0.0 moneybot.net
 0.0.0.0 moneyexpert.com
 0.0.0.0 moneyh.wemfbox.ch
@@ -21711,6 +21714,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tinybar.com
 0.0.0.0 tips.oewabox.at
 0.0.0.0 tipsurf.com
+0.0.0.0 tiqcdn.com
 0.0.0.0 tirerackcom.112.2o7.net
 0.0.0.0 tirolcom.oewabox.at
 0.0.0.0 tiscali.js.ad.dotandad.com
@@ -23728,6 +23732,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 worldwide-cash.net
 0.0.0.0 wormgush.com
 0.0.0.0 worry-free-savings.com
+0.0.0.0 wowanalytics.co.uk
 0.0.0.0 wowinterface.us.intellitxt.com
 0.0.0.0 wp-club.net
 0.0.0.0 wp-stats.com
