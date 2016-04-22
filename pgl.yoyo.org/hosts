@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 13 Mar 2016 22:02:26 GMT
-# entries:        2413
+# entries:        2410
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -909,7 +909,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adzerk.s3.amazonaws.com
 127.0.0.1 adzones.com
 127.0.0.1 af-ad.co.uk
-127.0.0.1 afbtracking09.com
 127.0.0.1 affbuzzads.com
 127.0.0.1 affili.net
 127.0.0.1 affiliate.1800flowers.com
@@ -1453,6 +1452,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 forex-affiliate.net
 127.0.0.1 fpctraffic.com
 127.0.0.1 fpctraffic2.com
+127.0.0.1 fragmentserv.iac-online.de
 127.0.0.1 free-banners.com
 127.0.0.1 freebanner.com
 127.0.0.1 freelogs.com
@@ -1872,7 +1872,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 partage-facile.com
 127.0.0.1 partner-ads.com
 127.0.0.1 partner.pelikan.cz
-127.0.0.1 partner.topcities.com
 127.0.0.1 partnerad.l.google.com
 127.0.0.1 partnercash.de
 127.0.0.1 partners.priceline.com
@@ -2171,7 +2170,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 supertop.ru
 127.0.0.1 supertop100.com
 127.0.0.1 suptullog.com
-127.0.0.1 surfmusik-adserver.de
 127.0.0.1 swissadsolutions.com
 127.0.0.1 swordfishdc.com
 127.0.0.1 sx.trhnt.com
@@ -2433,7 +2431,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 zanox-affiliate.de
 127.0.0.1 zanox.com
 127.0.0.1 zantracker.com
-127.0.0.1 zde-affinity.edgecaching.net
 127.0.0.1 zedo.com
 127.0.0.1 zencudo.co.uk
 127.0.0.1 zenkreka.com
