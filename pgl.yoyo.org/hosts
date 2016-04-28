@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 13 Mar 2016 22:02:26 GMT
-# entries:        2410
+# last updated:   Thu, 28 Apr 2016 11:39:09 GMT
+# entries:        2411
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1577,6 +1577,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 imarketservices.com
 127.0.0.1 img.prohardver.hu
 127.0.0.1 imgpromo.easyrencontre.com
+127.0.0.1 imitrk.com
 127.0.0.1 imonitor.nethost.cz
 127.0.0.1 imprese.cz
 127.0.0.1 impressionmedia.cz
