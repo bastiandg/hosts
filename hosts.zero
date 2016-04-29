@@ -2501,6 +2501,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.darkhardware.com
 0.0.0.0 ads.databrainz.com
 0.0.0.0 ads.datinggold.com
+0.0.0.0 ads.datingyes.com
 0.0.0.0 ads.dazoot.ro
 0.0.0.0 ads.dbforums.com
 0.0.0.0 ads.ddj.com
@@ -2730,7 +2731,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.greenbaypressgazette.com
 0.0.0.0 ads.greenerworldmedia.com
 0.0.0.0 ads.greenvilleonline.com
-0.0.0.0 ads.grindinggears.com
 0.0.0.0 ads.groundspeak.com
 0.0.0.0 ads.groupcommerce.com
 0.0.0.0 ads.grupozeta.es
@@ -20829,6 +20829,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 surebaby.us.intellitxt.com
 0.0.0.0 suresafe1.adsovo.com
 0.0.0.0 surfline.112.2o7.net
+0.0.0.0 surfmusik-adserver.de
 0.0.0.0 surplus-suppliers.com
 0.0.0.0 survey.112.2o7.net
 0.0.0.0 survey.122.2o7.net
