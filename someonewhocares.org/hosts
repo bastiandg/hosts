@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 26 Apr 2016 at 18:19:27 GMT
+# Last updated: Tue, 03 May 2016 at 20:44:13 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -453,7 +453,6 @@
 127.0.0.1 ca.cqcounter.com
 127.0.0.1 cashcounter.com
 127.0.0.1 cb1.counterbot.com
-#127.0.0.1 cdn.krxd.net
 127.0.0.1 cdn.oggifinogi.com
 127.0.0.1 cdn.taboolasyndication.com
 127.0.0.1 cdxbin.vulnerap.com
@@ -3383,6 +3382,7 @@
 127.0.0.1 0pn.ru
 127.0.0.1 0qizz.super-promo.hoxo.info
 127.0.0.1 104231.dtiblog.com
+127.0.0.1 1097834592.rsc.cdn77.org
 127.0.0.1 10fbb07a4b0.se
 127.0.0.1 10.im.cz
 127.0.0.1 121media.com
@@ -6233,7 +6233,6 @@
 127.0.0.1 cdn.hadj7.adjuggler.net
 127.0.0.1 cdn.innovid.com
 127.0.0.1 cdn.komoona.com
-127.0.0.1 cdn.krxd.net
 127.0.0.1 cdn.mediative.ca
 127.0.0.1 cdn.merchenta.com
 127.0.0.1 cdn.mobicow.com
