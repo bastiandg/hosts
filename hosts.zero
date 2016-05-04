@@ -5542,7 +5542,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 apps.conduit-banners.com
 0.0.0.0 apps.mobilityware.com
 0.0.0.0 apps.nastydollars.com
-0.0.0.0 apps.skype.com
 0.0.0.0 apps5.oingo.com
 0.0.0.0 appscout.us.intellitxt.com
 0.0.0.0 appsrv1.madserving.cn
@@ -17665,7 +17664,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 preview.leadmediapartners.com
 0.0.0.0 preview.msn.com
 0.0.0.0 prexyone.appspot.com
-0.0.0.0 pricelist.skype.com
 0.0.0.0 pride-u-bike.com
 0.0.0.0 pridesource.advertserve.com
 0.0.0.0 prilosec.1.p2l.info
@@ -22342,7 +22340,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ugo.eu-adcenter.net
 0.0.0.0 ui.oix.net
 0.0.0.0 ui.ppjol.com
-0.0.0.0 ui.skype.com
 0.0.0.0 uidbox.uimserv.net
 0.0.0.0 uim.tifbs.net
 0.0.0.0 uip.semasio.net

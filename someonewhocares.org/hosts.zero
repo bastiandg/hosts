@@ -2696,7 +2696,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 applestore.com-mobile.gift
 0.0.0.0 appnexus.com
 0.0.0.0 apprep.smartscreen.microsoft.com
-0.0.0.0 apps.skype.com
 0.0.0.0 apps5.oingo.com
 0.0.0.0 appsrv1.madserving.cn
 0.0.0.0 apx.moatads.com
@@ -7881,7 +7880,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 prevent-asian-flu.com
 0.0.0.0 preview.msn.com
 0.0.0.0 prexyone.appspot.com
-0.0.0.0 pricelist.skype.com
 0.0.0.0 prilosec.1.p2l.info
 0.0.0.0 primetime.ad.primetime.net
 0.0.0.0 printmail.biz
@@ -9627,7 +9625,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ugo.eu-adcenter.net
 0.0.0.0 ui.oix.net
 0.0.0.0 ui.ppjol.com
-0.0.0.0 ui.skype.com
 0.0.0.0 uip.semasio.net
 0.0.0.0 uk-ads.openx.net
 0.0.0.0 uk.adserver.yahoo.com

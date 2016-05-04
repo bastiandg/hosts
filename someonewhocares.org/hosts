@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 03 May 2016 at 20:44:13 GMT
+# Last updated: Wed, 04 May 2016 at 21:24:05 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -12058,7 +12058,6 @@
 127.0.0.1 adnexus.net
 127.0.0.1 aidps.atdmt.com
 127.0.0.1 a-msedge.net
-127.0.0.1 apps.skype.com
 127.0.0.1 az361816.vo.msecnd.net
 127.0.0.1 az512334.vo.msecnd.net
 127.0.0.1 b.ads1.msn.com
@@ -12081,16 +12080,13 @@
 127.0.0.1 msnbot-65-55-108-23.search.msn.com
 127.0.0.1 msntest.serving-sys.com
 127.0.0.1 preview.msn.com
-127.0.0.1 pricelist.skype.com
 127.0.0.1 reports.wes.df.telemetry.microsoft.com
 127.0.0.1 schemas.microsoft.akadns.net
 127.0.0.1 secure.flashtalking.com
 127.0.0.1 settings-win.data.microsoft.com
-#127.0.0.1 s.gateway.messenger.live.com 	# Interferes with Skype
 127.0.0.1 sO.2mdn.net
 127.0.0.1 statsfe2.ws.microsoft.com
 127.0.0.1 telemetry.appex.bing.net:443
-127.0.0.1 ui.skype.com
 127.0.0.1 wes.df.telemetry.microsoft.com
 127.0.0.1 www.msftncsi.com
 #</Windows10>
