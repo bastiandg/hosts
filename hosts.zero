@@ -2732,6 +2732,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.greenbaypressgazette.com
 0.0.0.0 ads.greenerworldmedia.com
 0.0.0.0 ads.greenvilleonline.com
+0.0.0.0 ads.grindinggears.com
 0.0.0.0 ads.groundspeak.com
 0.0.0.0 ads.groupcommerce.com
 0.0.0.0 ads.grupozeta.es
@@ -17073,6 +17074,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 partner.pobieraczek.pl
 0.0.0.0 partner.sbaffiliates.com
 0.0.0.0 partner.shareaholic.com
+0.0.0.0 partner.topcities.com
 0.0.0.0 partner.wapacz.pl
 0.0.0.0 partner.wapster.pl
 0.0.0.0 partner01.oingo.com
@@ -18272,7 +18274,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 realmedia.lesechos.fr
 0.0.0.0 realmedia.nana.co.il
 0.0.0.0 realtechnetwork.com
-0.0.0.0 realteencash.com
 0.0.0.0 realtime.services.disqus.com
 0.0.0.0 realtimeads.com
 0.0.0.0 realtouchbannerwidget.aebn.net
@@ -18481,7 +18482,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 rev.adip.ly
 0.0.0.0 rev.avsforum.com
 0.0.0.0 rev.lanistaads.com
-0.0.0.0 rev2pub.com
 0.0.0.0 revcontent.com
 0.0.0.0 revcontent.sitescout.com
 0.0.0.0 revelations.trovus.co.uk

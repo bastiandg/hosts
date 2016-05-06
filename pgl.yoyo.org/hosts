@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 28 Apr 2016 11:39:09 GMT
-# entries:        2409
+# entries:        2408
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -492,6 +492,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.goyk.com
 127.0.0.1 ads.gplusmedia.com
 127.0.0.1 ads.gradfinder.com
+127.0.0.1 ads.grindinggears.com
 127.0.0.1 ads.groundspeak.com
 127.0.0.1 ads.gsm-exchange.com
 127.0.0.1 ads.gsmexchange.com
@@ -897,7 +898,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adworx.nl
 127.0.0.1 adx.allstar.cz
 127.0.0.1 adx.atnext.com
-127.0.0.1 adx.gainesvillesun.com
 127.0.0.1 adxpansion.com
 127.0.0.1 adxpose.com
 127.0.0.1 adxvalue.com
@@ -1870,6 +1870,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 partage-facile.com
 127.0.0.1 partner-ads.com
 127.0.0.1 partner.pelikan.cz
+127.0.0.1 partner.topcities.com
 127.0.0.1 partnerad.l.google.com
 127.0.0.1 partnercash.de
 127.0.0.1 partners.priceline.com
@@ -2000,7 +2001,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 realclix.com
 127.0.0.1 realmedia-a800.d4p.net
 127.0.0.1 realtechnetwork.com
-127.0.0.1 realteencash.com
 127.0.0.1 realtracker.com
 127.0.0.1 reduxmedia.com
 127.0.0.1 reduxmediagroup.com
@@ -2020,7 +2020,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 remotead.cnet.com
 127.0.0.1 republika.onet.pl
 127.0.0.1 retargeter.com
-127.0.0.1 rev2pub.com
 127.0.0.1 revenue.net
 127.0.0.1 revenuedirect.com
 127.0.0.1 revsci.net

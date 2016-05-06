@@ -467,6 +467,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.goyk.com
 0.0.0.0 ads.gplusmedia.com
 0.0.0.0 ads.gradfinder.com
+0.0.0.0 ads.grindinggears.com
 0.0.0.0 ads.groundspeak.com
 0.0.0.0 ads.gsm-exchange.com
 0.0.0.0 ads.gsmexchange.com
@@ -872,7 +873,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adworx.nl
 0.0.0.0 adx.allstar.cz
 0.0.0.0 adx.atnext.com
-0.0.0.0 adx.gainesvillesun.com
 0.0.0.0 adxpansion.com
 0.0.0.0 adxpose.com
 0.0.0.0 adxvalue.com
@@ -1845,6 +1845,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 partage-facile.com
 0.0.0.0 partner-ads.com
 0.0.0.0 partner.pelikan.cz
+0.0.0.0 partner.topcities.com
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 partnercash.de
 0.0.0.0 partners.priceline.com
@@ -1975,7 +1976,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 realclix.com
 0.0.0.0 realmedia-a800.d4p.net
 0.0.0.0 realtechnetwork.com
-0.0.0.0 realteencash.com
 0.0.0.0 realtracker.com
 0.0.0.0 reduxmedia.com
 0.0.0.0 reduxmediagroup.com
@@ -1995,7 +1995,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 remotead.cnet.com
 0.0.0.0 republika.onet.pl
 0.0.0.0 retargeter.com
-0.0.0.0 rev2pub.com
 0.0.0.0 revenue.net
 0.0.0.0 revenuedirect.com
 0.0.0.0 revsci.net
