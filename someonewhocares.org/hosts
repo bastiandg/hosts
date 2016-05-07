@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 04 May 2016 at 21:24:05 GMT
+# Last updated: Sat, 07 May 2016 at 18:53:33 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2055,6 +2055,7 @@
 127.0.0.1 toolbarnew.biz
 127.0.0.1 toolbarsale.biz
 127.0.0.1 toolbarweb.biz
+127.0.0.1 torjackan.info
 127.0.0.1 traffic.adwitty.com
 127.0.0.1 trialreg.com
 127.0.0.1 trovi.com
