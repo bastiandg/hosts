@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 07 May 2016 at 18:53:33 GMT
+# Last updated: Mon, 09 May 2016 at 02:55:23 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -454,6 +454,7 @@
 127.0.0.1 cashcounter.com
 127.0.0.1 cb1.counterbot.com
 127.0.0.1 cdn.oggifinogi.com
+127.0.0.1 cdn-social.janrain.com
 127.0.0.1 cdn.taboolasyndication.com
 127.0.0.1 cdxbin.vulnerap.com
 127.0.0.1 cf.addthis.com
