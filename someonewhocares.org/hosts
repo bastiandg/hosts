@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 10 May 2016 at 22:56:59 GMT
+# Last updated: Wed, 11 May 2016 at 19:43:52 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8421,6 +8421,7 @@
 127.0.0.1 rpc-php.trafficfactory.biz
 127.0.0.1 rpc.trafficfactory.biz
 127.0.0.1 rp.hit.gemius.pl
+127.0.0.1 rqtrk.eu
 127.0.0.1 r.reklama.biz
 127.0.0.1 rs1.qq.com
 127.0.0.1 rs2.qq.com
@@ -8579,6 +8580,7 @@
 127.0.0.1 select004.adtech.fr
 127.0.0.1 select004.adtech.us
 127.0.0.1 selective-business.com
+127.0.0.1 sematext.com
 127.0.0.1 sergarius.popunder.ru
 127.0.0.1 serv2.ad-rotator.com
 127.0.0.1 servad.mynet.com

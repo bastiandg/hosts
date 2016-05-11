@@ -18663,6 +18663,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rpt.rad.msn.com
 0.0.0.0 rq.adfox.ru
 0.0.0.0 rq.adtrackdirect.com
+0.0.0.0 rqtrk.eu
 0.0.0.0 rr1.outster.com
 0.0.0.0 rr1.xxxcounter.com
 0.0.0.0 rr2.xxxcounter.com
@@ -19490,6 +19491,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 select004.adtech.us
 0.0.0.0 selective-business.com
 0.0.0.0 selfpwn.org
+0.0.0.0 sematext.com
 0.0.0.0 semengineers.com
 0.0.0.0 semiyun.com
 0.0.0.0 send.microad.jp
