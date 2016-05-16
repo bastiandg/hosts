@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 28 Apr 2016 11:39:09 GMT
-# entries:        2407
+# last updated:   Mon, 16 May 2016 12:52:58 GMT
+# entries:        2409
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -419,6 +419,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.co.com
 127.0.0.1 ads.com.com
 127.0.0.1 ads.contactmusic.com
+127.0.0.1 ads.contentabc.com
 127.0.0.1 ads.contextweb.com
 127.0.0.1 ads.crakmedia.com
 127.0.0.1 ads.creative-serving.com
@@ -701,6 +702,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads180.com
 127.0.0.1 ads2.brazzers.com
 127.0.0.1 ads2.clearchannel.com
+127.0.0.1 ads2.contentabc.com
 127.0.0.1 ads2.gamecity.net
 127.0.0.1 ads2.jubii.dk
 127.0.0.1 ads2.net-communities.co.uk
@@ -709,6 +711,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads2.virtual-nights.com
 127.0.0.1 ads2.xnet.cz
 127.0.0.1 ads2004.treiberupdate.de
+127.0.0.1 ads3.contentabc.com
 127.0.0.1 ads3.gamecity.net
 127.0.0.1 ads3.virtual-nights.com
 127.0.0.1 ads4.clearchannel.com
@@ -1254,7 +1257,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 contaxe.de
 127.0.0.1 content.acc-hd.de
 127.0.0.1 content.ad
-127.0.0.1 contentabc.com
 127.0.0.1 contextweb.com
 127.0.0.1 conversantmedia.com
 127.0.0.1 conversionruler.com
