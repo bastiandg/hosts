@@ -5520,6 +5520,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 apple-protection.info
 0.0.0.0 apple.com-safetyalert.com
 0.0.0.0 apple.com-scan-virus-detected.com
+0.0.0.0 apple.com-store.me
 0.0.0.0 applestore.com-mobile.gift
 0.0.0.0 applets.sulekha.com
 0.0.0.0 applicationstat.com
@@ -7401,6 +7402,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cash-advance.now-cash.com
 0.0.0.0 cash4members.com
 0.0.0.0 cash4popup.de
+0.0.0.0 cashadvancework.com
 0.0.0.0 cashback.co.uk
 0.0.0.0 cashbackwow.co.uk
 0.0.0.0 cashcount.com
@@ -14294,6 +14296,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ma74-r.analytics.edgesuite.net
 0.0.0.0 ma76-c.analytics.edgesuite.net
 0.0.0.0 ma76-r.analytics.edgesuite.net
+0.0.0.0 mac-os.apple.com-secured.online
 0.0.0.0 mac-protection.info
 0.0.0.0 mac.system-alert1.com
 0.0.0.0 macaddictads.snv.futurenet.com
@@ -20562,6 +20565,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 static.virgul.com
 0.0.0.0 static.vpptechnologies.com
 0.0.0.0 static.way2traffic.com
+0.0.0.0 static.williamhill.com
 0.0.0.0 static.wooboo.com.cn
 0.0.0.0 static.woopra.com
 0.0.0.0 static.yieldmo.com
