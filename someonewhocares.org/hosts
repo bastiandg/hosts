@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 16 May 2016 at 04:49:50 GMT
+# Last updated: Thu, 19 May 2016 at 06:45:32 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6303,7 +6303,6 @@
 127.0.0.1 c.imedia.cz
 127.0.0.1 c.in.msn.com
 127.0.0.1 cithingy.info
-127.0.0.1 citi.bridgetrack.com
 127.0.0.1 c.it.msn.com
 127.0.0.1 citrix.market2lead.com
 127.0.0.1 cityads.telus.net
