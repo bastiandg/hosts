@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 16 May 2016 12:52:58 GMT
-# entries:        2409
+# entries:        2408
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2122,7 +2122,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 spywarelabs.com
 127.0.0.1 spywarenuker.com
 127.0.0.1 spywords.com
-127.0.0.1 srbijacafe.org
 127.0.0.1 srwww1.com
 127.0.0.1 starffa.com
 127.0.0.1 start.freeze.com
