@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 24 May 2016 at 03:10:11 GMT
+# Last updated: Tue, 24 May 2016 at 07:05:09 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9554,6 +9554,7 @@
 127.0.0.1 www.ad.twitchguru.com
 127.0.0.1 www.ad-up.com
 127.0.0.1 www.advaliant.com
+127.0.0.1 www.advancedmaccleaner.com
 127.0.0.1 www.advconversion.com
 127.0.0.1 www.adverterenbijrtl.nl
 127.0.0.1 www.adverterenbijsbs.nl
@@ -9662,6 +9663,7 @@
 127.0.0.1 www.car-truck-boat-premiumblvd.com
 127.0.0.1 www.cashback.co.uk
 127.0.0.1 www.cashbackwow.co.uk
+127.0.0.1 www.cashcapitalsystem.com
 127.0.0.1 www.cashcount.com
 127.0.0.1 www.casino770.com
 127.0.0.1 www.catalinkcashback.com
