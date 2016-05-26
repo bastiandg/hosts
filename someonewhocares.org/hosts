@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 24 May 2016 at 07:05:09 GMT
+# Last updated: Thu, 26 May 2016 at 07:03:52 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -12066,7 +12066,6 @@
 
 # Windows 10 reporting domains. 
 127.0.0.1 a.ads2.msads.net
-127.0.0.1 a.ads2.msn.com
 127.0.0.1 adnexus.net
 127.0.0.1 aidps.atdmt.com
 127.0.0.1 a-msedge.net
