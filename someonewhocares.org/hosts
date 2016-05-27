@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 27 May 2016 at 03:55:02 GMT
+# Last updated: Fri, 27 May 2016 at 04:33:56 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7741,6 +7741,7 @@
 127.0.0.1 morevisits.info
 127.0.0.1 motd.pinion.gg
 127.0.0.1 movieads.imgs.sapo.pt
+127.0.0.1 movsflix.com
 127.0.0.1 mp3playersource.com
 127.0.0.1 mpartner.googleadservices.com
 127.0.0.1 m.pl.pornzone.tv
@@ -8876,6 +8877,7 @@
 127.0.0.1 support.sweepstakes.com
 127.0.0.1 supremeadsonline.com
 127.0.0.1 suresafe1.adsovo.com
+127.0.0.1 surfsecured.net
 127.0.0.1 surplus-suppliers.com
 127.0.0.1 surveycentral.directinsure.info
 127.0.0.1 survey.china.alibaba.com
