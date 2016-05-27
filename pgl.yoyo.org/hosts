@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 16 May 2016 12:52:58 GMT
-# entries:        2407
+# entries:        2401
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -608,7 +608,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.redtube.com
 127.0.0.1 ads.resoom.de
 127.0.0.1 ads.returnpath.net
-127.0.0.1 ads.rottentomatoes.com
 127.0.0.1 ads.rpgdot.com
 127.0.0.1 ads.s3.sitepoint.com
 127.0.0.1 ads.satyamonline.com
@@ -625,7 +624,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.smartclick.com
 127.0.0.1 ads.soft32.com
 127.0.0.1 ads.space.com
-127.0.0.1 ads.spoonfeduk.com
 127.0.0.1 ads.sptimes.com
 127.0.0.1 ads.stackoverflow.com
 127.0.0.1 ads.stationplay.com
@@ -929,7 +927,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 affiliates.globat.com
 127.0.0.1 affiliates.ige.com
 127.0.0.1 affiliates.internationaljock.com
-127.0.0.1 affiliates.jlist.com
 127.0.0.1 affiliates.streamray.com
 127.0.0.1 affiliates.thinkhost.net
 127.0.0.1 affiliates.thrixxx.com
@@ -1265,7 +1262,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 count.rin.ru
 127.0.0.1 count.west263.com
 127.0.0.1 counted.com
-127.0.0.1 counter.avtoindex.com
 127.0.0.1 counter.bloke.com
 127.0.0.1 counter.cnw.cz
 127.0.0.1 counter.cz
@@ -1321,7 +1317,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 decknetwork.net
 127.0.0.1 deloo.de
 127.0.0.1 demandbase.com
-127.0.0.1 depilflash.tv
 127.0.0.1 di1.shopping.com
 127.0.0.1 dialerporn.com
 127.0.0.1 didtheyreadit.com
@@ -2076,7 +2071,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 sexlist.com
 127.0.0.1 sextracker.com
 127.0.0.1 sexystat.com
-127.0.0.1 sezwho.com
 127.0.0.1 shareadspace.com
 127.0.0.1 shareasale.com
 127.0.0.1 sharepointads.com
