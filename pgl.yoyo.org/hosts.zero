@@ -727,7 +727,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.bizhat.com
 0.0.0.0 adserver.break-even.it
 0.0.0.0 adserver.cams.com
-0.0.0.0 adserver.clashmusic.com
 0.0.0.0 adserver.com
 0.0.0.0 adserver.digitoday.com
 0.0.0.0 adserver.dotcommedia.de
@@ -1061,6 +1060,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 bannersng.yell.com
 0.0.0.0 bannerspace.com
 0.0.0.0 bannerswap.com
+0.0.0.0 bannertesting.com
 0.0.0.0 bannery.cz
 0.0.0.0 bannieres.acces-contenu.com
 0.0.0.0 bans.adserver.co.il
@@ -1366,8 +1366,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 eurekster.com
 0.0.0.0 euro-linkindex.de
 0.0.0.0 euroclick.com
-0.0.0.0 european-toplist.de
-0.0.0.0 euroranking.de
 0.0.0.0 euros4click.de
 0.0.0.0 eusta.de
 0.0.0.0 evergage.com
@@ -1447,7 +1445,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 geo.digitalpoint.com
 0.0.0.0 geobanner.adultfriendfinder.com
 0.0.0.0 geovisite.com
-0.0.0.0 german-linkindex.de
 0.0.0.0 getclicky.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globaltakeoff.net
@@ -1808,7 +1805,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 openad.travelnow.com
 0.0.0.0 openads.friendfinder.com
 0.0.0.0 openads.org
-0.0.0.0 openclick.com
 0.0.0.0 openx.angelsgroup.org.uk
 0.0.0.0 openx.blindferret.com
 0.0.0.0 opienetwork.com
@@ -1829,7 +1825,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pagerank-estate-spb.ru
 0.0.0.0 pagerank-ranking.com
 0.0.0.0 pagerank-ranking.de
-0.0.0.0 pagerank-server7.de
 0.0.0.0 pagerank-submitter.com
 0.0.0.0 pagerank-submitter.de
 0.0.0.0 pagerank-suchmaschine.de
@@ -2266,7 +2261,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 uarating.com
 0.0.0.0 ukbanners.com
 0.0.0.0 ultramercial.com
-0.0.0.0 ultsearch.com
 0.0.0.0 unanimis.co.uk
 0.0.0.0 untd.com
 0.0.0.0 updated.com

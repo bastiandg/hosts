@@ -4102,7 +4102,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.cebu-online.com
 0.0.0.0 adserver.cheatplanet.com
 0.0.0.0 adserver.chickclick.com
-0.0.0.0 adserver.clashmusic.com
 0.0.0.0 adserver.click4cash.de
 0.0.0.0 adserver.clix.pt
 0.0.0.0 adserver.clubic.com
@@ -6299,6 +6298,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 bannerswap.com
 0.0.0.0 bannersxchange.com
 0.0.0.0 bannert.ru
+0.0.0.0 bannertesting.com
 0.0.0.0 bannerus1.axelsfun.com
 0.0.0.0 bannerus3.axelsfun.com
 0.0.0.0 bannery.cz
@@ -10309,10 +10309,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 euroclick.com
 0.0.0.0 europe-academy.net
 0.0.0.0 europe.adserver.yahoo.com
-0.0.0.0 european-toplist.de
 0.0.0.0 europol.europe.eu.france.id647744160-2176514326.h5841.com
 0.0.0.0 europol.europe.eu.id214218540-7444056787.h5841.com
-0.0.0.0 euroranking.de
 0.0.0.0 euros4click.de
 0.0.0.0 eurostar.122.2o7.net
 0.0.0.0 eusta.de
@@ -11365,7 +11363,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 geotarget.info
 0.0.0.0 geovisite.com
 0.0.0.0 geoweb.e-kolay.net
-0.0.0.0 german-linkindex.de
 0.0.0.0 gesdes.com
 0.0.0.0 get-answers-fast.com
 0.0.0.0 get.fleettiger.in
@@ -16771,7 +16768,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 openads.zeads.com
 0.0.0.0 openadstream-eu1.247realmedia.com
 0.0.0.0 opencandy.com
-0.0.0.0 openclick.com
 0.0.0.0 opendownloadmanager.com
 0.0.0.0 openinternetexchange.com
 0.0.0.0 openinternetexchange.net
@@ -17070,7 +17066,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pagerank-estate-spb.ru
 0.0.0.0 pagerank-ranking.com
 0.0.0.0 pagerank-ranking.de
-0.0.0.0 pagerank-server7.de
 0.0.0.0 pagerank-submitter.com
 0.0.0.0 pagerank-submitter.de
 0.0.0.0 pagerank-suchmaschine.de
@@ -22516,7 +22511,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ultram.1.p2l.info
 0.0.0.0 ultramercial.com
 0.0.0.0 ultrasponsor.com
-0.0.0.0 ultsearch.com
 0.0.0.0 um.simpli.fi
 0.0.0.0 ums.adtechus.com
 0.0.0.0 unalbilgisayar.com
