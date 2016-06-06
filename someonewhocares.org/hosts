@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 30 May 2016 at 03:01:29 GMT
+# Last updated: Mon, 06 Jun 2016 at 07:51:16 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3399,6 +3399,7 @@
 127.0.0.1 1.forgetstore.com
 127.0.0.1 1.httpads.com
 127.0.0.1 1.primaryads.com
+127.0.0.1 1q0bjj4d39.top
 127.0.0.1 207-87-18-203.wsmg.digex.net
 127.0.0.1 247adbiz.net
 127.0.0.1 247support.adtech.fr
@@ -3803,6 +3804,7 @@
 127.0.0.1 ad.e-sport.com
 127.0.0.1 ad.eurosport.com
 127.0.0.1 ade.wooboo.com.cn
+127.0.0.1 adexchangeprediction.com
 127.0.0.1 adexpansion.com
 127.0.0.1 adexprt.com
 127.0.0.1 adexprt.me
@@ -4095,6 +4097,7 @@
 127.0.0.1 adrotate.se
 127.0.0.1 adrotator.se
 127.0.0.1 ad.ru.doubleclick.net
+127.0.0.1 adrunnr.com
 127.0.0.1 ads01.com
 127.0.0.1 ads01.focalink.com
 127.0.0.1 ads01.hyperbanner.net
@@ -5187,6 +5190,7 @@
 127.0.0.1 ads.pandora.tv.net
 127.0.0.1 ads.panoramtech.net
 127.0.0.1 ads.paper.li
+127.0.0.1 ads.papeteka.com
 127.0.0.1 ads.parrysound.com
 127.0.0.1 ads.partner2profit.com
 127.0.0.1 ads.pastemagazine.com
@@ -6035,6 +6039,7 @@
 127.0.0.1 bet-at-home.com
 127.0.0.1 betterperformance.goldenopps.info
 127.0.0.1 bfast.com
+127.0.0.1 b.getprizenow.top
 127.0.0.1 b.grabo.bg
 127.0.0.1 bhclicks.com
 127.0.0.1 bidclix.net
@@ -7357,6 +7362,7 @@
 127.0.0.1 jcarter.spinbox.net
 127.0.0.1 j.clickdensity.com
 127.0.0.1 jcrew.tt.omtrdc.net
+127.0.0.1 jenno.adsb4all.com
 127.0.0.1 jersey-offer.com
 127.0.0.1 jgedads.cjt.net
 127.0.0.1 jh.revolvermaps.com
@@ -7703,7 +7709,7 @@
 127.0.0.1 mimageads5.googleadservices.com
 127.0.0.1 mimageads6.googleadservices.com
 127.0.0.1 mimageads7.googleadservices.com
-127.0.0.1 mimageads8.googleadservices.com                                             
+127.0.0.1 mimageads8.googleadservices.com
 127.0.0.1 mimageads9.googleadservices.com
 127.0.0.1 mimageads.googleadservices.com
 127.0.0.1 mimicrice.com
@@ -8715,6 +8721,7 @@
 127.0.0.1 sochr.com
 127.0.0.1 social.bidsystem.com
 127.0.0.1 softlinkers.popunder.ru
+127.0.0.1 softwarepiset.com
 127.0.0.1 sokrates.adtech.de
 127.0.0.1 sokrates.adtech.fr
 127.0.0.1 sokrates.adtech.us
@@ -10323,6 +10330,7 @@
 127.0.0.1 x.interia.pl
 127.0.0.1 xlivehost.com
 127.0.0.1 xlonhcld.xlontech.net
+127.0.0.1 xml.adfclick1.com
 127.0.0.1 xml.adtech.de
 127.0.0.1 xml.adtech.fr
 127.0.0.1 xml.adtech.us
@@ -10375,6 +10383,7 @@
 127.0.0.1 zhalehziba.com
 127.0.0.1 zlothonline.info
 127.0.0.1 z.moatads.com
+127.0.0.1 zu1.november-lax.com
 127.0.0.1 zuzzer5.com
 #</ad-sites>
 
