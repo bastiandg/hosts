@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 16 May 2016 12:52:58 GMT
-# entries:        2394
+# entries:        2393
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1922,7 +1922,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 primaryads.com
 127.0.0.1 primetime.net
 127.0.0.1 privatecash.com
-127.0.0.1 pro-advertising.com
 127.0.0.1 pro.i-doctor.co.kr
 127.0.0.1 proext.com
 127.0.0.1 profero.com
