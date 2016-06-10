@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 06 Jun 2016 at 20:25:59 GMT
+# Last updated: Fri, 10 Jun 2016 at 20:51:27 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5177,6 +5177,7 @@
 127.0.0.1 adson.awempire.com
 127.0.0.1 ads.onlineathens.com
 127.0.0.1 ads.online.ie
+127.0.0.1 ads.onlinevenditatio.space
 127.0.0.1 ads.onvertise.com
 127.0.0.1 ads.ookla.com
 127.0.0.1 ads.open.pl
@@ -8832,6 +8833,7 @@
 127.0.0.1 static.lstat.youku.com
 127.0.0.1 static.mediav.com
 127.0.0.1 static.nrelate.com
+127.0.0.1 static.onlinevenditatio.space
 127.0.0.1 static.oroll.com
 127.0.0.1 static.plista.com
 127.0.0.1 static.plugrush.com
@@ -9960,6 +9962,7 @@
 127.0.0.1 www.kitaramedia.com
 127.0.0.1 www.kitaratrk.com
 127.0.0.1 www.kixer.com
+127.0.0.1 www.klikdirect.com
 127.0.0.1 www.kliksaya.com
 127.0.0.1 www.kmdl101.com
 127.0.0.1 www.kontera.com
@@ -9979,6 +9982,7 @@
 127.0.0.1 www.learning-offer.com
 127.0.0.1 www.legal-rewardpath.com
 127.0.0.1 www.leisure-offer.com
+127.0.0.1 www.lejournaldescarrieres.com
 127.0.0.1 www.linkhut.com
 127.0.0.1 www.linkpulse.com
 127.0.0.1 www.linkwithin.com
