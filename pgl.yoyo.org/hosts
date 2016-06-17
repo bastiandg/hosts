@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 16 May 2016 12:52:58 GMT
-# entries:        2394
+# last updated:   Fri, 17 Jun 2016 12:57:43 GMT
+# entries:        2383
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -552,7 +552,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.motor-forum.nl
 127.0.0.1 ads.motormedia.nl
 127.0.0.1 ads.msn.com
-127.0.0.1 ads.multimania.lycos.fr
 127.0.0.1 ads.nationalgeographic.com
 127.0.0.1 ads.ncm.com
 127.0.0.1 ads.netclusive.de
@@ -639,17 +638,10 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.themovienation.com
 127.0.0.1 ads.thestar.com
 127.0.0.1 ads.timeout.com
-127.0.0.1 ads.tjwi.info
 127.0.0.1 ads.tmcs.net
 127.0.0.1 ads.totallyfreestuff.com
 127.0.0.1 ads.townhall.com
 127.0.0.1 ads.trinitymirror.co.uk
-127.0.0.1 ads.tripod.com
-127.0.0.1 ads.tripod.lycos.co.uk
-127.0.0.1 ads.tripod.lycos.de
-127.0.0.1 ads.tripod.lycos.es
-127.0.0.1 ads.tripod.lycos.it
-127.0.0.1 ads.tripod.lycos.nl
 127.0.0.1 ads.tripod.spray.se
 127.0.0.1 ads.tso.dennisnet.co.uk
 127.0.0.1 ads.uknetguide.co.uk
@@ -1368,7 +1360,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 emarketer.com
 127.0.0.1 emediate.dk
 127.0.0.1 emediate.eu
-127.0.0.1 emonitor.takeit.cz
 127.0.0.1 engine.awaps.net
 127.0.0.1 engine.espace.netavenir.com
 127.0.0.1 enginenetwork.com
@@ -1509,7 +1500,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 hit-ranking.de
 127.0.0.1 hit.bg
 127.0.0.1 hit.ua
-127.0.0.1 hit.webcentre.lycos.co.uk
 127.0.0.1 hitbox.com
 127.0.0.1 hitcents.com
 127.0.0.1 hitexchange.net
@@ -1873,7 +1863,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 pcash.imlive.com
 127.0.0.1 peep-auktion.de
 127.0.0.1 peer39.com
-127.0.0.1 pennyweb.com
 127.0.0.1 pepperjamnetwork.com
 127.0.0.1 percentmobile.com
 127.0.0.1 perf.weborama.fr
@@ -2073,7 +2062,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 shinystat.it
 127.0.0.1 shoppingads.com
 127.0.0.1 siccash.com
-127.0.0.1 sidebar.angelfire.com
 127.0.0.1 sinoa.com
 127.0.0.1 sitebrand.geeks.com
 127.0.0.1 sitemerkezi.net
@@ -2423,6 +2411,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 zeusclicks.com
 127.0.0.1 zintext.com
 127.0.0.1 zmedia.com
+127.0.0.1 zv1.november-lax.com
 </pre>
 
 </body>

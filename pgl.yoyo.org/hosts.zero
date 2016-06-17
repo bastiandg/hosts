@@ -527,7 +527,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.motor-forum.nl
 0.0.0.0 ads.motormedia.nl
 0.0.0.0 ads.msn.com
-0.0.0.0 ads.multimania.lycos.fr
 0.0.0.0 ads.nationalgeographic.com
 0.0.0.0 ads.ncm.com
 0.0.0.0 ads.netclusive.de
@@ -614,17 +613,10 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.themovienation.com
 0.0.0.0 ads.thestar.com
 0.0.0.0 ads.timeout.com
-0.0.0.0 ads.tjwi.info
 0.0.0.0 ads.tmcs.net
 0.0.0.0 ads.totallyfreestuff.com
 0.0.0.0 ads.townhall.com
 0.0.0.0 ads.trinitymirror.co.uk
-0.0.0.0 ads.tripod.com
-0.0.0.0 ads.tripod.lycos.co.uk
-0.0.0.0 ads.tripod.lycos.de
-0.0.0.0 ads.tripod.lycos.es
-0.0.0.0 ads.tripod.lycos.it
-0.0.0.0 ads.tripod.lycos.nl
 0.0.0.0 ads.tripod.spray.se
 0.0.0.0 ads.tso.dennisnet.co.uk
 0.0.0.0 ads.uknetguide.co.uk
@@ -1343,7 +1335,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 emarketer.com
 0.0.0.0 emediate.dk
 0.0.0.0 emediate.eu
-0.0.0.0 emonitor.takeit.cz
 0.0.0.0 engine.awaps.net
 0.0.0.0 engine.espace.netavenir.com
 0.0.0.0 enginenetwork.com
@@ -1484,7 +1475,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 hit-ranking.de
 0.0.0.0 hit.bg
 0.0.0.0 hit.ua
-0.0.0.0 hit.webcentre.lycos.co.uk
 0.0.0.0 hitbox.com
 0.0.0.0 hitcents.com
 0.0.0.0 hitexchange.net
@@ -1848,7 +1838,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pcash.imlive.com
 0.0.0.0 peep-auktion.de
 0.0.0.0 peer39.com
-0.0.0.0 pennyweb.com
 0.0.0.0 pepperjamnetwork.com
 0.0.0.0 percentmobile.com
 0.0.0.0 perf.weborama.fr
@@ -2048,7 +2037,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 shinystat.it
 0.0.0.0 shoppingads.com
 0.0.0.0 siccash.com
-0.0.0.0 sidebar.angelfire.com
 0.0.0.0 sinoa.com
 0.0.0.0 sitebrand.geeks.com
 0.0.0.0 sitemerkezi.net
@@ -2398,3 +2386,4 @@ ff02::2 ip6-allrouters
 0.0.0.0 zeusclicks.com
 0.0.0.0 zintext.com
 0.0.0.0 zmedia.com
+0.0.0.0 zv1.november-lax.com
