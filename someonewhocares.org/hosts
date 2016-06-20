@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 13 Jun 2016 at 04:47:20 GMT
+# Last updated: Mon, 20 Jun 2016 at 05:26:47 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1972,6 +1972,7 @@
 127.0.0.1 Question2Answer.com
 127.0.0.1 qy.corrmedic.ru
 127.0.0.1 rd.alphabirdnetwork.com
+127.0.0.1 readheadstick.biz
 127.0.0.1 rickrolling.com
 127.0.0.1 roifmd.info
 127.0.0.1 romdiscover.com
@@ -6162,6 +6163,7 @@
 127.0.0.1 campaigns.interclick.com
 127.0.0.1 canadaalltax.com
 127.0.0.1 canuckmethod.com
+127.0.0.1 canuckmethod.net
 127.0.0.1 capath.com
 127.0.0.1 carambo.la
 127.0.0.1 cardgamespidersolitaire.com
