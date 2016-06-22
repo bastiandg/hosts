@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 20 Jun 2016 at 05:26:47 GMT
+# Last updated: Wed, 22 Jun 2016 at 17:32:28 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1726,7 +1726,6 @@
 127.0.0.1 c.oix.com
 127.0.0.1 c.oix.net
 127.0.0.1 conduit.com
-127.0.0.1 Coordino.com
 127.0.0.1 coordino.com
 127.0.0.1 cra-arc.gc.ca.bioder.com.tr
 127.0.0.1 cra-arc-gc-ca.noads.biz
@@ -6346,6 +6345,7 @@
 127.0.0.1 clickmedia.ro
 127.0.0.1 click.pulse360.com
 127.0.0.1 clicks2.virtuagirl.com
+127.0.0.1 clicks.adhese.be
 127.0.0.1 clicks.adultplex.com
 127.0.0.1 clicks.deskbabes.com
 127.0.0.1 click-see-save.com
