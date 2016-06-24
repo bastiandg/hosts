@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 22 Jun 2016 at 17:32:28 GMT
+# Last updated: Fri, 24 Jun 2016 at 18:24:26 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7598,7 +7598,6 @@
 127.0.0.1 marketing.888.com
 127.0.0.1 marketing.hearstmagazines.nl
 127.0.0.1 marketing-rewardpath.com
-127.0.0.1 marketwatch.com.edgesuite.net
 127.0.0.1 marriottinternationa.tt.omtrdc.net
 127.0.0.1 mashinkhabar.com
 127.0.0.1 mastertracks.be
@@ -10016,7 +10015,6 @@
 127.0.0.1 www.macombdisplayads.com
 127.0.0.1 www.market-buster.com
 127.0.0.1 www.marketing-rewardpath.com
-127.0.0.1 www.marketwatch.com.edgesuite.net
 127.0.0.1 www.mastertracks.be
 127.0.0.1 www.maxbounty.com
 127.0.0.1 www.maxonclick.com
