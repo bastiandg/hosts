@@ -3486,6 +3486,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.tripod.lycos.co.uk
 0.0.0.0 ads.tripod.lycos.de
 0.0.0.0 ads.tripod.lycos.es
+0.0.0.0 ads.tripod.lycos.it
+0.0.0.0 ads.tripod.lycos.nl
 0.0.0.0 ads.tripod.spray.se
 0.0.0.0 ads.tritonmedia.com
 0.0.0.0 ads.tromaville.com
@@ -12004,6 +12006,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 hit.reference-sexe.com
 0.0.0.0 hit.topc.org
 0.0.0.0 hit.ua
+0.0.0.0 hit.webcentre.lycos.co.uk
 0.0.0.0 hit1.hotlog.ru
 0.0.0.0 hit10.hotlog.ru
 0.0.0.0 hit13.hotlog.ru
@@ -12496,7 +12499,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ilbanner.com
 0.0.0.0 ilead.itrack.it
 0.0.0.0 ilgde.adocean.pl
-0.0.0.0 iliilllio00oo0.321.cn
 0.0.0.0 ilinks.industrybrains.com
 0.0.0.0 ilovecheating.com
 0.0.0.0 ilovemobi.com
@@ -17294,6 +17296,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pendikcicekcilik.com
 0.0.0.0 penix.nl
 0.0.0.0 pennwellcorp.112.2o7.net
+0.0.0.0 pennyweb.com
 0.0.0.0 pension-helene.cz
 0.0.0.0 penton.us.intellitxt.com
 0.0.0.0 pentonmedia.122.2o7.net
@@ -19851,6 +19854,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 si.wemfbox.ch
 0.0.0.0 siads.sv.publicus.com
 0.0.0.0 siccash.com
+0.0.0.0 sidebar.angelfire.com
 0.0.0.0 sideshow.directtrack.com
 0.0.0.0 siemens.d1.sc.omtrdc.net
 0.0.0.0 sifomedia.aftonbladet.se
@@ -19893,7 +19897,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 site.johnlewis.com
 0.0.0.0 site.mobile-evolution.net
 0.0.0.0 site.puritan.com
-0.0.0.0 sitebrand.geeks.com
 0.0.0.0 siteimproveanalytics.com
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 siteinterceptco1.qualtrics.com
@@ -21310,7 +21313,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 target.net.finam.ru
 0.0.0.0 target.smi2.net
 0.0.0.0 targeting.adwebster.com
-0.0.0.0 targetingnow.com
 0.0.0.0 targetnet.com
 0.0.0.0 targetpoint.com
 0.0.0.0 tarno.tradedoubler.com

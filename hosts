@@ -3486,6 +3486,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.tripod.lycos.co.uk
 127.0.0.1 ads.tripod.lycos.de
 127.0.0.1 ads.tripod.lycos.es
+127.0.0.1 ads.tripod.lycos.it
+127.0.0.1 ads.tripod.lycos.nl
 127.0.0.1 ads.tripod.spray.se
 127.0.0.1 ads.tritonmedia.com
 127.0.0.1 ads.tromaville.com
@@ -12004,6 +12006,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hit.reference-sexe.com
 127.0.0.1 hit.topc.org
 127.0.0.1 hit.ua
+127.0.0.1 hit.webcentre.lycos.co.uk
 127.0.0.1 hit1.hotlog.ru
 127.0.0.1 hit10.hotlog.ru
 127.0.0.1 hit13.hotlog.ru
@@ -12496,7 +12499,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ilbanner.com
 127.0.0.1 ilead.itrack.it
 127.0.0.1 ilgde.adocean.pl
-127.0.0.1 iliilllio00oo0.321.cn
 127.0.0.1 ilinks.industrybrains.com
 127.0.0.1 ilovecheating.com
 127.0.0.1 ilovemobi.com
@@ -17294,6 +17296,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pendikcicekcilik.com
 127.0.0.1 penix.nl
 127.0.0.1 pennwellcorp.112.2o7.net
+127.0.0.1 pennyweb.com
 127.0.0.1 pension-helene.cz
 127.0.0.1 penton.us.intellitxt.com
 127.0.0.1 pentonmedia.122.2o7.net
@@ -19851,6 +19854,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 si.wemfbox.ch
 127.0.0.1 siads.sv.publicus.com
 127.0.0.1 siccash.com
+127.0.0.1 sidebar.angelfire.com
 127.0.0.1 sideshow.directtrack.com
 127.0.0.1 siemens.d1.sc.omtrdc.net
 127.0.0.1 sifomedia.aftonbladet.se
@@ -19893,7 +19897,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 site.johnlewis.com
 127.0.0.1 site.mobile-evolution.net
 127.0.0.1 site.puritan.com
-127.0.0.1 sitebrand.geeks.com
 127.0.0.1 siteimproveanalytics.com
 127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 siteinterceptco1.qualtrics.com
@@ -21310,7 +21313,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 target.net.finam.ru
 127.0.0.1 target.smi2.net
 127.0.0.1 targeting.adwebster.com
-127.0.0.1 targetingnow.com
 127.0.0.1 targetnet.com
 127.0.0.1 targetpoint.com
 127.0.0.1 tarno.tradedoubler.com
