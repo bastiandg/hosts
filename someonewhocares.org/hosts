@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 28 Jun 2016 at 17:32:04 GMT
+# Last updated: Wed, 29 Jun 2016 at 05:07:48 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7596,6 +7596,7 @@
 127.0.0.1 mangler8.generals.ea.com
 127.0.0.1 mangler9.generals.ea.com
 127.0.0.1 manuel.theonion.com
+127.0.0.1 mapleway2profit.com
 127.0.0.1 marketgid.com
 127.0.0.1 marketing.888.com
 127.0.0.1 marketing.hearstmagazines.nl
@@ -8994,6 +8995,7 @@
 127.0.0.1 tiqcdn.com
 127.0.0.1 tk.baidu.com
 127.0.0.1 tkweb.baidu.com
+127.0.0.1 t.mdn2015x1.com
 127.0.0.1 tmp3.nexac.com
 127.0.0.1 tmsads.tribune.com
 127.0.0.1 tmx.technoratimedia.com
