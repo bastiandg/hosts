@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 17 Jun 2016 12:57:43 GMT
-# entries:        2390
+# entries:        2386
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -859,7 +859,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adv.webmd.com
 127.0.0.1 adv.wp.pl
 127.0.0.1 adv.yo.cz
-127.0.0.1 advariant.com
 127.0.0.1 adventory.com
 127.0.0.1 advert.bayarea.com
 127.0.0.1 advert.dyna.ultraweb.hu
@@ -998,7 +997,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 banik.redigy.cz
 127.0.0.1 banner-exchange-24.de
 127.0.0.1 banner.ad.nu
-127.0.0.1 banner.alphacool.de
 127.0.0.1 banner.ambercoastcasino.com
 127.0.0.1 banner.blogranking.net
 127.0.0.1 banner.buempliz-online.ch
@@ -1367,7 +1365,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 emarketer.com
 127.0.0.1 emediate.dk
 127.0.0.1 emediate.eu
-127.0.0.1 engine.awaps.net
 127.0.0.1 engine.espace.netavenir.com
 127.0.0.1 enginenetwork.com
 127.0.0.1 enoratraffic.com
@@ -1713,7 +1710,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 megago.com
 127.0.0.1 megastats.com
 127.0.0.1 megawerbung.de
-127.0.0.1 memorix.sdv.fr
 127.0.0.1 metaffiliation.com
 127.0.0.1 metanetwork.com
 127.0.0.1 methodcash.com
@@ -2082,7 +2078,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 sma.punto.net
 127.0.0.1 smart4ads.com
 127.0.0.1 smartadserver.com
-127.0.0.1 smartbase.cdnservices.com
 127.0.0.1 smowtion.com
 127.0.0.1 snapads.com
 127.0.0.1 snoobi.com
@@ -2166,6 +2161,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 tangerinenet.biz
 127.0.0.1 tapad.com
 127.0.0.1 targad.de
+127.0.0.1 targetingnow.com
 127.0.0.1 targetnet.com
 127.0.0.1 targetpoint.com
 127.0.0.1 tatsumi-sys.jp
