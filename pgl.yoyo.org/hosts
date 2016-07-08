@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 17 Jun 2016 12:57:43 GMT
-# entries:        2386
+# entries:        2385
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -982,7 +982,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 autohits.dk
 127.0.0.1 avenuea.com
 127.0.0.1 avpa.javalobby.org
-127.0.0.1 avres.net
 127.0.0.1 avsads.com
 127.0.0.1 awempire.com
 127.0.0.1 awin1.com
