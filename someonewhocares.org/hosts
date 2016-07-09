@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 01 Jul 2016 at 02:20:17 GMT
+# Last updated: Sat, 09 Jul 2016 at 22:26:02 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -10975,6 +10975,7 @@
 127.0.0.1 oascentral.registerguard.com
 127.0.0.1 oascentral.registguard.com
 127.0.0.1 oascentral.riverfronttimes.com
+127.0.0.1 oascentral.sacurrent.com
 127.0.0.1 oascentral.salon.com
 127.0.0.1 oascentral.santacruzsentinel.com
 127.0.0.1 oascentral.sciam.com
