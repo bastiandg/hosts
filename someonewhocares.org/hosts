@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 11 Jul 2016 at 21:19:29 GMT
+# Last updated: Tue, 12 Jul 2016 at 03:58:01 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6459,6 +6459,7 @@
 127.0.0.1 consumer-org.com
 127.0.0.1 contaxe.com
 127.0.0.1 content.ad-flow.com
+127.0.0.1 content.aimatch.com
 127.0.0.1 content.clipster.ws
 127.0.0.1 content.codelnet.com
 127.0.0.1 content.promoisland.net
