@@ -1722,7 +1722,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mystat.pl
 0.0.0.0 mytop-in.net
 0.0.0.0 n69.com
-0.0.0.0 naiadsystems.com
+0.0.0.0 naiadsystems.com.invalid
 0.0.0.0 naj.sk
 0.0.0.0 namimedia.com
 0.0.0.0 nastydollars.com
