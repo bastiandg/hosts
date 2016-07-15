@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 12 Jul 2016 at 03:58:01 GMT
+# Last updated: Fri, 15 Jul 2016 at 18:58:53 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3758,6 +3758,7 @@
 127.0.0.1 adc2.adcentriconline.com
 127.0.0.1 adcache.aftenposten.no
 127.0.0.1 adcanadian.com
+127.0.0.1 adcarem.co
 127.0.0.1 adcash.com
 127.0.0.1 adcast.deviantart.com
 127.0.0.1 ad.cctv.com
@@ -5629,6 +5630,7 @@
 127.0.0.1 advplace.com
 127.0.0.1 advplace.nuggad.net
 127.0.0.1 adv.publy.net
+127.0.0.1 advserver.xyz
 127.0.0.1 advstat.xunlei.com
 127.0.0.1 adv.strategy.it
 127.0.0.1 adv.surinter.net
