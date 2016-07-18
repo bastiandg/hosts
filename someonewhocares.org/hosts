@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 15 Jul 2016 at 18:58:53 GMT
+# Last updated: Mon, 18 Jul 2016 at 04:51:48 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8045,6 +8045,7 @@
 127.0.0.1 partner.magna.ru
 127.0.0.1 partner.pobieraczek.pl
 127.0.0.1 partnerprogramma.bol.com
+127.0.0.1 partners.adklick.de
 127.0.0.1 partners.salesforce.com
 127.0.0.1 partners.sprintrade.com
 127.0.0.1 partners.webmasterplan.com
