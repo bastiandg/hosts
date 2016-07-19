@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 18 Jul 2016 at 04:51:48 GMT
+# Last updated: Tue, 19 Jul 2016 at 13:37:02 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5783,6 +5783,7 @@
 127.0.0.1 apparel-offer.com
 127.0.0.1 app.datafastguru.info
 127.0.0.1 appdev.addthis.com
+127.0.0.1 applicationpremium70.club
 127.0.0.1 appnexus.com
 127.0.0.1 apps5.oingo.com
 127.0.0.1 app.scanscout.com
@@ -6057,6 +6058,7 @@
 127.0.0.1 bigads.guj.de
 127.0.0.1 bigbrandpromotions.com
 127.0.0.1 bigbrandrewards.com
+127.0.0.1 bigfreelotto.com
 127.0.0.1 biggestgiftrewards.com
 127.0.0.1 bill.agent.56.com
 127.0.0.1 bill.agent.v-56.com
@@ -6245,6 +6247,7 @@
 127.0.0.1 cdn.directrev.com
 127.0.0.1 cdn.eyewonder.com
 127.0.0.1 cdn.freefaits.com
+127.0.0.1 cdn.freefarcy.com
 127.0.0.1 cdn.go.arbo.bbelements.com
 127.0.0.1 cdn.go.arbopl.bbelements.com
 127.0.0.1 cdn.go.cz.bbelements.com
@@ -8902,6 +8905,7 @@
 127.0.0.1 surveymonkeycom.tt.omtrdc.net
 127.0.0.1 survey.nuggad.net
 127.0.0.1 surveypass.com
+127.0.0.1 survymonkey.xyz
 127.0.0.1 susi.adtech.fr
 127.0.0.1 susi.adtech.us
 127.0.0.1 svd2.adtlgc.com
@@ -8974,6 +8978,7 @@
 127.0.0.1 textsrv.com
 127.0.0.1 tf.nexac.com
 127.0.0.1 tgpmanager.com
+127.0.0.1 thanfocus.com
 127.0.0.1 the-binary-trader.biz
 127.0.0.1 themaplemethod.com
 127.0.0.1 the-path-gateway.com
