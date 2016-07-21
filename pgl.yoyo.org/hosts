@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 18 Jul 2016 14:20:22 GMT
-# entries:        2385
+# last updated:   Thu, 21 Jul 2016 09:38:17 GMT
+# entries:        2386
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2397,6 +2397,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 yieldlab.net
 127.0.0.1 yieldmanager.com
 127.0.0.1 yieldmanager.net
+127.0.0.1 yieldmo.com
 127.0.0.1 yieldtraffic.com
 127.0.0.1 yoc.mobi
 127.0.0.1 yoggrt.com
