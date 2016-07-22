@@ -7025,7 +7025,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 c1.atdmt.com
 0.0.0.0 c1.gostats.com
 0.0.0.0 c1.navrcholu.cz
-0.0.0.0 c1.nowlinux.com
 0.0.0.0 c1.onedmp.com
 0.0.0.0 c1.openx.org
 0.0.0.0 c1.outster.com
@@ -7390,6 +7389,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cbsspln.112.2o7.net
 0.0.0.0 cbstelevisiondistribution.112.2o7.net
 0.0.0.0 cbstv.us.intellitxt.com
+0.0.0.0 cbx.net
 0.0.0.0 cc-dt.com
 0.0.0.0 cc.bridgetrack.com
 0.0.0.0 cc.chango.com
@@ -11759,7 +11759,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 hit-counter.udub.com
 0.0.0.0 hit-now.com
 0.0.0.0 hit-parade.com
-0.0.0.0 hit-ranking.de
 0.0.0.0 hit.8digits.com
 0.0.0.0 hit.bg
 0.0.0.0 hit.clickaider.com
@@ -16692,7 +16691,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 pagefair.com
 0.0.0.0 pagepeels.sexmoney.com
-0.0.0.0 pagerank-estate-spb.ru
 0.0.0.0 pagerank-ranking.com
 0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank-submitter.com

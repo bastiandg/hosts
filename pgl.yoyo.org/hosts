@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 21 Jul 2016 09:38:17 GMT
-# entries:        2386
+# entries:        2383
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1148,7 +1148,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 bwp.download.com
 127.0.0.1 c.bigmir.net
 127.0.0.1 c.compete.com
-127.0.0.1 c1.nowlinux.com
 127.0.0.1 campaign.bharatmatrimony.com
 127.0.0.1 caniamedia.com
 127.0.0.1 carbonads.com
@@ -1170,6 +1169,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cbanners.virtuagirlhd.com
 127.0.0.1 cben1.net
 127.0.0.1 cbmall.com
+127.0.0.1 cbx.net
 127.0.0.1 cdn.freefacti.com
 127.0.0.1 cecash.com
 127.0.0.1 ceskydomov.alias.ngs.modry.cz
@@ -1265,7 +1265,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 counter.fateback.com
 127.0.0.1 counter.mirohost.net
 127.0.0.1 counter.mojgorod.ru
-127.0.0.1 counter.nowlinux.com
 127.0.0.1 counter.rambler.ru
 127.0.0.1 counter.search.bg
 127.0.0.1 counter.sparklit.com
@@ -1500,7 +1499,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 hightrafficads.com
 127.0.0.1 histats.com
 127.0.0.1 hit-parade.com
-127.0.0.1 hit-ranking.de
 127.0.0.1 hit.bg
 127.0.0.1 hit.ua
 127.0.0.1 hit.webcentre.lycos.co.uk
@@ -1839,7 +1837,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 p.adpdx.com
 127.0.0.1 pagead.l.google.com
 127.0.0.1 pagefair.com
-127.0.0.1 pagerank-estate-spb.ru
 127.0.0.1 pagerank-ranking.com
 127.0.0.1 pagerank-ranking.de
 127.0.0.1 pagerank-submitter.com

@@ -1122,7 +1122,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bwp.download.com
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.compete.com
-0.0.0.0 c1.nowlinux.com
 0.0.0.0 campaign.bharatmatrimony.com
 0.0.0.0 caniamedia.com
 0.0.0.0 carbonads.com
@@ -1144,6 +1143,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cben1.net
 0.0.0.0 cbmall.com
+0.0.0.0 cbx.net
 0.0.0.0 cdn.freefacti.com
 0.0.0.0 cecash.com
 0.0.0.0 ceskydomov.alias.ngs.modry.cz
@@ -1239,7 +1239,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 counter.fateback.com
 0.0.0.0 counter.mirohost.net
 0.0.0.0 counter.mojgorod.ru
-0.0.0.0 counter.nowlinux.com
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.search.bg
 0.0.0.0 counter.sparklit.com
@@ -1474,7 +1473,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 hightrafficads.com
 0.0.0.0 histats.com
 0.0.0.0 hit-parade.com
-0.0.0.0 hit-ranking.de
 0.0.0.0 hit.bg
 0.0.0.0 hit.ua
 0.0.0.0 hit.webcentre.lycos.co.uk
@@ -1813,7 +1811,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 p.adpdx.com
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagefair.com
-0.0.0.0 pagerank-estate-spb.ru
 0.0.0.0 pagerank-ranking.com
 0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank-submitter.com

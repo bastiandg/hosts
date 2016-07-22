@@ -7025,7 +7025,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 c1.atdmt.com
 127.0.0.1 c1.gostats.com
 127.0.0.1 c1.navrcholu.cz
-127.0.0.1 c1.nowlinux.com
 127.0.0.1 c1.onedmp.com
 127.0.0.1 c1.openx.org
 127.0.0.1 c1.outster.com
@@ -7390,6 +7389,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cbsspln.112.2o7.net
 127.0.0.1 cbstelevisiondistribution.112.2o7.net
 127.0.0.1 cbstv.us.intellitxt.com
+127.0.0.1 cbx.net
 127.0.0.1 cc-dt.com
 127.0.0.1 cc.bridgetrack.com
 127.0.0.1 cc.chango.com
@@ -11759,7 +11759,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 hit-counter.udub.com
 127.0.0.1 hit-now.com
 127.0.0.1 hit-parade.com
-127.0.0.1 hit-ranking.de
 127.0.0.1 hit.8digits.com
 127.0.0.1 hit.bg
 127.0.0.1 hit.clickaider.com
@@ -16692,7 +16691,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 pagefair.com
 127.0.0.1 pagepeels.sexmoney.com
-127.0.0.1 pagerank-estate-spb.ru
 127.0.0.1 pagerank-ranking.com
 127.0.0.1 pagerank-ranking.de
 127.0.0.1 pagerank-submitter.com
