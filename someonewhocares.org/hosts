@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 22 Jul 2016 at 23:24:38 GMT
+# Last updated: Thu, 28 Jul 2016 at 01:53:01 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -394,7 +394,9 @@
 127.0.0.1 app.yesware.com
 127.0.0.1 arbo.hit.gemius.pl
 127.0.0.1 au052.insightexpress.com
+127.0.0.1 aus-mec-tracking.adalyser.com
 127.0.0.1 auspice.augur.io
+127.0.0.1 aus-smv-tracking.adalyser.com
 127.0.0.1 au.track.decideinteractive.com
 127.0.0.1 a.visualrevenue.com
 127.0.0.1 banner.0catch.com
@@ -423,6 +425,7 @@
 127.0.0.1 bstats.adbrite.com
 127.0.0.1 b.stats.paypal.com
 127.0.0.1 by.optimost.com
+127.0.0.1 c0.adalyser.com
 127.0.0.1 c10.statcounter.com
 127.0.0.1 c11.statcounter.com
 127.0.0.1 c12.statcounter.com
@@ -439,6 +442,7 @@
 127.0.0.1 c2.thecounter.com
 127.0.0.1 c2.thecounter.de
 127.0.0.1 c2.xxxcounter.com
+127.0.0.1 c3.adalyser.com
 127.0.0.1 c3.gostats.com
 127.0.0.1 c3.statcounter.com
 127.0.0.1 c3.thecounter.com
@@ -773,6 +777,7 @@
 127.0.0.1 forbescollect.247realmedia.com
 127.0.0.1 formalyzer.com
 127.0.0.1 foxcounter.com
+127.0.0.1 fra-photobox-tracking.adalyser.com
 127.0.0.1 free-counter.5u.com
 127.0.0.1 freeinvisiblecounters.com
 127.0.0.1 freestats.com
@@ -782,6 +787,11 @@
 127.0.0.1 ft2.autonomycloud.com
 127.0.0.1 gapl.hit.gemius.pl
 127.0.0.1 gator.com
+127.0.0.1 gbr-7stars-tracking.adalyser.com
+127.0.0.1 gbr-carat-tracking.adalyser.com
+127.0.0.1 gbr-mbww-tracking.adalyser.com
+127.0.0.1 gbr-smv-tracking.adalyser.com
+127.0.0.1 gbr-tbh-tracking.adalyser.com
 127.0.0.1 gcounter.hosting4u.net
 127.0.0.1 gd.mlb.com
 127.0.0.1 geocounter.net
@@ -1029,6 +1039,7 @@
 127.0.0.1 pei-ads.thesmokingjacket.com
 127.0.0.1 perso.estat.com
 127.0.0.1 pf.tradedoubler.com
+127.0.0.1 photobox-tracking.adalyser.com
 127.0.0.1 pings.blip.tv
 127.0.0.1 pix02.revsci.net
 127.0.0.1 pix03.revsci.net
@@ -1086,6 +1097,7 @@
 127.0.0.1 s19.sitemeter.com
 127.0.0.1 s1.shinystat.it
 127.0.0.1 s1.thecounter.com
+127.0.0.1 s1-tracking.adalyser.com
 127.0.0.1 s20.sitemeter.com
 127.0.0.1 s21.sitemeter.com
 127.0.0.1 s22.sitemeter.com
@@ -1368,6 +1380,7 @@
 127.0.0.1 track.homestead.com
 #127.0.0.1 track.hulu.com	# Uncomment to block Hulu.
 127.0.0.1 tracking.10e20.com
+127.0.0.1 tracking.adalyser.com
 127.0.0.1 tracking.adjug.com
 127.0.0.1 tracking.allposters.com
 127.0.0.1 tracking.foxnews.com
@@ -1503,6 +1516,7 @@
 127.0.0.1 www8.addfreestats.com
 127.0.0.1 www8.counter.bloke.com
 127.0.0.1 www9.counter.bloke.com
+127.0.0.1 www.adalyser.com
 127.0.0.1 www.addfreecounter.com
 127.0.0.1 www.addfreestats.com
 127.0.0.1 www.addtoany.com

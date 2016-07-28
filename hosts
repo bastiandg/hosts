@@ -5738,6 +5738,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 aumotradeinvaluecom.112.2o7.net
 127.0.0.1 aureate.com
 127.0.0.1 aurelius.httpool.com
+127.0.0.1 aus-mec-tracking.adalyser.com
+127.0.0.1 aus-smv-tracking.adalyser.com
 127.0.0.1 aus.laola1.tv
 127.0.0.1 auslieferung.commindo-media-ressourcen.de
 127.0.0.1 auspice.augur.io
@@ -7009,6 +7011,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.webwise.net
 127.0.0.1 c.webwise.org
 127.0.0.1 c.za.msn.com
+127.0.0.1 c0.adalyser.com
 127.0.0.1 c0.amazingcounters.com
 127.0.0.1 c01.smaato.net
 127.0.0.1 c02.smaato.net
@@ -7113,6 +7116,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c29.statcounter.com
 127.0.0.1 c29new.smaato.net
 127.0.0.1 c2c738.r.axf8.net
+127.0.0.1 c3.adalyser.com
 127.0.0.1 c3.amazingcounters.com
 127.0.0.1 c3.gostats.com
 127.0.0.1 c3.gostats.ir
@@ -10716,6 +10720,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fr.classic.clickintext.net
 127.0.0.1 fr.sitestat.com
 127.0.0.1 fr.slidein.clickintext.net
+127.0.0.1 fra-photobox-tracking.adalyser.com
 127.0.0.1 fragmentserv.iac-online.de
 127.0.0.1 fratz.oewabox.at
 127.0.0.1 freakads.com
@@ -10978,6 +10983,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 gbanners.hornymatches.com
 127.0.0.1 gbjfc.rsvpgenius.com
 127.0.0.1 gbp.ebayadvertising.triadretail.net
+127.0.0.1 gbr-7stars-tracking.adalyser.com
+127.0.0.1 gbr-carat-tracking.adalyser.com
+127.0.0.1 gbr-mbww-tracking.adalyser.com
+127.0.0.1 gbr-smv-tracking.adalyser.com
+127.0.0.1 gbr-tbh-tracking.adalyser.com
 127.0.0.1 gbscript.com
 127.0.0.1 gc.gcl.ru
 127.0.0.1 gcads.osdn.com
@@ -17008,6 +17018,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 phormservice.com
 127.0.0.1 phormsolution.com
 127.0.0.1 phormstandards.com
+127.0.0.1 photobox-tracking.adalyser.com
 127.0.0.1 photobucket.adnxs.com
 127.0.0.1 photos.daily-deals.analoganalytics.com
 127.0.0.1 photos.pop6.com
@@ -18502,6 +18513,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 s08.flagcounter.com
 127.0.0.1 s09.flagcounter.com
 127.0.0.1 s0b.bluestreak.com
+127.0.0.1 s1-tracking.adalyser.com
 127.0.0.1 s1.2mdn.net
 127.0.0.1 s1.adform.net
 127.0.0.1 s1.buysellads.com
@@ -21485,6 +21497,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracking.1betternetwork.com
 127.0.0.1 tracking.247search.com
 127.0.0.1 tracking.absolstats.com
+127.0.0.1 tracking.adalyser.com
 127.0.0.1 tracking.adjug.com
 127.0.0.1 tracking.admail.am
 127.0.0.1 tracking.admarketplace.net
@@ -23304,6 +23317,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.ad4mat.de
 127.0.0.1 www.ad6media.fr
 127.0.0.1 www.adadvisor.net
+127.0.0.1 www.adalyser.com
 127.0.0.1 www.adbanner.gr
 127.0.0.1 www.adbanner.ro
 127.0.0.1 www.adblockanalytics.com
