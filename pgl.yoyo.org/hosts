@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 21 Jul 2016 09:38:17 GMT
-# entries:        2383
+# entries:        2381
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -737,7 +737,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserv.gamezone.de
 127.0.0.1 adserv.iafrica.com
 127.0.0.1 adserv.qconline.com
-127.0.0.1 adserv.quality-channel.de
 127.0.0.1 adserve.ams.rhythmxchange.com
 127.0.0.1 adserver-live.yoc.mobi
 127.0.0.1 adserver.43plc.com
@@ -2262,7 +2261,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 truehits1.gits.net.th
 127.0.0.1 truehits2.gits.net.th
 127.0.0.1 tsms-ad.tsms.com
-127.0.0.1 tubedspots.com
 127.0.0.1 tubemogul.com
 127.0.0.1 turn.com
 127.0.0.1 tvas-a.pw
