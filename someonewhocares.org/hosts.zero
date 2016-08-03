@@ -208,6 +208,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ac.atpanel.com
 0.0.0.0 ac.rnm.ca
 0.0.0.0 ac.tynt.com
+0.0.0.0 accountlock-demo.iovation.com
 0.0.0.0 acglgoa.com
 0.0.0.0 achetezfacile.com
 0.0.0.0 acim.moqhixoz.cn
@@ -905,7 +906,10 @@ ff02::2 ip6-allrouters
 0.0.0.0 admicro1.vcmedia.vn
 0.0.0.0 admin.digitalacre.com
 0.0.0.0 admin.hotkeys.com
+0.0.0.0 admin.iesnare.co.uk
+0.0.0.0 admin.iesnare.com
 0.0.0.0 admin.inq.com
+0.0.0.0 admin.iovation.com
 0.0.0.0 adminec1.hitbox.com
 0.0.0.0 admonkey.dapper.net
 0.0.0.0 adms.physorg.com
@@ -2872,6 +2876,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 balab.portx.net
 0.0.0.0 balabass.peerserver.com
 0.0.0.0 ballsack.org
+0.0.0.0 bam-pilot.iovation.com
 0.0.0.0 bananacashback.com
 0.0.0.0 banery.acr.pl
 0.0.0.0 banery.netart.pl
@@ -2988,6 +2993,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 bargainbeautybuys.com
 0.0.0.0 bargainpda.us.intellitxt.com
 0.0.0.0 barnesandnoble.bfast.com
+0.0.0.0 batch.iovation.com
 0.0.0.0 bayoubuzz.advertserve.com
 0.0.0.0 bazandegan.com
 0.0.0.0 bazar.oewabox.at
@@ -3599,7 +3605,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 choicesurveypanel.com
 0.0.0.0 christianbusinessadvertising.com
 0.0.0.0 chumtv.122.2o7.net
+0.0.0.0 ci-accountlock.iovation.com
+0.0.0.0 ci-admin.iovation.com
+0.0.0.0 ci-mpsnare.iesnare.co.uk
+0.0.0.0 ci-mpsnare.iesnare.com
 0.0.0.0 ci-mpsnare.iovation.com
+0.0.0.0 ci-snare.iovation.com
 0.0.0.0 cialis-finder.com
 0.0.0.0 cialis-levitra-viagra.com.cn
 0.0.0.0 cialis-store.shengen.ru
@@ -4285,6 +4296,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 dqs001.adtech.us
 0.0.0.0 dr.soso.com
 0.0.0.0 dra.amazon-adsystem.com
+0.0.0.0 dra.iesnare.com
 0.0.0.0 drc-group.net
 0.0.0.0 dreammates.112.2o7.net
 0.0.0.0 drei.oewabox.at
@@ -4305,6 +4317,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 dtm.advertising.com
 0.0.0.0 dub.mobileads.msn.com
 0.0.0.0 dubstep.onedumb.com
+0.0.0.0 dv-fw-a-nat.iovation.com
 0.0.0.0 dwclick.com
 0.0.0.0 dy.admerize.be
 0.0.0.0 dzl.baidu.com
@@ -5528,6 +5541,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 iebar.baidu.com
 0.0.0.0 ieee.adbureau.net
 0.0.0.0 ieplugin.com
+0.0.0.0 iesnare.co.uk
 0.0.0.0 iesnare.com
 0.0.0.0 if.bbanner.it
 0.0.0.0 iframecash.biz
@@ -5646,6 +5660,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 impressionlead.com
 0.0.0.0 impressionperformance.biz
 0.0.0.0 impse.tradedoubler.com
+0.0.0.0 impsnare.iesnare.com
 0.0.0.0 imrk.net
 0.0.0.0 imrkcrv.net
 0.0.0.0 imrworldwide.com
@@ -5719,8 +5734,11 @@ ff02::2 ip6-allrouters
 0.0.0.0 inv-nets.admixer.net
 0.0.0.0 invite.gezinti.com
 0.0.0.0 invitefashion.com
+0.0.0.0 ioit.iovation.com
 0.0.0.0 ionamin.1.p2l.info
 0.0.0.0 ionamin.t35.com
+0.0.0.0 iovation.co.uk
+0.0.0.0 iovation.com
 0.0.0.0 ipacc1.adtech.de
 0.0.0.0 ipacc1.adtech.fr
 0.0.0.0 ipacc1.adtech.us
@@ -6899,6 +6917,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 mp3playersource.com
 0.0.0.0 mpartner.googleadservices.com
 0.0.0.0 mplayerdownloader.com
+0.0.0.0 mpsnare.iesnare.co.uk
+0.0.0.0 mpsnare.iesnare.com
 0.0.0.0 mpv.sandai.net
 0.0.0.0 mr4evmd0r1.s.ad6media.fr
 0.0.0.0 mrjeweller.us
@@ -6945,6 +6965,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 mvs.mediavantage.de
 0.0.0.0 mvtracker.com
 0.0.0.0 mx.adserver.yahoo.com
+0.0.0.0 mx.iesnare.com
+0.0.0.0 mx.iovation.com
 0.0.0.0 mx01.openinternetexchange.com
 0.0.0.0 mx01.openinternetexchange.net
 0.0.0.0 mx01.webwise.com
@@ -7608,6 +7630,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 p.admob.com
 0.0.0.0 p.adpdx.com
 0.0.0.0 p.ic.tynt.com
+0.0.0.0 p.iovation.com
 0.0.0.0 p.l.qq.com
 0.0.0.0 p.nexac.com
 0.0.0.0 p.profistats.net
@@ -8217,6 +8240,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ringtonepartner.com
 0.0.0.0 riptownmedia.122.2o7.net
 0.0.0.0 rise-media.ru
+0.0.0.0 rm-admin-demo.iovation.com
 0.0.0.0 rmbn.ru
 0.0.0.0 rmcdn.2mdn.net
 0.0.0.0 rmcdn.f.2mdn.net
@@ -8787,9 +8811,11 @@ ff02::2 ip6-allrouters
 0.0.0.0 sn-gate.com
 0.0.0.0 sn.baventures.com
 0.0.0.0 snaps.vidiemi.com
+0.0.0.0 snare.iesnare.com
 0.0.0.0 snip.answers.com
 0.0.0.0 snipjs.answcdn.com
 0.0.0.0 so.2mdn.net
+0.0.0.0 soap.iovation.com
 0.0.0.0 sobar.baidu.com
 0.0.0.0 sobartop.baidu.com
 0.0.0.0 sobolev.net.ru
@@ -9341,8 +9367,10 @@ ff02::2 ip6-allrouters
 0.0.0.0 tennis.oewabox.at
 0.0.0.0 tenuate.1.p2l.info
 0.0.0.0 terra.fp.oix.net
+0.0.0.0 test.iovation.com
 0.0.0.0 test.ishvara-yoga.com
 0.0.0.0 testapp.adhood.com
+0.0.0.0 testgw.iovation.com
 0.0.0.0 testpc24.profitableads.online
 0.0.0.0 tetra.hitbox.com
 0.0.0.0 texas-hold-em.e-online-poker-4u.net
@@ -10371,6 +10399,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.adloader.com
 0.0.0.0 www.adlogix.com
 0.0.0.0 www.admex.com
+0.0.0.0 www.admin.iesnare.co.uk
+0.0.0.0 www.admin.iesnare.com
 0.0.0.0 www.adnet.biz
 0.0.0.0 www.adnet.com
 0.0.0.0 www.adnet.de
@@ -10584,6 +10614,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.choicedealz.com
 0.0.0.0 www.choicesurveypanel.com
 0.0.0.0 www.christianbusinessadvertising.com
+0.0.0.0 www.ci-mpsnare.iesnare.co.uk
+0.0.0.0 www.ci-mpsnare.iesnare.com
 0.0.0.0 www.ciqugasox.cn
 0.0.0.0 www.claimfreerewards.com
 0.0.0.0 www.clashmediausa.com
@@ -10932,6 +10964,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.icecars.com
 0.0.0.0 www.idealcasino.net
 0.0.0.0 www.idirect.com
+0.0.0.0 www.iesnare.co.uk
 0.0.0.0 www.iesnare.com
 0.0.0.0 www.ihaberadserver.com
 0.0.0.0 www.iicdn.com
@@ -10961,6 +10994,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.interstitialzone.com
 0.0.0.0 www.intnet-offer.com
 0.0.0.0 www.invitefashion.com
+0.0.0.0 www.iovation.co.uk
+0.0.0.0 www.iovation.com
 0.0.0.0 www.is1.clixgalore.com
 0.0.0.0 www.istats.nl
 0.0.0.0 www.itrackerpro.com
@@ -11106,6 +11141,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.mp3playersource.com
 0.0.0.0 www.mplayerdownloader.com
 0.0.0.0 www.mpression.net
+0.0.0.0 www.mpsnare.iesnare.co.uk
+0.0.0.0 www.mpsnare.iesnare.com
 0.0.0.0 www.msftncsi.com
 0.0.0.0 www.mshelp247.weebly.com
 0.0.0.0 www.mudfall.com

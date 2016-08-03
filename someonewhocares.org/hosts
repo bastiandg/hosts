@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 31 Jul 2016 at 04:47:42 GMT
+# Last updated: Wed, 03 Aug 2016 at 09:45:19 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -348,6 +348,7 @@
 127.0.0.1 4-counter.com
 127.0.0.1 a796faee-7163-4757-a34f-e5b48cada4cb.statcamp.net
 127.0.0.1 abscbn.spinbox.net
+127.0.0.1 accountlock-demo.iovation.com
 127.0.0.1 activity.serving-sys.com	#eyeblaster.com
 127.0.0.1 adadvisor.net
 127.0.0.1 adapi.ragapa.com
@@ -363,6 +364,9 @@
   # the com.com family of sites
 127.0.0.1 ad-logics.com
 127.0.0.1 admanmail.com
+127.0.0.1 admin.iesnare.com
+127.0.0.1 admin.iesnare.co.uk
+127.0.0.1 admin.iovation.com
 127.0.0.1 adopt.specificclick.net
 127.0.0.1 ads.tiscali.com
 127.0.0.1 ads.tiscali.it
@@ -399,8 +403,10 @@
 127.0.0.1 aus-smv-tracking.adalyser.com
 127.0.0.1 au.track.decideinteractive.com
 127.0.0.1 a.visualrevenue.com
+127.0.0.1 bam-pilot.iovation.com
 127.0.0.1 banner.0catch.com
 127.0.0.1 banners.webcounter.com
+127.0.0.1 batch.iovation.com
 127.0.0.1 beacon-1.newrelic.com
 127.0.0.1 beacon.scorecardresearch.com
 127.0.0.1 beacons.hottraffic.nl
@@ -466,7 +472,12 @@
 127.0.0.1 cgicounter.puretec.de
 127.0.0.1 cgi.hotstat.nl
 127.0.0.1 cgi.sexlist.com
+127.0.0.1 ci-accountlock.iovation.com
+127.0.0.1 ci-admin.iovation.com
+127.0.0.1 ci-mpsnare.iesnare.com
+127.0.0.1 ci-mpsnare.iesnare.co.uk
 127.0.0.1 ci-mpsnare.iovation.com	# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
+127.0.0.1 ci-snare.iovation.com
 127.0.0.1 citrix.tradedoubler.com
 127.0.0.1 cjt1.net
 127.0.0.1 click.atdmt.com
@@ -682,8 +693,10 @@
 127.0.0.1 dotcomsecrets.com
 127.0.0.1 dpbolvw.net
 127.0.0.1 dpm.demdex.net
+127.0.0.1 dra.iesnare.com
 127.0.0.1 ds.247realmedia.com
 127.0.0.1 ds.amateurmatch.com
+127.0.0.1 dv-fw-a-nat.iovation.com
 127.0.0.1 dwclick.com
 127.0.0.1 e-2dj6wfk4ehd5afq.stats.esomniture.com
 127.0.0.1 e-2dj6wfk4ggdzkbo.stats.esomniture.com
@@ -828,6 +841,7 @@
 127.0.0.1 idm.hit.gemius.pl
 127.0.0.1 ieplugin.com
 127.0.0.1 iesnare.com		# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
+127.0.0.1 iesnare.co.uk
 127.0.0.1 ig.insightgrit.com
 127.0.0.1 ih.constantcontacts.com
 127.0.0.1 i.kissmetrics.com	# http://www.wired.com/epicenter/2011/07/undeletable-cookie/
@@ -853,11 +867,15 @@
 127.0.0.1 impnl.tradedoubler.com
 127.0.0.1 impno.tradedoubler.com
 127.0.0.1 impse.tradedoubler.com
+127.0.0.1 impsnare.iesnare.com
 127.0.0.1 in.paycounter.com
 127.0.0.1 insightfirst.com
 127.0.0.1 insightxe.looksmart.com
 127.0.0.1 int.sitestat.com
 127.0.0.1 in.webcounter.cc
+127.0.0.1 ioit.iovation.com
+127.0.0.1 iovation.com
+127.0.0.1 iovation.co.uk
 127.0.0.1 iprocollect.realmedia.com
 127.0.0.1 izitracking.izimailing.com
 127.0.0.1 jgoyk.cjt1.net
@@ -1000,6 +1018,8 @@
 127.0.0.1 mktg.actonsoftware.com
 127.0.0.1 mng1.clickalyzer.com
 127.0.0.1 monster.gostats.com
+127.0.0.1 mpsnare.iesnare.com
+127.0.0.1 mpsnare.iesnare.co.uk
 127.0.0.1 msn1.com
 127.0.0.1 msnm.com
 127.0.0.1 mt122.mtree.com
@@ -1009,6 +1029,8 @@
 127.0.0.1 multi1.rmuk.co.uk
 127.0.0.1 mvs.mediavantage.de
 127.0.0.1 mvtracker.com
+127.0.0.1 mx.iesnare.com
+127.0.0.1 mx.iovation.com
 127.0.0.1 mystats.com
 127.0.0.1 nedstat.s0.nl
 127.0.0.1 nethit-free.nl
@@ -1041,6 +1063,7 @@
 127.0.0.1 pf.tradedoubler.com
 127.0.0.1 photobox-tracking.adalyser.com
 127.0.0.1 pings.blip.tv
+127.0.0.1 p.iovation.com
 127.0.0.1 pix02.revsci.net
 127.0.0.1 pix03.revsci.net
 127.0.0.1 pix04.revsci.net
@@ -1074,6 +1097,7 @@
 127.0.0.1 remotrk.com
 127.0.0.1 rightmedia.net
 127.0.0.1 rightstats.com
+127.0.0.1 rm-admin-demo.iovation.com
 127.0.0.1 roskatrack.roskadirect.com
 127.0.0.1 rotator.trafficstars.com
 127.0.0.1 rr1.xxxcounter.com
@@ -1202,6 +1226,8 @@
 127.0.0.1 sm9.sitemeter.com
 127.0.0.1 smartstats.com
 127.0.0.1 smetrics.att.com
+127.0.0.1 snare.iesnare.com
+127.0.0.1 soap.iovation.com
 127.0.0.1 socialize.eu1.gigya.com
 127.0.0.1 softcore.xxxcounter.com
 127.0.0.1 softonic.com
@@ -1347,6 +1373,8 @@
 127.0.0.1 tates.freestats.com
 127.0.0.1 tcookie.usatoday.com
 127.0.0.1 tcr.tynt.com		# See http://daringfireball.net/2010/05/tynt_copy_paste_jerks
+127.0.0.1 testgw.iovation.com
+127.0.0.1 test.iovation.com
 127.0.0.1 tgpcounter.freethumbnailgalleries.com
 127.0.0.1 thecounter.com
 127.0.0.1 the-counter.net
@@ -1521,6 +1549,8 @@
 127.0.0.1 www.addfreestats.com
 127.0.0.1 www.addtoany.com
 127.0.0.1 www.ademails.com
+127.0.0.1 www.admin.iesnare.com
+127.0.0.1 www.admin.iesnare.co.uk
 127.0.0.1 www.affiliatesuccess.net
 127.0.0.1 www.bar.ry2002.02-ry014.snpr.hotmx.hair.zaam.net # In spam
 127.0.0.1 www.belstat.nl
@@ -1529,6 +1559,8 @@
 127.0.0.1 www.bluestreak.com
 127.0.0.1 www.c1.thecounter.de
 127.0.0.1 www.c2.thecounter.de
+127.0.0.1 www.ci-mpsnare.iesnare.com
+127.0.0.1 www.ci-mpsnare.iesnare.co.uk
 127.0.0.1 www.clickclick.com
 127.0.0.1 www.clickspring.net	#used by a spyware product called PurityScan
 127.0.0.1 www.clixgalore.com
@@ -1574,6 +1606,9 @@
 127.0.0.1 www.hitstats.co.uk
 127.0.0.1 www.iccee.com
 127.0.0.1 www.iesnare.com	# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
+127.0.0.1 www.iesnare.co.uk
+127.0.0.1 www.iovation.com
+127.0.0.1 www.iovation.co.uk
 127.0.0.1 www.jellycounter.com
 127.0.0.1 www.kqzyfj.com
 127.0.0.1 www.leadpub.com
@@ -1581,6 +1616,8 @@
 127.0.0.1 www.marketscore.com
 127.0.0.1 www.megacounter.de
 127.0.0.1 www.metareward.com		# web bugs in spam
+127.0.0.1 www.mpsnare.iesnare.com
+127.0.0.1 www.mpsnare.iesnare.co.uk
 127.0.0.1 www.naturalgrowthstore.biz
 127.0.0.1 www.nedstat.com
 127.0.0.1 www.nextgenstats.com

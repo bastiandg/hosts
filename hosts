@@ -734,6 +734,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ac2.valuead.com
 127.0.0.1 ac9d98.r.axf8.net
 127.0.0.1 acckalaharinet.112.2o7.net
+127.0.0.1 accountlock-demo.iovation.com
 127.0.0.1 accounts.pkr.com
 127.0.0.1 accounts.pkr.com.invalid
 127.0.0.1 accuserveadsystem.com
@@ -1951,7 +1952,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 admin.ads.t-online.de
 127.0.0.1 admin.digitalacre.com
 127.0.0.1 admin.hotkeys.com
+127.0.0.1 admin.iesnare.co.uk
+127.0.0.1 admin.iesnare.com
 127.0.0.1 admin.inq.com
+127.0.0.1 admin.iovation.com
 127.0.0.1 admin.vserv.mobi
 127.0.0.1 adminder.com
 127.0.0.1 adminec1.hitbox.com
@@ -5887,6 +5891,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 balakin.popunder.ru
 127.0.0.1 balleralert.us.intellitxt.com
 127.0.0.1 ballsack.org
+127.0.0.1 bam-pilot.iovation.com
 127.0.0.1 bam.nr-data.net
 127.0.0.1 ban.xpays.com
 127.0.0.1 bananacashback.com
@@ -6265,6 +6270,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bastardly.us.intellitxt.com
 127.0.0.1 basterr.popunder.ru
 127.0.0.1 bat.bing.com
+127.0.0.1 batch.iovation.com
 127.0.0.1 batcoroadlinescorporation.com
 127.0.0.1 battleon.directtrack.com
 127.0.0.1 baublebar.sp1.convertro.com
@@ -7804,7 +7810,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 chsplantsales.co.uk
 127.0.0.1 chuknu.sokrati.com
 127.0.0.1 chumtv.122.2o7.net
+127.0.0.1 ci-accountlock.iovation.com
+127.0.0.1 ci-admin.iovation.com
+127.0.0.1 ci-mpsnare.iesnare.co.uk
+127.0.0.1 ci-mpsnare.iesnare.com
 127.0.0.1 ci-mpsnare.iovation.com
+127.0.0.1 ci-snare.iovation.com
 127.0.0.1 ci.beap.ad.yieldmanager.net
 127.0.0.1 ci.nuggad.net
 127.0.0.1 cialis-finder.com
@@ -9458,6 +9469,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dr.adservinginternational.com
 127.0.0.1 dr.soso.com
 127.0.0.1 dra.amazon-adsystem.com
+127.0.0.1 dra.iesnare.com
 127.0.0.1 drank.fa779.com
 127.0.0.1 drc-group.net
 127.0.0.1 drdobbs.us.intellitxt.com
@@ -9505,6 +9517,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dubai.best-top.biz
 127.0.0.1 dubstep.onedumb.com
 127.0.0.1 dujur.barginginfrance.net
+127.0.0.1 dv-fw-a-nat.iovation.com
 127.0.0.1 dvdhentai.net
 127.0.0.1 dvdmanager-203.sv2.biz
 127.0.0.1 dwclick.com
@@ -12171,6 +12184,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ientrymail.com
 127.0.0.1 ieplugin.com
 127.0.0.1 iesb.us.intellitxt.com
+127.0.0.1 iesnare.co.uk
 127.0.0.1 iesnare.com
 127.0.0.1 if.bbanner.it
 127.0.0.1 ifa.camads.net
@@ -12477,6 +12491,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 impressoras-cartoes.com.pt
 127.0.0.1 impru.tradedoubler.com
 127.0.0.1 impse.tradedoubler.com
+127.0.0.1 impsnare.iesnare.com
 127.0.0.1 imreportcard.us.intellitxt.com
 127.0.0.1 imrk.net
 127.0.0.1 imrkcrv.net
@@ -12657,8 +12672,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 invite.insightexpress.com
 127.0.0.1 invitefashion.com
 127.0.0.1 iocdn.coremetrics.com
+127.0.0.1 ioit.iovation.com
 127.0.0.1 ionamin.1.p2l.info
 127.0.0.1 ionamin.t35.com
+127.0.0.1 iovation.co.uk
+127.0.0.1 iovation.com
 127.0.0.1 ip-182-50-129-164.ip.secureserver.net
 127.0.0.1 ip-182-50-129-181.ip.secureserver.net
 127.0.0.1 ip-api.com
@@ -15018,6 +15036,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 mpp.vindicosuite.com
 127.0.0.1 mproxy.banner.linksynergy.com
 127.0.0.1 mprptrk.com
+127.0.0.1 mpsnare.iesnare.co.uk
+127.0.0.1 mpsnare.iesnare.com
 127.0.0.1 mpstat.us
 127.0.0.1 mpv.sandai.net
 127.0.0.1 mpxxtrk.com
@@ -15156,6 +15176,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 mvtracker.com
 127.0.0.1 mwc.velti.com
 127.0.0.1 mx.adserver.yahoo.com
+127.0.0.1 mx.iesnare.com
+127.0.0.1 mx.iovation.com
 127.0.0.1 mx01.openinternetexchange.com
 127.0.0.1 mx01.openinternetexchange.net
 127.0.0.1 mx01.webwise.com
@@ -16601,6 +16623,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 p.cpx.to
 127.0.0.1 p.ebdr2.com
 127.0.0.1 p.ic.tynt.com
+127.0.0.1 p.iovation.com
 127.0.0.1 p.l.qq.com
 127.0.0.1 p.liadm.com
 127.0.0.1 p.lp4.io
@@ -18163,6 +18186,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rl8vd.kikul.com
 127.0.0.1 rlcdn.com
 127.0.0.1 rle.ru
+127.0.0.1 rm-admin-demo.iovation.com
 127.0.0.1 rm.myoc.com
 127.0.0.1 rm.ocregister.com
 127.0.0.1 rm.tapuz.co.il
@@ -19581,6 +19605,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 snapads.com
 127.0.0.1 snapfish.112.2o7.net
 127.0.0.1 snaps.vidiemi.com
+127.0.0.1 snare.iesnare.com
 127.0.0.1 sniff.visistat.com
 127.0.0.1 snip.answers.com
 127.0.0.1 snipjs.answcdn.com
@@ -19588,6 +19613,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 snowplow-collector.sugarops.com
 127.0.0.1 snwmedia.adk2x.com
 127.0.0.1 so.2mdn.net
+127.0.0.1 soap.iovation.com
 127.0.0.1 sobar.baidu.com
 127.0.0.1 sobartop.baidu.com
 127.0.0.1 sobolev.net.ru
@@ -20896,6 +20922,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tescostores.122.2o7.net
 127.0.0.1 test-script.dotmetrics.net
 127.0.0.1 test.coremetrics.com
+127.0.0.1 test.iovation.com
 127.0.0.1 test.ishvara-yoga.com
 127.0.0.1 test.theeagle.com
 127.0.0.1 test.tns-cs.net
@@ -20903,6 +20930,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 testapp.adhood.com
 127.0.0.1 testats.inuvo.com
 127.0.0.1 testdata.coremetrics.com
+127.0.0.1 testgw.iovation.com
 127.0.0.1 testpc24.profitableads.online
 127.0.0.1 testtralala.xorg.pl
 127.0.0.1 tetra.hitbox.com
@@ -23304,6 +23332,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.admedien.com
 127.0.0.1 www.admex.com
 127.0.0.1 www.admez.com
+127.0.0.1 www.admin.iesnare.co.uk
+127.0.0.1 www.admin.iesnare.com
 127.0.0.1 www.adminder.com
 127.0.0.1 www.admixxer.com
 127.0.0.1 www.adnet.biz
@@ -23737,6 +23767,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.chokertraffic.com
 127.0.0.1 www.christianbusinessadvertising.com
 127.0.0.1 www.chrumedia.com
+127.0.0.1 www.ci-mpsnare.iesnare.co.uk
+127.0.0.1 www.ci-mpsnare.iesnare.com
 127.0.0.1 www.cifor.com
 127.0.0.1 www.ciqugasox.cn
 127.0.0.1 www.cityads.ru
@@ -24382,6 +24414,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.icybrand.eu
 127.0.0.1 www.idealcasino.net
 127.0.0.1 www.idirect.com
+127.0.0.1 www.iesnare.co.uk
 127.0.0.1 www.iesnare.com
 127.0.0.1 www.iframes.us
 127.0.0.1 www.ihaberadserver.com
@@ -24433,6 +24466,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.interstitialzone.com
 127.0.0.1 www.intnet-offer.com
 127.0.0.1 www.invitefashion.com
+127.0.0.1 www.iovation.co.uk
+127.0.0.1 www.iovation.com
 127.0.0.1 www.ipcounter.de
 127.0.0.1 www.iperbanner.com
 127.0.0.1 www.ipstat.com
@@ -24695,6 +24730,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.mp3playersource.com
 127.0.0.1 www.mplayerdownloader.com
 127.0.0.1 www.mpression.net
+127.0.0.1 www.mpsnare.iesnare.co.uk
+127.0.0.1 www.mpsnare.iesnare.com
 127.0.0.1 www.mrpeter.it
 127.0.0.1 www.ms-mvp.org
 127.0.0.1 www.msftncsi.com
