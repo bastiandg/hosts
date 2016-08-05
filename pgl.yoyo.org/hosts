@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 03 Aug 2016 16:21:13 GMT
-# entries:        2381
+# entries:        2374
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -627,7 +627,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.sptimes.com
 127.0.0.1 ads.stackoverflow.com
 127.0.0.1 ads.stationplay.com
-127.0.0.1 ads.struq.com
 127.0.0.1 ads.sun.com
 127.0.0.1 ads.supplyframe.com
 127.0.0.1 ads.t-online.de
@@ -858,6 +857,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adv.webmd.com
 127.0.0.1 adv.wp.pl
 127.0.0.1 adv.yo.cz
+127.0.0.1 advariant.com
 127.0.0.1 adventory.com
 127.0.0.1 advert.bayarea.com
 127.0.0.1 advert.dyna.ultraweb.hu
@@ -1374,7 +1374,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 estat.com
 127.0.0.1 etahub.com
 127.0.0.1 etargetnet.com
-127.0.0.1 ethicalads.net
 127.0.0.1 etracker.de
 127.0.0.1 eu-adcenter.net
 127.0.0.1 eu1.madsone.com
@@ -1643,7 +1642,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 linkreferral.com
 127.0.0.1 links-ranking.de
 127.0.0.1 linkshighway.com
-127.0.0.1 linkshighway.net
 127.0.0.1 linkstorms.com
 127.0.0.1 linkswaper.com
 127.0.0.1 linktarget.com
@@ -1809,7 +1807,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 onenetworkdirect.com
 127.0.0.1 onestat.com
 127.0.0.1 onestatfree.com
-127.0.0.1 onewaylinkexchange.net
 127.0.0.1 online-metrix.net
 127.0.0.1 onlinecash.com
 127.0.0.1 onlinecashmethod.com
@@ -1902,7 +1899,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 potenza.cz
 127.0.0.1 pr-star.de
 127.0.0.1 pr-ten.de
-127.0.0.1 pr5dir.com
 127.0.0.1 praddpro.de
 127.0.0.1 prchecker.info
 127.0.0.1 precisioncounter.com
@@ -1964,7 +1960,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ranking-links.de
 127.0.0.1 ranking-liste.de
 127.0.0.1 ranking-street.de
-127.0.0.1 rankingchart.de
 127.0.0.1 rankingscout.com
 127.0.0.1 rankyou.com
 127.0.0.1 rapidcounter.com
@@ -2078,7 +2073,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 snapads.com
 127.0.0.1 snoobi.com
 127.0.0.1 socialspark.com
-127.0.0.1 softclick.com.br
 127.0.0.1 spacash.com
 127.0.0.1 sparkstudios.com
 127.0.0.1 specificmedia.co.uk
@@ -2173,7 +2167,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 tfag.de
 127.0.0.1 theadhost.com
 127.0.0.1 theads.me
-127.0.0.1 thebugs.ws
 127.0.0.1 thecounter.com
 127.0.0.1 therapistla.com
 127.0.0.1 therichkids.com
