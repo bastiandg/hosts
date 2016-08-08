@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 08 Aug 2016 at 06:01:35 GMT
+# Last updated: Mon, 08 Aug 2016 at 21:12:56 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8121,6 +8121,7 @@
 127.0.0.1 pb.tynt.com
 127.0.0.1 pcads.ru
 127.0.0.1 pc-gizmos-ssl.com
+127.0.0.1 pc-virus-d0l92j2.pw
 127.0.0.1 pei-ads.playboy.com
 127.0.0.1 people-choice-sites.com
 127.0.0.1 persgroepadvertising.nl
@@ -8580,6 +8581,8 @@
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 samsung3.solution.weborama.fr
 127.0.0.1 sanalreklam.com
+127.0.0.1 sarah.dntrx.com
+127.0.0.1 s.arclk.net
 127.0.0.1 sas.decisionnews.com
 127.0.0.1 s.as-us.falkag.net
 127.0.0.1 sat-city-ads.com
@@ -10450,6 +10453,8 @@
 127.0.0.1 zads.zedo.com
 127.0.0.1 zapadserver1.com
 127.0.0.1 z.blogads.com
+127.0.0.1 zc1.delta-boa.com
+127.0.0.1 zc1.zeroredirect11.com
 127.0.0.1 z.ceotrk.com
 127.0.0.1 zdads.e-media.com
 127.0.0.1 zeevex-online.com
