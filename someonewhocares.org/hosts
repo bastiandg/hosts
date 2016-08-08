@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 03 Aug 2016 at 09:45:19 GMT
+# Last updated: Mon, 08 Aug 2016 at 06:01:35 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2087,6 +2087,7 @@
 127.0.0.1 tanieaukcje.com
 127.0.0.1 taniezakupy.pl
 127.0.0.1 tattooshaha.info			# Facebook trojan
+127.0.0.1 taxi-petr.by
 127.0.0.1 tech9638514.ru
 127.0.0.1 technicalconsumerreports.com
 127.0.0.1 technology-revealed.com
