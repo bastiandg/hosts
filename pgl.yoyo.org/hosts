@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 03 Aug 2016 16:21:13 GMT
-# entries:        2374
+# last updated:   Thu, 11 Aug 2016 06:22:03 GMT
+# entries:        2375
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1243,6 +1243,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 commissionmonster.com
 127.0.0.1 compactbanner.com
 127.0.0.1 comprabanner.it
+127.0.0.1 confirmed-profits.com
 127.0.0.1 connextra.com
 127.0.0.1 contaxe.de
 127.0.0.1 content.acc-hd.de
