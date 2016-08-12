@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 11 Aug 2016 06:22:03 GMT
-# entries:        2375
+# entries:        2374
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -51,7 +51,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 51yes.com
 127.0.0.1 600z.com
 127.0.0.1 777partner.com
-127.0.0.1 777seo.com
 127.0.0.1 77tracking.com
 127.0.0.1 7bpeople.com
 127.0.0.1 7search.com
