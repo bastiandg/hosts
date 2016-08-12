@@ -5775,6 +5775,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 avpa.dzone.com
 0.0.0.0 avpa.javalobby.org
 0.0.0.0 avppet.com
+0.0.0.0 avres.net
 0.0.0.0 avsads.com
 0.0.0.0 avt.hit.gemius.pl
 0.0.0.0 awardspace.de.intellitxt.com
@@ -7380,7 +7381,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cbsspln.112.2o7.net
 0.0.0.0 cbstelevisiondistribution.112.2o7.net
 0.0.0.0 cbstv.us.intellitxt.com
-0.0.0.0 cbx.net
 0.0.0.0 cc-dt.com
 0.0.0.0 cc.bridgetrack.com
 0.0.0.0 cc.chango.com
@@ -19632,6 +19632,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 soft32.us.intellitxt.com
 0.0.0.0 soft4update.forfreeupgrades.org
 0.0.0.0 softads.50webs.com
+0.0.0.0 softclick.com.br
 0.0.0.0 softcore.xxxcounter.com
 0.0.0.0 softlayer.d1.sc.omtrdc.net
 0.0.0.0 softlinkers.popunder.ru

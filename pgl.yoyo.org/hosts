@@ -980,6 +980,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 autohits.dk
 127.0.0.1 avenuea.com
 127.0.0.1 avpa.javalobby.org
+127.0.0.1 avres.net
 127.0.0.1 avsads.com
 127.0.0.1 awempire.com
 127.0.0.1 awin1.com
@@ -1166,7 +1167,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cbanners.virtuagirlhd.com
 127.0.0.1 cben1.net
 127.0.0.1 cbmall.com
-127.0.0.1 cbx.net
 127.0.0.1 cdn.freefacti.com
 127.0.0.1 cecash.com
 127.0.0.1 ceskydomov.alias.ngs.modry.cz
@@ -2066,13 +2066,13 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 skylink.vn
 127.0.0.1 slickaffiliate.com
 127.0.0.1 slopeaota.com
-127.0.0.1 sma.punto.net
 127.0.0.1 smart4ads.com
 127.0.0.1 smartadserver.com
 127.0.0.1 smowtion.com
 127.0.0.1 snapads.com
 127.0.0.1 snoobi.com
 127.0.0.1 socialspark.com
+127.0.0.1 softclick.com.br
 127.0.0.1 spacash.com
 127.0.0.1 sparkstudios.com
 127.0.0.1 specificmedia.co.uk
