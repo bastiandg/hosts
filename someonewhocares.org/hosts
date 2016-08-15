@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 11 Aug 2016 at 03:44:25 GMT
+# Last updated: Mon, 15 Aug 2016 at 20:12:41 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -12182,7 +12182,6 @@
 127.0.0.1 live.rads.msn.com
 127.0.0.1 m.adnxs.com
 127.0.0.1 msedge.net
-127.0.0.1 msftncsi.com
 127.0.0.1 msnbot-65-55-108-23.search.msn.com
 127.0.0.1 msntest.serving-sys.com
 127.0.0.1 preview.msn.com
@@ -12194,7 +12193,6 @@
 127.0.0.1 statsfe2.ws.microsoft.com
 127.0.0.1 telemetry.appex.bing.net:443
 127.0.0.1 wes.df.telemetry.microsoft.com
-127.0.0.1 www.msftncsi.com
 #</Windows10>
 
 # Acknowledgements
