@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 15 Aug 2016 at 20:12:41 GMT
+# Last updated: Wed, 17 Aug 2016 at 20:12:50 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6384,6 +6384,7 @@
 127.0.0.1 clashmediausa.com
 127.0.0.1 classicjack.com
 127.0.0.1 c.latam.msn.com
+127.0.0.1 cleaningformac.com
 127.0.0.1 click1.mainadv.com
 127.0.0.1 click1.rbc.magna.ru
 127.0.0.1 click2.rbc.magna.ru
@@ -6823,6 +6824,7 @@
 127.0.0.1 europe.adserver.yahoo.com
 127.0.0.1 eu-sonar.sociomantic.com
 127.0.0.1 eu.xtms.net
+127.0.0.1 eveley.club
 127.0.0.1 eventtracker.videostrip.com
 127.0.0.1 exclusivegiftcards.com
 127.0.0.1 exits1.webquest.net
