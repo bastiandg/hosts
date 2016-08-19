@@ -7380,6 +7380,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cbsspln.112.2o7.net
 0.0.0.0 cbstelevisiondistribution.112.2o7.net
 0.0.0.0 cbstv.us.intellitxt.com
+0.0.0.0 cbx.net
 0.0.0.0 cc-dt.com
 0.0.0.0 cc.bridgetrack.com
 0.0.0.0 cc.chango.com
@@ -11539,7 +11540,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 gtlv.hit.gemius.pl
 0.0.0.0 gtmedia.us.intellitxt.com
 0.0.0.0 gtop.ro
-0.0.0.0 gtop100.com
 0.0.0.0 gtp1.acecounter.com
 0.0.0.0 gtp16.acecounter.com
 0.0.0.0 gts-ads.twistbox.com
@@ -11997,7 +11997,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 html5adkit.plusmo.s3.amazonaws.com
 0.0.0.0 htmlads.ru
 0.0.0.0 htmlads.s3.amazonaws.com
-0.0.0.0 htmlhubing.xyz
 0.0.0.0 htmlwww.youfck.com
 0.0.0.0 http.content.ru4.com
 0.0.0.0 http.edge.ru4.com
@@ -13344,7 +13343,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 leadzupc.com
 0.0.0.0 leagleconsulting.com
 0.0.0.0 leaitworldprod.112.2o7.net
-0.0.0.0 leanoisgo.com
 0.0.0.0 learning-offer.com
 0.0.0.0 leeenterprises.112.2o7.net
 0.0.0.0 lefos.net
@@ -16299,6 +16297,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 onet.hit.stat.pl
 0.0.0.0 onetoone.112.2o7.net
 0.0.0.0 oneund.ru
+0.0.0.0 onewaylinkexchange.net
 0.0.0.0 onlamp.us.intellitxt.com
 0.0.0.0 onlgc.voluumtrk.com
 0.0.0.0 online-antispym4.com
@@ -21809,7 +21808,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tv2dk.nuggad.net
 0.0.0.0 tv2no.linkpulse.com
 0.0.0.0 tv4play-se.c.richmetrics.com
-0.0.0.0 tvas-a.pw
 0.0.0.0 tvas-c.pw
 0.0.0.0 tvfanatic.us.intellitxt.com
 0.0.0.0 tvguide.112.2o7.net
