@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 11 Aug 2016 06:22:03 GMT
-# entries:        2371
+# entries:        2367
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -580,7 +580,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.ookla.com
 127.0.0.1 ads.optusnet.com.au
 127.0.0.1 ads.outpersonals.com
-127.0.0.1 ads.p161.net
 127.0.0.1 ads.passion.com
 127.0.0.1 ads.pennet.com
 127.0.0.1 ads.penny-arcade.com
@@ -740,7 +739,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserver.adultfriendfinder.com
 127.0.0.1 adserver.aidameter.com
 127.0.0.1 adserver.aol.fr
-127.0.0.1 adserver.barrapunto.com
 127.0.0.1 adserver.beggarspromo.com
 127.0.0.1 adserver.betandwin.de
 127.0.0.1 adserver.bing.com
@@ -826,7 +824,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adstat.4u.pl
 127.0.0.1 adstest.weather.com
 127.0.0.1 adsupply.com
-127.0.0.1 adsupplyads.com
 127.0.0.1 adswitcher.com
 127.0.0.1 adsymptotic.com
 127.0.0.1 adsynergy.com
@@ -963,7 +960,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 as.webmd.com
 127.0.0.1 as1.advfn.com
 127.0.0.1 as2.advfn.com
-127.0.0.1 as5000.com
 127.0.0.1 assets1.exgfnetwork.com
 127.0.0.1 assoc-amazon.com
 127.0.0.1 at-adserver.alltop.com
