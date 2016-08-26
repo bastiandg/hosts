@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 11 Aug 2016 06:22:03 GMT
-# entries:        2367
+# entries:        2371
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1141,6 +1141,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 bwp.download.com
 127.0.0.1 c.bigmir.net
 127.0.0.1 c.compete.com
+127.0.0.1 c1.nowlinux.com
 127.0.0.1 campaign.bharatmatrimony.com
 127.0.0.1 caniamedia.com
 127.0.0.1 carbonads.com
@@ -1259,6 +1260,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 counter.fateback.com
 127.0.0.1 counter.mirohost.net
 127.0.0.1 counter.mojgorod.ru
+127.0.0.1 counter.nowlinux.com
 127.0.0.1 counter.rambler.ru
 127.0.0.1 counter.search.bg
 127.0.0.1 counter.sparklit.com
@@ -1478,6 +1480,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 grapeshot.co.uk
 127.0.0.1 greystripe.com
 127.0.0.1 gtop.ro
+127.0.0.1 gtop100.com
 127.0.0.1 harrenmedia.com
 127.0.0.1 harrenmedianetwork.com
 127.0.0.1 havamedia.net
@@ -1516,6 +1519,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 hotkeys.com
 127.0.0.1 hotlog.ru
 127.0.0.1 hotrank.com.tw
+127.0.0.1 htmlhubing.xyz
 127.0.0.1 httpool.com
 127.0.0.1 hurricanedigitalmedia.com
 127.0.0.1 hydramedia.com
@@ -1755,7 +1759,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 netclickstats.com
 127.0.0.1 netcommunities.com
 127.0.0.1 netdirect.nl
-127.0.0.1 netflame.cc
 127.0.0.1 netincap.com
 127.0.0.1 netpool.netbookia.net
 127.0.0.1 netshelter.net
@@ -2250,6 +2253,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 tsms-ad.tsms.com
 127.0.0.1 tubemogul.com
 127.0.0.1 turn.com
+127.0.0.1 tvas-a.pw
 127.0.0.1 tvas-c.pw
 127.0.0.1 tvmtracker.com
 127.0.0.1 twittad.com

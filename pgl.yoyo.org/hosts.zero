@@ -1115,6 +1115,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 bwp.download.com
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.compete.com
+0.0.0.0 c1.nowlinux.com
 0.0.0.0 campaign.bharatmatrimony.com
 0.0.0.0 caniamedia.com
 0.0.0.0 carbonads.com
@@ -1233,6 +1234,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 counter.fateback.com
 0.0.0.0 counter.mirohost.net
 0.0.0.0 counter.mojgorod.ru
+0.0.0.0 counter.nowlinux.com
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.search.bg
 0.0.0.0 counter.sparklit.com
@@ -1452,6 +1454,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 grapeshot.co.uk
 0.0.0.0 greystripe.com
 0.0.0.0 gtop.ro
+0.0.0.0 gtop100.com
 0.0.0.0 harrenmedia.com
 0.0.0.0 harrenmedianetwork.com
 0.0.0.0 havamedia.net
@@ -1490,6 +1493,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 hotkeys.com
 0.0.0.0 hotlog.ru
 0.0.0.0 hotrank.com.tw
+0.0.0.0 htmlhubing.xyz
 0.0.0.0 httpool.com
 0.0.0.0 hurricanedigitalmedia.com
 0.0.0.0 hydramedia.com
@@ -1729,7 +1733,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 netclickstats.com
 0.0.0.0 netcommunities.com
 0.0.0.0 netdirect.nl
-0.0.0.0 netflame.cc
 0.0.0.0 netincap.com
 0.0.0.0 netpool.netbookia.net
 0.0.0.0 netshelter.net
@@ -2224,6 +2227,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tsms-ad.tsms.com
 0.0.0.0 tubemogul.com
 0.0.0.0 turn.com
+0.0.0.0 tvas-a.pw
 0.0.0.0 tvas-c.pw
 0.0.0.0 tvmtracker.com
 0.0.0.0 twittad.com
