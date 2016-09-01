@@ -5478,6 +5478,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 appcache.admission.net
 0.0.0.0 appdev.addthis.com
 0.0.0.0 apple-protection.info
+0.0.0.0 apple.com------support.host
 0.0.0.0 apple.com-safetyalert.com
 0.0.0.0 apple.com-scan-virus-detected.com
 0.0.0.0 apple.com-store.me
@@ -9406,6 +9407,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 domainsteam.de
 0.0.0.0 domdex.com
 0.0.0.0 dominionenterprises.112.2o7.net
+0.0.0.0 domwpm.stream
 0.0.0.0 donotwatch.org
 0.0.0.0 dontwatch.us
 0.0.0.0 donval.112.2o7.net
@@ -17388,6 +17390,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 privitize.com
 0.0.0.0 prizemachine.games.iwon.com
 0.0.0.0 prizes.co.uk
+0.0.0.0 prjcq.com
 0.0.0.0 prm-ext.phorm.com
 0.0.0.0 prnewswire.122.2o7.net
 0.0.0.0 pro-advertising.com
@@ -26163,6 +26166,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 yesads.com
 0.0.0.0 yesadvertising.com
 0.0.0.0 yeskyafp.allyes.com
+0.0.0.0 yie4zooseif.info
 0.0.0.0 yield.audience.digitalmedia.bg
 0.0.0.0 yieldads.com
 0.0.0.0 yieldbuild.com
@@ -26243,6 +26247,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 z5x.net
 0.0.0.0 z7752.com
 0.0.0.0 za-cdn.effectivemeasure.net
+0.0.0.0 za1.sierra-fox.com
 0.0.0.0 zads.zedo.com
 0.0.0.0 zafiti01.webtrekk-us.net
 0.0.0.0 zag.112.2o7.net
