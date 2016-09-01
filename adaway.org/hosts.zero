@@ -28,6 +28,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 admicro1.vcmedia.vn
 0.0.0.0 admicro2.vcmedia.vn
 0.0.0.0 admin.vserv.mobi
+0.0.0.0 ads.adadapted.com
 0.0.0.0 ads.adiquity.com
 0.0.0.0 ads.admarvel.com
 0.0.0.0 ads.admoda.com
@@ -198,6 +199,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 diff2.smartadserver.com
 0.0.0.0 diff3.smartadserver.com
 0.0.0.0 dispatch.admixer.co.kr
+0.0.0.0 do-not-tracker.org
 0.0.0.0 doubleclick.net
 0.0.0.0 edge.reporo.net
 0.0.0.0 eqx.smartadserver.com

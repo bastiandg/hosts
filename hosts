@@ -2128,6 +2128,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.ad2games.com
 127.0.0.1 ads.ad4game.com
 127.0.0.1 ads.ad4max.com
+127.0.0.1 ads.adadapted.com
 127.0.0.1 ads.adagent.chacha.com
 127.0.0.1 ads.adap.tv
 127.0.0.1 ads.adaptv.advertising.com
@@ -9384,6 +9385,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dnps.com
 127.0.0.1 dnps.us.intellitxt.com
 127.0.0.1 dnse.linkpulse.com
+127.0.0.1 do-not-tracker.org
 127.0.0.1 do-wn-lo-ad.com
 127.0.0.1 docfind.oewabox.at
 127.0.0.1 dock.inmobi.com
