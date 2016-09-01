@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 22 Aug 2016 at 22:04:59 GMT
+# Last updated: Thu, 01 Sep 2016 at 18:07:46 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1777,6 +1777,7 @@
 127.0.0.1 coderexception.com
 127.0.0.1 c.oix.com
 127.0.0.1 c.oix.net
+127.0.0.1 com2err.xyz
 127.0.0.1 conduit.com
 127.0.0.1 coordino.com
 127.0.0.1 cra-arc.gc.ca.bioder.com.tr
