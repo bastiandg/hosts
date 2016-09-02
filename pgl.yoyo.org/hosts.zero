@@ -676,7 +676,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads2.rne.com
 0.0.0.0 ads2.virtual-nights.com
 0.0.0.0 ads2.xnet.cz
-0.0.0.0 ads2004.treiberupdate.de
 0.0.0.0 ads3.contentabc.com
 0.0.0.0 ads3.gamecity.net
 0.0.0.0 ads3.virtual-nights.com
@@ -735,7 +734,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.kyoceramita-europe.com
 0.0.0.0 adserver.libero.it
 0.0.0.0 adserver.news.com.au
-0.0.0.0 adserver.ngz-network.de
 0.0.0.0 adserver.nydailynews.com
 0.0.0.0 adserver.o2.pl
 0.0.0.0 adserver.oddschecker.com
@@ -1137,7 +1135,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cben1.net
 0.0.0.0 cbmall.com
-0.0.0.0 cbx.net
 0.0.0.0 cdn.freefacti.com
 0.0.0.0 cecash.com
 0.0.0.0 ceskydomov.alias.ngs.modry.cz
@@ -1293,7 +1290,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 directtrack.com
 0.0.0.0 discountclick.com
 0.0.0.0 displayadsmedia.com
-0.0.0.0 displaypagerank.com
 0.0.0.0 dist.belnk.com
 0.0.0.0 dmtracker.com
 0.0.0.0 dmtracking.alibaba.com
@@ -1809,7 +1805,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pagerank-submitter.de
 0.0.0.0 pagerank-suchmaschine.de
 0.0.0.0 pagerank-united.de
-0.0.0.0 pagerank4u.eu
 0.0.0.0 pagerank4you.com
 0.0.0.0 pageranktop.com
 0.0.0.0 partage-facile.com
@@ -1931,6 +1926,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ranking-links.de
 0.0.0.0 ranking-liste.de
 0.0.0.0 ranking-street.de
+0.0.0.0 rankingchart.de
 0.0.0.0 rankingscout.com
 0.0.0.0 rankyou.com
 0.0.0.0 rapidcounter.com
@@ -2138,6 +2134,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tfag.de
 0.0.0.0 theadhost.com
 0.0.0.0 theads.me
+0.0.0.0 thebugs.ws
 0.0.0.0 thecounter.com
 0.0.0.0 therapistla.com
 0.0.0.0 therichkids.com
@@ -2227,9 +2224,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tsms-ad.tsms.com
 0.0.0.0 tubemogul.com
 0.0.0.0 turn.com
-0.0.0.0 tvas-a.pw
 0.0.0.0 tvas-c.pw
-0.0.0.0 tvmtracker.com
 0.0.0.0 twittad.com
 0.0.0.0 tyroo.com
 0.0.0.0 uarating.com
@@ -2273,7 +2268,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 vs.tucows.com
 0.0.0.0 vungle.com
 0.0.0.0 wads.webteh.com
-0.0.0.0 warlog.info
 0.0.0.0 warlog.ru
 0.0.0.0 wdads.sx.atl.publicus.com
 0.0.0.0 web-stat.com

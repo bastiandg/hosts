@@ -3806,7 +3806,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads20.adcolony.com
 127.0.0.1 ads20.focalink.com
 127.0.0.1 ads2000.hw.net
-127.0.0.1 ads2004.treiberupdate.de
 127.0.0.1 ads21.focalink.com
 127.0.0.1 ads22.focalink.com
 127.0.0.1 ads23.focalink.com
@@ -7381,7 +7380,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cbsspln.112.2o7.net
 127.0.0.1 cbstelevisiondistribution.112.2o7.net
 127.0.0.1 cbstv.us.intellitxt.com
-127.0.0.1 cbx.net
 127.0.0.1 cc-dt.com
 127.0.0.1 cc.bridgetrack.com
 127.0.0.1 cc.chango.com
@@ -9334,7 +9332,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 display.gestionpub.com
 127.0.0.1 display.provenpixel.com
 127.0.0.1 displayadsmedia.com
-127.0.0.1 displaypagerank.com
 127.0.0.1 dist.belnk.com
 127.0.0.1 distillery.wistia.com
 127.0.0.1 divavillage.advertserve.com
@@ -16696,7 +16693,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pagerank-united.de
 127.0.0.1 pagerank.jklir.net
 127.0.0.1 pagerank.scambiositi.com
-127.0.0.1 pagerank4u.eu
 127.0.0.1 pagerank4you.com
 127.0.0.1 pageranktop.com
 127.0.0.1 pages.etology.com
@@ -17853,6 +17849,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ranking-links.de
 127.0.0.1 ranking-liste.de
 127.0.0.1 ranking-street.de
+127.0.0.1 rankingchart.de
 127.0.0.1 rankingscout.com
 127.0.0.1 rankmytattoos.us.intellitxt.com
 127.0.0.1 ranks.boardtracker.com
@@ -21015,6 +21012,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 thebizmeet.com
 127.0.0.1 theblemish.us.intellitxt.com
 127.0.0.1 thebosh.us.intellitxt.com
+127.0.0.1 thebugs.ws
 127.0.0.1 thecarconnection.us.intellitxt.com
 127.0.0.1 thecelebritycafe.us.intellitxt.com
 127.0.0.1 thecounter.com
@@ -21827,11 +21825,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 tv2dk.nuggad.net
 127.0.0.1 tv2no.linkpulse.com
 127.0.0.1 tv4play-se.c.richmetrics.com
-127.0.0.1 tvas-a.pw
 127.0.0.1 tvas-c.pw
 127.0.0.1 tvfanatic.us.intellitxt.com
 127.0.0.1 tvguide.112.2o7.net
-127.0.0.1 tvmtracker.com
 127.0.0.1 tvn.adocean.pl
 127.0.0.1 tvn.hit.gemius.pl
 127.0.0.1 tvn2.adocean.pl

@@ -3806,7 +3806,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads20.adcolony.com
 0.0.0.0 ads20.focalink.com
 0.0.0.0 ads2000.hw.net
-0.0.0.0 ads2004.treiberupdate.de
 0.0.0.0 ads21.focalink.com
 0.0.0.0 ads22.focalink.com
 0.0.0.0 ads23.focalink.com
@@ -7381,7 +7380,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cbsspln.112.2o7.net
 0.0.0.0 cbstelevisiondistribution.112.2o7.net
 0.0.0.0 cbstv.us.intellitxt.com
-0.0.0.0 cbx.net
 0.0.0.0 cc-dt.com
 0.0.0.0 cc.bridgetrack.com
 0.0.0.0 cc.chango.com
@@ -9334,7 +9332,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 display.gestionpub.com
 0.0.0.0 display.provenpixel.com
 0.0.0.0 displayadsmedia.com
-0.0.0.0 displaypagerank.com
 0.0.0.0 dist.belnk.com
 0.0.0.0 distillery.wistia.com
 0.0.0.0 divavillage.advertserve.com
@@ -16696,7 +16693,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pagerank-united.de
 0.0.0.0 pagerank.jklir.net
 0.0.0.0 pagerank.scambiositi.com
-0.0.0.0 pagerank4u.eu
 0.0.0.0 pagerank4you.com
 0.0.0.0 pageranktop.com
 0.0.0.0 pages.etology.com
@@ -17853,6 +17849,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ranking-links.de
 0.0.0.0 ranking-liste.de
 0.0.0.0 ranking-street.de
+0.0.0.0 rankingchart.de
 0.0.0.0 rankingscout.com
 0.0.0.0 rankmytattoos.us.intellitxt.com
 0.0.0.0 ranks.boardtracker.com
@@ -21015,6 +21012,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 thebizmeet.com
 0.0.0.0 theblemish.us.intellitxt.com
 0.0.0.0 thebosh.us.intellitxt.com
+0.0.0.0 thebugs.ws
 0.0.0.0 thecarconnection.us.intellitxt.com
 0.0.0.0 thecelebritycafe.us.intellitxt.com
 0.0.0.0 thecounter.com
@@ -21827,11 +21825,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 tv2dk.nuggad.net
 0.0.0.0 tv2no.linkpulse.com
 0.0.0.0 tv4play-se.c.richmetrics.com
-0.0.0.0 tvas-a.pw
 0.0.0.0 tvas-c.pw
 0.0.0.0 tvfanatic.us.intellitxt.com
 0.0.0.0 tvguide.112.2o7.net
-0.0.0.0 tvmtracker.com
 0.0.0.0 tvn.adocean.pl
 0.0.0.0 tvn.hit.gemius.pl
 0.0.0.0 tvn2.adocean.pl
