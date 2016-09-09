@@ -676,6 +676,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads2.rne.com
 0.0.0.0 ads2.virtual-nights.com
 0.0.0.0 ads2.xnet.cz
+0.0.0.0 ads2004.treiberupdate.de
 0.0.0.0 ads3.contentabc.com
 0.0.0.0 ads3.gamecity.net
 0.0.0.0 ads3.virtual-nights.com
@@ -734,6 +735,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.kyoceramita-europe.com
 0.0.0.0 adserver.libero.it
 0.0.0.0 adserver.news.com.au
+0.0.0.0 adserver.ngz-network.de
 0.0.0.0 adserver.nydailynews.com
 0.0.0.0 adserver.o2.pl
 0.0.0.0 adserver.oddschecker.com
@@ -1135,6 +1137,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cben1.net
 0.0.0.0 cbmall.com
+0.0.0.0 cbx.net
 0.0.0.0 cdn.freefacti.com
 0.0.0.0 cecash.com
 0.0.0.0 ceskydomov.alias.ngs.modry.cz
