@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 06 Sep 2016 21:27:07 GMT
-# entries:        2369
+# last updated:   Sun, 11 Sep 2016 21:47:26 GMT
+# entries:        2370
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2133,6 +2133,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 supertop100.com
 127.0.0.1 suptullog.com
 127.0.0.1 surfmusik-adserver.de
+127.0.0.1 swan-swan-goose.com
 127.0.0.1 swissadsolutions.com
 127.0.0.1 swordfishdc.com
 127.0.0.1 sx.trhnt.com
