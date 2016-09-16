@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 11 Sep 2016 21:47:26 GMT
-# entries:        2370
+# entries:        2362
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -658,7 +658,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.videosz.com
 127.0.0.1 ads.virtual-nights.com
 127.0.0.1 ads.virtualcountries.com
-127.0.0.1 ads.vnumedia.com
 127.0.0.1 ads.waps.cn
 127.0.0.1 ads.wapx.cn
 127.0.0.1 ads.weather.ca
@@ -724,7 +723,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adscale.de
 127.0.0.1 adscholar.com
 127.0.0.1 adscience.nl
-127.0.0.1 adscpm.com
 127.0.0.1 adsdaq.com
 127.0.0.1 adsdk.com
 127.0.0.1 adsend.de
@@ -789,7 +787,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserver1.mokono.com
 127.0.0.1 adserver1.ogilvy-interactive.de
 127.0.0.1 adserver2.mindshare.de
-127.0.0.1 adserver2.popdata.de
 127.0.0.1 adserverplus.com
 127.0.0.1 adserversolutions.com
 127.0.0.1 adservinginternational.com
@@ -870,7 +867,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 advertmedia.de
 127.0.0.1 advertpro.sitepoint.com
 127.0.0.1 advertpro.ya.com
-127.0.0.1 adverts.carltononline.com
 127.0.0.1 advertserve.com
 127.0.0.1 advertstream.com
 127.0.0.1 advertwizard.com
@@ -1191,7 +1187,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 click2freemoney.com
 127.0.0.1 click2paid.com
 127.0.0.1 clickability.com
-127.0.0.1 clickadz.com
 127.0.0.1 clickagents.com
 127.0.0.1 clickbank.com
 127.0.0.1 clickbank.net
@@ -1572,7 +1567,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 insightexpress.com
 127.0.0.1 insightexpressai.com
 127.0.0.1 inspectorclick.com
-127.0.0.1 instantmadness.com
 127.0.0.1 intelliads.com
 127.0.0.1 intellitxt.com
 127.0.0.1 interactive.forthnet.gr
@@ -1735,7 +1729,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mypagerank.ru
 127.0.0.1 mypowermall.com
 127.0.0.1 mystat-in.net
-127.0.0.1 mystat.pl
 127.0.0.1 mytop-in.net
 127.0.0.1 n69.com
 127.0.0.1 naiadsystems.com.invalid
@@ -1947,7 +1940,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 radarurl.com
 127.0.0.1 radiate.com
 127.0.0.1 rampidads.com
-127.0.0.1 rank-master.com
 127.0.0.1 rank-master.de
 127.0.0.1 rankchamp.de
 127.0.0.1 ranking-charts.de
