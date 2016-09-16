@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 11 Sep 2016 21:47:26 GMT
-# entries:        2362
+# last updated:   Fri, 16 Sep 2016 19:33:48 GMT
+# entries:        2363
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1647,6 +1647,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 m.webtrends.com
 127.0.0.1 m1.webstats4u.com
 127.0.0.1 m4n.nl
+127.0.0.1 mackeeperapp.mackeeper.com
 127.0.0.1 madclient.uimserv.net
 127.0.0.1 madisonavenue.com
 127.0.0.1 mads.cnet.com
