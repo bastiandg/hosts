@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 16 Sep 2016 19:33:48 GMT
-# entries:        2363
+# last updated:   Wed, 21 Sep 2016 02:46:43 GMT
+# entries:        2364
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1161,6 +1161,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cbmall.com
 127.0.0.1 cbx.net
 127.0.0.1 cdn.freefacti.com
+127.0.0.1 cdn.freefarcy.com
 127.0.0.1 cecash.com
 127.0.0.1 ceskydomov.alias.ngs.modry.cz
 127.0.0.1 cetrk.com
