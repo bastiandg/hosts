@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 22 Sep 2016 at 18:12:47 GMT
+# Last updated: Thu, 22 Sep 2016 at 20:15:49 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7064,6 +7064,7 @@
 127.0.0.1 enquete-annuelle.info
 127.0.0.1 entertainment-rewardpath.com
 127.0.0.1 entertainment-specials.com
+127.0.0.1 epomads2.4shared.com
 127.0.0.1 erie.smartage.com
 127.0.0.1 ero-advertising.com
 127.0.0.1 es.adserver.yahoo.com
