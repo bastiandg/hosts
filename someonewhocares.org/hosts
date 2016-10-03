@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 03 Oct 2016 at 04:57:38 GMT
+# Last updated: Mon, 03 Oct 2016 at 05:06:54 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5952,6 +5952,7 @@
 127.0.0.1 adweb2.hornymatches.com
 127.0.0.1 ad.webisleri.com
 127.0.0.1 ad.webprovider.com
+127.0.0.1 adwenturehelp.club
 127.0.0.1 ad.where.com
 127.0.0.1 ad.wiredvision.jp
 127.0.0.1 adw.sapo.pt
@@ -6417,6 +6418,7 @@
 127.0.0.1 broadcast.piximedia.fr
 127.0.0.1 broadent.vo.llnwd.net
 127.0.0.1 brokertraffic.com
+127.0.0.1 browserbreckalarm.info
 127.0.0.1 bsads.looksmart.com
 #127.0.0.1 b.scorecardresearch.com	# interferes with Huffington Post slideshows
 127.0.0.1 bs.israelinfo.ru
@@ -6586,6 +6588,7 @@
 127.0.0.1 cdn.viglink.com
 127.0.0.1 cdn.wg.uproxx.com
 127.0.0.1 cdnw.ringtonepartner.com
+127.0.0.1 cdn.wwwpromoter.com
 127.0.0.1 cdn.yieldmedia.net
 127.0.0.1 cdn.yottos.com
 127.0.0.1 cdn.zeusclicks.com
@@ -6901,6 +6904,7 @@
 127.0.0.1 darakht.com
 127.0.0.1 darmowe-liczniki.info
 127.0.0.1 dart.chron.com
+127.0.0.1 dash001.prxio.site
 127.0.0.1 dashboard.adcalls.nl
 127.0.0.1 dashboardnew.adcalls.nl
 127.0.0.1 data0.bell.ca
@@ -8135,6 +8139,7 @@
 127.0.0.1 nationalissuepanel.com
 127.0.0.1 nationalpost.adperfect.com
 127.0.0.1 nationalsurveypanel.com
+127.0.0.1 nativead.tech
 127.0.0.1 native.sharethrough.com
 127.0.0.1 nbads.com
 127.0.0.1 nbc.adbureau.net
@@ -9405,6 +9410,7 @@
 127.0.0.1 trends.revcontent.com
 127.0.0.1 trgde.adocean.pl
 127.0.0.1 triangle.dealsaver.com
+127.0.0.1 trk.ablogica.com
 127.0.0.1 trk.alskeip.com
 127.0.0.1 trk.etrigue.com
 127.0.0.1 trk.yadomedia.com
@@ -9535,6 +9541,7 @@
 127.0.0.1 villagevoicecollect.247realmedia.com
 127.0.0.1 vip1.tw.adserver.yahoo.com
 127.0.0.1 vipfastmoney.com
+127.0.0.1 viralture.com
 127.0.0.1 vk.18sexporn.ru
 127.0.0.1 vmcsatellite.com
 127.0.0.1 vmix.adbureau.net
@@ -9951,6 +9958,7 @@
 127.0.0.1 www.atpanel.com
 127.0.0.1 www.auctionshare.net
 127.0.0.1 www.aureate.com
+127.0.0.1 www.aussiemoneymethod.com
 127.0.0.1 www.autohipnose.com
 127.0.0.1 www.automotive-offer.com
 127.0.0.1 www.automotive-rewardpath.com
