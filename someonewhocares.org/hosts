@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 02 Oct 2016 at 22:06:04 GMT
+# Last updated: Mon, 03 Oct 2016 at 04:57:38 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6974,6 +6974,7 @@
 127.0.0.1 dnse.linkpulse.com
 127.0.0.1 dock.inmobi.com
 127.0.0.1 domwpm.stream
+127.0.0.1 donnez-votre-avis.org
 127.0.0.1 dosugcz.biz
 127.0.0.1 dot.wp.pl
 127.0.0.1 dowelsobject.com
@@ -7988,6 +7989,7 @@
 127.0.0.1 media.popuptraffic.com
 127.0.0.1 mediapst.adbureau.net
 127.0.0.1 mediapst-images.adbureau.net
+127.0.0.1 medias.clicks4ads.com
 127.0.0.1 mediative.ca
 127.0.0.1 mediative.com
 127.0.0.1 media.trafficfactory.biz
@@ -8604,6 +8606,7 @@
 127.0.0.1 ptreklamssp.com.tr
 127.0.0.1 ptreklamssp.net
 127.0.0.1 pt.trafficjunky.net
+127.0.0.1 pttsite.com
 127.0.0.1 pubdirecte.com
 127.0.0.1 pubimgs.sapo.pt
 127.0.0.1 publiads.com
@@ -9397,6 +9400,7 @@
 127.0.0.1 tr.bigpoint.com
 127.0.0.1 trc.taboola.com
 127.0.0.1 trekmedia.net
+127.0.0.1 trendingpatrol.com
 127.0.0.1 trendnews.com
 127.0.0.1 trends.revcontent.com
 127.0.0.1 trgde.adocean.pl
@@ -9406,6 +9410,7 @@
 127.0.0.1 trk.yadomedia.com
 127.0.0.1 tropiccritics.com
 127.0.0.1 tr.tu.connect.wunderloop.net
+127.0.0.1 trustedmaccleaner.com
 127.0.0.1 trustsitesite.com
 127.0.0.1 trvlnet.adbureau.net
 127.0.0.1 trvlnet-images.adbureau.net
@@ -9845,6 +9850,7 @@
 127.0.0.1 www.addthiscdn.com
 127.0.0.1 www.addthis.com
 127.0.0.1 www.adengage.com
+127.0.0.1 www.adexchangecloud.com
 127.0.0.1 www.adfactor.nl
 127.0.0.1 www.adfunkyserver.com
 127.0.0.1 www.adfusion.com
@@ -10550,6 +10556,7 @@
 127.0.0.1 www.the-binary-options-guide.com
 127.0.0.1 www.the-binary-theorem.com
 127.0.0.1 www.the-path-gateway.com
+127.0.0.1 www.theprofitsmaker.net
 127.0.0.1 www.the-smart-stop.com
 127.0.0.1 www.thetraderinpajamas.com
 127.0.0.1 www.theuseful.com
@@ -10615,6 +10622,7 @@
 127.0.0.1 www.view4cash.de
 127.0.0.1 www.virtumundo.com
 127.0.0.1 www.vmcsatellite.com
+127.0.0.1 www.voucher-for-you.online
 127.0.0.1 www.wdm29.com
 127.0.0.1 www.webcashvideos.com
 127.0.0.1 www.webcompteur.com
