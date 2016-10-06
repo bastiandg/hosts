@@ -7406,6 +7406,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ccas.clearchannel.com
 0.0.0.0 ccc00.opinionlab.com
 0.0.0.0 ccc01.opinionlab.com
+0.0.0.0 ccpmo.com
 0.0.0.0 ccrbudgetca.112.2o7.net
 0.0.0.0 ccrgaviscom.112.2o7.net
 0.0.0.0 ccs.infospace.com
@@ -7510,6 +7511,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.engine.phn.doublepimp.com
 0.0.0.0 cdn.engine.trklnks.com
 0.0.0.0 cdn.epicgameads.com
+0.0.0.0 cdn.epommarket.com
 0.0.0.0 cdn.evergage.com
 0.0.0.0 cdn.exactag.com
 0.0.0.0 cdn.exoticads.com
@@ -7532,6 +7534,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn.iasrv.com
 0.0.0.0 cdn.idtargeting.com
+0.0.0.0 cdn.imgtty.com
 0.0.0.0 cdn.innity.net
 0.0.0.0 cdn.innovid.com
 0.0.0.0 cdn.inskinmedia.com
@@ -7856,6 +7859,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 citi.bridgetrack.com
 0.0.0.0 citi.bridgetrack.com.edgesuite.net
 0.0.0.0 citicorpcreditservic.tt.omtrdc.net
+0.0.0.0 citrio.com
 0.0.0.0 citrix.market2lead.com
 0.0.0.0 citrix.tradedoubler.com
 0.0.0.0 cityads.ru
@@ -14144,6 +14148,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 make-money.shengen.ru
 0.0.0.0 makeherup.us.intellitxt.com
 0.0.0.0 makemeheal.us.intellitxt.com
+0.0.0.0 makemoneyrobot.com
 0.0.0.0 makeushot.us.intellitxt.com
 0.0.0.0 malest.com
 0.0.0.0 malware-live-pro-scanv1.com
@@ -15208,8 +15213,10 @@ ff02::2 ip6-allrouters
 0.0.0.0 mtv.count.brat-online.ro
 0.0.0.0 mtv.nuggad.net
 0.0.0.0 mtv3.spring-tns.net
+0.0.0.0 mtvbrazil-services.vimn.com
 0.0.0.0 mtvn.112.2o7.net
 0.0.0.0 mtvn.demdex.net
+0.0.0.0 mtvnlatservices.com
 0.0.0.0 mtvu.112.2o7.net
 0.0.0.0 mu-in-f167.1e100.net
 0.0.0.0 mudfall.com
@@ -17097,6 +17104,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 picadmedia.com
 0.0.0.0 pick-savings.com
 0.0.0.0 pickmeupnews.us.intellitxt.com
+0.0.0.0 pickytime.com
 0.0.0.0 pics.cnomy.com
 0.0.0.0 pics.kolmic.com
 0.0.0.0 pics.skenzo.com
@@ -17323,6 +17331,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 popfree.adultcash.com
 0.0.0.0 popit.mediumpimpin.com
 0.0.0.0 popmyads.com
+0.0.0.0 popmycash.com
 0.0.0.0 popoholic.us.intellitxt.com
 0.0.0.0 poponclick.com
 0.0.0.0 poponthepop.us.intellitxt.com
@@ -19811,6 +19820,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 speedboink.com
 0.0.0.0 speedclicks.ero-advertising.com
 0.0.0.0 speedguide.us.intellitxt.com
+0.0.0.0 speednetwork6.adk2x.com
 0.0.0.0 speedtestbeta.com
 0.0.0.0 speedtv.us.intellitxt.com
 0.0.0.0 speedynewsclips.com
@@ -20845,6 +20855,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 target.e-generator.com
 0.0.0.0 target.net.finam.ru
 0.0.0.0 target.smi2.net
+0.0.0.0 targetctracker.com
 0.0.0.0 targeting.adwebster.com
 0.0.0.0 targetingnow.com
 0.0.0.0 targetnet.com
@@ -23373,6 +23384,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 wm.wiredminds.de
 0.0.0.0 wm5fixsite.us.intellitxt.com
 0.0.0.0 wmapp.wiredminds.de
+0.0.0.0 wmedia.adk2x.com
 0.0.0.0 wmedia.rotator.hadj7.adjuggler.net
 0.0.0.0 wmg.112.2o7.net
 0.0.0.0 wmgmulti.112.2o7.net
@@ -23766,6 +23778,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.advaliant.com
 0.0.0.0 www.advancedmaccleaner.com
 0.0.0.0 www.advancesrl.eu
+0.0.0.0 www.advanpromo.com
 0.0.0.0 www.advconversion.com
 0.0.0.0 www.adventertainment.it
 0.0.0.0 www.adversal.com
@@ -24115,6 +24128,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.clear-request.com
 0.0.0.0 www.click-find-save.com
 0.0.0.0 www.click-see-save.com
+0.0.0.0 www.click.alibaba.com
 0.0.0.0 www.click10.com
 0.0.0.0 www.click4click.com
 0.0.0.0 www.clickaction.net
@@ -25452,6 +25466,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.sacredphoenix.com
 0.0.0.0 www.saemark.is
 0.0.0.0 www.safemobilelink.com
+0.0.0.0 www.safenetdir.com
 0.0.0.0 www.safesoftware182.com
 0.0.0.0 www.sagent.io
 0.0.0.0 www.salentoeasy.it
@@ -26476,6 +26491,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 yeeeah.us.intellitxt.com
 0.0.0.0 yellcom.122.2o7.net
 0.0.0.0 yellspain.112.2o7.net
+0.0.0.0 yepdigital.adk2x.com
 0.0.0.0 yesads.com
 0.0.0.0 yesadvertising.com
 0.0.0.0 yeskyafp.allyes.com
@@ -26502,6 +26518,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 yodleeinc.tt.omtrdc.net
 0.0.0.0 yoggrt.com
 0.0.0.0 yorick.adjuggler.net
+0.0.0.0 yotube.com
 0.0.0.0 youaresogay.com
 0.0.0.0 youcanoptin.com
 0.0.0.0 youcanoptin.net

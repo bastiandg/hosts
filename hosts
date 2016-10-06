@@ -7406,6 +7406,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ccas.clearchannel.com
 127.0.0.1 ccc00.opinionlab.com
 127.0.0.1 ccc01.opinionlab.com
+127.0.0.1 ccpmo.com
 127.0.0.1 ccrbudgetca.112.2o7.net
 127.0.0.1 ccrgaviscom.112.2o7.net
 127.0.0.1 ccs.infospace.com
@@ -7510,6 +7511,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.engine.phn.doublepimp.com
 127.0.0.1 cdn.engine.trklnks.com
 127.0.0.1 cdn.epicgameads.com
+127.0.0.1 cdn.epommarket.com
 127.0.0.1 cdn.evergage.com
 127.0.0.1 cdn.exactag.com
 127.0.0.1 cdn.exoticads.com
@@ -7532,6 +7534,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.heapanalytics.com
 127.0.0.1 cdn.iasrv.com
 127.0.0.1 cdn.idtargeting.com
+127.0.0.1 cdn.imgtty.com
 127.0.0.1 cdn.innity.net
 127.0.0.1 cdn.innovid.com
 127.0.0.1 cdn.inskinmedia.com
@@ -7856,6 +7859,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 citi.bridgetrack.com
 127.0.0.1 citi.bridgetrack.com.edgesuite.net
 127.0.0.1 citicorpcreditservic.tt.omtrdc.net
+127.0.0.1 citrio.com
 127.0.0.1 citrix.market2lead.com
 127.0.0.1 citrix.tradedoubler.com
 127.0.0.1 cityads.ru
@@ -14144,6 +14148,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 make-money.shengen.ru
 127.0.0.1 makeherup.us.intellitxt.com
 127.0.0.1 makemeheal.us.intellitxt.com
+127.0.0.1 makemoneyrobot.com
 127.0.0.1 makeushot.us.intellitxt.com
 127.0.0.1 malest.com
 127.0.0.1 malware-live-pro-scanv1.com
@@ -15208,8 +15213,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 mtv.count.brat-online.ro
 127.0.0.1 mtv.nuggad.net
 127.0.0.1 mtv3.spring-tns.net
+127.0.0.1 mtvbrazil-services.vimn.com
 127.0.0.1 mtvn.112.2o7.net
 127.0.0.1 mtvn.demdex.net
+127.0.0.1 mtvnlatservices.com
 127.0.0.1 mtvu.112.2o7.net
 127.0.0.1 mu-in-f167.1e100.net
 127.0.0.1 mudfall.com
@@ -17097,6 +17104,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 picadmedia.com
 127.0.0.1 pick-savings.com
 127.0.0.1 pickmeupnews.us.intellitxt.com
+127.0.0.1 pickytime.com
 127.0.0.1 pics.cnomy.com
 127.0.0.1 pics.kolmic.com
 127.0.0.1 pics.skenzo.com
@@ -17323,6 +17331,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 popfree.adultcash.com
 127.0.0.1 popit.mediumpimpin.com
 127.0.0.1 popmyads.com
+127.0.0.1 popmycash.com
 127.0.0.1 popoholic.us.intellitxt.com
 127.0.0.1 poponclick.com
 127.0.0.1 poponthepop.us.intellitxt.com
@@ -19811,6 +19820,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 speedboink.com
 127.0.0.1 speedclicks.ero-advertising.com
 127.0.0.1 speedguide.us.intellitxt.com
+127.0.0.1 speednetwork6.adk2x.com
 127.0.0.1 speedtestbeta.com
 127.0.0.1 speedtv.us.intellitxt.com
 127.0.0.1 speedynewsclips.com
@@ -20845,6 +20855,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 target.e-generator.com
 127.0.0.1 target.net.finam.ru
 127.0.0.1 target.smi2.net
+127.0.0.1 targetctracker.com
 127.0.0.1 targeting.adwebster.com
 127.0.0.1 targetingnow.com
 127.0.0.1 targetnet.com
@@ -23373,6 +23384,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wm.wiredminds.de
 127.0.0.1 wm5fixsite.us.intellitxt.com
 127.0.0.1 wmapp.wiredminds.de
+127.0.0.1 wmedia.adk2x.com
 127.0.0.1 wmedia.rotator.hadj7.adjuggler.net
 127.0.0.1 wmg.112.2o7.net
 127.0.0.1 wmgmulti.112.2o7.net
@@ -23766,6 +23778,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.advaliant.com
 127.0.0.1 www.advancedmaccleaner.com
 127.0.0.1 www.advancesrl.eu
+127.0.0.1 www.advanpromo.com
 127.0.0.1 www.advconversion.com
 127.0.0.1 www.adventertainment.it
 127.0.0.1 www.adversal.com
@@ -24115,6 +24128,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.clear-request.com
 127.0.0.1 www.click-find-save.com
 127.0.0.1 www.click-see-save.com
+127.0.0.1 www.click.alibaba.com
 127.0.0.1 www.click10.com
 127.0.0.1 www.click4click.com
 127.0.0.1 www.clickaction.net
@@ -25452,6 +25466,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.sacredphoenix.com
 127.0.0.1 www.saemark.is
 127.0.0.1 www.safemobilelink.com
+127.0.0.1 www.safenetdir.com
 127.0.0.1 www.safesoftware182.com
 127.0.0.1 www.sagent.io
 127.0.0.1 www.salentoeasy.it
@@ -26476,6 +26491,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 yeeeah.us.intellitxt.com
 127.0.0.1 yellcom.122.2o7.net
 127.0.0.1 yellspain.112.2o7.net
+127.0.0.1 yepdigital.adk2x.com
 127.0.0.1 yesads.com
 127.0.0.1 yesadvertising.com
 127.0.0.1 yeskyafp.allyes.com
@@ -26502,6 +26518,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 yodleeinc.tt.omtrdc.net
 127.0.0.1 yoggrt.com
 127.0.0.1 yorick.adjuggler.net
+127.0.0.1 yotube.com
 127.0.0.1 youaresogay.com
 127.0.0.1 youcanoptin.com
 127.0.0.1 youcanoptin.net
