@@ -3926,6 +3926,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adscience.nl
 127.0.0.1 adsclick.qq.com
 127.0.0.1 adscontent2.indiatimes.com
+127.0.0.1 adscpm.com
 127.0.0.1 adsdaq.com
 127.0.0.1 adsdk.com
 127.0.0.1 adsearch.adkontekst.pl
@@ -4344,7 +4345,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserver1.lokitorrent.com
 127.0.0.1 adserver1.mediainsight.de
 127.0.0.1 adserver1.mindshare.de
-127.0.0.1 adserver1.mokono.com
 127.0.0.1 adserver1.ogilvy-interactive.de
 127.0.0.1 adserver1.realtracker.com
 127.0.0.1 adserver1.sonymusiceurope.com
@@ -4927,7 +4927,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 affiliates.bet-at-home.com
 127.0.0.1 affiliates.bhphotovideo.com
 127.0.0.1 affiliates.date-connected.com
-127.0.0.1 affiliates.devilfishpartners.com
 127.0.0.1 affiliates.digitalriver.com
 127.0.0.1 affiliates.eblastengine.com
 127.0.0.1 affiliates.genealogybank.com
@@ -10098,7 +10097,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 eon.tags.sitetagger.co.uk
 127.0.0.1 eontarionow.us.intellitxt.com
 127.0.0.1 epebuild.112.2o7.net
-127.0.0.1 epiccash.com
 127.0.0.1 eplans.112.2o7.net
 127.0.0.1 epmads.com
 127.0.0.1 epomads2.4shared.com
@@ -13395,7 +13393,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 lead-123.com
 127.0.0.1 lead-analytics.nl
 127.0.0.1 lead.program3.com
-127.0.0.1 leadaffiliates.com
 127.0.0.1 leadback.advertising.com
 127.0.0.1 leadboltads.net
 127.0.0.1 leadclick.com
@@ -22157,6 +22154,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tv4play-se.c.richmetrics.com
 127.0.0.1 tvfanatic.us.intellitxt.com
 127.0.0.1 tvguide.112.2o7.net
+127.0.0.1 tvmtracker.com
 127.0.0.1 tvn.adocean.pl
 127.0.0.1 tvn.hit.gemius.pl
 127.0.0.1 tvn2.adocean.pl

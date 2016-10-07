@@ -3926,6 +3926,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adscience.nl
 0.0.0.0 adsclick.qq.com
 0.0.0.0 adscontent2.indiatimes.com
+0.0.0.0 adscpm.com
 0.0.0.0 adsdaq.com
 0.0.0.0 adsdk.com
 0.0.0.0 adsearch.adkontekst.pl
@@ -4344,7 +4345,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver1.lokitorrent.com
 0.0.0.0 adserver1.mediainsight.de
 0.0.0.0 adserver1.mindshare.de
-0.0.0.0 adserver1.mokono.com
 0.0.0.0 adserver1.ogilvy-interactive.de
 0.0.0.0 adserver1.realtracker.com
 0.0.0.0 adserver1.sonymusiceurope.com
@@ -4927,7 +4927,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 affiliates.bet-at-home.com
 0.0.0.0 affiliates.bhphotovideo.com
 0.0.0.0 affiliates.date-connected.com
-0.0.0.0 affiliates.devilfishpartners.com
 0.0.0.0 affiliates.digitalriver.com
 0.0.0.0 affiliates.eblastengine.com
 0.0.0.0 affiliates.genealogybank.com
@@ -10098,7 +10097,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 eon.tags.sitetagger.co.uk
 0.0.0.0 eontarionow.us.intellitxt.com
 0.0.0.0 epebuild.112.2o7.net
-0.0.0.0 epiccash.com
 0.0.0.0 eplans.112.2o7.net
 0.0.0.0 epmads.com
 0.0.0.0 epomads2.4shared.com
@@ -13395,7 +13393,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 lead-123.com
 0.0.0.0 lead-analytics.nl
 0.0.0.0 lead.program3.com
-0.0.0.0 leadaffiliates.com
 0.0.0.0 leadback.advertising.com
 0.0.0.0 leadboltads.net
 0.0.0.0 leadclick.com
@@ -22157,6 +22154,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tv4play-se.c.richmetrics.com
 0.0.0.0 tvfanatic.us.intellitxt.com
 0.0.0.0 tvguide.112.2o7.net
+0.0.0.0 tvmtracker.com
 0.0.0.0 tvn.adocean.pl
 0.0.0.0 tvn.hit.gemius.pl
 0.0.0.0 tvn2.adocean.pl

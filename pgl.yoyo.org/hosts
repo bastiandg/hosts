@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 27 Sep 2016 13:23:30 GMT
-# entries:        2365
+# entries:        2362
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -724,6 +724,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adscale.de
 127.0.0.1 adscholar.com
 127.0.0.1 adscience.nl
+127.0.0.1 adscpm.com
 127.0.0.1 adsdaq.com
 127.0.0.1 adsdk.com
 127.0.0.1 adsend.de
@@ -785,7 +786,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserver1-images.backbeatmedia.com
 127.0.0.1 adserver1.backbeatmedia.com
 127.0.0.1 adserver1.mindshare.de
-127.0.0.1 adserver1.mokono.com
 127.0.0.1 adserver1.ogilvy-interactive.de
 127.0.0.1 adserver2.mindshare.de
 127.0.0.1 adserverplus.com
@@ -911,7 +911,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 affiliatefuture.com
 127.0.0.1 affiliates.allposters.com
 127.0.0.1 affiliates.babylon.com
-127.0.0.1 affiliates.devilfishpartners.com
 127.0.0.1 affiliates.digitalriver.com
 127.0.0.1 affiliates.globat.com
 127.0.0.1 affiliates.ige.com
@@ -1361,7 +1360,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 enquisite.com
 127.0.0.1 entercasino.com
 127.0.0.1 entrecard.s3.amazonaws.com
-127.0.0.1 epiccash.com
 127.0.0.1 eqads.com
 127.0.0.1 ero-advertising.com
 127.0.0.1 esellerate.net
@@ -1611,7 +1609,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 lbn.ru
 127.0.0.1 lct.salesforce.com
 127.0.0.1 lead-analytics.nl
-127.0.0.1 leadaffiliates.com
 127.0.0.1 leadboltads.net
 127.0.0.1 leadclick.com
 127.0.0.1 leadingedgecash.com
@@ -1628,7 +1625,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 linkadd.de
 127.0.0.1 linkbuddies.com
 127.0.0.1 linkexchange.com
-127.0.0.1 linkexchange.ru
 127.0.0.1 linkprice.com
 127.0.0.1 linkrain.com
 127.0.0.1 linkreferral.com
@@ -2251,6 +2247,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 tsms-ad.tsms.com
 127.0.0.1 tubemogul.com
 127.0.0.1 turn.com
+127.0.0.1 tvmtracker.com
 127.0.0.1 twittad.com
 127.0.0.1 tyroo.com
 127.0.0.1 uarating.com
