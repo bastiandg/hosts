@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 06 Oct 2016 at 19:49:24 GMT
+# Last updated: Fri, 07 Oct 2016 at 05:33:54 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7770,6 +7770,7 @@
 127.0.0.1 knc.lv
 127.0.0.1 knight.economist.com
 127.0.0.1 kona2.kontera.com
+127.0.0.1 kona33.kontera.com
 127.0.0.1 kona3.kontera.com
 127.0.0.1 kona4.kontera.com
 127.0.0.1 kona5.kontera.com
@@ -7777,6 +7778,7 @@
 127.0.0.1 kona7.kontera.com
 127.0.0.1 kona8.kontera.com
 127.0.0.1 kona.kontera.com
+127.0.0.1 konax.kontera.com
 127.0.0.1 kontera.com
 127.0.0.1 kos.interseek.si
 127.0.0.1 kreaffiliation.com
@@ -8353,6 +8355,7 @@
 127.0.0.1 p4psearch.china.alibaba.com
 127.0.0.1 p.admob.com
 127.0.0.1 p.adpdx.com
+127.0.0.1 page.0ffer.eu
 127.0.0.1 pagead1.googlesyndication.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 pagead3.googlesyndication.com
@@ -8921,6 +8924,8 @@
 127.0.0.1 secure.bidvertiserr.com
 127.0.0.1 securecontactinfo.com
 127.0.0.1 secure.img-cdn.mediaplex.com
+127.0.0.1 secure-js.kontera.com
+127.0.0.1 securemacfix.com
 127.0.0.1 securerunner.com
 127.0.0.1 secure.webconnect.net
 127.0.0.1 seduction-zone.com
@@ -10697,6 +10702,7 @@
 127.0.0.1 www.zemgo.com
 127.0.0.1 www.zevents.com
 127.0.0.1 www.zlothonline.info
+127.0.0.1 x65zz.popularprizes.8981275.com
 127.0.0.1 x86adserve006.adtech.de
 127.0.0.1 x.admob.com
 127.0.0.1 xads.zedo.com
