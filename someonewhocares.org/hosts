@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 07 Oct 2016 at 08:05:44 GMT
+# Last updated: Sat, 08 Oct 2016 at 03:10:34 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2145,6 +2145,7 @@
 127.0.0.1 m02.webwise.com
 127.0.0.1 m02.webwise.net
 127.0.0.1 m02.webwise.org
+127.0.0.1 macmeasurmenthub.club
 127.0.0.1 mac-os.apple.com-secured.online
 127.0.0.1 mac-protection.info
 127.0.0.1 mail.cyberh.fr
@@ -9225,6 +9226,7 @@
 127.0.0.1 status.addthis.com
 127.0.0.1 st.blogads.com
 127.0.0.1 s.tcimg.com
+127.0.0.1 stephanie.tnctrx.com
 127.0.0.1 st.marketgid.com
 127.0.0.1 stocker.bonnint.net
 127.0.0.1 storage.bulletproofserving.com
