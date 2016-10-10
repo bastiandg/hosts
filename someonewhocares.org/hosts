@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 09 Oct 2016 at 03:34:00 GMT
+# Last updated: Sun, 09 Oct 2016 at 23:36:20 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9265,6 +9265,7 @@
 127.0.0.1 s.visilabs.com
 127.0.0.1 s.visilabs.net
 127.0.0.1 sweetsforfree.com
+127.0.0.1 swfhostltd.com
 127.0.0.1 symbiosting.com
 127.0.0.1 synad2.nuffnang.com.cn
 127.0.0.1 synad.nuffnang.com.sg
