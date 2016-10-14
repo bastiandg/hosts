@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 14 Oct 2016 09:38:36 GMT
-# entries:        2360
+# last updated:   Fri, 14 Oct 2016 14:39:41 GMT
+# entries:        2362
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1321,6 +1321,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 domaining.in
 127.0.0.1 domainsponsor.com
 127.0.0.1 domainsteam.de
+127.0.0.1 domdex.com
 127.0.0.1 doubleclick.com
 127.0.0.1 doubleclick.de
 127.0.0.1 doubleclick.net
@@ -1700,6 +1701,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 misstrends.com
 127.0.0.1 mixpanel.com
 127.0.0.1 mixtraffic.com
+127.0.0.1 mjxads.internet.com
 127.0.0.1 mlm.de
 127.0.0.1 mmismm.com
 127.0.0.1 mmtro.com

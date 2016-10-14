@@ -1295,6 +1295,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 domaining.in
 0.0.0.0 domainsponsor.com
 0.0.0.0 domainsteam.de
+0.0.0.0 domdex.com
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.de
 0.0.0.0 doubleclick.net
@@ -1674,6 +1675,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 misstrends.com
 0.0.0.0 mixpanel.com
 0.0.0.0 mixtraffic.com
+0.0.0.0 mjxads.internet.com
 0.0.0.0 mlm.de
 0.0.0.0 mmismm.com
 0.0.0.0 mmtro.com
