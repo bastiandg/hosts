@@ -852,7 +852,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.abcnews.com
 0.0.0.0 ad.abctv.com
 0.0.0.0 ad.about.com
-0.0.0.0 ad.aboutit.de
 0.0.0.0 ad.aboutwebservices.com
 0.0.0.0 ad.abum.com
 0.0.0.0 ad.accessmediaproductions.com
@@ -1165,7 +1164,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.philipstreehouse.info
 0.0.0.0 ad.pickple.net
 0.0.0.0 ad.pl.doubleclick.net
-0.0.0.0 ad.playground.ru
 0.0.0.0 ad.policeone.com
 0.0.0.0 ad.pop1.adbn.ru
 0.0.0.0 ad.popup.tbn.ru
