@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 14 Oct 2016 09:38:36 GMT
-# entries:        2362
+# entries:        2360
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -975,7 +975,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 avsads.com
 127.0.0.1 awempire.com
 127.0.0.1 awin1.com
-127.0.0.1 aylarl.com
 127.0.0.1 azfront.com
 127.0.0.1 b-1st.com
 127.0.0.1 b.aol.com
@@ -1158,7 +1157,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cbanners.virtuagirlhd.com
 127.0.0.1 cben1.net
 127.0.0.1 cbmall.com
-127.0.0.1 cbx.net
 127.0.0.1 cdn.freefacti.com
 127.0.0.1 cdn.freefarcy.com
 127.0.0.1 cecash.com
@@ -1594,7 +1592,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 k.iinfo.cz
 127.0.0.1 kanoodle.com
 127.0.0.1 keymedia.hu
-127.0.0.1 kindads.com
 127.0.0.1 kissmetrics.com
 127.0.0.1 kliks.nl
 127.0.0.1 komoona.com
@@ -1727,6 +1724,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mypagerank.ru
 127.0.0.1 mypowermall.com
 127.0.0.1 mystat-in.net
+127.0.0.1 mystat.pl
 127.0.0.1 mytop-in.net
 127.0.0.1 n69.com
 127.0.0.1 naiadsystems.com.invalid
