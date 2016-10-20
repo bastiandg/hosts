@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 17 Oct 2016 at 04:24:26 GMT
+# Last updated: Thu, 20 Oct 2016 at 06:53:20 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8196,6 +8196,7 @@
 127.0.0.1 newsterminalvelocity.com
 127.0.0.1 newt1.adultadworld.com
 127.0.0.1 newt1.adultworld.com
+127.0.0.1 newtger.info
 127.0.0.1 ng3.ads.warnerbros.com
 127.0.0.1 ngads.smartage.com
 127.0.0.1 ng.virgul.com
@@ -9416,6 +9417,7 @@
 127.0.0.1 tradearabia.advertserve.com
 127.0.0.1 tradefx.advertserve.com
 127.0.0.1 tradem.com
+127.0.0.1 traffic.adxprts.com
 127.0.0.1 trafficbee.com
 127.0.0.1 traffic.outbrain.com
 127.0.0.1 trafficrevenue.net
