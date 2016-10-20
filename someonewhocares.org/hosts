@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 20 Oct 2016 at 06:53:20 GMT
+# Last updated: Thu, 20 Oct 2016 at 18:38:16 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1995,7 +1995,6 @@
 127.0.0.1 b.oix.com
 127.0.0.1 b.oix.net
 127.0.0.1 BonusCashh.com
-127.0.0.1 bountysource.com
 127.0.0.1 br.phorm.com
 127.0.0.1 brunga.at	# Facebook phishing attempt
 127.0.0.1 bt.phorm.com
