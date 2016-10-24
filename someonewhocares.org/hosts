@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 20 Oct 2016 at 18:38:16 GMT
+# Last updated: Mon, 24 Oct 2016 at 15:21:26 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6346,8 +6346,10 @@
 127.0.0.1 beacons.helium.com
 127.0.0.1 beacon-us-west.rubiconproject.com
 127.0.0.1 be.ads.justpremium.com
+127.0.0.1 bedach.stream
 127.0.0.1 bell.adcentriconline.com
 127.0.0.1 benimreklam.com
+127.0.0.1 benrie.stream
 127.0.0.1 beseenad.looksmart.com
 127.0.0.1 bestadbid.com
 127.0.0.1 bestgift4you.cn
@@ -6422,6 +6424,7 @@
 127.0.0.1 broadent.vo.llnwd.net
 127.0.0.1 brokertraffic.com
 127.0.0.1 browserbreckalarm.info
+127.0.0.1 browsesafemac.com
 127.0.0.1 bsads.looksmart.com
 #127.0.0.1 b.scorecardresearch.com	# interferes with Huffington Post slideshows
 127.0.0.1 bs.israelinfo.ru
@@ -6561,6 +6564,7 @@
 127.0.0.1 cdn.eyewonder.com
 127.0.0.1 cdn.freefaits.com
 127.0.0.1 cdn.freefarcy.com
+127.0.0.1 cdn.freehalves.com
 127.0.0.1 cdn.go.arbo.bbelements.com
 127.0.0.1 cdn.go.arbopl.bbelements.com
 127.0.0.1 cdn.go.cz.bbelements.com
@@ -7901,6 +7905,7 @@
 127.0.0.1 m2.sexgarantie.nl
 127.0.0.1 m3.2mdn.net
 127.0.0.1 m4.afs.googleadservices.com
+127.0.0.1 m4.media-box.co
 127.0.0.1 m4ymh0220.tech
 127.0.0.1 ma.baidu.com
 127.0.0.1 macaddictads.snv.futurenet.com
@@ -8334,6 +8339,7 @@
 127.0.0.1 orange.fr-felicitations.xyz
 127.0.0.1 orange.fr-votre-opinion.xyz
 127.0.0.1 orange.fr-votreopinion.xyz
+127.0.0.1 orange.recompenses.xyz
 127.0.0.1 orange.weborama.fr
 127.0.0.1 ordie.adbureau.net
 127.0.0.1 orientaltrading.com
@@ -10147,6 +10153,7 @@
 127.0.0.1 www.dutchsales.org
 127.0.0.1 www.earnmygift.com
 127.0.0.1 www.earnpointsandgifts.com
+127.0.0.1 www.easy2date.net
 127.0.0.1 www.easyadservice.com
 127.0.0.1 www.e-bannerx.com
 127.0.0.1 www.ebayadvertising.com
