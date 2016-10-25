@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 24 Oct 2016 at 15:21:26 GMT
+# Last updated: Tue, 25 Oct 2016 at 17:31:56 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2161,6 +2161,7 @@
 127.0.0.1 monkeyball.osa.pl
 127.0.0.1 movies.701pages.com
 127.0.0.1 mplayerdownloader.com
+127.0.0.1 ms0x0000001341.club
 127.0.0.1 mshelp247.weebly.com
 127.0.0.1 murcia-ban.es
 127.0.0.1 mx01.openinternetexchange.com
