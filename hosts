@@ -4248,7 +4248,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserver.pressflex.com
 127.0.0.1 adserver.prodigy.net
 127.0.0.1 adserver.proteinos.com
-127.0.0.1 adserver.quizdingo.com
 127.0.0.1 adserver.radio-canada.ca
 127.0.0.1 adserver.ratestar.net
 127.0.0.1 adserver.realhomesex.net
@@ -6044,7 +6043,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 banner.vadian.net
 127.0.0.1 banner.vegasred.com
 127.0.0.1 banner.vrs.cz
-127.0.0.1 banner.webmersion.com
 127.0.0.1 banner.webtools24.net
 127.0.0.1 banner.westernunion.com
 127.0.0.1 banner.wirenode.com
@@ -17935,7 +17933,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 rampidads.com
 127.0.0.1 randevumads.com
 127.0.0.1 rank-master.com
-127.0.0.1 rank-master.de
 127.0.0.1 rankchamp.de
 127.0.0.1 ranker.springboardplatform.com
 127.0.0.1 ranking-charts.de
@@ -20574,6 +20571,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stylincom.112.2o7.net
 127.0.0.1 su.addthis.com
 127.0.0.1 suads.sulekha.com
+127.0.0.1 suavalds.com
 127.0.0.1 subad-server.com
 127.0.0.1 subaruofamerica.112.2o7.net
 127.0.0.1 subscribe.hearstmags.com
