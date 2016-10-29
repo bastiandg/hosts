@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 25 Oct 2016 at 17:31:56 GMT
+# Last updated: Sat, 29 Oct 2016 at 21:35:27 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2229,6 +2229,7 @@
 127.0.0.1 pchealthcheckup.net
 127.0.0.1 pcnetworkreliablecloudservices.online
 127.0.0.1 pc-scanner16.com
+127.0.0.1 pc-virus-k7d4v9.online
 127.0.0.1 personalantispy.com
 127.0.0.1 phatthalung.go.th
 127.0.0.1 phorm.biz.tr
