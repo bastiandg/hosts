@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 29 Oct 2016 at 21:35:27 GMT
+# Last updated: Wed, 02 Nov 2016 at 19:58:43 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -4347,6 +4347,7 @@
 127.0.0.1 adnet.de
 127.0.0.1 ad.network60.com
 127.0.0.1 adnetwork.nextgen.net
+127.0.0.1 adnetworkperformance.com
 127.0.0.1 adnetwork.rovicorp.com
 127.0.0.1 adnetxchange.com
 127.0.0.1 adng.ascii24.com
@@ -5962,6 +5963,7 @@
 127.0.0.1 ad.wiredvision.jp
 127.0.0.1 adw.sapo.pt
 127.0.0.1 ad.wsod.com
+127.0.0.1 adx.adform.net
 127.0.0.1 adx.adrenalinesk.sk
 127.0.0.1 adx.gainesvillesun.com
 127.0.0.1 adx.gainesvillsun.com
@@ -6016,6 +6018,7 @@
 127.0.0.1 affpartners.com
 127.0.0.1 aff.promodeals.nl
 127.0.0.1 aff.ringtonepartner.com
+127.0.0.1 afftrack001.com
 127.0.0.1 afftracking.justanswer.com
 127.0.0.1 afi.adocean.pl
 127.0.0.1 afilo.pl
@@ -6359,6 +6362,7 @@
 127.0.0.1 bestshopperrewards.com
 127.0.0.1 beta.hotkeys.com
 127.0.0.1 bet-at-home.com
+127.0.0.1 betclic.com
 127.0.0.1 betterperformance.goldenopps.info
 127.0.0.1 bfast.com
 127.0.0.1 b.getprizenow.top
@@ -7143,6 +7147,7 @@
 127.0.0.1 finanzmeldungen.com
 127.0.0.1 finder.cox.net
 127.0.0.1 fin.tips
+127.0.0.1 firstgame.xyz
 127.0.0.1 fixbonus.com
 127.0.0.1 fliteilex.com
 127.0.0.1 float.2693.bm-impbus.prod.ams1.adnexus.net
@@ -7221,6 +7226,7 @@
 127.0.0.1 fromslowmactofastmac.com
 127.0.0.1 frontend-loadbalancer.meteorsolutions.com
 127.0.0.1 functional-business.com
+127.0.0.1 funtabsafe.com
 127.0.0.1 Fvid.atm.youku.com
 127.0.0.1 fwdservice.com
 #127.0.0.1 fwmrm.net	#may interfere with nhl.com
@@ -7239,6 +7245,7 @@
 127.0.0.1 games-toys-free.com
 127.0.0.1 games-toys-rewardpath.com
 127.0.0.1 gar-tech.com
+127.0.0.1 gasurvey.gemius.com
 127.0.0.1 gate.hyperpaysys.com
 127.0.0.1 gavzad.keenspot.com
 127.0.0.1 gazeta.hit.gemius.pl
@@ -7381,6 +7388,7 @@
 127.0.0.1 go.ihned.bbelements.com
 127.0.0.1 go.intact.bbelements.com
 127.0.0.1 goldadpremium.com
+127.0.0.1 goldbach.hit.gemius.pl
 127.0.0.1 go.lfstmedia.com
 127.0.0.1 go.lotech.bbelements.com
 127.0.0.1 goodbizez.com
@@ -7712,6 +7720,7 @@
 127.0.0.1 j.clickdensity.com
 127.0.0.1 jcrew.tt.omtrdc.net
 127.0.0.1 jenno.adsb4all.com
+127.0.0.1 jerichoplay.com
 127.0.0.1 jersey-offer.com
 127.0.0.1 jgedads.cjt.net
 127.0.0.1 jh.revolvermaps.com
@@ -7885,6 +7894,7 @@
 127.0.0.1 lpcloudsvr405.com
 127.0.0.1 lp.empire.goodgamestudios.com
 127.0.0.1 lp.jeux-lk.com
+127.0.0.1 lp.sexyadults.eu
 127.0.0.1 l.qq.com
 127.0.0.1 lsassoc.com
 127.0.0.1 ls.hit.gemius.pl
@@ -8082,6 +8092,7 @@
 127.0.0.1 mm.chitika.net
 127.0.0.1 mmv.admob.com
 127.0.0.1 mob.adwhirl.com
+127.0.0.1 mobfactory.info
 127.0.0.1 mobileads.msn.com
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
 127.0.0.1 mobileanalytics.us-east-2.amazonaws.com
@@ -8500,6 +8511,7 @@
 127.0.0.1 playtime.tubemogul.com
 127.0.0.1 play.traffpartners.com
 127.0.0.1 pl.bbelements.com
+127.0.0.1 pl.betclic.com
 127.0.0.1 p.l.qq.com
 127.0.0.1 pl.spanel.gem.pl
 127.0.0.1 pmelon.com
@@ -8552,6 +8564,7 @@
 127.0.0.1 productresearchpanel.com
 127.0.0.1 producttestpanel.com
 127.0.0.1 profile.uproxx.com
+127.0.0.1 profitboosterapp.com
 127.0.0.1 pro.letv.com
 127.0.0.1 promo.awempire.com
 127.0.0.1 promo.easy-dating.org
@@ -9432,6 +9445,7 @@
 127.0.0.1 traffprofit.com
 127.0.0.1 trafmag.com
 127.0.0.1 trafsearchonline.com
+127.0.0.1 trafstarcurlms.com
 127.0.0.1 traktum.com
 127.0.0.1 travel-leisure-bonuspath.com
 127.0.0.1 travel-leisure-premiumblvd.com
@@ -9490,6 +9504,7 @@
 127.0.0.1 ulic.baidu.com
 127.0.0.1 ultimatefashiongifts.com
 127.0.0.1 ultrabestportal.com
+127.0.0.1 ultraministry.xyz
 127.0.0.1 ultrasponsor.com
 127.0.0.1 um.simpli.fi
 127.0.0.1 undertonenetworks.com
