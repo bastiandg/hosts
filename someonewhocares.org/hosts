@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 02 Nov 2016 at 19:58:43 GMT
+# Last updated: Thu, 03 Nov 2016 at 19:41:11 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2094,6 +2094,7 @@
 127.0.0.1 how-tosolve.com
 127.0.0.1 hsb-canada.com	# phishing site for hsbc.ca
 127.0.0.1 hsbconline.ca 	# phishing site for hsbc.ca
+127.0.0.1 http://rpmdo.com/
 127.0.0.1 icecars.com
 127.0.0.1 idea21.org
 127.0.0.1 Iframecash.biz

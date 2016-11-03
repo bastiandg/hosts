@@ -5524,6 +5524,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 html.centralmediaserver.com
 0.0.0.0 htmlads.ru
 0.0.0.0 htmlwww.youfck.com
+0.0.0.0 http
 0.0.0.0 http300.content.ru4.com
 0.0.0.0 http300.edge.ru4.com
 0.0.0.0 httpads.com
