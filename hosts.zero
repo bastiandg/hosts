@@ -6044,6 +6044,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 banner.vadian.net
 0.0.0.0 banner.vegasred.com
 0.0.0.0 banner.vrs.cz
+0.0.0.0 banner.webmersion.com
 0.0.0.0 banner.webtools24.net
 0.0.0.0 banner.westernunion.com
 0.0.0.0 banner.wirenode.com
@@ -9708,6 +9709,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ea.zebestof.com
 0.0.0.0 ead-soft.popunder.ru
 0.0.0.0 ead.sharethis.com
+0.0.0.0 eadexchange.com
 0.0.0.0 eads-adserving.com
 0.0.0.0 eaeacom.112.2o7.net
 0.0.0.0 eagamesuk.112.2o7.net
@@ -12066,6 +12068,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 html5adkit.plusmo.s3.amazonaws.com
 0.0.0.0 htmlads.ru
 0.0.0.0 htmlads.s3.amazonaws.com
+0.0.0.0 htmlhubing.xyz
 0.0.0.0 htmlwww.youfck.com
 0.0.0.0 http.content.ru4.com
 0.0.0.0 http.edge.ru4.com
@@ -13274,7 +13277,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 krsa2gno.todays-sweepstakes-winner.com
 0.0.0.0 krsa2gno.youre-todays-lucky-sweeps-winner.com
 0.0.0.0 ks.5.p2l.info
-0.0.0.0 kt-g.de
 0.0.0.0 kt.tns-gallup.dk
 0.0.0.0 kt4.kliptracker.com
 0.0.0.0 ktu.sv2.biz
@@ -16776,7 +16778,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 pagefair.com
 0.0.0.0 pagepeels.sexmoney.com
-0.0.0.0 pagerank-ranking.com
 0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank-submitter.de
 0.0.0.0 pagerank-suchmaschine.de
@@ -23577,7 +23578,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 wwtdd.tags.crwdcntrl.net
 0.0.0.0 wwtdd.us.intellitxt.com
 0.0.0.0 wwv.onetad.com
-0.0.0.0 www-banner.chat.ru
 0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 www-old.nastydollars.com
 0.0.0.0 www.00fun.com
