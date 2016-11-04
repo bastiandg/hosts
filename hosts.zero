@@ -12067,7 +12067,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 htmlads.ru
 0.0.0.0 htmlads.s3.amazonaws.com
 0.0.0.0 htmlwww.youfck.com
-0.0.0.0 http
 0.0.0.0 http.content.ru4.com
 0.0.0.0 http.edge.ru4.com
 0.0.0.0 http100.content.ru4.com
@@ -18395,6 +18394,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 rpc.trafficfactory.biz
 0.0.0.0 rpg.us.intellitxt.com
+0.0.0.0 rpmdo.com
 0.0.0.0 rpt.anchorfree.net
 0.0.0.0 rpt.footlocker.com
 0.0.0.0 rpt.rad.msn.com
@@ -18820,6 +18820,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 safaribooks.112.2o7.net
 0.0.0.0 safe-es.imrworldwide.com
 0.0.0.0 safe.hyperpaysys.com
+0.0.0.0 safedownloadcenter.com
 0.0.0.0 safedownloadnow.work
 0.0.0.0 safedownloadsrus166.com
 0.0.0.0 safenyplanet.in

@@ -5524,7 +5524,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 html.centralmediaserver.com
 0.0.0.0 htmlads.ru
 0.0.0.0 htmlwww.youfck.com
-0.0.0.0 http
 0.0.0.0 http300.content.ru4.com
 0.0.0.0 http300.edge.ru4.com
 0.0.0.0 httpads.com
@@ -8356,6 +8355,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rp.hit.gemius.pl
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 rpc.trafficfactory.biz
+0.0.0.0 rpmdo.com
 0.0.0.0 rqtrk.eu
 0.0.0.0 rr1.xxxcounter.com
 0.0.0.0 rr2.xxxcounter.com
@@ -8519,6 +8519,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 sad.sharethis.com
 0.0.0.0 safari-critical-alert.com
 0.0.0.0 safe.hyperpaysys.com
+0.0.0.0 safedownloadcenter.com
 0.0.0.0 safedownloadsrus166.com
 0.0.0.0 safenyplanet.in
 0.0.0.0 sagent.io
