@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 04 Nov 2016 at 04:57:07 GMT
+# Last updated: Mon, 07 Nov 2016 at 00:38:10 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2374,6 +2374,7 @@
 127.0.0.1 traffic.adwitty.com
 127.0.0.1 trialreg.com
 127.0.0.1 trovi.com
+127.0.0.1 trustedmaccleaner.com
 127.0.0.1 tvshowslist.com
 127.0.0.1 twitter.login.kevanshome.org
 127.0.0.1 twitter.secure.bzpharma.net
