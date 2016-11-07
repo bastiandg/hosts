@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 07 Nov 2016 at 06:18:57 GMT
+# Last updated: Mon, 07 Nov 2016 at 16:58:20 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2517,6 +2517,7 @@
 127.0.0.1 www.webwise.net
 127.0.0.1 www.webwise.org
 127.0.0.1 www.wellsfarg0-onllne.net
+127.0.0.1 www.wellsfarg0-onllne.netw
 127.0.0.1 www.wewillrocknow.com
 127.0.0.1 www.willysy.com
 127.0.0.1 www.youcanoptout.com
