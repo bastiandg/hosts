@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 07 Nov 2016 at 16:58:20 GMT
+# Last updated: Tue, 08 Nov 2016 at 06:42:31 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6578,6 +6578,9 @@
 127.0.0.1 cdn.freefaits.com
 127.0.0.1 cdn.freefarcy.com
 127.0.0.1 cdn.freehalves.com
+127.0.0.1 cdn.freehas.com
+127.0.0.1 cdn.freehonor.com
+127.0.0.1 cdn.freeimply.com
 127.0.0.1 cdn.go.arbo.bbelements.com
 127.0.0.1 cdn.go.arbopl.bbelements.com
 127.0.0.1 cdn.go.cz.bbelements.com
@@ -6622,6 +6625,7 @@
 127.0.0.1 cell-phone-giveaways.com
 127.0.0.1 cellphoneincentives.com
 127.0.0.1 cent.adbureau.net
+127.0.0.1 center-message-mobile.com
 127.0.0.1 c.es.msn.com
 127.0.0.1 cfg.adsmogo.com
 127.0.0.1 cfg.datafastguru.info
@@ -7410,6 +7414,7 @@
 127.0.0.1 go.spaceshipads.com
 127.0.0.1 got2goshop.com
 127.0.0.1 goto.trafficmultiplier.com
+127.0.0.1 go.verymuchad.com
 127.0.0.1 gozatar.com
 127.0.0.1 gozing.directtrack.com
 127.0.0.1 grabbit-rabbit.com
@@ -8417,6 +8422,7 @@
 127.0.0.1 partners.salesforce.com
 127.0.0.1 partners.sprintrade.com
 127.0.0.1 partners.webmasterplan.com
+127.0.0.1 partner.tagscreator.com
 127.0.0.1 partner-ts.groupon.be
 127.0.0.1 partner-ts.groupon.com
 127.0.0.1 partner-ts.groupon.co.uk
@@ -8692,6 +8698,7 @@
 127.0.0.1 quik-serv.com
 127.0.0.1 r1-ads.ace.advertising.com
 127.0.0.1 r2.adwo.com
+127.0.0.1 r7mediar.com
 127.0.0.1 r.ace.advertising.com
 127.0.0.1 radaronline.advertserve.com
 127.0.0.1 rad.live.com

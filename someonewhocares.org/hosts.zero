@@ -3513,6 +3513,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.freefaits.com
 0.0.0.0 cdn.freefarcy.com
 0.0.0.0 cdn.freehalves.com
+0.0.0.0 cdn.freehas.com
+0.0.0.0 cdn.freehonor.com
+0.0.0.0 cdn.freeimply.com
 0.0.0.0 cdn.go.arbo.bbelements.com
 0.0.0.0 cdn.go.arbopl.bbelements.com
 0.0.0.0 cdn.go.cz.bbelements.com
@@ -3582,6 +3585,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cell-phone-giveaways.com
 0.0.0.0 cellphoneincentives.com
 0.0.0.0 cent.adbureau.net
+0.0.0.0 center-message-mobile.com
 0.0.0.0 cephalexin.ourtablets.com
 0.0.0.0 cf.addthis.com
 0.0.0.0 cf.kampyle.com
@@ -5235,6 +5239,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 go.pl.bbelements.com
 0.0.0.0 go.pol.bbelements.com
 0.0.0.0 go.spaceshipads.com
+0.0.0.0 go.verymuchad.com
 0.0.0.0 go2.hit.gemius.pl
 0.0.0.0 goat.cx
 0.0.0.0 goatse.bz
@@ -7754,6 +7759,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 partner.join.com.ua
 0.0.0.0 partner.magna.ru
 0.0.0.0 partner.pobieraczek.pl
+0.0.0.0 partner.tagscreator.com
 0.0.0.0 partner.wapacz.pl
 0.0.0.0 partner.wapster.pl
 0.0.0.0 partner01.oingo.com
@@ -8191,6 +8197,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 r.turn.com
 0.0.0.0 r1-ads.ace.advertising.com
 0.0.0.0 r2.adwo.com
+0.0.0.0 r7mediar.com
 0.0.0.0 rad.live.com
 0.0.0.0 rad.msn.com
 0.0.0.0 radaronline.advertserve.com
