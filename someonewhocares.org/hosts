@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 08 Nov 2016 at 06:42:31 GMT
+# Last updated: Thu, 10 Nov 2016 at 08:25:14 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6581,6 +6581,9 @@
 127.0.0.1 cdn.freehas.com
 127.0.0.1 cdn.freehonor.com
 127.0.0.1 cdn.freeimply.com
+127.0.0.1 cdn.freeinfringe.com
+127.0.0.1 cdn.freejars.com
+127.0.0.1 cdn.freejax.com
 127.0.0.1 cdn.go.arbo.bbelements.com
 127.0.0.1 cdn.go.arbopl.bbelements.com
 127.0.0.1 cdn.go.cz.bbelements.com
@@ -7413,6 +7416,7 @@
 127.0.0.1 go.pol.bbelements.com
 127.0.0.1 go.spaceshipads.com
 127.0.0.1 got2goshop.com
+127.0.0.1 goto.mystreamdelivery.xyz
 127.0.0.1 goto.trafficmultiplier.com
 127.0.0.1 go.verymuchad.com
 127.0.0.1 gozatar.com
@@ -7655,6 +7659,7 @@
 127.0.0.1 incentiverewardcenter.com
 127.0.0.1 incentive-scene.com
 127.0.0.1 indexhu.adocean.pl
+127.0.0.1 indisancal.com
 127.0.0.1 INDpolice.com
 127.0.0.1 industry-deals.com
 127.0.0.1 infinite-ads.com
@@ -7814,6 +7819,7 @@
 127.0.0.1 kos.interseek.si
 127.0.0.1 kreaffiliation.com
 127.0.0.1 kropka.onet.pl
+127.0.0.1 ktrackdata.com
 127.0.0.1 ku6afp.allyes.com
 127.0.0.1 ku6.allyes.com
 127.0.0.1 kuhdi.com
@@ -7822,6 +7828,7 @@
 127.0.0.1 l.5min.com
 127.0.0.1 l.admob.com
 127.0.0.1 ladyclicks.ru
+127.0.0.1 lamiflor.xyz
 127.0.0.1 land.purifier.cc
 127.0.0.1 lanzar.publicidadweb.com
 127.0.0.1 laptopreportcard.com
@@ -8173,6 +8180,7 @@
 127.0.0.1 myoffertracking.com
 127.0.0.1 my-reward-channel.com
 127.0.0.1 my-rewardsvault.com
+127.0.0.1 mysagagame.com
 127.0.0.1 myseostats.com
 127.0.0.1 my.trgino.com
 127.0.0.1 myusersonline.com
@@ -8229,6 +8237,7 @@
 127.0.0.1 ng3.ads.warnerbros.com
 127.0.0.1 ngads.smartage.com
 127.0.0.1 ng.virgul.com
+127.0.0.1 nicappazaza.com
 127.0.0.1 nickleplatedads.com
 127.0.0.1 nitrous.exitfuel.com
 127.0.0.1 nitrous.internetfuel.com
@@ -8485,6 +8494,7 @@
 127.0.0.1 photos8.pop6.com
 127.0.0.1 photos.daily-deals.analoganalytics.com
 127.0.0.1 photos.pop6.com
+127.0.0.1 phox2ey.bid
 127.0.0.1 phpads.astalavista.us
 127.0.0.1 phpads.cnpapers.com
 127.0.0.1 phpads.flipcorp.com
@@ -8967,6 +8977,7 @@
 127.0.0.1 secure.img-cdn.mediaplex.com
 127.0.0.1 secure-js.kontera.com
 127.0.0.1 securemacfix.com
+127.0.0.1 securerr.com
 127.0.0.1 securerunner.com
 127.0.0.1 secure.webconnect.net
 127.0.0.1 seduction-zone.com
@@ -9419,6 +9430,7 @@
 127.0.0.1 topsurvey-offers.com
 127.0.0.1 toroadvertisingmedia.com
 127.0.0.1 touche.adcentric.proximi-t.com
+127.0.0.1 tour.cineble.com
 127.0.0.1 tower.adexpedia.com
 127.0.0.1 toy-offer.com
 127.0.0.1 toy-offer.net
@@ -10046,6 +10058,7 @@
 127.0.0.1 www.banstex.com
 127.0.0.1 www.bargainbeautybuys.com
 127.0.0.1 www.bbelements.com
+127.0.0.1 www.best-games4you.top
 127.0.0.1 www.best-iphone6s.com
 127.0.0.1 www.bestshopperrewards.com
 127.0.0.1 www.bet365.com
@@ -10765,6 +10778,7 @@
 127.0.0.1 xlivehost.com
 127.0.0.1 xlonhcld.xlontech.net
 127.0.0.1 xml.adfclick1.com
+127.0.0.1 xml.adservme.com
 127.0.0.1 xml.adtech.de
 127.0.0.1 xml.adtech.fr
 127.0.0.1 xml.adtech.us
