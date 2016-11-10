@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 10 Nov 2016 at 08:25:14 GMT
+# Last updated: Thu, 10 Nov 2016 at 17:19:07 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8376,7 +8376,6 @@
 127.0.0.1 orange.recompenses.xyz
 127.0.0.1 orange.weborama.fr
 127.0.0.1 ordie.adbureau.net
-127.0.0.1 orientaltrading.com
 127.0.0.1 origin.chron.com
 127.0.0.1 ortaklik.mynet.com
 127.0.0.1 outils.yesmessenger.com
@@ -8902,7 +8901,6 @@
 127.0.0.1 s3.buysellads.com
 127.0.0.1 s5.addthis.com
 127.0.0.1 s7.addthis.com
-127.0.0.1 s7.orientaltrading.com
 127.0.0.1 s.ad121m.com
 127.0.0.1 s.ad131m.com
 127.0.0.1 s.admob.com
