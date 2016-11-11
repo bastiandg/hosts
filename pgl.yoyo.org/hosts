@@ -97,6 +97,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ad.abcnews.com
 127.0.0.1 ad.abctv.com
 127.0.0.1 ad.about.com
+127.0.0.1 ad.aboutit.de
 127.0.0.1 ad.aboutwebservices.com
 127.0.0.1 ad.abum.com
 127.0.0.1 ad.afy11.net
@@ -397,7 +398,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.bonniercorp.com
 127.0.0.1 ads.boylesports.com
 127.0.0.1 ads.brabys.com
-127.0.0.1 ads.brain.pk
 127.0.0.1 ads.brazzers.com
 127.0.0.1 ads.bumq.com
 127.0.0.1 ads.businessweek.com

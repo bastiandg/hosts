@@ -852,6 +852,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad.abcnews.com
 127.0.0.1 ad.abctv.com
 127.0.0.1 ad.about.com
+127.0.0.1 ad.aboutit.de
 127.0.0.1 ad.aboutwebservices.com
 127.0.0.1 ad.abum.com
 127.0.0.1 ad.accessmediaproductions.com
@@ -2355,7 +2356,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.box.sk
 127.0.0.1 ads.boylesports.com
 127.0.0.1 ads.brabys.com
-127.0.0.1 ads.brain.pk
 127.0.0.1 ads.brand.net
 127.0.0.1 ads.brandeins.de
 127.0.0.1 ads.brazzers.com
