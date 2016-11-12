@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 10 Nov 2016 at 17:19:07 GMT
+# Last updated: Sat, 12 Nov 2016 at 17:50:31 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2288,6 +2288,7 @@
 127.0.0.1 rpmdo.com
 127.0.0.1 rtc.romdiscover.com
 127.0.0.1 russian-sex.com
+127.0.0.1 ryanrhodes.net
 127.0.0.1 s4d.in
 127.0.0.1 safedownloadcenter.com
 127.0.0.1 safedownloadsrus166.com
