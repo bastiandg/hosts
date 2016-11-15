@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 14 Nov 2016 at 21:50:53 GMT
+# Last updated: Tue, 15 Nov 2016 at 17:55:02 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6033,7 +6033,9 @@
 127.0.0.1 afkarehroshan.com
 127.0.0.1 afp.qiyi.com
 127.0.0.1 afunnygames.com
+127.0.0.1 agisdayra.com
 127.0.0.1 agkn.com
+127.0.0.1 ahzahg6ohb.com
 127.0.0.1 aimg.haber3.com
 127.0.0.1 aj.600z.com
 127.0.0.1 ajcclassifieds.com
@@ -6585,7 +6587,9 @@
 127.0.0.1 cdn.freeimply.com
 127.0.0.1 cdn.freeinfringe.com
 127.0.0.1 cdn.freejars.com
+127.0.0.1 cdn.freejaw.com
 127.0.0.1 cdn.freejax.com
+127.0.0.1 cdn.freejlo.com
 127.0.0.1 cdn.go.arbo.bbelements.com
 127.0.0.1 cdn.go.arbopl.bbelements.com
 127.0.0.1 cdn.go.cz.bbelements.com
@@ -7949,6 +7953,7 @@
 127.0.0.1 mackeeperapp2.mackeeper.com
 127.0.0.1 mackeeperapp3.mackeeper.com
 127.0.0.1 mackeeperapp.mackeeper.com
+127.0.0.1 macleaner.space
 127.0.0.1 mac.system-alert1.com
 127.0.0.1 mad2.brandreachsys.com
 127.0.0.1 madadsmedia.com
@@ -8256,6 +8261,7 @@
 127.0.0.1 novafinanza.com
 127.0.0.1 novem.onet.pl
 127.0.0.1 nowruzbakher.com
+127.0.0.1 nowtestpc.updatenewfresh4u.top
 127.0.0.1 nrads.1host.co.il
 127.0.0.1 nrkno.linkpulse.com
 127.0.0.1 ns1.lalibco.com
@@ -8269,6 +8275,7 @@
 127.0.0.1 nsclick.baidu.com
 127.0.0.1 nspmotion.com
 127.0.0.1 nstat.tudou.com
+127.0.0.1 nst.broadcast.pm
 127.0.0.1 ns-vip1.hitbox.com
 127.0.0.1 ns-vip2.hitbox.com
 127.0.0.1 ns-vip3.hitbox.com
@@ -9059,6 +9066,8 @@
 127.0.0.1 serv-load.com
 127.0.0.1 servserv.generals.ea.com
 127.0.0.1 serv.tooplay.com
+127.0.0.1 setupdate24.updateworkfreshandnew.space
+127.0.0.1 setupdate24.updateworkfreshandnew.website
 127.0.0.1 sex-now5.com
 127.0.0.1 sexpartnerx.com
 127.0.0.1 sex-sex-sex5.com
@@ -9495,6 +9504,7 @@
 127.0.0.1 tropiccritics.com
 127.0.0.1 tr.tu.connect.wunderloop.net
 127.0.0.1 trustedmaccleaner.com
+127.0.0.1 trustedmacleaner.work
 127.0.0.1 trustsitesite.com
 127.0.0.1 trvlnet.adbureau.net
 127.0.0.1 trvlnet-images.adbureau.net
@@ -9770,6 +9780,7 @@
 127.0.0.1 wangmeng.baidu.com
 127.0.0.1 wap.casee.cn
 127.0.0.1 warp.crystalad.com
+127.0.0.1 w.bigames.online
 127.0.0.1 wdm29.com
 127.0.0.1 web1b.netreflector.com
 127.0.0.1 web.adblade.com
@@ -10050,6 +10061,7 @@
 127.0.0.1 www.awesomevipoffers.com
 #127.0.0.1 www.awin1.com	# Causes problems with British Airways
 127.0.0.1 www.awltovhc.com	#qksrv
+127.0.0.1 www.baiduccdn.org
 127.0.0.1 www.baiducdn.org
 127.0.0.1 www.bananacashback.com
 127.0.0.1 www.banner4all.dk
