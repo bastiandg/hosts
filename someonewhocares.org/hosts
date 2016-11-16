@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 15 Nov 2016 at 17:55:02 GMT
+# Last updated: Wed, 16 Nov 2016 at 02:06:03 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -416,6 +416,10 @@
 127.0.0.1 beta.easy-hit-counter.com
 127.0.0.1 beta.easy-hit-counters.com
 127.0.0.1 beta.easyhitcounters.com
+127.0.0.1 bigdata.adfuture.cn
+127.0.0.1 bigdata.adsunflower.com
+127.0.0.1 bigdata.adups.com
+127.0.0.1 bigdata.advmob.cn
 127.0.0.1 bilbo.counted.com
 127.0.0.1 bin.clearspring.com
 127.0.0.1 birta.stats.is
