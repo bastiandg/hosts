@@ -1600,7 +1600,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.smartclicks.net
 0.0.0.0 ads.smowtion.com
 0.0.0.0 ads.snowball.com
-0.0.0.0 ads.socialmedia.com
 0.0.0.0 ads.socialtheater.com
 0.0.0.0 ads.sohh.com
 0.0.0.0 ads.somethingawful.com
@@ -3298,6 +3297,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 c.admob.com
 0.0.0.0 c.adroll.com
 0.0.0.0 c.am10.ru
+0.0.0.0 c.anytrx.com
 0.0.0.0 c.ar.msn.com
 0.0.0.0 c.as-us.falkag.net
 0.0.0.0 c.at.msn.com
@@ -5866,6 +5866,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 j.adlooxtracking.com
 0.0.0.0 j.admob.com
 0.0.0.0 j.clickdensity.com
+0.0.0.0 j3safetyismyname.com
 0.0.0.0 jajajaj-thats-you-really.com
 0.0.0.0 jambocast.com
 0.0.0.0 janezk.50webs.co
@@ -9631,6 +9632,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 toroadvertisingmedia.com
 0.0.0.0 torstarcollect.247realmedia.com
 0.0.0.0 torstardigital.122.2o7.net
+0.0.0.0 touch.media-serving.com
 0.0.0.0 touche.adcentric.proximi-t.com
 0.0.0.0 tour.cineble.com
 0.0.0.0 tour.sweetdiscreet.com
@@ -10185,6 +10187,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 vacation.toppick.info
 0.0.0.0 vad.adbasket.net
 0.0.0.0 vads.adbrite.com
+0.0.0.0 vaitu.club
 0.0.0.0 valb.atm.youku.com
 0.0.0.0 valc.atm.youku.com
 0.0.0.0 valf.atm.youku.com

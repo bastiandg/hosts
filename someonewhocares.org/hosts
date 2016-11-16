@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 16 Nov 2016 at 02:06:03 GMT
+# Last updated: Wed, 16 Nov 2016 at 15:01:35 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5665,7 +5665,6 @@
 127.0.0.1 ads.smartclicks.net
 127.0.0.1 ads.smowtion.com
 127.0.0.1 ads.snowball.com
-127.0.0.1 ads.socialmedia.com
 127.0.0.1 ads.socialtheater.com
 127.0.0.1 ads.sohh.com
 127.0.0.1 ads.somethingawful.com
@@ -6504,6 +6503,7 @@
 127.0.0.1 canadaalltax.com
 127.0.0.1 canuckmethod.com
 127.0.0.1 canuckmethod.net
+127.0.0.1 c.anytrx.com
 127.0.0.1 capath.com
 127.0.0.1 carambo.la
 127.0.0.1 cardgamespidersolitaire.com
@@ -7740,6 +7740,7 @@
 127.0.0.1 iwantmygiftcard.com
 127.0.0.1 i.w.inmobi.com
 127.0.0.1 iwstat.tudou.com
+127.0.0.1 j3safetyismyname.com
 127.0.0.1 j.adlooxtracking.com
 127.0.0.1 j.admob.com
 127.0.0.1 jambocast.com
@@ -9445,6 +9446,7 @@
 127.0.0.1 topsurvey-offers.com
 127.0.0.1 toroadvertisingmedia.com
 127.0.0.1 touche.adcentric.proximi-t.com
+127.0.0.1 touch.media-serving.com
 127.0.0.1 tour.cineble.com
 127.0.0.1 tower.adexpedia.com
 127.0.0.1 toy-offer.com
@@ -9594,6 +9596,7 @@
 127.0.0.1 vad.adbasket.net
 127.0.0.1 v.admob.com
 127.0.0.1 vads.adbrite.com
+127.0.0.1 vaitu.club
 127.0.0.1 valb.atm.youku.com
 127.0.0.1 valc.atm.youku.com
 127.0.0.1 valf.atm.youku.com

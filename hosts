@@ -3344,7 +3344,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.smartshoppingads.de
 127.0.0.1 ads.smowtion.com
 127.0.0.1 ads.snowball.com
-127.0.0.1 ads.socialmedia.com
 127.0.0.1 ads.socialreach.com
 127.0.0.1 ads.socialtheater.com
 127.0.0.1 ads.soft32.com
@@ -6925,6 +6924,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.am10.ru
 127.0.0.1 c.am11.ru
 127.0.0.1 c.amazon-adsystem.com
+127.0.0.1 c.anytrx.com
 127.0.0.1 c.ar.msn.com
 127.0.0.1 c.as-us.falkag.net
 127.0.0.1 c.at.msn.com
@@ -12896,6 +12896,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 j.pioneeringad.com
 127.0.0.1 j.theadsnet.com
 127.0.0.1 j.traffichunt.com
+127.0.0.1 j3safetyismyname.com
 127.0.0.1 ja.revolvermaps.com
 127.0.0.1 jabu.popunder.ru
 127.0.0.1 jackpot.112.2o7.net
@@ -21470,6 +21471,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 totemcash.com
 127.0.0.1 tothecenter.us.intellitxt.com
 127.0.0.1 totszentmarton.hu
+127.0.0.1 touch.media-serving.com
 127.0.0.1 touchclarity.com
 127.0.0.1 touchclarity.natwest.com
 127.0.0.1 touche.adcentric.proximi-t.com
@@ -22586,6 +22588,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vad.adbasket.net
 127.0.0.1 vads.adbrite.com
 127.0.0.1 vaime.net.popunder.ru
+127.0.0.1 vaitu.club
 127.0.0.1 valb.atm.youku.com
 127.0.0.1 valc.atm.youku.com
 127.0.0.1 valf.atm.youku.com
