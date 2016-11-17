@@ -21,7 +21,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 14 Oct 2016 13:39:41 GMT
+# last updated:   Thu, 17 Nov 2016 15:34:10 GMT
 # entries:        2359
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -2172,7 +2172,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 top100-images.rambler.ru
 127.0.0.1 top100.mafia.ru
 127.0.0.1 top123.ro
-127.0.0.1 top20.com
+127.0.0.1 top20.com.invalid
 127.0.0.1 top20free.com
 127.0.0.1 top90.ro
 127.0.0.1 topbarh.box.sk

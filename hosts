@@ -21409,7 +21409,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 top100italiana.com
 127.0.0.1 top123.ro
 127.0.0.1 top1site.3host.com
-127.0.0.1 top20.com
+127.0.0.1 top20.com.invalid
 127.0.0.1 top20free.com
 127.0.0.1 top3.list.ru
 127.0.0.1 top5.mail.ru
