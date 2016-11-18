@@ -4931,7 +4931,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 affiliates.genealogybank.com
 0.0.0.0 affiliates.globat.com
 0.0.0.0 affiliates.hookup.com
-0.0.0.0 affiliates.ige.com
 0.0.0.0 affiliates.internationaljock.com
 0.0.0.0 affiliates.lifeselector.com
 0.0.0.0 affiliates.neteller.com
@@ -13227,6 +13226,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 kidsinsandbox.info
 0.0.0.0 kiks.yandex.ru
 0.0.0.0 killerstartups.us.intellitxt.com
+0.0.0.0 kindads.com
 0.0.0.0 kinder.oewabox.at
 0.0.0.0 kingskillz.ru
 0.0.0.0 kinofree.popunder.ru
@@ -17462,6 +17462,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pq.stat.ku6.com
 0.0.0.0 pqwaker.altervista.org
 0.0.0.0 pr-cy.ru
+0.0.0.0 pr-star.de
 0.0.0.0 pr-ten.de
 0.0.0.0 pr.20min.es
 0.0.0.0 pr.5.p2l.info

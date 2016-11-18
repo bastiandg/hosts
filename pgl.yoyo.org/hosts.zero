@@ -885,7 +885,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 affiliates.babylon.com
 0.0.0.0 affiliates.digitalriver.com
 0.0.0.0 affiliates.globat.com
-0.0.0.0 affiliates.ige.com
 0.0.0.0 affiliates.internationaljock.com
 0.0.0.0 affiliates.streamray.com
 0.0.0.0 affiliates.thinkhost.net
@@ -1465,6 +1464,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 hit.webcentre.lycos.co.uk
 0.0.0.0 hitbox.com
 0.0.0.0 hitcents.com
+0.0.0.0 hitexchange.net
 0.0.0.0 hitfarm.com
 0.0.0.0 hitiz.com
 0.0.0.0 hitlist.ru
@@ -1567,6 +1567,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 k.iinfo.cz
 0.0.0.0 kanoodle.com
 0.0.0.0 keymedia.hu
+0.0.0.0 kindads.com
 0.0.0.0 kissmetrics.com
 0.0.0.0 kliks.nl
 0.0.0.0 komoona.com
@@ -1857,6 +1858,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 porntrack.com
 0.0.0.0 postrelease.com
 0.0.0.0 potenza.cz
+0.0.0.0 pr-star.de
 0.0.0.0 pr-ten.de
 0.0.0.0 praddpro.de
 0.0.0.0 prchecker.info
