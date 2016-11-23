@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 21 Nov 2016 at 15:22:11 GMT
+# Last updated: Wed, 23 Nov 2016 at 02:30:58 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5982,6 +5982,7 @@
 127.0.0.1 adx.groupstate.com
 127.0.0.1 adx.hendersonvillenews.com
 127.0.0.1 adx.heraldtribune.com
+127.0.0.1 adxite-ads.com
 127.0.0.1 adxpose.com
 127.0.0.1 adx.starnewsonline.com
 127.0.0.1 ad.xtendmedia.com
