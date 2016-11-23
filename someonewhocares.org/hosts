@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 23 Nov 2016 at 02:30:58 GMT
+# Last updated: Wed, 23 Nov 2016 at 07:17:04 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -4371,6 +4371,7 @@
 127.0.0.1 ad.ntvmsnbc.com
 127.0.0.1 adnxs.com
 127.0.0.1 adnxs.revsci.net
+127.0.0.1 adn.zone-telechargement.com
 127.0.0.1 adobee.com
 127.0.0.1 adobe.tt.omtrdc.net
 127.0.0.1 adobur.com
@@ -6120,6 +6121,7 @@
 127.0.0.1 appsrv1.madserving.cn
 127.0.0.1 ap.read.mediation.pns.ap.orangeads.fr
 127.0.0.1 a.prisacom.com
+127.0.0.1 aptitude.newversionupdatefreshand4you.space
 127.0.0.1 apx.moatads.com
 127.0.0.1 arabtechmessenger.net
 127.0.0.1 a.rad.live.com
@@ -6596,6 +6598,8 @@
 127.0.0.1 cdn.freejaw.com
 127.0.0.1 cdn.freejax.com
 127.0.0.1 cdn.freejlo.com
+127.0.0.1 cdn.freelac.com
+127.0.0.1 cdn.freelev.com
 127.0.0.1 cdn.go.arbo.bbelements.com
 127.0.0.1 cdn.go.arbopl.bbelements.com
 127.0.0.1 cdn.go.cz.bbelements.com
@@ -8060,6 +8064,7 @@
 127.0.0.1 mediapst.adbureau.net
 127.0.0.1 mediapst-images.adbureau.net
 127.0.0.1 medias.clicks4ads.com
+127.0.0.1 medias.europacash.com
 127.0.0.1 mediative.ca
 127.0.0.1 mediative.com
 127.0.0.1 media.trafficfactory.biz
@@ -8336,6 +8341,7 @@
 127.0.0.1 offertrakking.info
 127.0.0.1 offertunity.click
 127.0.0.1 offerx.co.uk
+127.0.0.1 ohmydating.com
 127.0.0.1 oidiscover.com
 127.0.0.1 oimsgad.qq.com
 127.0.0.1 oinadserve.com
@@ -8361,6 +8367,7 @@
 127.0.0.1 online1.webcams.com
 127.0.0.1 onlineads.magicvalley.com
 127.0.0.1 onlinebestoffers.net
+127.0.0.1 only2date.com
 127.0.0.1 onocollect.247realmedia.com
 127.0.0.1 open.4info.net
 127.0.0.1 openadext.tf1.fr
