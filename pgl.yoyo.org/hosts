@@ -29,7 +29,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 22 Nov 2016 00:00:00
+# start date:    Wed, 23 Nov 2016 00:00:00
 127.0.0.1 101com.com
 127.0.0.1 101order.com
 127.0.0.1 123found.com
