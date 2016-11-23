@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 22 Nov 2016 13:10:09 GMT
-# entries:        2363
+# last updated:   Wed, 23 Nov 2016 08:35:34 GMT
+# entries:        2364
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1509,6 +1509,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 hollandbusinessadvertising.nl
 127.0.0.1 homepageking.de
 127.0.0.1 hostedads.realitykings.com
+127.0.0.1 hotjar.com
 127.0.0.1 hotkeys.com
 127.0.0.1 hotlog.ru
 127.0.0.1 hotrank.com.tw
