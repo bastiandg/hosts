@@ -10211,7 +10211,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 euniverseads.com
 0.0.0.0 eur.a1.yimg.com
 0.0.0.0 eurekster.com
-0.0.0.0 euro-linkindex.de
 0.0.0.0 euro-vertrieb.com
 0.0.0.0 euroad1.advantage.as
 0.0.0.0 euroclick.com
@@ -17987,6 +17986,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rampidads.com
 0.0.0.0 randevumads.com
 0.0.0.0 rank-master.com
+0.0.0.0 rank-master.de
 0.0.0.0 rankchamp.de
 0.0.0.0 ranker.springboardplatform.com
 0.0.0.0 ranking-charts.de

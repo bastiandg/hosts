@@ -1343,7 +1343,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 eu1.madsone.com
 0.0.0.0 eur.a1.yimg.com
 0.0.0.0 eurekster.com
-0.0.0.0 euro-linkindex.de
 0.0.0.0 euroclick.com
 0.0.0.0 euros4click.de
 0.0.0.0 eusta.de
@@ -1915,6 +1914,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 radiate.com
 0.0.0.0 rampidads.com
 0.0.0.0 rank-master.com
+0.0.0.0 rank-master.de
 0.0.0.0 rankchamp.de
 0.0.0.0 ranking-charts.de
 0.0.0.0 ranking-hits.de
