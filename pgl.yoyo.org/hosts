@@ -21,7 +21,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 23 Nov 2016 08:35:34 GMT
+# last updated:   Mon, 28 Nov 2016 08:56:45 GMT
 # entries:        2363
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -1452,7 +1452,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 getclicky.com
 127.0.0.1 globalismedia.com
 127.0.0.1 globaltakeoff.net
-127.0.0.1 globaltrack.com
+127.0.0.1 globaltrack.com.invalid
 127.0.0.1 globe7.com
 127.0.0.1 globus-inter.com
 127.0.0.1 gmads.net
