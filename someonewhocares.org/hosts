@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 23 Nov 2016 at 07:17:04 GMT
+# Last updated: Tue, 29 Nov 2016 at 07:41:52 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1989,9 +1989,12 @@
 127.0.0.1 a.webwise.net
 127.0.0.1 a.webwise.org
 127.0.0.1 beloysoff.ru
+127.0.0.1 bgl1dr1-a-fixed.sancharnet.in
+127.0.0.1 bgl1pp1-a-fixed.sancharnet.in
 127.0.0.1 bhyuu.com
 127.0.0.1 bighow.net
 127.0.0.1 binsservicesonline.info
+127.0.0.1 bj02.cww.com
 127.0.0.1 blackhat.be
 127.0.0.1 blenz-me.net
 127.0.0.1 bluescreenalert.com
@@ -2006,6 +2009,7 @@
 127.0.0.1 bt.webwise.com
 127.0.0.1 bt.webwise.net
 127.0.0.1 bt.webwise.org
+127.0.0.1 butt-head.mos.ru
 127.0.0.1 b.webwise.com
 127.0.0.1 b.webwise.net
 127.0.0.1 b.webwise.org
@@ -2043,10 +2047,14 @@
 127.0.0.1 c.webwise.net
 127.0.0.1 c.webwise.org
 127.0.0.1 dbios.org
+127.0.0.1 dcproxy1.thrunet.com
 127.0.0.1 dhauzja511.co.cc
 127.0.0.1 dietpharmacyrx.net
+127.0.0.1 dmn2.bjpeu.edu.cn
+127.0.0.1 dns2.net1.it
 127.0.0.1 documents-signature.com
 127.0.0.1 d.oix.com
+127.0.0.1 doors.co.kr
 127.0.0.1 download.abetterinternet.com
 127.0.0.1 d.phormlabs.com
 127.0.0.1 drc-group.net
@@ -2055,7 +2063,9 @@
 127.0.0.1 efreedom.net
 127.0.0.1 e-kasa.w8w.pl
 127.0.0.1 en.likefever.org			# Facebook trojan
+127.0.0.1 enterprise.telesat.com.co
 127.0.0.1 enteryouremail.net
+127.0.0.1 eol1.egyptonline.com
 127.0.0.1 err1.9939118.info
 127.0.0.1 err2.9939118.info
 127.0.0.1 err3.9939118.info
@@ -2078,9 +2088,12 @@
 127.0.0.1 fromru.su
 127.0.0.1 ftdownload.com
 127.0.0.1 fu.golikeus.net			# Facebook trojan
+127.0.0.1 fw433.npic.ac.cn
 127.0.0.1 gadgetsytecnologia.com
+127.0.0.1 gambero3.cs.tin.it
 127.0.0.1 gamelights.ru
 127.0.0.1 gasasthe.freehostia.com
+127.0.0.1 gate.technopolis.kirov.ru
 127.0.0.1 get-answers-fast.com
 127.0.0.1 gglcash4u.info	# twitter worm
 127.0.0.1 girlownedbypolicelike.blogspot.com	# Facebook trojan
@@ -2091,6 +2104,7 @@
 127.0.0.1 h1317070.stratoserver.net
 127.0.0.1 hackerz.ir
 127.0.0.1 hakerzy.net
+127.0.0.1 hakuba.janis.or.jp
 127.0.0.1 hatrecord.ru				# Facebook trojan
 127.0.0.1 hellwert.biz
 127.0.0.1 helpmedb.com
@@ -2104,6 +2118,8 @@
 127.0.0.1 idea21.org
 127.0.0.1 Iframecash.biz
 127.0.0.1 ig.fp.oix.net
+127.0.0.1 imms1.macau.ctm.net
+127.0.0.1 indy.fjmu.edu.cn
 127.0.0.1 infopaypal.com
 127.0.0.1 installmac.com
 127.0.0.1 invite.gezinti.com
@@ -2118,17 +2134,22 @@
 127.0.0.1 jqueryscript.net
 127.0.0.1 jujitsu-ostrava.info
 127.0.0.1 jump.ewoss.net
+127.0.0.1 jur.unn.ac.ru
 127.0.0.1 juste.ru	# Twitter trojan
+127.0.0.1 kacstserv.kacst.edu.sa
 127.0.0.1 kaytri.com
 127.0.0.1 kczambians.com
 127.0.0.1 kentsucks.youcanoptout.com
 127.0.0.1 keybinary.com
 127.0.0.1 kirgo.at	# Facebook phishing attempt
 127.0.0.1 klowns4phun.com
+127.0.0.1 known.counsellor.gov.cn
 127.0.0.1 konflow.com				# Facebook trojan
 127.0.0.1 kplusd.far.ru
 127.0.0.1 kpremium.com
 127.0.0.1 kr.phorm.com
+127.0.0.1 kserv.krldysh.ru
+127.0.0.1 laleh.itrc.ac.ir
 127.0.0.1 lank.ru
 127.0.0.1 levenshteinanswer.com
 127.0.0.1 lighthouse2k.com
@@ -2150,43 +2171,86 @@
 127.0.0.1 m02.webwise.com
 127.0.0.1 m02.webwise.net
 127.0.0.1 m02.webwise.org
+127.0.0.1 m0-s.san.ru
 127.0.0.1 macmeasurmenthub.club
 127.0.0.1 macmeasurmentpro.club
 127.0.0.1 mac-os.apple.com-secured.online
 127.0.0.1 mac-protection.info
+127.0.0.1 mail1.371.net
+127.0.0.1 mail.bangla.net
 127.0.0.1 mail.cyberh.fr
+127.0.0.1 mail.edi.edu.cn
+127.0.0.1 mailgate.sbell.com.cn
+127.0.0.1 mail-gw.jbic.go.jp
+127.0.0.1 mailgw.thtf.com.cn
+127.0.0.1 mail.hallym.ac.kr
+127.0.0.1 mail.hangzhouit.gov.cn
+127.0.0.1 mailhub.minaffet.gov.rw
+127.0.0.1 mail.hz.zh.cn
+127.0.0.1 mail.imamu.edu.sa
+127.0.0.1 mail.interq.or.jp
+127.0.0.1 mail.ioc.ac.ru
+127.0.0.1 mail.issas.ac.cn
+127.0.0.1 mail.pmo.ac.cn
+127.0.0.1 mailscan3.cau.ctm.net
+127.0.0.1 mails.cneic.com.cn
+127.0.0.1 mail.siom.ac.cn
+127.0.0.1 mailsrv02.macau.ctm.net
+127.0.0.1 mailsvra.macau.ctm.net
+127.0.0.1 mail.tropmet.res.in
+127.0.0.1 mail.tsinghua.edu.cn
 127.0.0.1 mail.youcanoptout.com
 127.0.0.1 mail.youcanoptout.net
 127.0.0.1 mail.youcanoptout.org
+127.0.0.1 mail.zzu.edu.cn
 127.0.0.1 malware-live-pro-scanv1.com
 127.0.0.1 maxi4.firstvds.ru
+127.0.0.1 mbi3.kuicr.kyoto-u.ac.jp
+127.0.0.1 mcd-su-2.mos.ru
 127.0.0.1 megasurfin.com
 127.0.0.1 meta.osqa.net
+127.0.0.1 metcoc5cm.clarent.com
 127.0.0.1 miercuri.gq
+127.0.0.1 mipsa.ciae.ac.cn
+127.0.0.1 mn.mn.co.cu
 127.0.0.1 monitor.phorm.com
 127.0.0.1 monkeyball.osa.pl
+127.0.0.1 most.cob.net.ba
 127.0.0.1 movies.701pages.com
+127.0.0.1 mpkhi-bk.multi.net.pk
 127.0.0.1 mplayerdownloader.com
 127.0.0.1 ms0x0000001341.club
+127.0.0.1 msgstore2.pldtprv.net
 127.0.0.1 mshelp247.weebly.com
+127.0.0.1 mtccsun.imtech.ernet.in
 127.0.0.1 murcia-ban.es
 127.0.0.1 mx01.openinternetexchange.com
 127.0.0.1 mx01.openinternetexchange.net
 127.0.0.1 mx01.webwise.com
 127.0.0.1 mx03.phorm.com
+127.0.0.1 mx1.freemail.ne.jp
 127.0.0.1 mylike.co.uk				# Facebook trojan
 127.0.0.1 myprivateemails.com
 127.0.0.1 my-uq.com
+127.0.0.1 n02.unternehmen.com
 127.0.0.1 nactx.com
 127.0.0.1 natashyabaydesign.com
 127.0.0.1 navegador.oi.com.br
 127.0.0.1 navegador.telefonica.com.br
+127.0.0.1 nd11mx1-a-fixed.sancharnet.in
+127.0.0.1 ndl1mc1-a-fixed.sancharnet.in
+127.0.0.1 ndl1mx1-a-fixed.sancharnet.in
+127.0.0.1 ndl1pp1-a-fixed.sancharnet.in
 127.0.0.1 new-dating-2012.info
 127.0.0.1 newtips.co
 127.0.0.1 new-vid-zone-1.blogspot.com.au
 127.0.0.1 newwayscanner.info
 127.0.0.1 nextbestgame.org
+127.0.0.1 no1.unternehemen.com
+127.0.0.1 no3.unternehmen.org
 127.0.0.1 novemberrainx.com
+127.0.0.1 ns1.2911.net
+127.0.0.1 ns1.multi.net.pk
 127.0.0.1 ns1.oix.com
 127.0.0.1 ns1.oix.net
 127.0.0.1 ns1.openinternetexchange.com
@@ -2198,11 +2262,16 @@
 127.0.0.1 ns2.oix.net
 127.0.0.1 ns2.openinternetexchange.com
 127.0.0.1 ns2.phorm.com
+127.0.0.1 ns2.rosprint.ru
 127.0.0.1 ns2.webwise.com
 127.0.0.1 ns2.webwise.net
 127.0.0.1 ns2.webwise.org
+127.0.0.1 ns2.xidian.edu.cn
 127.0.0.1 ns2.youcanoptout.com
 127.0.0.1 ns3.openinternetexchange.com
+127.0.0.1 ns.cac.com.cn
+127.0.0.1 ns.huawei.com.cn
+127.0.0.1 ns.nint.ac.cn
 127.0.0.1 nufindings.info
 127.0.0.1 oferty-online.com
 127.0.0.1 office.officenet.co.kr
@@ -2222,21 +2291,28 @@
 127.0.0.1 online-antispym4.com
 127.0.0.1 onlinewebfind.com
 127.0.0.1 oo-na-na-pics.com
+127.0.0.1 opcwdns.opcw.nl
 127.0.0.1 openinternetexchange.com
 127.0.0.1 openinternetexchange.net
 127.0.0.1 openoverflow.com
+127.0.0.1 opserver01.iti.net.pk
+127.0.0.1 orange.npix.net
 127.0.0.1 ordersildenafil.com
+127.0.0.1 orion.platino.gov.ve
 127.0.0.1 OSQA.com
 127.0.0.1 osqa.net
 127.0.0.1 otsserver.com
 127.0.0.1 outerinfo.com
 127.0.0.1 outlets-online.pl
+127.0.0.1 outweb.nudt.edu.cn
 127.0.0.1 paincake.yoll.net
 127.0.0.1 pchealthcheckup.net
 127.0.0.1 pcnetworkreliablecloudservices.online
 127.0.0.1 pc-scanner16.com
 127.0.0.1 pc-virus-k7d4v9.online
+127.0.0.1 pdns.nudt.edu.cn
 127.0.0.1 personalantispy.com
+127.0.0.1 petra.nic.gov.jo
 127.0.0.1 phatthalung.go.th
 127.0.0.1 phorm.biz.tr
 127.0.0.1 phorm.ch
@@ -2271,6 +2347,9 @@
 127.0.0.1 phpancake.com
 127.0.0.1 picture-uploads.com
 127.0.0.1 pilltabletsrxbargain.net
+127.0.0.1 pop.net21pk.com
+127.0.0.1 postbox.mos.ru
+127.0.0.1 post.netchina.com.cn
 127.0.0.1 powabcyfqe.com
 127.0.0.1 premium-live-scan.com
 127.0.0.1 premiumvideoupdates.com
@@ -2278,12 +2357,14 @@
 127.0.0.1 products-gold.net
 127.0.0.1 proflashdata.com			# Facebook trojan
 127.0.0.1 protectionupdatecenter.com
+127.0.0.1 public2.zz.ha.cn
 127.0.0.1 puush.in
 127.0.0.1 pv.wantsfly.com
 127.0.0.1 qenabled.com
 127.0.0.1 qip.ru
 127.0.0.1 Question2Answer.com
 127.0.0.1 qy.corrmedic.ru
+127.0.0.1 rayo.pereira.multi.net.co
 127.0.0.1 rd.alphabirdnetwork.com
 127.0.0.1 readheadstick.biz
 127.0.0.1 rickrolling.com
@@ -2302,6 +2383,7 @@
 127.0.0.1 scanner.best-protect.info
 127.0.0.1 scottishstuff-online.com	# Canadian bank phishing site
 127.0.0.1 sc-spyware.com
+127.0.0.1 sea.net.edu.cn
 127.0.0.1 search.buzzdock.com
 127.0.0.1 search.conduit.com
 127.0.0.1 search.privitize.com
@@ -2312,7 +2394,9 @@
 127.0.0.1 securitas611maximus.xyz
 127.0.0.1 securityandroidupdate.dinamikaprinting.com
 127.0.0.1 securityscan.us
+127.0.0.1 sedesol.sedesol.gob.mx
 127.0.0.1 seeques.com
+127.0.0.1 segob.gob.mx
 127.0.0.1 sexymarissa.net
 127.0.0.1 shapado.com
 127.0.0.1 shell.xhhow4.com
@@ -2322,7 +2406,11 @@
 127.0.0.1 simplyfwd.com
 127.0.0.1 sinera.org
 127.0.0.1 sjguild.com
+127.0.0.1 sky.kies.co.kr
 127.0.0.1 smile-angel.com
+127.0.0.1 smmu-ipv6.smmu.edu.cn
+127.0.0.1 smtp.2911.net
+127.0.0.1 smtp.macau.ctm.net
 127.0.0.1 sn-gate.com
 127.0.0.1 soclone.com
 127.0.0.1 software-updates.co
@@ -2330,8 +2418,11 @@
 127.0.0.1 solutionscore.com
 127.0.0.1 solveseek.com
 127.0.0.1 someonewhocares.com
+127.0.0.1 sonatns.sonatrach.dz
 127.0.0.1 sousay.info
+127.0.0.1 sparc.nour.net.sa
 127.0.0.1 speedtestbeta.com
+127.0.0.1 sps01.office.ctm.net
 127.0.0.1 stackoverflow.dluat.com
 127.0.0.1 stackoverflow.hex1.ru
 127.0.0.1 stackoverflow.xyz
@@ -2342,9 +2433,11 @@
 127.0.0.1 stopphoulplay.com
 127.0.0.1 stopphoulplay.net
 127.0.0.1 suddenplot.com
+127.0.0.1 sunhe.jinr.ru
 127.0.0.1 superegler.net
 127.0.0.1 supernaturalart.com
 127.0.0.1 superprotection10.com
+127.0.0.1 sussi.cressoft.com.pk
 127.0.0.1 sverd.net
 127.0.0.1 sweet55ium55.com
 127.0.0.1 system-kernel-disk-errorx001dsxx-microsoft-windows.55errors5353.net
@@ -2385,9 +2478,13 @@
 127.0.0.1 tvshowslist.com
 127.0.0.1 twitter.login.kevanshome.org
 127.0.0.1 twitter.secure.bzpharma.net
+127.0.0.1 tx.micro.net.pk
 127.0.0.1 uawj.moqhixoz.cn
 127.0.0.1 ughmvqf.spitt.ru
 127.0.0.1 ui.oix.net
+127.0.0.1 ultra2.tsinghua.edu.cn
+127.0.0.1 unknown.counsellor.gov.cn
+127.0.0.1 unk.vver.kiae.rr
 127.0.0.1 uqz.com
 127.0.0.1 users16.jabry.com
 127.0.0.1 utenti.lycos.it
@@ -2395,12 +2492,16 @@
 127.0.0.1 videos.dskjkiuw.com
 127.0.0.1 videos.twitter.secure-logins01.com # twitter worm (http://mashable.com/2009/09/23/twitter-worm-dms/)
 127.0.0.1 virus-notice.com
+127.0.0.1 voyager1.telesat.com.co
 127.0.0.1 vxiframe.biz
 127.0.0.1 w3facility.org
 127.0.0.1 waldenfarms.com
+127.0.0.1 web-ccfr.tsinghua.edu.cn
 127.0.0.1 weblover.info
 127.0.0.1 webnavegador.com.br
+127.0.0.1 webnetra.entelnet.bo
 127.0.0.1 webpaypal.com
+127.0.0.1 webserv.mos.ru
 127.0.0.1 webwise.com
 127.0.0.1 webwise.net
 127.0.0.1 webwise.org
@@ -2413,10 +2514,12 @@
 127.0.0.1 wm.maxysearch.info
 127.0.0.1 w.oix.net
 127.0.0.1 womo.corrmedic.ru
+127.0.0.1 ws.xjb.ac.cn
 127.0.0.1 www1.bmo.com.hotfrio.com.br
 127.0.0.1 www1.firesavez5.com
 127.0.0.1 www1.firesavez6.com
 127.0.0.1 www1.realsoft34.com
+127.0.0.1 www21.counsellor.gov.cn
 127.0.0.1 www4.gy7k.net
 127.0.0.1 www.abetterinternet.com
 127.0.0.1 www.adshufffle.com
@@ -2436,6 +2539,7 @@
 127.0.0.1 www.blenz-me.net
 127.0.0.1 www.bumerang.cc
 127.0.0.1 www.cambonanza.com
+127.0.0.1 www.caramail.com
 127.0.0.1 www.chelick.net			# Facebook trojan
 127.0.0.1 www.didata.bw
 127.0.0.1 www.dietsecret.ru
@@ -2501,6 +2605,7 @@
 127.0.0.1 www.sexytiger.ru
 127.0.0.1 www.shinilchurch.net	# domain was hacked and had a trojan installed
 127.0.0.1 www.sinera.org
+127.0.0.1 www.siom.ac.cn
 127.0.0.1 www.someonewhocares.com
 127.0.0.1 www.speedtestbeta.com
 127.0.0.1 www.stopphoulplay.com
