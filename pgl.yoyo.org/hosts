@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 29 Nov 2016 16:12:16 GMT
-# entries:        2364
+# last updated:   Wed, 30 Nov 2016 08:09:45 GMT
+# entries:        2365
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1880,6 +1880,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 popup.msn.com
 127.0.0.1 popupmoney.com
 127.0.0.1 popupnation.com
+127.0.0.1 popuppicker.com
 127.0.0.1 popups.infostart.com
 127.0.0.1 popuptraffic.com
 127.0.0.1 porngraph.com
