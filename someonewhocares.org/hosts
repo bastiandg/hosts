@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 29 Nov 2016 at 07:41:52 GMT
+# Last updated: Wed, 30 Nov 2016 at 17:39:00 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7551,7 +7551,6 @@
 127.0.0.1 greasypalm.com
 127.0.0.1 grfx.mp3.com
 127.0.0.1 groupm.com
-127.0.0.1 groupon.pl
 127.0.0.1 grz67.com
 127.0.0.1 gs1.idsales.co.uk
 127.0.0.1 gserv.cneteu.net
