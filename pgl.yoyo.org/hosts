@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 30 Nov 2016 08:09:45 GMT
-# entries:        2365
+# last updated:   Thu, 01 Dec 2016 10:18:19 GMT
+# entries:        2366
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2207,6 +2207,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 track.adform.net
 127.0.0.1 track.anchorfree.com
 127.0.0.1 track.gawker.com
+127.0.0.1 track.happysitewriter.com
 127.0.0.1 trackalyzer.com
 127.0.0.1 tracker.icerocket.com
 127.0.0.1 tracker.marinsm.com
