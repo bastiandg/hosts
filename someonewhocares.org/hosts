@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 02 Dec 2016 at 00:24:28 GMT
+# Last updated: Fri, 02 Dec 2016 at 17:18:24 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -4620,6 +4620,7 @@
 127.0.0.1 ads25.focalink.com
 127.0.0.1 ads2.adbrite.com
 127.0.0.1 ads2.ad-flow.com
+127.0.0.1 ads2-adnow.com
 127.0.0.1 ads2ads.net
 127.0.0.1 ads2.advance.net
 127.0.0.1 ads2.advertwizard.com
@@ -7137,6 +7138,7 @@
 127.0.0.1 dosugcz.biz
 127.0.0.1 dot.wp.pl
 127.0.0.1 dowelsobject.com
+127.0.0.1 downads.com
 127.0.0.1 downloadapps.tech
 127.0.0.1 downloadcdn.com
 127.0.0.1 do-wn-lo-ad.com
@@ -8342,6 +8344,7 @@
 127.0.0.1 netshelter.adtrix.com
 127.0.0.1 netspiderads2.indiatimes.com
 127.0.0.1 netsponsors.com
+127.0.0.1 networkad.net
 127.0.0.1 networkads.net
 127.0.0.1 network-ca.247realmedia.com
 127.0.0.1 network.realmedia.com
@@ -8728,6 +8731,7 @@
 127.0.0.1 promo.streaming-illimite.net
 127.0.0.1 promote-bz.net
 127.0.0.1 promotion.partnercash.com
+127.0.0.1 promoviral.com
 127.0.0.1 protection.ALpolice.com
 127.0.0.1 protection.ASpolice.com
 127.0.0.1 protection.AUpolice.com
@@ -8896,6 +8900,7 @@
 127.0.0.1 rehabretie.com
 127.0.0.1 rek2.tascatlasa.com
 127.0.0.1 reklam-1.com
+127.0.0.1 reklamagaci.com
 127.0.0.1 reklama.onet.pl
 127.0.0.1 reklam.arabul.com
 127.0.0.1 reklam.ebiuniverse.com
@@ -8906,6 +8911,7 @@
 127.0.0.1 reklam-one.com
 127.0.0.1 reklam.softreklam.com
 127.0.0.1 reklam.star.com.tr
+127.0.0.1 reklamtrk.com
 127.0.0.1 reklam.vogel.com.tr
 127.0.0.1 reklam.yonlendir.com
 127.0.0.1 reklamy.sfd.pl
