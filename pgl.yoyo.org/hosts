@@ -1602,6 +1602,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 komoona.com
 127.0.0.1 kompasads.com
 127.0.0.1 kontera.com
+127.0.0.1 kt-g.de
 127.0.0.1 ktu.sv2.biz
 127.0.0.1 lakequincy.com
 127.0.0.1 layer-ad.de
@@ -1881,7 +1882,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 popup.msn.com
 127.0.0.1 popupmoney.com
 127.0.0.1 popupnation.com
-127.0.0.1 popuppicker.com
 127.0.0.1 popups.infostart.com
 127.0.0.1 popuptraffic.com
 127.0.0.1 porngraph.com
