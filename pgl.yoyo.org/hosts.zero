@@ -18,6 +18,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 2mdn.net
 0.0.0.0 2o7.net
 0.0.0.0 360yield.com
+0.0.0.0 4affiliate.net
 0.0.0.0 4d5.net
 0.0.0.0 50websads.com
 0.0.0.0 518ad.com
@@ -361,7 +362,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.betfair.com.au
 0.0.0.0 ads.bigchurch.com
 0.0.0.0 ads.bigfoot.com
-0.0.0.0 ads.billiton.de
 0.0.0.0 ads.bing.com
 0.0.0.0 ads.bittorrent.com
 0.0.0.0 ads.blog.com
