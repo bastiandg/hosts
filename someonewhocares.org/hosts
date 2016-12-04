@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 02 Dec 2016 at 17:18:24 GMT
+# Last updated: Sun, 04 Dec 2016 at 04:28:30 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6140,6 +6140,7 @@
 127.0.0.1 afform.co.uk
 127.0.0.1 affpartners.com
 127.0.0.1 aff.promodeals.nl
+127.0.0.1 affrh2023.com
 127.0.0.1 aff.ringtonepartner.com
 127.0.0.1 afftrack001.com
 127.0.0.1 afftracking.justanswer.com
@@ -10644,6 +10645,7 @@
 127.0.0.1 www.netpaloffers.net
 127.0.0.1 www.news6health.com
 127.0.0.1 www.newssourceoftoday.com
+127.0.0.1 www.nextlnk7.com
 127.0.0.1 www.nospartenaires.com
 127.0.0.1 www.nothing-but-value.com
 127.0.0.1 www.nubijlage.nl
