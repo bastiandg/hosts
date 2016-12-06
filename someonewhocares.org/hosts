@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 05 Dec 2016 at 23:48:50 GMT
+# Last updated: Tue, 06 Dec 2016 at 08:35:03 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6519,6 +6519,7 @@
 127.0.0.1 biz-offer.com
 127.0.0.1 bizographics.com
 127.0.0.1 bizopprewards.com
+127.0.0.1 bj7kpvd.gandjaltilogoki.com
 127.0.0.1 blabla4u.adserver.co.il
 127.0.0.1 blasphemysfhs.info
 127.0.0.1 blatant8jh.info
@@ -6719,6 +6720,9 @@
 127.0.0.1 cdn.imgtty.com
 127.0.0.1 cdn.innovid.com
 127.0.0.1 cdn.komoona.com
+127.0.0.1 cdn.lazymem.com
+127.0.0.1 cdn.lazymic.com
+127.0.0.1 cdn.likeaced.com
 127.0.0.1 cdn.mediative.ca
 127.0.0.1 cdn.merchenta.com
 127.0.0.1 cdn.mobicow.com
@@ -7231,6 +7235,7 @@
 127.0.0.1 epomads2.4shared.com
 127.0.0.1 erie.smartage.com
 127.0.0.1 ero-advertising.com
+127.0.0.1 errorfixing.tech
 127.0.0.1 es.adserver.yahoo.com
 127.0.0.1 escape.insites.eu
 127.0.0.1 espn.footprint.net

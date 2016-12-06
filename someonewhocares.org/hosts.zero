@@ -3122,6 +3122,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 bizographics.com
 0.0.0.0 bizopprewards.com
 0.0.0.0 bj02.cww.com
+0.0.0.0 bj7kpvd.gandjaltilogoki.com
 0.0.0.0 bkrtx.com
 0.0.0.0 bl.wavecdn.de
 0.0.0.0 blabla4u.adserver.co.il
@@ -3550,6 +3551,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.imgtty.com
 0.0.0.0 cdn.innovid.com
 0.0.0.0 cdn.komoona.com
+0.0.0.0 cdn.lazymem.com
+0.0.0.0 cdn.lazymic.com
+0.0.0.0 cdn.likeaced.com
 0.0.0.0 cdn.mediative.ca
 0.0.0.0 cdn.merchenta.com
 0.0.0.0 cdn.mobicow.com
@@ -4742,6 +4746,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 err1.9939118.info
 0.0.0.0 err2.9939118.info
 0.0.0.0 err3.9939118.info
+0.0.0.0 errorfixing.tech
 0.0.0.0 es.adserver.yahoo.com
 0.0.0.0 es.optimost.com
 0.0.0.0 escape.insites.eu
