@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 04 Dec 2016 at 04:28:30 GMT
+# Last updated: Mon, 05 Dec 2016 at 23:48:50 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9415,6 +9415,7 @@
 127.0.0.1 st.blogads.com
 127.0.0.1 s.tcimg.com
 127.0.0.1 stephanie.tnctrx.com
+127.0.0.1 s.thebrighttag.com
 127.0.0.1 st.marketgid.com
 127.0.0.1 stocker.bonnint.net
 127.0.0.1 storage.bulletproofserving.com
@@ -9521,6 +9522,7 @@
 127.0.0.1 tgpmanager.com
 127.0.0.1 thanfocus.com
 127.0.0.1 the-binary-trader.biz
+127.0.0.1 thebrighttag.com
 127.0.0.1 themaplemethod.com
 127.0.0.1 the-path-gateway.com
 127.0.0.1 thepiratetrader.com
