@@ -21,7 +21,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 08 Dec 2016 12:59:51 GMT
+# last updated:   Thu, 08 Dec 2016 22:20:45 GMT
 # entries:        2368
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -2192,7 +2192,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 toplist.pornhost.com
 127.0.0.1 toplista.mw.hu
 127.0.0.1 toplistcity.com
-127.0.0.1 topmmorpgsites.com
+127.0.0.1 topmmorpgsites.com.invalid
 127.0.0.1 topping.com.ua
 127.0.0.1 toprebates.com
 127.0.0.1 topsafelist.net
