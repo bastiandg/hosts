@@ -64,14 +64,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad-space.net
 0.0.0.0 ad-tech.com
 0.0.0.0 ad-up.com
-0.0.0.0 ad.100.tbn.ru
 0.0.0.0 ad.71i.de
 0.0.0.0 ad.980x.com
 0.0.0.0 ad.a8.net
 0.0.0.0 ad.abcnews.com
 0.0.0.0 ad.abctv.com
 0.0.0.0 ad.about.com
-0.0.0.0 ad.aboutit.de
 0.0.0.0 ad.aboutwebservices.com
 0.0.0.0 ad.abum.com
 0.0.0.0 ad.afy11.net
@@ -139,7 +137,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.simgames.net
 0.0.0.0 ad.slutload.com
 0.0.0.0 ad.smartclip.net
-0.0.0.0 ad.tbn.ru
 0.0.0.0 ad.technoratimedia.com
 0.0.0.0 ad.thewheelof.com
 0.0.0.0 ad.turn.com
