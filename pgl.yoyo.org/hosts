@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 08 Dec 2016 22:20:45 GMT
-# entries:        2363
+# last updated:   Sat, 10 Dec 2016 22:32:10 GMT
+# entries:        2374
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -346,6 +346,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adrolays.de
 127.0.0.1 adrotate.de
 127.0.0.1 adrotator.se
+127.0.0.1 adrta.com
 127.0.0.1 ads-click.com
 127.0.0.1 ads.4tube.com
 127.0.0.1 ads.5ci.lt
@@ -1071,6 +1072,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 bans.adserver.co.il
 127.0.0.1 bans.bride.ru
 127.0.0.1 barnesandnoble.bfast.com
+127.0.0.1 basebanner.com
 127.0.0.1 baypops.com
 127.0.0.1 bbelements.com
 127.0.0.1 bbn.img.com.ua
@@ -1084,6 +1086,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 bhclicks.com
 127.0.0.1 bidclix.com
 127.0.0.1 bidclix.net
+127.0.0.1 bidswitch.net
 127.0.0.1 bidtrk.com
 127.0.0.1 bidvertiser.com
 127.0.0.1 bigbangmedia.com
@@ -1132,6 +1135,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 c.bigmir.net
 127.0.0.1 c.compete.com
 127.0.0.1 c1.nowlinux.com
+127.0.0.1 c1exchange.com
 127.0.0.1 campaign.bharatmatrimony.com
 127.0.0.1 caniamedia.com
 127.0.0.1 carbonads.com
@@ -1157,10 +1161,12 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cdn.freefacti.com
 127.0.0.1 cdn.freefarcy.com
 127.0.0.1 cecash.com
+127.0.0.1 centerpointmedia.com
 127.0.0.1 ceskydomov.alias.ngs.modry.cz
 127.0.0.1 cetrk.com
 127.0.0.1 cgicounter.puretec.de
 127.0.0.1 ch.questionmarket.com
+127.0.0.1 chameleon.ad
 127.0.0.1 channelintelligence.com
 127.0.0.1 chart.dk
 127.0.0.1 chartbeat.com
@@ -1197,6 +1203,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 clickhype.com
 127.0.0.1 clicklink.jp
 127.0.0.1 clickmedia.ro
+127.0.0.1 clickonometrics.pl
 127.0.0.1 clicks.equantum.com
 127.0.0.1 clicks.mods.de
 127.0.0.1 clickserve.cc-dt.com
@@ -1300,6 +1307,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 decknetwork.net
 127.0.0.1 deloo.de
 127.0.0.1 demandbase.com
+127.0.0.1 demdex.net
 127.0.0.1 di1.shopping.com
 127.0.0.1 dialerporn.com
 127.0.0.1 didtheyreadit.com
@@ -1378,6 +1386,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 exchange.bg
 127.0.0.1 exchangead.com
 127.0.0.1 exchangeclicksonline.com
+127.0.0.1 exelator.com
 127.0.0.1 exit76.com
 127.0.0.1 exitexchange.com
 127.0.0.1 exitfuel.com
@@ -2103,6 +2112,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 stats.directnic.com
 127.0.0.1 stats.hyperinzerce.cz
 127.0.0.1 stats.mirrorfootball.co.uk
+127.0.0.1 stats.multiup.org
 127.0.0.1 stats.olark.com
 127.0.0.1 stats.suite101.com
 127.0.0.1 stats.surfaid.ihost.com
@@ -2146,6 +2156,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 targetpoint.com
 127.0.0.1 tatsumi-sys.jp
 127.0.0.1 tcads.net
+127.0.0.1 teads.tv
 127.0.0.1 techclicks.net
 127.0.0.1 teenrevenue.com
 127.0.0.1 teliad.de
