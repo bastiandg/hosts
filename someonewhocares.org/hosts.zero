@@ -147,6 +147,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 a.adstome.com
 0.0.0.0 a.as-eu.falkag.net
 0.0.0.0 a.as-us.falkag.net
+0.0.0.0 a.backclick.net
 0.0.0.0 a.baidu.com
 0.0.0.0 a.boom.ro
 0.0.0.0 a.cctv.com
@@ -188,6 +189,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 a4.websponsors.com
 0.0.0.0 a5.websponsors.com
 0.0.0.0 a796faee-7163-4757-a34f-e5b48cada4cb.statcamp.net
+0.0.0.0 a98spolicies.com
 0.0.0.0 aa-nb.marketgid.com
 0.0.0.0 aa.newsblock.dt00.net
 0.0.0.0 aa.newsblock.marketgid.com
@@ -2593,6 +2595,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 alprazolam.ourtablets.com
 0.0.0.0 alprazolamonline.findmenow.info
 0.0.0.0 altfarm.mediaplex.com
+0.0.0.0 alxsite.com
 0.0.0.0 alyssamilano.1stok.com
 0.0.0.0 alyssamilano.ca.tt
 0.0.0.0 alyssamilano.home.sapo.pt
@@ -2882,6 +2885,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 b1.adbrite.com
 0.0.0.0 b1.azjmp.com
 0.0.0.0 b2b.filecloud.me
+0.0.0.0 b34rightym.com
 0.0.0.0 babanetwork.adk2x.com
 0.0.0.0 babycenter.tt.omtrdc.net
 0.0.0.0 babyf.oewabox.at
@@ -4215,6 +4219,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 dash001.prxio.site
 0.0.0.0 dashboard.adcalls.nl
 0.0.0.0 dashboardnew.adcalls.nl
+0.0.0.0 dashgreen.online
 0.0.0.0 data.coremetrics.com
 0.0.0.0 data.flurry.com
 0.0.0.0 data.webads.co.nz
@@ -5265,6 +5270,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 go.arboru.bbelements.com
 0.0.0.0 go.bb007.bbelements.com
 0.0.0.0 go.cz.bbelements.com
+0.0.0.0 go.data1rtb.com
 0.0.0.0 go.eu.bbelements.com
 0.0.0.0 go.evolutionmedia.bbelements.com
 0.0.0.0 go.idmnet.bbelements.com
@@ -7859,6 +7865,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 paperg.com
 0.0.0.0 paques-2016.offre-exceptionnelle.xyz
 0.0.0.0 parent.oewabox.at
+0.0.0.0 parserworld.info
 0.0.0.0 parskabab.com
 0.0.0.0 partner-ts.groupon.be
 0.0.0.0 partner-ts.groupon.co.uk
@@ -8898,6 +8905,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 service.adtech.us
 0.0.0.0 service.bfast.com
 0.0.0.0 service.maxymiser.net
+0.0.0.0 service.mm-r-prop-11-16-2.com
 0.0.0.0 service.urchin.com
 0.0.0.0 service001.adtech.de
 0.0.0.0 service001.adtech.fr
@@ -10410,6 +10418,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 vmcsatellite.com
 0.0.0.0 vmix.adbureau.net
 0.0.0.0 vms.boldchat.com
+0.0.0.0 vn.grab-credit4u.com
 0.0.0.0 vnu.eu-adcenter.net
 0.0.0.0 vnumedia02.webtrekk.net
 0.0.0.0 vnumedia03.webtrekk.net
@@ -10735,6 +10744,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 webwise.net
 0.0.0.0 webwise.org
 0.0.0.0 wegetpaid.net
+0.0.0.0 wegotmedia.co
 0.0.0.0 weight-loss.1.p2l.info
 0.0.0.0 weight-loss.3.p2l.info
 0.0.0.0 weight-loss.4.p2l.info
@@ -11480,6 +11490,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.idirect.com
 0.0.0.0 www.iesnare.co.uk
 0.0.0.0 www.iesnare.com
+0.0.0.0 www.ifileyou.com
 0.0.0.0 www.ihaberadserver.com
 0.0.0.0 www.iicdn.com
 0.0.0.0 www.ijacko.net
