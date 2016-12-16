@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sat, 10 Dec 2016 22:32:10 GMT
-# entries:        2374
+# entries:        2375
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -90,6 +90,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ad-space.net
 127.0.0.1 ad-tech.com
 127.0.0.1 ad-up.com
+127.0.0.1 ad.100.tbn.ru
 127.0.0.1 ad.71i.de
 127.0.0.1 ad.980x.com
 127.0.0.1 ad.a8.net
@@ -163,6 +164,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ad.simgames.net
 127.0.0.1 ad.slutload.com
 127.0.0.1 ad.smartclip.net
+127.0.0.1 ad.tbn.ru
 127.0.0.1 ad.technoratimedia.com
 127.0.0.1 ad.thewheelof.com
 127.0.0.1 ad.turn.com
@@ -224,7 +226,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adclick.com
 127.0.0.1 adclient.uimserv.net
 127.0.0.1 adclient1.tucows.com
-127.0.0.1 adcloud.net
 127.0.0.1 adcomplete.com
 127.0.0.1 adconion.com
 127.0.0.1 adcontent.gamespy.com
