@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 19 Dec 2016 at 07:59:52 GMT
+# Last updated: Mon, 19 Dec 2016 at 20:09:37 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2210,6 +2210,7 @@
 127.0.0.1 megasurfin.com
 127.0.0.1 meta.osqa.net
 127.0.0.1 metcoc5cm.clarent.com
+127.0.0.1 microsoft.com-msoft52.info
 127.0.0.1 miercuri.gq
 127.0.0.1 mipsa.ciae.ac.cn
 127.0.0.1 mn.mn.co.cu
