@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 13 Dec 2016 at 08:56:21 GMT
+# Last updated: Mon, 19 Dec 2016 at 06:23:02 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6570,6 +6570,7 @@
 127.0.0.1 bs.serving-sys.com	#eyeblaster.com
 127.0.0.1 bt.linkpulse.com
 127.0.0.1 bumerangshowsites.hurriyet.com.tr
+127.0.0.1 bundasnovinhas.com
 127.0.0.1 burns.adtech.de
 127.0.0.1 burns.adtech.fr
 127.0.0.1 burns.adtech.us
@@ -6695,6 +6696,7 @@
 127.0.0.1 cdn.assets.craveonline.com
 127.0.0.1 cdn.atlassbx.com
 127.0.0.1 cdn.augur.io
+127.0.0.1 cdnaws.mobidea.com
 127.0.0.1 cdn.banners.scubl.com
 127.0.0.1 cdn.carbonads.com
 127.0.0.1 cdn.cpmstar.com
@@ -6807,6 +6809,7 @@
 127.0.0.1 classicjack.com
 127.0.0.1 c.latam.msn.com
 127.0.0.1 cleaningformac.com
+127.0.0.1 clhctrk.com
 127.0.0.1 click1.mainadv.com
 127.0.0.1 click1.rbc.magna.ru
 127.0.0.1 click2.rbc.magna.ru
@@ -6825,6 +6828,7 @@
 127.0.0.1 click.israelinfo.ru
 127.0.0.1 clickit.go2net.com
 127.0.0.1 clickmedia.ro
+127.0.0.1 click.newviralmobistore.com
 127.0.0.1 click.pulse360.com
 127.0.0.1 clicks2.virtuagirl.com
 127.0.0.1 clicks.adhese.be
@@ -6838,6 +6842,7 @@
 127.0.0.1 clickserve.us2.dartsearch.net
 127.0.0.1 clickserv.sitescout.com
 127.0.0.1 clicks.hurriyet.com.tr
+127.0.0.1 clicks.minimob.com
 127.0.0.1 clicksor.com
 127.0.0.1 clicksotrk.com
 127.0.0.1 clicks.roularta.adhese.com
@@ -7027,6 +7032,7 @@
 127.0.0.1 c.tw.msn.com
 127.0.0.1 ctxtad.tribalfusion.com
 127.0.0.1 c.uk.msn.com
+127.0.0.1 custom.allistracking.com
 127.0.0.1 customerscreensavers.com
 127.0.0.1 cxoadfarm.dyndns.info
 127.0.0.1 cxtad.specificmedia.com
@@ -7516,6 +7522,7 @@
 127.0.0.1 globalnetworkanalys.com
 127.0.0.1 global-promotions.internationalredirects.com
 127.0.0.1 globalwebads.com
+127.0.0.1 global.ymtrack.com
 127.0.0.1 gmads.net
 127.0.0.1 gm.preferences.com
 127.0.0.1 go2.hit.gemius.pl
@@ -8208,6 +8215,7 @@
 127.0.0.1 messagent.duvalguillaume.com
 127.0.0.1 messagent.sanomadigital.nl
 127.0.0.1 messagia.adcentric.proximi-t.com
+127.0.0.1 mesterads.com
 127.0.0.1 metaapi.bulletproofserving.com
 127.0.0.1 meter-svc.nytimes.com
 127.0.0.1 metrics.ikea.com
@@ -8259,6 +8267,7 @@
 127.0.0.1 mobileanalytics.us-west-1.amazonaws.com
 127.0.0.1 mobileanalytics.us-west-2.amazonaws.com
 127.0.0.1 mobile.juicyads.com
+127.0.0.1 mobrevflwms.com
 127.0.0.1 mobscan.info
 127.0.0.1 mobularity.com
 127.0.0.1 mochibot.com
@@ -8458,6 +8467,7 @@
 127.0.0.1 ocslab.com
 127.0.0.1 offer.alibaba.com
 127.0.0.1 offerfactory.click
+127.0.0.1 offerreality.com
 127.0.0.1 offers.bycontext.com
 127.0.0.1 offers.impower.com
 127.0.0.1 offertrakking.info
@@ -8486,6 +8496,7 @@
 127.0.0.1 old-darkroast.adknowledge.com
 127.0.0.1 ometrics.warnerbros.com
 127.0.0.1 onclickads.net
+127.0.0.1 onlinadverts.com
 127.0.0.1 online1.webcams.com
 127.0.0.1 onlineads.magicvalley.com
 127.0.0.1 onlinebestoffers.net
@@ -9594,6 +9605,7 @@
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 tps30.doubleverify.com
 127.0.0.1 tps31.doubleverify.com
+127.0.0.1 traaaack.com
 127.0.0.1 trace.qq.com
 127.0.0.1 track.adbooth.net
 127.0.0.1 track.adjal.com
@@ -9607,9 +9619,12 @@
 127.0.0.1 tracking.craktraffic.com
 127.0.0.1 tracking.edvisors.com
 127.0.0.1 tracking.eurowebaffiliates.com
+127.0.0.1 tracking.feedmob.com
 127.0.0.1 tracking.internetstores.de
 127.0.0.1 tracking.joker.com
 127.0.0.1 tracking.keywordmax.com
+127.0.0.1 tracking.trackmobistore.com
+127.0.0.1 tracking.trksrv.com
 127.0.0.1 tracking.veoxa.com
 127.0.0.1 track.omgpl.com
 127.0.0.1 track.roularta.adhese.com
@@ -9789,6 +9804,9 @@
 127.0.0.1 vnumedia04.webtrekk.net
 127.0.0.1 vocal-mess.com
 127.0.0.1 vodafoneit.solution.weborama.fr
+127.0.0.1 voluumtrk2.com
+127.0.0.1 voluumtrk3.com
+127.0.0.1 voluumtrk.com
 127.0.0.1 voordeel.ad.nl
 127.0.0.1 vox-static.liverail.com
 127.0.0.1 vp.tscapeplay.com
