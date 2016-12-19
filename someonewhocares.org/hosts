@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 19 Dec 2016 at 06:23:02 GMT
+# Last updated: Mon, 19 Dec 2016 at 07:59:52 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7237,6 +7237,7 @@
 127.0.0.1 engine.influads.com
 127.0.0.1 engine.phn.doublepimp.com
 127.0.0.1 engine.rorer.ru
+127.0.0.1 engine.spotscenered.info
 127.0.0.1 enirocode.adtlgc.com
 127.0.0.1 enirodk.adtlgc.com
 127.0.0.1 enn.advertserve.com
@@ -7862,6 +7863,7 @@
 127.0.0.1 istockbargains.com
 127.0.0.1 it.adserver.yahoo.com
 127.0.0.1 itemagic.net
+127.0.0.1 itempana.site
 127.0.0.1 i.total-media.net
 127.0.0.1 itrackerpro.com
 127.0.0.1 i.trkjmp.com
@@ -8531,6 +8533,7 @@
 127.0.0.1 orange.fr-felicitations.xyz
 127.0.0.1 orange.fr-votre-opinion.xyz
 127.0.0.1 orange.fr-votreopinion.xyz
+127.0.0.1 orange.recompenses.win
 127.0.0.1 orange.recompenses.xyz
 127.0.0.1 orange.weborama.fr
 127.0.0.1 ordie.adbureau.net
@@ -9664,6 +9667,7 @@
 127.0.0.1 tropiccritics.com
 127.0.0.1 tr.tu.connect.wunderloop.net
 127.0.0.1 trustedmaccleaner.com
+127.0.0.1 trustedmacleaner.click
 127.0.0.1 trustedmacleaner.work
 127.0.0.1 trustsitesite.com
 127.0.0.1 trvlnet.adbureau.net
@@ -9682,6 +9686,7 @@
 127.0.0.1 tvshowsnow.tvmax.hop.clickbank.net
 127.0.0.1 tw.adserver.yahoo.com
 127.0.0.1 twnads.weather.ca # Canadian Weather Network
+127.0.0.1 u85foldero.com
 127.0.0.1 ua2.admixer.net
 127.0.0.1 uac.advertising.com
 127.0.0.1 u.admob.com
