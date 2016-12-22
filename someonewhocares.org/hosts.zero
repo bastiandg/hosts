@@ -4759,6 +4759,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 err1.9939118.info
 0.0.0.0 err2.9939118.info
 0.0.0.0 err3.9939118.info
+0.0.0.0 error-warning-alert-critical-5x.com
 0.0.0.0 errorfixing.tech
 0.0.0.0 es.adserver.yahoo.com
 0.0.0.0 es.optimost.com
