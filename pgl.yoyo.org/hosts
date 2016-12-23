@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 22 Dec 2016 13:13:46 GMT
-# entries:        2376
+# entries:        2375
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -251,7 +251,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adgridwork.com
 127.0.0.1 adhese.be
 127.0.0.1 adhese.com
-127.0.0.1 adi.mainichi.co.jp
 127.0.0.1 adimage.asiaone.com.sg
 127.0.0.1 adimage.guardian.co.uk
 127.0.0.1 adimages.been.com
