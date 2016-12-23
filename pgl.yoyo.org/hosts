@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 22 Dec 2016 13:13:46 GMT
-# entries:        2375
+# entries:        2373
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1157,7 +1157,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cbanners.virtuagirlhd.com
 127.0.0.1 cben1.net
 127.0.0.1 cbmall.com
-127.0.0.1 cbx.net
 127.0.0.1 cdn.freefacti.com
 127.0.0.1 cdn.freefarcy.com
 127.0.0.1 cecash.com
@@ -1242,7 +1241,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 connextra.com
 127.0.0.1 contaxe.de
 127.0.0.1 content.acc-hd.de
-127.0.0.1 content.ad
 127.0.0.1 contextweb.com
 127.0.0.1 conversantmedia.com
 127.0.0.1 conversionruler.com
@@ -1280,7 +1278,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 crawlability.com
 127.0.0.1 crazypopups.com
 127.0.0.1 creafi-online-media.com
-127.0.0.1 creative.ak.facebook.com
 127.0.0.1 creative.whi.co.nz
 127.0.0.1 creatives.as4x.tmcs.net
 127.0.0.1 creatives.livejasmin.com
@@ -1376,6 +1373,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 eu1.madsone.com
 127.0.0.1 eur.a1.yimg.com
 127.0.0.1 eurekster.com
+127.0.0.1 euro-linkindex.de
 127.0.0.1 euroclick.com
 127.0.0.1 euros4click.de
 127.0.0.1 evergage.com

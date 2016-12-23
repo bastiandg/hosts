@@ -1131,7 +1131,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cben1.net
 0.0.0.0 cbmall.com
-0.0.0.0 cbx.net
 0.0.0.0 cdn.freefacti.com
 0.0.0.0 cdn.freefarcy.com
 0.0.0.0 cecash.com
@@ -1216,7 +1215,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 connextra.com
 0.0.0.0 contaxe.de
 0.0.0.0 content.acc-hd.de
-0.0.0.0 content.ad
 0.0.0.0 contextweb.com
 0.0.0.0 conversantmedia.com
 0.0.0.0 conversionruler.com
@@ -1254,7 +1252,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 crawlability.com
 0.0.0.0 crazypopups.com
 0.0.0.0 creafi-online-media.com
-0.0.0.0 creative.ak.facebook.com
 0.0.0.0 creative.whi.co.nz
 0.0.0.0 creatives.as4x.tmcs.net
 0.0.0.0 creatives.livejasmin.com
@@ -1350,6 +1347,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 eu1.madsone.com
 0.0.0.0 eur.a1.yimg.com
 0.0.0.0 eurekster.com
+0.0.0.0 euro-linkindex.de
 0.0.0.0 euroclick.com
 0.0.0.0 euros4click.de
 0.0.0.0 evergage.com

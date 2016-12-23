@@ -7411,7 +7411,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cbsspln.112.2o7.net
 127.0.0.1 cbstelevisiondistribution.112.2o7.net
 127.0.0.1 cbstv.us.intellitxt.com
-127.0.0.1 cbx.net
 127.0.0.1 cc-dt.com
 127.0.0.1 cc.bridgetrack.com
 127.0.0.1 cc.chango.com
@@ -8404,7 +8403,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 contaxe.de
 127.0.0.1 content-ssl.yieldmanager.com
 127.0.0.1 content.acc-hd.de
-127.0.0.1 content.ad
 127.0.0.1 content.ad-flow.com
 127.0.0.1 content.ad20.net
 127.0.0.1 content.adriver.ru
@@ -10235,6 +10233,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 euniverseads.com
 127.0.0.1 eur.a1.yimg.com
 127.0.0.1 eurekster.com
+127.0.0.1 euro-linkindex.de
 127.0.0.1 euro-vertrieb.com
 127.0.0.1 euroad1.advantage.as
 127.0.0.1 euroclick.com
