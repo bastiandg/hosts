@@ -6269,6 +6269,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 log.hankooki.com
 0.0.0.0 log.olark.com
 0.0.0.0 log.statistici.ro
+0.0.0.0 log.tagcade.com
 0.0.0.0 log1.countomat.com
 0.0.0.0 log4.quintelligence.com
 0.0.0.0 log999.goo.ne.jp
@@ -8516,6 +8517,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rp.hit.gemius.pl
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 rpc.trafficfactory.biz
+0.0.0.0 rpm.newrelisc.com
 0.0.0.0 rpmdo.com
 0.0.0.0 rqtrk.eu
 0.0.0.0 rr1.xxxcounter.com
@@ -9542,6 +9544,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.hypeads.org
+0.0.0.0 tags.tagcade.com
 0.0.0.0 tags.toroadvertising.com
 0.0.0.0 tahoesup.com
 0.0.0.0 taking-technology.com

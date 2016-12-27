@@ -13666,6 +13666,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.pinion.gg
 0.0.0.0 log.statistici.ro
+0.0.0.0 log.tagcade.com
 0.0.0.0 log.trafic.ro
 0.0.0.0 log1.countomat.com
 0.0.0.0 log2.quintelligence.com
@@ -18541,6 +18542,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 rpc.trafficfactory.biz
 0.0.0.0 rpg.us.intellitxt.com
+0.0.0.0 rpm.newrelisc.com
 0.0.0.0 rpmdo.com
 0.0.0.0 rpt.anchorfree.net
 0.0.0.0 rpt.footlocker.com
@@ -21018,6 +21020,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tags.mediaforge.com
 0.0.0.0 tags.spider-mails.com
 0.0.0.0 tags.t.tailtarget.com
+0.0.0.0 tags.tagcade.com
 0.0.0.0 tags.toroadvertising.com
 0.0.0.0 tags.w55c.net
 0.0.0.0 tags1.eclkspsa.com

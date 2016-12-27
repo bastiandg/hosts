@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 24 Dec 2016 at 21:16:49 GMT
+# Last updated: Tue, 27 Dec 2016 at 07:15:43 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8058,6 +8058,7 @@
 127.0.0.1 login.linkpulse.com
 127.0.0.1 log.olark.com
 127.0.0.1 logs.spilgames.com
+127.0.0.1 log.tagcade.com
 127.0.0.1 l.ohmyad.co
 127.0.0.1 looksmartcollect.247realmedia.com
 127.0.0.1 louisvil.app.ur.gcion.com
@@ -9004,6 +9005,7 @@
 127.0.0.1 rpc-php.trafficfactory.biz
 127.0.0.1 rpc.trafficfactory.biz
 127.0.0.1 rp.hit.gemius.pl
+127.0.0.1 rpm.newrelisc.com
 127.0.0.1 rqtrk.eu
 127.0.0.1 r.reklama.biz
 127.0.0.1 rs1.qq.com
@@ -9512,6 +9514,7 @@
 127.0.0.1 tag.regieci.com
 127.0.0.1 tags.bluekai.com
 127.0.0.1 tags.hypeads.org
+127.0.0.1 tags.tagcade.com
 127.0.0.1 tags.toroadvertising.com
 127.0.0.1 tag.webcompteur.com
 127.0.0.1 tag.yieldoptimizer.com

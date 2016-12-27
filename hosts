@@ -13666,6 +13666,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 log.outbrain.com
 127.0.0.1 log.pinion.gg
 127.0.0.1 log.statistici.ro
+127.0.0.1 log.tagcade.com
 127.0.0.1 log.trafic.ro
 127.0.0.1 log1.countomat.com
 127.0.0.1 log2.quintelligence.com
@@ -18541,6 +18542,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rpc-php.trafficfactory.biz
 127.0.0.1 rpc.trafficfactory.biz
 127.0.0.1 rpg.us.intellitxt.com
+127.0.0.1 rpm.newrelisc.com
 127.0.0.1 rpmdo.com
 127.0.0.1 rpt.anchorfree.net
 127.0.0.1 rpt.footlocker.com
@@ -21018,6 +21020,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tags.mediaforge.com
 127.0.0.1 tags.spider-mails.com
 127.0.0.1 tags.t.tailtarget.com
+127.0.0.1 tags.tagcade.com
 127.0.0.1 tags.toroadvertising.com
 127.0.0.1 tags.w55c.net
 127.0.0.1 tags1.eclkspsa.com
