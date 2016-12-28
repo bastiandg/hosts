@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 27 Dec 2016 at 11:22:21 GMT
+# Last updated: Wed, 28 Dec 2016 at 01:05:23 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3814,6 +3814,7 @@
 #</maybe-ads>
 
 # ads
+127.0.0.1
 127.0.0.1 0101011.com
 127.0.0.1 0427d7.se
 127.0.0.1 0d79ed.r.axf8.net
@@ -6922,6 +6923,7 @@
 127.0.0.1 cnt.trafficstars.com
 127.0.0.1 code2.adtlgc.com
 127.0.0.1 code.adtlgc.com
+127.0.0.1 code.vihub.ru
 127.0.0.1 coffeehausblog.com
 127.0.0.1 coinurl.com
 127.0.0.1 collectiveads.net
@@ -8063,6 +8065,7 @@
 127.0.0.1 logger.virgul.com
 127.0.0.1 login.linkpulse.com
 127.0.0.1 log.olark.com
+127.0.0.1 log.pladform.ru
 127.0.0.1 logs.spilgames.com
 127.0.0.1 log.tagcade.com
 127.0.0.1 l.ohmyad.co

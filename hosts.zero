@@ -8280,6 +8280,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 code.poptm.com
 0.0.0.0 code.rtbsystem.com
 0.0.0.0 code.superstats.com
+0.0.0.0 code.vihub.ru
 0.0.0.0 code.visitor-track.com
 0.0.0.0 code2.adtlgc.com
 0.0.0.0 codead.impresionesweb.com
@@ -13670,6 +13671,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 log.optimizely.com
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.pinion.gg
+0.0.0.0 log.pladform.ru
 0.0.0.0 log.statistici.ro
 0.0.0.0 log.tagcade.com
 0.0.0.0 log.trafic.ro
