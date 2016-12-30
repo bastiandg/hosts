@@ -1066,7 +1066,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 bannersng.yell.com
 127.0.0.1 bannerspace.com
 127.0.0.1 bannerswap.com
-127.0.0.1 bannertesting.com
 127.0.0.1 bannery.cz
 127.0.0.1 bannieres.acces-contenu.com
 127.0.0.1 bans.adserver.co.il
@@ -1241,6 +1240,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 connextra.com
 127.0.0.1 contaxe.de
 127.0.0.1 content.acc-hd.de
+127.0.0.1 content.ad
 127.0.0.1 contextweb.com
 127.0.0.1 conversantmedia.com
 127.0.0.1 conversionruler.com

@@ -1040,7 +1040,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bannersng.yell.com
 0.0.0.0 bannerspace.com
 0.0.0.0 bannerswap.com
-0.0.0.0 bannertesting.com
 0.0.0.0 bannery.cz
 0.0.0.0 bannieres.acces-contenu.com
 0.0.0.0 bans.adserver.co.il
@@ -1215,6 +1214,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 connextra.com
 0.0.0.0 contaxe.de
 0.0.0.0 content.acc-hd.de
+0.0.0.0 content.ad
 0.0.0.0 contextweb.com
 0.0.0.0 conversantmedia.com
 0.0.0.0 conversionruler.com

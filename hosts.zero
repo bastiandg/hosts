@@ -6253,7 +6253,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bannerswap.com
 0.0.0.0 bannersxchange.com
 0.0.0.0 bannert.ru
-0.0.0.0 bannertesting.com
 0.0.0.0 bannerus1.axelsfun.com
 0.0.0.0 bannerus3.axelsfun.com
 0.0.0.0 bannery.cz
@@ -8407,6 +8406,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 contaxe.de
 0.0.0.0 content-ssl.yieldmanager.com
 0.0.0.0 content.acc-hd.de
+0.0.0.0 content.ad
 0.0.0.0 content.ad-flow.com
 0.0.0.0 content.ad20.net
 0.0.0.0 content.adriver.ru
