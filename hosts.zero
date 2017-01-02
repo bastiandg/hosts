@@ -7556,6 +7556,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.freelac.com
 0.0.0.0 cdn.freelev.com
 0.0.0.0 cdn.g.promosrv.com
+0.0.0.0 cdn.geni.us
 0.0.0.0 cdn.go.arbo.bbelements.com
 0.0.0.0 cdn.go.arbopl.bbelements.com
 0.0.0.0 cdn.go.cz.bbelements.com
@@ -8818,6 +8819,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 creative.ak.fbcdn.net
 0.0.0.0 creative.cc-dt.com
 0.0.0.0 creative.clicksor.com
+0.0.0.0 creative.medianexusnetwork.com
 0.0.0.0 creative.nscash.com
 0.0.0.0 creative.whi.co.nz
 0.0.0.0 creative.wwwpromoter.com
@@ -9122,6 +9124,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 data.kataweb.it
 0.0.0.0 data.mobclix.com
 0.0.0.0 data.nal.usda.gov
+0.0.0.0 data.namesakeoscilloscopemarquis.com
 0.0.0.0 data.queryly.com
 0.0.0.0 data.ritzcarlton.com
 0.0.0.0 data.webads.co.nz
@@ -11460,6 +11463,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 go.startnow.com
 0.0.0.0 go.stirshakead.com
 0.0.0.0 go.straightresults.com
+0.0.0.0 go.trkreward.com
 0.0.0.0 go.verymuchad.com
 0.0.0.0 go.vrvm.com
 0.0.0.0 go.youlamedia.com
@@ -17339,6 +17343,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pix522.adtech.fr
 0.0.0.0 pix522.adtech.us
 0.0.0.0 pixel-geo.prfct.co
+0.0.0.0 pixel-secure.solvemedia.com
 0.0.0.0 pixel-user-1039.everesttech.net
 0.0.0.0 pixel.33across.com
 0.0.0.0 pixel.adadvisor.net
@@ -17346,6 +17351,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pixel.adcrowd.com
 0.0.0.0 pixel.admedia.com
 0.0.0.0 pixel.adsafeprotected.com
+0.0.0.0 pixel.adssafeprotected.com
 0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.blog.hu
 0.0.0.0 pixel.captora.com
@@ -17498,6 +17504,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pop.dnparking.com
 0.0.0.0 pop.egi.biz
 0.0.0.0 pop.net21pk.com
+0.0.0.0 pop.redirect.adsjudo.com
 0.0.0.0 pop.zompmedia.com
 0.0.0.0 pop6.adultfriendfinder.com
 0.0.0.0 popads.ero-advertising.com
@@ -21896,6 +21903,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 track.webprodeals.cf
 0.0.0.0 track.webtrekk.de
 0.0.0.0 track.wesell.co.il
+0.0.0.0 track.whitespace57.com
 0.0.0.0 track.written.com
 0.0.0.0 track.www.zazzle.com
 0.0.0.0 track.xapads.com
@@ -22994,6 +23002,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 voicefive.com
 0.0.0.0 voken.eyereturn.com
 0.0.0.0 volkswagen.122.2o7.net
+0.0.0.0 voluumtracker.com
+0.0.0.0 voluumtracker1.com
 0.0.0.0 voluumtrk.com
 0.0.0.0 voluumtrk2.com
 0.0.0.0 voluumtrk3.com
