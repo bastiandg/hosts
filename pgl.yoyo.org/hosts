@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 22 Dec 2016 13:13:46 GMT
-# entries:        2373
+# entries:        2369
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -473,7 +473,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.ft.com
 127.0.0.1 ads.futurenet.com
 127.0.0.1 ads.gamecity.net
-127.0.0.1 ads.gameforgeads.de
 127.0.0.1 ads.gamershell.com
 127.0.0.1 ads.gamespyid.com
 127.0.0.1 ads.gamigo.de
@@ -755,7 +754,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserver.html.it
 127.0.0.1 adserver.irishwebmasterforum.com
 127.0.0.1 adserver.janes.com
-127.0.0.1 adserver.kyoceramita-europe.com
 127.0.0.1 adserver.libero.it
 127.0.0.1 adserver.news.com.au
 127.0.0.1 adserver.ngz-network.de
@@ -1156,6 +1154,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cbanners.virtuagirlhd.com
 127.0.0.1 cben1.net
 127.0.0.1 cbmall.com
+127.0.0.1 cbx.net
 127.0.0.1 cdn.freefacti.com
 127.0.0.1 cdn.freefarcy.com
 127.0.0.1 cecash.com
@@ -1300,7 +1299,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 dc-storm.com
 127.0.0.1 de17a.com
 127.0.0.1 dealdotcom.com
-127.0.0.1 debtbusterloans.com
 127.0.0.1 decknetwork.net
 127.0.0.1 deloo.de
 127.0.0.1 demandbase.com
@@ -1551,7 +1549,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 imarketservices.com
 127.0.0.1 img.prohardver.hu
 127.0.0.1 imgpromo.easyrencontre.com
-127.0.0.1 imitrk.com
 127.0.0.1 imonitor.nethost.cz
 127.0.0.1 imprese.cz
 127.0.0.1 impressionmedia.cz
@@ -2054,7 +2051,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 siccash.com
 127.0.0.1 sidebar.angelfire.com
 127.0.0.1 sinoa.com
-127.0.0.1 sitemerkezi.net
 127.0.0.1 sitemeter.com
 127.0.0.1 sitestat.com
 127.0.0.1 sixsigmatraffic.com

@@ -447,7 +447,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.ft.com
 0.0.0.0 ads.futurenet.com
 0.0.0.0 ads.gamecity.net
-0.0.0.0 ads.gameforgeads.de
 0.0.0.0 ads.gamershell.com
 0.0.0.0 ads.gamespyid.com
 0.0.0.0 ads.gamigo.de
@@ -729,7 +728,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.html.it
 0.0.0.0 adserver.irishwebmasterforum.com
 0.0.0.0 adserver.janes.com
-0.0.0.0 adserver.kyoceramita-europe.com
 0.0.0.0 adserver.libero.it
 0.0.0.0 adserver.news.com.au
 0.0.0.0 adserver.ngz-network.de
@@ -1130,6 +1128,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cben1.net
 0.0.0.0 cbmall.com
+0.0.0.0 cbx.net
 0.0.0.0 cdn.freefacti.com
 0.0.0.0 cdn.freefarcy.com
 0.0.0.0 cecash.com
@@ -1274,7 +1273,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 dc-storm.com
 0.0.0.0 de17a.com
 0.0.0.0 dealdotcom.com
-0.0.0.0 debtbusterloans.com
 0.0.0.0 decknetwork.net
 0.0.0.0 deloo.de
 0.0.0.0 demandbase.com
@@ -1525,7 +1523,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 imarketservices.com
 0.0.0.0 img.prohardver.hu
 0.0.0.0 imgpromo.easyrencontre.com
-0.0.0.0 imitrk.com
 0.0.0.0 imonitor.nethost.cz
 0.0.0.0 imprese.cz
 0.0.0.0 impressionmedia.cz
@@ -2028,7 +2025,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 siccash.com
 0.0.0.0 sidebar.angelfire.com
 0.0.0.0 sinoa.com
-0.0.0.0 sitemerkezi.net
 0.0.0.0 sitemeter.com
 0.0.0.0 sitestat.com
 0.0.0.0 sixsigmatraffic.com
