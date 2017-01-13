@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 22 Dec 2016 13:13:46 GMT
-# entries:        2369
+# entries:        2368
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -445,7 +445,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.elitetrader.com
 127.0.0.1 ads.emirates.net.ae
 127.0.0.1 ads.epltalk.com
-127.0.0.1 ads.esmas.com
 127.0.0.1 ads.eu.msn.com
 127.0.0.1 ads.exactdrive.com
 127.0.0.1 ads.expat-blog.biz
