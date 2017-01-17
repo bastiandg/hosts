@@ -5761,6 +5761,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 img1.ru.redtram.com
 0.0.0.0 img2.ru.redtram.com
 0.0.0.0 img4.cdn.adjuggler.com
+0.0.0.0 imgg-cdn.adskeeper.co.uk
 0.0.0.0 imgg.dt00.net
 0.0.0.0 imgg.marketgid.com
 0.0.0.0 imgg.mgid.com
@@ -11025,6 +11026,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.adservtech.com
 0.0.0.0 www.adshufffle.com
 0.0.0.0 www.adsinimages.com
+0.0.0.0 www.adskeeper.co.uk
 0.0.0.0 www.adsoftware.com
 0.0.0.0 www.adspics.com
 0.0.0.0 www.adspoll.com
