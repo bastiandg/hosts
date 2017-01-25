@@ -5301,6 +5301,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 antivirus-scanner8.com
 127.0.0.1 antventure.com
 127.0.0.1 anxiety.1.p2l.info
+127.0.0.1 any-log.videe.tv
 127.0.0.1 anythinghollywood.us.intellitxt.com
 127.0.0.1 aol.spb.su
 127.0.0.1 aolbks.122.2o7.net
@@ -5525,6 +5526,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 areasnap.com
 127.0.0.1 arecio.work
 127.0.0.1 arena.altitude-arena.com
+127.0.0.1 arena.altitudeplatform.com
 127.0.0.1 ariboo.com
 127.0.0.1 ariel1.spaceprogram.com
 127.0.0.1 aripaadee.hit.gemius.pl
@@ -7464,6 +7466,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.advertserve.com
 127.0.0.1 cdn.ajillionmax.com
 127.0.0.1 cdn.alleliteads.com
+127.0.0.1 cdn.altitudeplatform.com
 127.0.0.1 cdn.amateurmatch.com
 127.0.0.1 cdn.amgdgt.com
 127.0.0.1 cdn.app.exitmonitor.com
@@ -7586,6 +7589,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.media6degrees.com
 127.0.0.1 cdn.mediative.ca
 127.0.0.1 cdn.mediavoice.com
+127.0.0.1 cdn.mega-tags.com
 127.0.0.1 cdn.mercent.com
 127.0.0.1 cdn.merchenta.com
 127.0.0.1 cdn.mirageads.net
@@ -10254,6 +10258,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 evans.babajilab.in
 127.0.0.1 evbeacon.networksolutions.com
 127.0.0.1 eveley.club
+127.0.0.1 event-log.videe.tv
 127.0.0.1 event.2leva.bg
 127.0.0.1 event.ohmyad.co
 127.0.0.1 eventbrite.122.2o7.net
@@ -10261,6 +10266,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 events.boomtrain.com
 127.0.0.1 events.foreseeresults.com
 127.0.0.1 events.kalooga.com
+127.0.0.1 events.streamrail.net
 127.0.0.1 events.webflowmetrics.com
 127.0.0.1 eventtracker.videostrip.com
 127.0.0.1 evepdaggiesports.112.2o7.net
@@ -14690,6 +14696,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 meetupcom.112.2o7.net
 127.0.0.1 meetupdev.122.2o7.net
 127.0.0.1 meevehdar.com
+127.0.0.1 mega.vast.mega-tags.com
 127.0.0.1 megacash.de
 127.0.0.1 megago.com
 127.0.0.1 megapanel.gem.pl
@@ -17098,6 +17105,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pds.directrev.com
 127.0.0.1 pe.5.p2l.info
 127.0.0.1 peakclick.com
+127.0.0.1 peaky.tags.yield-atx.com
 127.0.0.1 pebble-adhese.gva.be
 127.0.0.1 pebble-adhese.hbvl.be
 127.0.0.1 peeg.fronterarq.cl
@@ -17660,6 +17668,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 probe.yieldlab.net
 127.0.0.1 probes.cedexis.com
 127.0.0.1 prod-d.openx.com
+127.0.0.1 prod-e.sprtad.com
 127.0.0.1 prod-js.aws.y-track.com
 127.0.0.1 prod-services.interactiveone.com
 127.0.0.1 product-reviews.uk.intellitxt.com
@@ -19220,6 +19229,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sdcexecs.us.intellitxt.com
 127.0.0.1 sdg-translations.com
 127.0.0.1 sdk-controller.widespace.com
+127.0.0.1 sdk.streamrail.com
 127.0.0.1 sdo.oewabox.at
 127.0.0.1 sdogiu.bestamazontips.com
 127.0.0.1 sdscdn.userreport.com
@@ -20195,6 +20205,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 sso.canada.com
 127.0.0.1 ssp.adplus.co.id
 127.0.0.1 ssp.adriver.ru
+127.0.0.1 ssp.anyclip-media.com
+127.0.0.1 ssp.streamrail.net
 127.0.0.1 sspcash.adxcore.com
 127.0.0.1 ssprings.rotator.hadj7.adjuggler.net
 127.0.0.1 sstatic1.histats.com
@@ -20222,6 +20234,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 st.smartredirect.de
 127.0.0.1 st.top100.ru
 127.0.0.1 st.valueclick.com
+127.0.0.1 st.videojam.tv
 127.0.0.1 st.vq.ku6.cn
 127.0.0.1 st.wetrack.it
 127.0.0.1 st1.freeonlineusers.com
@@ -20447,6 +20460,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.smni.com
 127.0.0.1 static.springmetrics.com
 127.0.0.1 static.styria-digital.com
+127.0.0.1 static.tags.yield-atx.com
 127.0.0.1 static.tellapart.com
 127.0.0.1 static.tellaparts.com
 127.0.0.1 static.tracking202.com
@@ -20455,6 +20469,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.trafficstars.com
 127.0.0.1 static.uk.addynamo.com
 127.0.0.1 static.unister-adservices.com
+127.0.0.1 static.unocdn.com
+127.0.0.1 static.vertamedia.com
 127.0.0.1 static.virgul.com
 127.0.0.1 static.vpptechnologies.com
 127.0.0.1 static.way2traffic.com
@@ -21051,6 +21067,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tags.mathtag.com
 127.0.0.1 tags.mdotlabs.com
 127.0.0.1 tags.mediaforge.com
+127.0.0.1 tags.rllcll.com
 127.0.0.1 tags.spider-mails.com
 127.0.0.1 tags.t.tailtarget.com
 127.0.0.1 tags.tagcade.com
@@ -22804,8 +22821,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 vast.bp3855989.btrll.com
 127.0.0.1 vast.bp3855991.btrll.com
 127.0.0.1 vast.bp3855992.btrll.com
+127.0.0.1 vast.deliads.com
 127.0.0.1 vast.optimatic.com
 127.0.0.1 vast.tubemogul.com
+127.0.0.1 vast.vertamedia.com
 127.0.0.1 vastx.moatads.com
 127.0.0.1 vault9.us.intellitxt.com
 127.0.0.1 vbadbg.hit.gemius.pl
@@ -22909,6 +22928,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 video-pomp.com
 127.0.0.1 video-stats.video.google.com
 127.0.0.1 video.adaptv.advertising.com
+127.0.0.1 video.cynogage.com
 127.0.0.1 video.dmtracker.com
 127.0.0.1 video.flashtalking.com
 127.0.0.1 video.od.visiblemeasures.com

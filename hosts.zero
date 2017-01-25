@@ -5301,6 +5301,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 antivirus-scanner8.com
 0.0.0.0 antventure.com
 0.0.0.0 anxiety.1.p2l.info
+0.0.0.0 any-log.videe.tv
 0.0.0.0 anythinghollywood.us.intellitxt.com
 0.0.0.0 aol.spb.su
 0.0.0.0 aolbks.122.2o7.net
@@ -5525,6 +5526,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 areasnap.com
 0.0.0.0 arecio.work
 0.0.0.0 arena.altitude-arena.com
+0.0.0.0 arena.altitudeplatform.com
 0.0.0.0 ariboo.com
 0.0.0.0 ariel1.spaceprogram.com
 0.0.0.0 aripaadee.hit.gemius.pl
@@ -7464,6 +7466,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.advertserve.com
 0.0.0.0 cdn.ajillionmax.com
 0.0.0.0 cdn.alleliteads.com
+0.0.0.0 cdn.altitudeplatform.com
 0.0.0.0 cdn.amateurmatch.com
 0.0.0.0 cdn.amgdgt.com
 0.0.0.0 cdn.app.exitmonitor.com
@@ -7586,6 +7589,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.media6degrees.com
 0.0.0.0 cdn.mediative.ca
 0.0.0.0 cdn.mediavoice.com
+0.0.0.0 cdn.mega-tags.com
 0.0.0.0 cdn.mercent.com
 0.0.0.0 cdn.merchenta.com
 0.0.0.0 cdn.mirageads.net
@@ -10254,6 +10258,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 evans.babajilab.in
 0.0.0.0 evbeacon.networksolutions.com
 0.0.0.0 eveley.club
+0.0.0.0 event-log.videe.tv
 0.0.0.0 event.2leva.bg
 0.0.0.0 event.ohmyad.co
 0.0.0.0 eventbrite.122.2o7.net
@@ -10261,6 +10266,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 events.boomtrain.com
 0.0.0.0 events.foreseeresults.com
 0.0.0.0 events.kalooga.com
+0.0.0.0 events.streamrail.net
 0.0.0.0 events.webflowmetrics.com
 0.0.0.0 eventtracker.videostrip.com
 0.0.0.0 evepdaggiesports.112.2o7.net
@@ -14690,6 +14696,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 meetupcom.112.2o7.net
 0.0.0.0 meetupdev.122.2o7.net
 0.0.0.0 meevehdar.com
+0.0.0.0 mega.vast.mega-tags.com
 0.0.0.0 megacash.de
 0.0.0.0 megago.com
 0.0.0.0 megapanel.gem.pl
@@ -17098,6 +17105,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pds.directrev.com
 0.0.0.0 pe.5.p2l.info
 0.0.0.0 peakclick.com
+0.0.0.0 peaky.tags.yield-atx.com
 0.0.0.0 pebble-adhese.gva.be
 0.0.0.0 pebble-adhese.hbvl.be
 0.0.0.0 peeg.fronterarq.cl
@@ -17660,6 +17668,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 probe.yieldlab.net
 0.0.0.0 probes.cedexis.com
 0.0.0.0 prod-d.openx.com
+0.0.0.0 prod-e.sprtad.com
 0.0.0.0 prod-js.aws.y-track.com
 0.0.0.0 prod-services.interactiveone.com
 0.0.0.0 product-reviews.uk.intellitxt.com
@@ -19220,6 +19229,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 sdcexecs.us.intellitxt.com
 0.0.0.0 sdg-translations.com
 0.0.0.0 sdk-controller.widespace.com
+0.0.0.0 sdk.streamrail.com
 0.0.0.0 sdo.oewabox.at
 0.0.0.0 sdogiu.bestamazontips.com
 0.0.0.0 sdscdn.userreport.com
@@ -20195,6 +20205,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 sso.canada.com
 0.0.0.0 ssp.adplus.co.id
 0.0.0.0 ssp.adriver.ru
+0.0.0.0 ssp.anyclip-media.com
+0.0.0.0 ssp.streamrail.net
 0.0.0.0 sspcash.adxcore.com
 0.0.0.0 ssprings.rotator.hadj7.adjuggler.net
 0.0.0.0 sstatic1.histats.com
@@ -20222,6 +20234,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 st.smartredirect.de
 0.0.0.0 st.top100.ru
 0.0.0.0 st.valueclick.com
+0.0.0.0 st.videojam.tv
 0.0.0.0 st.vq.ku6.cn
 0.0.0.0 st.wetrack.it
 0.0.0.0 st1.freeonlineusers.com
@@ -20447,6 +20460,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 static.smni.com
 0.0.0.0 static.springmetrics.com
 0.0.0.0 static.styria-digital.com
+0.0.0.0 static.tags.yield-atx.com
 0.0.0.0 static.tellapart.com
 0.0.0.0 static.tellaparts.com
 0.0.0.0 static.tracking202.com
@@ -20455,6 +20469,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 static.trafficstars.com
 0.0.0.0 static.uk.addynamo.com
 0.0.0.0 static.unister-adservices.com
+0.0.0.0 static.unocdn.com
+0.0.0.0 static.vertamedia.com
 0.0.0.0 static.virgul.com
 0.0.0.0 static.vpptechnologies.com
 0.0.0.0 static.way2traffic.com
@@ -21051,6 +21067,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tags.mathtag.com
 0.0.0.0 tags.mdotlabs.com
 0.0.0.0 tags.mediaforge.com
+0.0.0.0 tags.rllcll.com
 0.0.0.0 tags.spider-mails.com
 0.0.0.0 tags.t.tailtarget.com
 0.0.0.0 tags.tagcade.com
@@ -22804,8 +22821,10 @@ ff02::2 ip6-allrouters
 0.0.0.0 vast.bp3855989.btrll.com
 0.0.0.0 vast.bp3855991.btrll.com
 0.0.0.0 vast.bp3855992.btrll.com
+0.0.0.0 vast.deliads.com
 0.0.0.0 vast.optimatic.com
 0.0.0.0 vast.tubemogul.com
+0.0.0.0 vast.vertamedia.com
 0.0.0.0 vastx.moatads.com
 0.0.0.0 vault9.us.intellitxt.com
 0.0.0.0 vbadbg.hit.gemius.pl
@@ -22909,6 +22928,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 video-pomp.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 video.adaptv.advertising.com
+0.0.0.0 video.cynogage.com
 0.0.0.0 video.dmtracker.com
 0.0.0.0 video.flashtalking.com
 0.0.0.0 video.od.visiblemeasures.com
