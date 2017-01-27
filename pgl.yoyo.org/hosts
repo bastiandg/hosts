@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 22 Dec 2016 13:13:46 GMT
-# entries:        2365
+# entries:        2364
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2321,7 +2321,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 webtraffic.se
 127.0.0.1 webtraxx.de
 127.0.0.1 webtrendslive.com
-127.0.0.1 wegcash.com
 127.0.0.1 werbung.meteoxpress.com
 127.0.0.1 wetrack.it
 127.0.0.1 whaleads.com
