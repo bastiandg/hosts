@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 22 Dec 2016 13:13:46 GMT
-# entries:        2361
+# entries:        2356
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -226,7 +226,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adclick.com
 127.0.0.1 adclient.uimserv.net
 127.0.0.1 adclient1.tucows.com
-127.0.0.1 adcomplete.com
 127.0.0.1 adconion.com
 127.0.0.1 adcontent.gamespy.com
 127.0.0.1 adcycle.com
@@ -667,7 +666,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.wiezoekje.nl
 127.0.0.1 ads.wikia.nocookie.net
 127.0.0.1 ads.wineenthusiast.com
-127.0.0.1 ads.wunderground.com
 127.0.0.1 ads.wwe.biz
 127.0.0.1 ads.xhamster.com
 127.0.0.1 ads.xtra.co.nz
@@ -891,7 +889,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 affbuzzads.com
 127.0.0.1 affili.net
 127.0.0.1 affiliate.1800flowers.com
-127.0.0.1 affiliate.7host.com
 127.0.0.1 affiliate.doubleyourdating.com
 127.0.0.1 affiliate.dtiserv.com
 127.0.0.1 affiliate.gamestop.com
@@ -1026,7 +1023,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 bannerpower.com
 127.0.0.1 banners.adultfriendfinder.com
 127.0.0.1 banners.amigos.com
-127.0.0.1 banners.apnuk.com
 127.0.0.1 banners.asiafriendfinder.com
 127.0.0.1 banners.audioholics.com
 127.0.0.1 banners.babylon-x.com
@@ -1883,7 +1879,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 postrelease.com
 127.0.0.1 potenza.cz
 127.0.0.1 pr-star.de
-127.0.0.1 pr-ten.de
 127.0.0.1 praddpro.de
 127.0.0.1 prchecker.info
 127.0.0.1 precisioncounter.com
