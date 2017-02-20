@@ -20162,7 +20162,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ssl-helpgvat.oewabox.at
 0.0.0.0 ssl-karriere.oewabox.at
 0.0.0.0 ssl-msn.oewabox.at
-0.0.0.0 ssl-nl.persgroep.edgekey.neto
+0.0.0.0 ssl-nl.persgroep.edgekey.net
 0.0.0.0 ssl-sl-retargeting.adsonar.com
 0.0.0.0 ssl-top.oewabox.at
 0.0.0.0 ssl-uspgvat.oewabox.at
@@ -26241,7 +26241,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.wegetpaid.net
 0.0.0.0 www.weitclick.de
 0.0.0.0 www.wellsfarg0-onllne.net
-0.0.0.0 www.wellsfarg0-onllne.netw
 0.0.0.0 www.weownthetraffic.com
 0.0.0.0 www.werkenbijliones.nl
 0.0.0.0 www.westreclameadvies.nl
