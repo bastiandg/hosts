@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 20 Feb 2017 at 05:21:49 GMT
+# Last updated: Mon, 20 Feb 2017 at 07:22:03 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1389,7 +1389,7 @@
 127.0.0.1 st.sageanalyst.net
 127.0.0.1 sugoicounter.com
 127.0.0.1 superstats.com
-127.0.0.1 s.youtube.com
+127.0.0.1 s.youtube.com				# Blocking this will interfere with video watching history
 127.0.0.1 systweak.com
 #127.0.0.1 t2.hulu.com		# Uncomment to block Hulu.
 127.0.0.1 tagging.outrider.com
