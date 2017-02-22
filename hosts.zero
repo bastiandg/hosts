@@ -5443,7 +5443,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 apple.com-safetyalert.com
 0.0.0.0 apple.com-scan-virus-detected.com
 0.0.0.0 apple.com-store.me
+0.0.0.0 apple.com-supportcenter.pro
 0.0.0.0 apple.com-supportcenter.website
+0.0.0.0 apple.com.clean-virus-mac.com
 0.0.0.0 apple.com.virus-mac.com
 0.0.0.0 applestore.com-mobile.gift
 0.0.0.0 applets.sulekha.com
@@ -5852,6 +5854,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 badults.se
 0.0.0.0 badv.wp.pl
 0.0.0.0 bagslap.com
+0.0.0.0 baiduccdn1.com
 0.0.0.0 baidutv.baidu.com
 0.0.0.0 balab.portx.net
 0.0.0.0 balabass.peerserver.com
@@ -7475,6 +7478,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.clicktale.net
 0.0.0.0 cdn.comparemetrics.com
 0.0.0.0 cdn.complexmedianetwork.com
+0.0.0.0 cdn.constafun.com
 0.0.0.0 cdn.content.exoticads.com
 0.0.0.0 cdn.contentspread.net
 0.0.0.0 cdn.cpmstar.com
@@ -7533,6 +7537,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.gumgum.com
 0.0.0.0 cdn.hadj7.adjuggler.net
 0.0.0.0 cdn.heapanalytics.com
+0.0.0.0 cdn.holdlads.com
 0.0.0.0 cdn.iasrv.com
 0.0.0.0 cdn.idtargeting.com
 0.0.0.0 cdn.imgtty.com
@@ -7637,6 +7642,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.vdopia.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cdn.visiblemeasures.com
+0.0.0.0 cdn.westbaud.com
 0.0.0.0 cdn.wg.uproxx.com
 0.0.0.0 cdn.www1.pip-pip-pop.com
 0.0.0.0 cdn.wwwpromoter.com
@@ -10073,6 +10079,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 engager.tmg.nl
 0.0.0.0 engine.4chan-ads.org
 0.0.0.0 engine.4dsply.com
+0.0.0.0 engine.adbooth.com
 0.0.0.0 engine.adclick.lv
 0.0.0.0 engine.adland.ru
 0.0.0.0 engine.adspynet.com
@@ -11794,6 +11801,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 helpint.mywebsearch.com
 0.0.0.0 helpmedb.com
 0.0.0.0 helpmedownload.com
+0.0.0.0 helpmymacfaster.club
 0.0.0.0 hentaicounter.com
 0.0.0.0 herbalaffiliateprogram.com
 0.0.0.0 herezera.com
@@ -21268,6 +21276,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 testdata.coremetrics.com
 0.0.0.0 testgw.iovation.com
 0.0.0.0 testpc24.profitableads.online
+0.0.0.0 testpconly12.prepare2upvideosafesystem4setnow.online
 0.0.0.0 testtralala.xorg.pl
 0.0.0.0 tetra.hitbox.com
 0.0.0.0 texas-hold-em.e-online-poker-4u.net
@@ -22825,6 +22834,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 verivox01.webtrekk.net
 0.0.0.0 vermontteddybear.112.2o7.net
 0.0.0.0 vernoblisk.com
+0.0.0.0 versionsupport.set2updatenowsafesystemset4now.info
 0.0.0.0 vertadnet.com
 0.0.0.0 vertical-stats.huffpost.com
 0.0.0.0 veruta.com
@@ -26906,6 +26916,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 zip.er.cz
 0.0.0.0 zjjlf.croukwexdbyerr.net
 0.0.0.0 zkic.com
+0.0.0.0 zl1.bravo-deg.com
 0.0.0.0 zlothonline.info
 0.0.0.0 zm1.zeroredirect5.com
 0.0.0.0 zmedia.com
