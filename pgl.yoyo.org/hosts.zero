@@ -70,7 +70,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.a8.net
 0.0.0.0 ad.abcnews.com
 0.0.0.0 ad.abctv.com
-0.0.0.0 ad.about.com
 0.0.0.0 ad.aboutwebservices.com
 0.0.0.0 ad.abum.com
 0.0.0.0 ad.afy11.net
@@ -200,6 +199,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adclick.com
 0.0.0.0 adclient.uimserv.net
 0.0.0.0 adclient1.tucows.com
+0.0.0.0 adcomplete.com
 0.0.0.0 adconion.com
 0.0.0.0 adcontent.gamespy.com
 0.0.0.0 adcycle.com
