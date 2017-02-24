@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 22 Dec 2016 13:13:46 GMT
-# entries:        2356
+# entries:        2353
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -579,7 +579,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.pheedo.com
 127.0.0.1 ads.phpclasses.org
 127.0.0.1 ads.pickmeup-ltd.com
-127.0.0.1 ads.pkr.com
 127.0.0.1 ads.planet.nl
 127.0.0.1 ads.pni.com
 127.0.0.1 ads.pof.com
@@ -866,7 +865,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 advideo.uimserv.net
 127.0.0.1 adview.ppro.de
 127.0.0.1 advisormedia.cz
-127.0.0.1 adviva.com
 127.0.0.1 adviva.net
 127.0.0.1 advnt.com
 127.0.0.1 adwareremovergold.com
@@ -1940,7 +1938,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ranking-links.de
 127.0.0.1 ranking-liste.de
 127.0.0.1 ranking-street.de
-127.0.0.1 rankingchart.de
 127.0.0.1 rankingscout.com
 127.0.0.1 rankyou.com
 127.0.0.1 rapidcounter.com
@@ -2067,7 +2064,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 sponsors.thoughtsmedia.com
 127.0.0.1 spot.fitness.com
 127.0.0.1 spotxchange.com
-127.0.0.1 sprinks-clicks.about.com
 127.0.0.1 spylog.com
 127.0.0.1 spywarelabs.com
 127.0.0.1 spywarenuker.com
@@ -2214,6 +2210,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 tradedoubler.com
 127.0.0.1 traffic-exchange.com
 127.0.0.1 traffic.liveuniversenetwork.com
+127.0.0.1 trafficadept.com
 127.0.0.1 trafficcdn.liveuniversenetwork.com
 127.0.0.1 trafficfactory.biz
 127.0.0.1 trafficholder.com

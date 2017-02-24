@@ -3125,7 +3125,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.pitchforkmedia.com
 0.0.0.0 ads.pittsburghlive.com
 0.0.0.0 ads.pixiq.com
-0.0.0.0 ads.pkr.com
 0.0.0.0 ads.place1.com
 0.0.0.0 ads.planet-f1.com
 0.0.0.0 ads.planet.nl
@@ -4732,7 +4731,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adview.pl
 0.0.0.0 adview.ppro.de
 0.0.0.0 advisormedia.cz
-0.0.0.0 adviva.com
 0.0.0.0 adviva.net
 0.0.0.0 advizi.ru
 0.0.0.0 advloc.alice.it
@@ -18112,7 +18110,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ranking-links.de
 0.0.0.0 ranking-liste.de
 0.0.0.0 ranking-street.de
-0.0.0.0 rankingchart.de
 0.0.0.0 rankingscout.com
 0.0.0.0 rankmytattoos.us.intellitxt.com
 0.0.0.0 ranks.boardtracker.com
@@ -22165,6 +22162,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 traffic.shareaholic.com
 0.0.0.0 traffic.tcmagnet.com
 0.0.0.0 traffic.webtrafficagents.com
+0.0.0.0 trafficadept.com
 0.0.0.0 trafficads.com
 0.0.0.0 trafficbee.com
 0.0.0.0 trafficcdn.liveuniversenetwork.com

@@ -553,7 +553,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.pheedo.com
 0.0.0.0 ads.phpclasses.org
 0.0.0.0 ads.pickmeup-ltd.com
-0.0.0.0 ads.pkr.com
 0.0.0.0 ads.planet.nl
 0.0.0.0 ads.pni.com
 0.0.0.0 ads.pof.com
@@ -840,7 +839,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 advideo.uimserv.net
 0.0.0.0 adview.ppro.de
 0.0.0.0 advisormedia.cz
-0.0.0.0 adviva.com
 0.0.0.0 adviva.net
 0.0.0.0 advnt.com
 0.0.0.0 adwareremovergold.com
@@ -1914,7 +1912,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ranking-links.de
 0.0.0.0 ranking-liste.de
 0.0.0.0 ranking-street.de
-0.0.0.0 rankingchart.de
 0.0.0.0 rankingscout.com
 0.0.0.0 rankyou.com
 0.0.0.0 rapidcounter.com
@@ -2041,7 +2038,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sponsors.thoughtsmedia.com
 0.0.0.0 spot.fitness.com
 0.0.0.0 spotxchange.com
-0.0.0.0 sprinks-clicks.about.com
 0.0.0.0 spylog.com
 0.0.0.0 spywarelabs.com
 0.0.0.0 spywarenuker.com
@@ -2188,6 +2184,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tradedoubler.com
 0.0.0.0 traffic-exchange.com
 0.0.0.0 traffic.liveuniversenetwork.com
+0.0.0.0 trafficadept.com
 0.0.0.0 trafficcdn.liveuniversenetwork.com
 0.0.0.0 trafficfactory.biz
 0.0.0.0 trafficholder.com
