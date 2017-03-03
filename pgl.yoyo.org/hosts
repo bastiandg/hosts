@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 01 Mar 2017 15:52:00 GMT
-# entries:        2354
+# entries:        2352
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1033,7 +1033,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 banners.direction-x.com
 127.0.0.1 banners.directnic.com
 127.0.0.1 banners.easydns.com
-127.0.0.1 banners.ebay.com
 127.0.0.1 banners.freett.com
 127.0.0.1 banners.friendfinder.com
 127.0.0.1 banners.getiton.com
@@ -2066,7 +2065,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 spot.fitness.com
 127.0.0.1 spotxchange.com
 127.0.0.1 spylog.com
-127.0.0.1 spywarelabs.com
 127.0.0.1 spywarenuker.com
 127.0.0.1 spywords.com
 127.0.0.1 srwww1.com
