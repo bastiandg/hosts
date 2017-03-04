@@ -4227,13 +4227,10 @@ ff02::2 ip6-allrouters
 0.0.0.0 d11.zedo.com
 0.0.0.0 d12.zedo.com
 0.0.0.0 d14.zedo.com
-0.0.0.0 d1qqddufal4d58.cloudfront.net
-0.0.0.0 d1ros97qkrwjf5.cloudfront.net
 0.0.0.0 d2.zedo.com
 0.0.0.0 d3.zedo.com
 0.0.0.0 d4.zedo.com
 0.0.0.0 d5.zedo.com
-0.0.0.0 d5phz18u4wuww.cloudfront.net
 0.0.0.0 d6.c5.b0.a2.top.mail.ru
 0.0.0.0 d6.zedo.com
 0.0.0.0 d7.zedo.com
@@ -4888,7 +4885,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 fastwebcounter.com
 0.0.0.0 fatcatrewards.com
 0.0.0.0 faz.ivwbox.de
-0.0.0.0 fbcdn-creative-a.akamaihd.net
 0.0.0.0 fbfreegifts.com
 0.0.0.0 fbi.gov.id402037057-8235504608.d9680.com
 0.0.0.0 fbkmnr.112.2o7.net
