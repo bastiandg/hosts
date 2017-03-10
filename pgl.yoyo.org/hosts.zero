@@ -379,7 +379,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.centraliprom.com
 0.0.0.0 ads.cgnetworks.com
 0.0.0.0 ads.channel4.com
-0.0.0.0 ads.cimedia.com
 0.0.0.0 ads.clearchannel.com
 0.0.0.0 ads.co.com
 0.0.0.0 ads.com.com
@@ -595,7 +594,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.t-online.de
 0.0.0.0 ads.tahono.com
 0.0.0.0 ads.techtv.com
-0.0.0.0 ads.techweb.com
 0.0.0.0 ads.telegraph.co.uk
 0.0.0.0 ads.theglobeandmail.com
 0.0.0.0 ads.themovienation.com
@@ -2040,6 +2038,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 spot.fitness.com
 0.0.0.0 spotxchange.com
 0.0.0.0 spylog.com
+0.0.0.0 spywarelabs.com
 0.0.0.0 spywarenuker.com
 0.0.0.0 spywords.com
 0.0.0.0 srwww1.com
@@ -2357,4 +2356,3 @@ ff02::2 ip6-allrouters
 0.0.0.0 zeusclicks.com
 0.0.0.0 zintext.com
 0.0.0.0 zmedia.com
-0.0.0.0 zv1.november-lax.com
