@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 07 Mar 2017 16:14:31 GMT
-# entries:        2357
+# entries:        2355
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1452,7 +1452,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 go-clicks.de
 127.0.0.1 go-rank.de
 127.0.0.1 goingplatinum.com
-127.0.0.1 gold.weborama.fr
 127.0.0.1 goldstats.com
 127.0.0.1 google-analytics.com
 127.0.0.1 googleadservices.com
@@ -1843,7 +1842,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 pennyweb.com
 127.0.0.1 pepperjamnetwork.com
 127.0.0.1 percentmobile.com
-127.0.0.1 perf.weborama.fr
 127.0.0.1 perfectaudience.com
 127.0.0.1 perfiliate.com
 127.0.0.1 performancerevenue.com
