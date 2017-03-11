@@ -13178,7 +13178,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 js.juicyads.com
 127.0.0.1 js.livehelper.com
 127.0.0.1 js.matheranalytics.com
-127.0.0.1 js.maxmind.com
 127.0.0.1 js.moatads.com
 127.0.0.1 js.nster.net
 127.0.0.1 js.octopuspop.com
@@ -14567,7 +14566,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 media.popunder.com
 127.0.0.1 media.popuptraffic.com
 127.0.0.1 media.pussycash.com
-127.0.0.1 media.richrelevance.com
 127.0.0.1 media.scanscout.com
 127.0.0.1 media.sexinyourcity.com
 127.0.0.1 media.superstats.com
@@ -26961,6 +26959,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 z.ceotrk.com
 127.0.0.1 z.eosads.com
 127.0.0.1 z.extreme-dm.com
+127.0.0.1 z.gameslivetv.com
 127.0.0.1 z.junksport.com
 127.0.0.1 z.moatads.com
 127.0.0.1 z.nightchan.com
