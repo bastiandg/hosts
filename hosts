@@ -8095,6 +8095,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 clien.info
 127.0.0.1 clien.net
 127.0.0.1 client.roiadtracker.com
+127.0.0.1 clientmetrics-pa.googleapis.com
 127.0.0.1 clients.bluecava.com
 127.0.0.1 clients.pointroll.com
 127.0.0.1 clients.tbo.com

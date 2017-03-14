@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 07 Mar 2017 16:14:31 GMT
-# entries:        2352
+# last updated:   Tue, 14 Mar 2017 08:31:33 GMT
+# entries:        2353
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1202,6 +1202,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 clickz.com
 127.0.0.1 clickzxc.com
 127.0.0.1 clicmanager.fr
+127.0.0.1 clientmetrics-pa.googleapis.com
 127.0.0.1 clients.tbo.com
 127.0.0.1 clixgalore.com
 127.0.0.1 clk.konflab.com
