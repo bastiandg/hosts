@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 13 Mar 2017 at 08:11:20 GMT
+# Last updated: Thu, 16 Mar 2017 at 07:07:52 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8763,6 +8763,7 @@
 127.0.0.1 pick-savings.com
 127.0.0.1 pickytime.com
 127.0.0.1 p.ic.tynt.com
+127.0.0.1 ping.chartbeat.net
 127.0.0.1 pingfore.qq.com
 127.0.0.1 pingfore.soso.com
 127.0.0.1 pink.habralab.ru
