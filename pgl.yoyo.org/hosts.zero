@@ -449,7 +449,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.gawker.com
 0.0.0.0 ads.geekswithblogs.net
 0.0.0.0 ads.glispa.com
-0.0.0.0 ads.globeandmail.com
 0.0.0.0 ads.gmodules.com
 0.0.0.0 ads.godlikeproductions.com
 0.0.0.0 ads.goyk.com
@@ -535,7 +534,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.nyi.net
 0.0.0.0 ads.nytimes.com
 0.0.0.0 ads.nyx.cz
-0.0.0.0 ads.nzcity.co.nz
 0.0.0.0 ads.o2.pl
 0.0.0.0 ads.oddschecker.com
 0.0.0.0 ads.okcimg.com
@@ -595,7 +593,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.tahono.com
 0.0.0.0 ads.techtv.com
 0.0.0.0 ads.telegraph.co.uk
-0.0.0.0 ads.theglobeandmail.com
 0.0.0.0 ads.themovienation.com
 0.0.0.0 ads.thestar.com
 0.0.0.0 ads.timeout.com
@@ -652,7 +649,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads1.mediacapital.pt
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads1.rne.com
-0.0.0.0 ads1.theglobeandmail.com
 0.0.0.0 ads1.virtual-nights.com
 0.0.0.0 ads10.speedbit.com
 0.0.0.0 ads180.com
@@ -1455,7 +1451,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 hit.webcentre.lycos.co.uk
 0.0.0.0 hitbox.com
 0.0.0.0 hitcents.com
-0.0.0.0 hitexchange.net
 0.0.0.0 hitfarm.com
 0.0.0.0 hitiz.com
 0.0.0.0 hitlist.ru
@@ -1662,7 +1657,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 metrics.windowsitpro.com
 0.0.0.0 mgid.com
 0.0.0.0 miarroba.com
-0.0.0.0 microstatic.pl
 0.0.0.0 microticker.com
 0.0.0.0 midnightclicking.com
 0.0.0.0 misstrends.com
@@ -1850,6 +1844,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 postrelease.com
 0.0.0.0 potenza.cz
 0.0.0.0 pr-star.de
+0.0.0.0 pr-ten.de
 0.0.0.0 praddpro.de
 0.0.0.0 prchecker.info
 0.0.0.0 precisioncounter.com
@@ -2044,7 +2039,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 spywords.com
 0.0.0.0 srwww1.com
 0.0.0.0 starffa.com
-0.0.0.0 start.freeze.com
 0.0.0.0 stat.cliche.se
 0.0.0.0 stat.dealtime.com
 0.0.0.0 stat.dyna.ultraweb.hu
@@ -2262,7 +2256,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 web-stat.com
 0.0.0.0 web.informer.com
 0.0.0.0 web2.deja.com
-0.0.0.0 webads.co.nz
 0.0.0.0 webads.nl
 0.0.0.0 webangel.ru
 0.0.0.0 webcash.nl

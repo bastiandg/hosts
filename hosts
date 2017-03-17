@@ -3057,7 +3057,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.nypost.com
 127.0.0.1 ads.nytimes.com
 127.0.0.1 ads.nyx.cz
-127.0.0.1 ads.nzcity.co.nz
 127.0.0.1 ads.o-networkaffiliates.com
 127.0.0.1 ads.o2.pl
 127.0.0.1 ads.oddschecker.com
@@ -15095,7 +15094,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 microsoftwlmobilemkt.112.2o7.net
 127.0.0.1 microsoftwlsearchcrm.112.2o7.net
 127.0.0.1 microsoftxbox.112.2o7.net
-127.0.0.1 microstatic.pl
 127.0.0.1 microticker.com
 127.0.0.1 midala.112.2o7.net
 127.0.0.1 midar.112.2o7.net
@@ -17680,6 +17678,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pqwaker.altervista.org
 127.0.0.1 pr-cy.ru
 127.0.0.1 pr-star.de
+127.0.0.1 pr-ten.de
 127.0.0.1 pr.20min.es
 127.0.0.1 pr.5.p2l.info
 127.0.0.1 pr.atwola.com
@@ -20375,7 +20374,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 starlix.ql.st
 127.0.0.1 starpulse.us.intellitxt.com
 127.0.0.1 start.badults.se
-127.0.0.1 start.freeze.com
 127.0.0.1 start.outster.com
 127.0.0.1 start.qip.ru
 127.0.0.1 start.sextracker.com
@@ -23550,7 +23548,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 web64.jumptap.com
 127.0.0.1 web65.jumptap.com
 127.0.0.1 webads.bizservers.com
-127.0.0.1 webads.co.nz
 127.0.0.1 webads.nl
 127.0.0.1 webads.tradeholding.com
 127.0.0.1 webalize.net

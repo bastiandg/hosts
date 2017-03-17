@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 14 Mar 2017 08:31:33 GMT
-# entries:        2353
+# entries:        2346
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -475,7 +475,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.gawker.com
 127.0.0.1 ads.geekswithblogs.net
 127.0.0.1 ads.glispa.com
-127.0.0.1 ads.globeandmail.com
 127.0.0.1 ads.gmodules.com
 127.0.0.1 ads.godlikeproductions.com
 127.0.0.1 ads.goyk.com
@@ -561,7 +560,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.nyi.net
 127.0.0.1 ads.nytimes.com
 127.0.0.1 ads.nyx.cz
-127.0.0.1 ads.nzcity.co.nz
 127.0.0.1 ads.o2.pl
 127.0.0.1 ads.oddschecker.com
 127.0.0.1 ads.okcimg.com
@@ -621,7 +619,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.tahono.com
 127.0.0.1 ads.techtv.com
 127.0.0.1 ads.telegraph.co.uk
-127.0.0.1 ads.theglobeandmail.com
 127.0.0.1 ads.themovienation.com
 127.0.0.1 ads.thestar.com
 127.0.0.1 ads.timeout.com
@@ -678,7 +675,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads1.mediacapital.pt
 127.0.0.1 ads1.msn.com
 127.0.0.1 ads1.rne.com
-127.0.0.1 ads1.theglobeandmail.com
 127.0.0.1 ads1.virtual-nights.com
 127.0.0.1 ads10.speedbit.com
 127.0.0.1 ads180.com
@@ -1481,7 +1477,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 hit.webcentre.lycos.co.uk
 127.0.0.1 hitbox.com
 127.0.0.1 hitcents.com
-127.0.0.1 hitexchange.net
 127.0.0.1 hitfarm.com
 127.0.0.1 hitiz.com
 127.0.0.1 hitlist.ru
@@ -1688,7 +1683,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 metrics.windowsitpro.com
 127.0.0.1 mgid.com
 127.0.0.1 miarroba.com
-127.0.0.1 microstatic.pl
 127.0.0.1 microticker.com
 127.0.0.1 midnightclicking.com
 127.0.0.1 misstrends.com
@@ -1876,6 +1870,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 postrelease.com
 127.0.0.1 potenza.cz
 127.0.0.1 pr-star.de
+127.0.0.1 pr-ten.de
 127.0.0.1 praddpro.de
 127.0.0.1 prchecker.info
 127.0.0.1 precisioncounter.com
@@ -2070,7 +2065,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 spywords.com
 127.0.0.1 srwww1.com
 127.0.0.1 starffa.com
-127.0.0.1 start.freeze.com
 127.0.0.1 stat.cliche.se
 127.0.0.1 stat.dealtime.com
 127.0.0.1 stat.dyna.ultraweb.hu
@@ -2288,7 +2282,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 web-stat.com
 127.0.0.1 web.informer.com
 127.0.0.1 web2.deja.com
-127.0.0.1 webads.co.nz
 127.0.0.1 webads.nl
 127.0.0.1 webangel.ru
 127.0.0.1 webcash.nl

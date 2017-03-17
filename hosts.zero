@@ -3057,7 +3057,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.nypost.com
 0.0.0.0 ads.nytimes.com
 0.0.0.0 ads.nyx.cz
-0.0.0.0 ads.nzcity.co.nz
 0.0.0.0 ads.o-networkaffiliates.com
 0.0.0.0 ads.o2.pl
 0.0.0.0 ads.oddschecker.com
@@ -15095,7 +15094,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 microsoftwlmobilemkt.112.2o7.net
 0.0.0.0 microsoftwlsearchcrm.112.2o7.net
 0.0.0.0 microsoftxbox.112.2o7.net
-0.0.0.0 microstatic.pl
 0.0.0.0 microticker.com
 0.0.0.0 midala.112.2o7.net
 0.0.0.0 midar.112.2o7.net
@@ -17680,6 +17678,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pqwaker.altervista.org
 0.0.0.0 pr-cy.ru
 0.0.0.0 pr-star.de
+0.0.0.0 pr-ten.de
 0.0.0.0 pr.20min.es
 0.0.0.0 pr.5.p2l.info
 0.0.0.0 pr.atwola.com
@@ -20375,7 +20374,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 starlix.ql.st
 0.0.0.0 starpulse.us.intellitxt.com
 0.0.0.0 start.badults.se
-0.0.0.0 start.freeze.com
 0.0.0.0 start.outster.com
 0.0.0.0 start.qip.ru
 0.0.0.0 start.sextracker.com
@@ -23550,7 +23548,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 web64.jumptap.com
 0.0.0.0 web65.jumptap.com
 0.0.0.0 webads.bizservers.com
-0.0.0.0 webads.co.nz
 0.0.0.0 webads.nl
 0.0.0.0 webads.tradeholding.com
 0.0.0.0 webalize.net
