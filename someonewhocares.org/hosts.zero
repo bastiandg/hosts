@@ -2734,6 +2734,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 apple.com------support.host
 0.0.0.0 apple.com-----scanner.club
 0.0.0.0 apple.com-onlinesupport.host
+0.0.0.0 apple.com-onlinesupport.site
 0.0.0.0 apple.com-safetyalert.com
 0.0.0.0 apple.com-scan-virus-detected.com
 0.0.0.0 apple.com-store.me
