@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 14 Mar 2017 08:31:33 GMT
-# entries:        2346
+# last updated:   Thu, 23 Mar 2017 10:38:17 GMT
+# entries:        2348
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2103,6 +2103,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 suavalds.com
 127.0.0.1 subscribe.hearstmags.com
 127.0.0.1 sugoicounter.com
+127.0.0.1 sumo.com
+127.0.0.1 sumome.com
 127.0.0.1 superclix.de
 127.0.0.1 superstats.com
 127.0.0.1 supertop.ru
