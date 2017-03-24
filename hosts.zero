@@ -3057,6 +3057,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.nypost.com
 0.0.0.0 ads.nytimes.com
 0.0.0.0 ads.nyx.cz
+0.0.0.0 ads.nzcity.co.nz
 0.0.0.0 ads.o-networkaffiliates.com
 0.0.0.0 ads.o2.pl
 0.0.0.0 ads.oddschecker.com
@@ -15097,6 +15098,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 microsoftwlmobilemkt.112.2o7.net
 0.0.0.0 microsoftwlsearchcrm.112.2o7.net
 0.0.0.0 microsoftxbox.112.2o7.net
+0.0.0.0 microstatic.pl
 0.0.0.0 microticker.com
 0.0.0.0 midala.112.2o7.net
 0.0.0.0 midar.112.2o7.net
@@ -18217,6 +18219,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ranking-links.de
 0.0.0.0 ranking-liste.de
 0.0.0.0 ranking-street.de
+0.0.0.0 rankingchart.de
 0.0.0.0 rankingscout.com
 0.0.0.0 rankmytattoos.us.intellitxt.com
 0.0.0.0 ranks.boardtracker.com
@@ -21861,7 +21864,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 track.greatofferstoyou.net
 0.0.0.0 track.grmtracking.com
 0.0.0.0 track.happylifestylestoday.com
-0.0.0.0 track.happysitewriter.com
 0.0.0.0 track.homestead.com
 0.0.0.0 track.hotdrugsstore.in
 0.0.0.0 track.hubspot.com
@@ -23553,6 +23555,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 web64.jumptap.com
 0.0.0.0 web65.jumptap.com
 0.0.0.0 webads.bizservers.com
+0.0.0.0 webads.co.nz
 0.0.0.0 webads.nl
 0.0.0.0 webads.tradeholding.com
 0.0.0.0 webalize.net

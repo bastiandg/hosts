@@ -534,6 +534,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.nyi.net
 0.0.0.0 ads.nytimes.com
 0.0.0.0 ads.nyx.cz
+0.0.0.0 ads.nzcity.co.nz
 0.0.0.0 ads.o2.pl
 0.0.0.0 ads.oddschecker.com
 0.0.0.0 ads.okcimg.com
@@ -1657,6 +1658,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 metrics.windowsitpro.com
 0.0.0.0 mgid.com
 0.0.0.0 miarroba.com
+0.0.0.0 microstatic.pl
 0.0.0.0 microticker.com
 0.0.0.0 midnightclicking.com
 0.0.0.0 misstrends.com
@@ -1906,6 +1908,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ranking-links.de
 0.0.0.0 ranking-liste.de
 0.0.0.0 ranking-street.de
+0.0.0.0 rankingchart.de
 0.0.0.0 rankingscout.com
 0.0.0.0 rankyou.com
 0.0.0.0 rapidcounter.com
@@ -2165,7 +2168,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 track.adform.net
 0.0.0.0 track.anchorfree.com
 0.0.0.0 track.gawker.com
-0.0.0.0 track.happysitewriter.com
 0.0.0.0 trackalyzer.com
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 tracker.marinsm.com
@@ -2258,6 +2260,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 web-stat.com
 0.0.0.0 web.informer.com
 0.0.0.0 web2.deja.com
+0.0.0.0 webads.co.nz
 0.0.0.0 webads.nl
 0.0.0.0 webangel.ru
 0.0.0.0 webcash.nl
