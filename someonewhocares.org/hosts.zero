@@ -2700,6 +2700,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 aos.gw.youmi.net
 0.0.0.0 ap.oasfile.aftenposten.no
 0.0.0.0 ap.read.mediation.pns.ap.orangeads.fr
+0.0.0.0 ap76rmx3.accountant
 0.0.0.0 apac.rel.msn.com
 0.0.0.0 apdigitalorg.112.2o7.net
 0.0.0.0 apdigitalorgovn.112.2o7.net
@@ -3561,11 +3562,13 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.atlassbx.com
 0.0.0.0 cdn.augur.io
 0.0.0.0 cdn.banners.scubl.com
+0.0.0.0 cdn.bestssaker.com
 0.0.0.0 cdn.carbonads.com
 0.0.0.0 cdn.constafun.com
 0.0.0.0 cdn.cpmstar.com
 0.0.0.0 cdn.crowdignite.com
 0.0.0.0 cdn.directrev.com
+0.0.0.0 cdn.dustyorate.com
 0.0.0.0 cdn.epommarket.com
 0.0.0.0 cdn.eyewonder.com
 0.0.0.0 cdn.fastclick.net
@@ -3576,6 +3579,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.freehonor.com
 0.0.0.0 cdn.freeimply.com
 0.0.0.0 cdn.freeinfringe.com
+0.0.0.0 cdn.freejabs.com
 0.0.0.0 cdn.freejars.com
 0.0.0.0 cdn.freejaw.com
 0.0.0.0 cdn.freejax.com
@@ -3604,6 +3608,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.nsimg.net
 0.0.0.0 cdn.oggifinogi.com
 0.0.0.0 cdn.onescreen.net
+0.0.0.0 cdn.pickyopahs.com
 0.0.0.0 cdn.sagent.io
 0.0.0.0 cdn.shoppingminds.net
 0.0.0.0 cdn.stat.easydate.biz
@@ -4808,6 +4813,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 err2.9939118.info
 0.0.0.0 err3.9939118.info
 0.0.0.0 error-warning-alert-critical-5x.com
+0.0.0.0 errorfixing.space
 0.0.0.0 errorfixing.tech
 0.0.0.0 es.adserver.yahoo.com
 0.0.0.0 es.optimost.com
@@ -5022,6 +5028,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 foxnews.us.intellitxt.com
 0.0.0.0 foxsimpsons.112.2o7.net
 0.0.0.0 foxtv.us.intellitxt.com
+0.0.0.0 fp.oneshotdate.com
 0.0.0.0 fp.uclo.net
 0.0.0.0 fp.valueclick.com
 0.0.0.0 fr.a2dfp.net
@@ -6276,6 +6283,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 lenovo.112.2o7.net
 0.0.0.0 lesbian-erotica.hitbox.com
 0.0.0.0 lesview.com
+0.0.0.0 letmefind.co
 0.0.0.0 letsfinder.com
 0.0.0.0 letssearch.com
 0.0.0.0 levenshteinanswer.com
@@ -10392,6 +10400,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 unwashedsound.com
 0.0.0.0 uole.ad.uol.com.br
 0.0.0.0 updateauto.preparevideosafesystem4unow.site
+0.0.0.0 updateauto.preparevideosafesystem4unow.space
 0.0.0.0 upload.adtech.de
 0.0.0.0 upload.adtech.fr
 0.0.0.0 upload.adtech.us
