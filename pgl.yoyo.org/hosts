@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 23 Mar 2017 10:38:17 GMT
-# entries:        2349
+# entries:        2348
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1250,7 +1250,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cpays.com
 127.0.0.1 cpmaffiliation.com
 127.0.0.1 cpmstar.com
-127.0.0.1 cpxadroit.com
 127.0.0.1 cpxinteractive.com
 127.0.0.1 cqcounter.com
 127.0.0.1 crakmedia.com
