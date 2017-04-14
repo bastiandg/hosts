@@ -620,7 +620,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.telegraph.co.uk
 127.0.0.1 ads.themovienation.com
 127.0.0.1 ads.thestar.com
-127.0.0.1 ads.timeout.com
 127.0.0.1 ads.tmcs.net
 127.0.0.1 ads.totallyfreestuff.com
 127.0.0.1 ads.townhall.com
@@ -2378,6 +2377,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 zeusclicks.com
 127.0.0.1 zintext.com
 127.0.0.1 zmedia.com
+127.0.0.1 zv1.november-lax.com
 </pre>
 
 </body>

@@ -3365,7 +3365,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.thestranger.com
 0.0.0.0 ads.thetrainingofo.com
 0.0.0.0 ads.thewebfreaks.com
-0.0.0.0 ads.timeout.com
 0.0.0.0 ads.timesunion.com
 0.0.0.0 ads.tiscali.com
 0.0.0.0 ads.tiscali.fr
@@ -26994,6 +26993,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 zu1.november-lax.com
 0.0.0.0 zug.us.intellitxt.com
 0.0.0.0 zuzzer5.com
+0.0.0.0 zv1.november-lax.com
 0.0.0.0 zviframe.biz
 0.0.0.0 zyban-store.shengen.ru
 0.0.0.0 zyban.1.p2l.info
