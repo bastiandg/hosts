@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 17 Apr 2017 at 15:21:37 GMT
+# Last updated: Tue, 18 Apr 2017 at 03:06:47 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9438,7 +9438,6 @@
 127.0.0.1 slowmacfaster.trade
 127.0.0.1 smart-scripts.com
 127.0.0.1 smart.besonders.ru
-127.0.0.1 smartadserver
 127.0.0.1 smartadserver.com
 127.0.0.1 smartclip.com
 127.0.0.1 smartclip.net
