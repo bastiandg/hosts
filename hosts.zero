@@ -3312,7 +3312,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.start.bg
 0.0.0.0 ads.static.adhood.com
 0.0.0.0 ads.static.blip.tv
-0.0.0.0 ads.stationplay.com
 0.0.0.0 ads.stephensmedia.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.stileproject.com
@@ -9359,7 +9358,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 directaclick.com
 0.0.0.0 directads.mcafee.com
-0.0.0.0 directivepub.com
 0.0.0.0 directleads.com
 0.0.0.0 directorym.com
 0.0.0.0 directpowerrewards.com

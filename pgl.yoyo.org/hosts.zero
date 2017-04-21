@@ -585,7 +585,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.space.com
 0.0.0.0 ads.sptimes.com
 0.0.0.0 ads.stackoverflow.com
-0.0.0.0 ads.stationplay.com
 0.0.0.0 ads.sun.com
 0.0.0.0 ads.supplyframe.com
 0.0.0.0 ads.t-online.de
@@ -1262,7 +1261,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 didtheyreadit.com
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 directaclick.com
-0.0.0.0 directivepub.com
 0.0.0.0 directleads.com
 0.0.0.0 directorym.com
 0.0.0.0 directtrack.com
