@@ -5333,6 +5333,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 global.ymtrack.com
 0.0.0.0 globalnetworkanalys.com
 0.0.0.0 globalwebads.com
+0.0.0.0 gm.mmstat.com
 0.0.0.0 gm.preferences.com
 0.0.0.0 gmads.net
 0.0.0.0 gmchevyapprentice.112.2o7.net
@@ -7144,6 +7145,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mm1.vip.sc1.admob.com
 0.0.0.0 mmarkt.oewabox.at
 0.0.0.0 mmsshopcom.112.2o7.net
+0.0.0.0 mmstat.com
 0.0.0.0 mmv.admob.com
 0.0.0.0 mn.5.p2l.info
 0.0.0.0 mn.mn.co.cu
@@ -8050,6 +8052,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pchealthcheckup.net
 0.0.0.0 pcmag.us.intellitxt.com
 0.0.0.0 pcnetworkreliablecloudservices.online
+0.0.0.0 pcookie.aliexpress.com
 0.0.0.0 pcper.us.intellitxt.com
 0.0.0.0 pctuzing.php5.cz
 0.0.0.0 pd1.funnyhost.com
@@ -8259,6 +8262,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 popupclick.ru
 0.0.0.0 popupdomination.com
 0.0.0.0 popups.ad-logics.com
+0.0.0.0 popups.afftrack001.com
 0.0.0.0 popups.infostart.com
 0.0.0.0 pos.baidu.com
 0.0.0.0 posed2shade.com
@@ -9407,6 +9411,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 static.affiliation-france.com
 0.0.0.0 static.carbonads.com
 0.0.0.0 static.chartbeat.com
+0.0.0.0 static.clickonometrics.pl
 0.0.0.0 static.clicktorrent.info
 0.0.0.0 static.creatives.livejasmin.com
 0.0.0.0 static.criteo.net
@@ -12415,6 +12420,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www13.ad.tomshardware.com
 0.0.0.0 www13.glam.com
 0.0.0.0 www14.ad.tomshardware.com
+0.0.0.0 www14.smartadserver.com
 0.0.0.0 www15.ad.tomshardware.com
 0.0.0.0 www17.glam.com
 0.0.0.0 www18.glam.com
