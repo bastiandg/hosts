@@ -3209,7 +3209,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.rottentomatoes.com
 0.0.0.0 ads.roularta.adhese.com
 0.0.0.0 ads.rp-online.de
-0.0.0.0 ads.rpgdot.com
 0.0.0.0 ads.rttnews.com
 0.0.0.0 ads.rtvslo.si
 0.0.0.0 ads.rubiconproject.com
@@ -22673,6 +22672,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 update.privdog.com
 0.0.0.0 updateauto.preparevideosafesystem4unow.site
 0.0.0.0 updateauto.preparevideosafesystem4unow.space
+0.0.0.0 updated.com
 0.0.0.0 updatehere.ultimatesetnewfreeallsoftupgradesystems.pw
 0.0.0.0 updates.desktop.ak-networks.com
 0.0.0.0 updo.nl
