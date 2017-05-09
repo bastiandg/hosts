@@ -36,6 +36,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 123counter.mycomputer.com
 0.0.0.0 123counter.superstats.com
 0.0.0.0 123greetings.com
+0.0.0.0 123plays.com
 0.0.0.0 123specialgifts.com
 0.0.0.0 130.211.230.53
 0.0.0.0 192.168.112.2o7.net
@@ -101,6 +102,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 3ps.go.com
 0.0.0.0 4-counter.com
 0.0.0.0 4.adbrite.com
+0.0.0.0 411playz.com
 0.0.0.0 48.2mydns.net
 0.0.0.0 4allfree.com
 0.0.0.0 4c28d6.r.axf8.net
@@ -2630,6 +2632,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 amn.doubleclick.net
 0.0.0.0 amoxicillin.ourtablets.com
 0.0.0.0 amplifypixel.outbrain.com
+0.0.0.0 amrytt.adk2x.com
 0.0.0.0 ams1.ib.adnxs.com
 0.0.0.0 amscdn.btrll.com
 0.0.0.0 an.tacoda.net
@@ -2744,6 +2747,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 apple.com------support.host
 0.0.0.0 apple.com-----scanner.club
 0.0.0.0 apple.com-internet-security-review.info
+0.0.0.0 apple.com-internet-security-review.review
 0.0.0.0 apple.com-onlinesupport.host
 0.0.0.0 apple.com-onlinesupport.site
 0.0.0.0 apple.com-safetyalert.com
@@ -3205,6 +3209,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 bostonsubwayoffer.com
 0.0.0.0 bottleguy.com
 0.0.0.0 bowlgirl.com
+0.0.0.0 bowlingle.com
 0.0.0.0 bp.specificclick.net
 0.0.0.0 br.adserver.yahoo.com
 0.0.0.0 br.naked.com
@@ -3550,6 +3555,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ccrgaviscom.112.2o7.net
 0.0.0.0 cctv.adsunion.com
 0.0.0.0 ccudl.com
+0.0.0.0 cd8iw9mh.cricket
 0.0.0.0 cdb.hitbox.com
 0.0.0.0 cdn-social.janrain.com
 0.0.0.0 cdn.8digits.com
@@ -3610,6 +3616,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.lazymem.com
 0.0.0.0 cdn.lazymic.com
 0.0.0.0 cdn.likeaced.com
+0.0.0.0 cdn.mahmukhach.info
 0.0.0.0 cdn.mediative.ca
 0.0.0.0 cdn.mega-tags.com
 0.0.0.0 cdn.merchenta.com
@@ -3618,6 +3625,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.nsimg.net
 0.0.0.0 cdn.oggifinogi.com
 0.0.0.0 cdn.onescreen.net
+0.0.0.0 cdn.palomatik.info
 0.0.0.0 cdn.pickyopahs.com
 0.0.0.0 cdn.radiatewheel.info
 0.0.0.0 cdn.sagent.io
@@ -5905,6 +5913,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 incentivegateway.com
 0.0.0.0 incentiverewardcenter.com
 0.0.0.0 incestland.com
+0.0.0.0 inclk.com
 0.0.0.0 indexhu.adocean.pl
 0.0.0.0 indisancal.com
 0.0.0.0 indpolice.com
@@ -6790,6 +6799,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 maxim.122.2o7.net
 0.0.0.0 maximumpcads.imaginemedia.com
 0.0.0.0 maxmedia.sgaonline.com
+0.0.0.0 maxmusics.com
 0.0.0.0 maxonclick.com
 0.0.0.0 maxserving.com
 0.0.0.0 maxvr.112.2o7.net
@@ -7101,6 +7111,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mi.5.p2l.info
 0.0.0.0 mi.adinterax.com
 0.0.0.0 micardiss.ql.st
+0.0.0.0 micmusik.com
 0.0.0.0 micraamber.net
 0.0.0.0 microsof.wemfbox.ch
 0.0.0.0 microsoft-sql-server.wp-club.net
@@ -7257,6 +7268,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 murcia-ban.es
 0.0.0.0 muscle-relaxers.1.p2l.info
 0.0.0.0 music102.awardspace.com
+0.0.0.0 music611.com
+0.0.0.0 musikzoo.com
 0.0.0.0 mustangevolution.us.intellitxt.com
 0.0.0.0 mvonline.com
 0.0.0.0 mvs.mediavantage.de
@@ -7378,6 +7391,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 netspiderads2.indiatimes.com
 0.0.0.0 netsponsors.com
 0.0.0.0 network-ca.247realmedia.com
+0.0.0.0 network.adsmarket.com
 0.0.0.0 network.leadpub.com
 0.0.0.0 network.realmedia.com
 0.0.0.0 network.realtechnetwork.net
@@ -7475,6 +7489,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 novellcom.112.2o7.net
 0.0.0.0 novem.onet.pl
 0.0.0.0 novemberrainx.com
+0.0.0.0 nowinstallupgrade.clickforultimateandbest2updatingpc.top
 0.0.0.0 nowruzbakher.com
 0.0.0.0 nowtestpc.updatenewfresh4u.top
 0.0.0.0 nrads.1host.co.il
@@ -8230,6 +8245,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 playlink.pl
 0.0.0.0 playnow.guru
 0.0.0.0 playtime.tubemogul.com
+0.0.0.0 ploaz54.com
 0.0.0.0 pm.w55c.net
 0.0.0.0 pmelon.com
 0.0.0.0 pmg.ad-logics.com
@@ -10151,6 +10167,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 track.theviralconcept.com
 0.0.0.0 track.tooplay.com
 0.0.0.0 track.topromotion.net
+0.0.0.0 track.traffcdn.com
 0.0.0.0 track.upaknee.com
 0.0.0.0 track.vivid.com
 0.0.0.0 track.vscash.com
@@ -11631,6 +11648,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.getacoollaptop.com
 0.0.0.0 www.getacooltv.com
 0.0.0.0 www.getagiftonline.com
+0.0.0.0 www.getfilemacgetdmg.com
 0.0.0.0 www.getfilesmact.com
 0.0.0.0 www.getloan.com
 0.0.0.0 www.getmyads24.com
@@ -12253,6 +12271,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.traffictraders.com
 0.0.0.0 www.trafic.ro
 0.0.0.0 www.trafsearchonline.com
+0.0.0.0 www.traktrafficflow.com
 0.0.0.0 www.traktum.com
 0.0.0.0 www.travel-leisure-bonuspath.com
 0.0.0.0 www.travel-leisure-premiumblvd.com
@@ -12289,6 +12308,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.upi6.pillsstore-c.com
 0.0.0.0 www.uproar.com
 0.0.0.0 www.uqz.com
+0.0.0.0 www.urdoot.win
 0.0.0.0 www.us-choicevalue.com
 0.0.0.0 www.us-topsites.com
 0.0.0.0 www.usatravel-specials.com
@@ -12576,6 +12596,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 xkygmtrrjalx.com
 0.0.0.0 xlivehost.com
 0.0.0.0 xlonhcld.xlontech.net
+0.0.0.0 xml.ad-maven.com
 0.0.0.0 xml.adfclick1.com
 0.0.0.0 xml.adservme.com
 0.0.0.0 xml.adtech.de
