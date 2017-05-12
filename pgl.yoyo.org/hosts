@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sat, 06 May 2017 07:58:47 GMT
-# entries:        2344
+# entries:        2343
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -167,7 +167,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ad.twitchguru.com
 127.0.0.1 ad.usatoday.com
 127.0.0.1 ad.virtual-nights.com
-127.0.0.1 ad.watch.impress.co.jp
 127.0.0.1 ad.wavu.hu
 127.0.0.1 ad.way.cz
 127.0.0.1 ad.weatherbug.com
