@@ -772,7 +772,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adstat.4u.pl
 0.0.0.0 adstest.weather.com
 0.0.0.0 adsupply.com
-0.0.0.0 adswitcher.com
 0.0.0.0 adsymptotic.com
 0.0.0.0 adsynergy.com
 0.0.0.0 adsys.townnews.com
@@ -1980,7 +1979,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 servedbyadbutler.com
 0.0.0.0 servedbyopenx.com
-0.0.0.0 servethis.com
 0.0.0.0 services.hearstmags.com
 0.0.0.0 serving-sys.com
 0.0.0.0 sexaddpro.de

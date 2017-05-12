@@ -4445,7 +4445,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adsvr.deviantart.com
 127.0.0.1 adsweb.tiscali.cz
 127.0.0.1 adsweb.tiscali.it
-127.0.0.1 adswitcher.com
 127.0.0.1 adsx.greystripe.com
 127.0.0.1 adsy.lsipack.com
 127.0.0.1 adsy.mail.bg
@@ -19603,7 +19602,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 server8.opentracker.net
 127.0.0.1 server821.com
 127.0.0.1 server9.opentracker.net
-127.0.0.1 servethis.com
 127.0.0.1 service.adtech.de
 127.0.0.1 service.adtech.fr
 127.0.0.1 service.adtech.us
