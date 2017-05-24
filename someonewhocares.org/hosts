@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 24 May 2017 at 18:43:27 GMT
+# Last updated: Wed, 24 May 2017 at 22:44:51 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3997,6 +3997,7 @@
 127.0.0.1 aads.treehugger.com
 127.0.0.1 aams1.aim4media.com
 127.0.0.1 aan.amazon.com
+127.0.0.1 aax-cpm.amazon-adsystem.com
 127.0.0.1 aax-eu.amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 aax-us-pdx.amazon-adsystem.com
