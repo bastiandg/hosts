@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 22 May 2017 at 05:22:00 GMT
+# Last updated: Wed, 24 May 2017 at 05:56:30 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1982,6 +1982,7 @@
 127.0.0.1 ams1.ib.adnxs.com
 127.0.0.1 android.bigresource.com
 127.0.0.1 androiddev.orkitra.com
+127.0.0.1 anouslab.cmail20.com
 127.0.0.1 answerhub.com
 127.0.0.1 antispywareexpert.com
 127.0.0.1 antivirus-online-scan5.com
