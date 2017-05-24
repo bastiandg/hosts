@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 24 May 2017 at 06:36:55 GMT
+# Last updated: Wed, 24 May 2017 at 18:43:27 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2513,6 +2513,7 @@
 127.0.0.1 ultra2.tsinghua.edu.cn
 127.0.0.1 unk.vver.kiae.rr
 127.0.0.1 unknown.counsellor.gov.cn
+127.0.0.1 update.theplacetoupdating.pw
 127.0.0.1 updateauto.preparevideosafesystem4unow.site
 127.0.0.1 updateauto.preparevideosafesystem4unow.space
 127.0.0.1 uqz.com
@@ -8672,6 +8673,7 @@
 127.0.0.1 online1.webcams.com
 127.0.0.1 onlineads.magicvalley.com
 127.0.0.1 onlinebestoffers.net
+127.0.0.1 only.best-games.today
 127.0.0.1 only2date.com
 127.0.0.1 onocollect.247realmedia.com
 127.0.0.1 open.4info.net
