@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 26 May 2017 at 07:59:15 GMT
+# Last updated: Fri, 26 May 2017 at 08:51:03 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8640,6 +8640,7 @@
 127.0.0.1 offerreality.com
 127.0.0.1 offers.bycontext.com
 127.0.0.1 offers.impower.com
+127.0.0.1 offers.nordvpn.com
 127.0.0.1 offers.royalvegascasino.com
 127.0.0.1 offertrakking.info
 127.0.0.1 offertunity.click
