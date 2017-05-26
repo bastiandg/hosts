@@ -9393,6 +9393,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 directaclick.com
 0.0.0.0 directads.mcafee.com
+0.0.0.0 directivepub.com
 0.0.0.0 directleads.com
 0.0.0.0 directorym.com
 0.0.0.0 directpowerrewards.com
@@ -23746,7 +23747,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 whoads.net
 0.0.0.0 whoateallthepies.uk.intellitxt.com
 0.0.0.0 whoisonline.net
-0.0.0.0 wholesaletraffic.info
 0.0.0.0 whometrics.net
 0.0.0.0 whos.amung.us
 0.0.0.0 whosread.com
