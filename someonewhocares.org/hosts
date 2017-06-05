@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 05 Jun 2017 at 06:59:01 GMT
+# Last updated: Mon, 05 Jun 2017 at 08:14:24 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6035,6 +6035,7 @@
 127.0.0.1 adshmmsg.qq.com
 127.0.0.1 adsim.sabah.com.tr
 127.0.0.1 adsinimages.com
+127.0.0.1 adsino24.com
 127.0.0.1 adsintl.starwave.com
 127.0.0.1 adslvfile.qq.com
 127.0.0.1 adslvseed.qq.com
@@ -7638,6 +7639,7 @@
 127.0.0.1 getacooltv.com
 127.0.0.1 getafreeiphone.org
 127.0.0.1 getagiftonline.com
+127.0.0.1 getmyads.com
 127.0.0.1 getmyads24.com
 127.0.0.1 getmyfreebabystuff.com
 127.0.0.1 getmyfreegear.com
