@@ -4322,6 +4322,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 dbios.org
 0.0.0.0 dc.5.p2l.info
 0.0.0.0 dc.sabela.com.pl
+0.0.0.0 dc43.s290.meetrics.net
 0.0.0.0 dcads.sina.com.cn
 0.0.0.0 dclk.haaretz.co.il
 0.0.0.0 dclk.themarker.com
@@ -4501,6 +4502,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 dv-fw-a-nat.iovation.com
 0.0.0.0 dwclick.com
 0.0.0.0 dy.admerize.be
+0.0.0.0 dyn.emetriq.de
 0.0.0.0 dyn.loolav.space
 0.0.0.0 dzl.baidu.com
 0.0.0.0 e-2dj6wfk4ehd5afq.stats.esomniture.com
@@ -8853,6 +8855,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 s27.sitemeter.com
 0.0.0.0 s28.sitemeter.com
 0.0.0.0 s29.sitemeter.com
+0.0.0.0 s290.mxcdn.net
 0.0.0.0 s3.adbers.com
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3.hit.stat.pl

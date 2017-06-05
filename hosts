@@ -9182,6 +9182,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dc.sify.com
 127.0.0.1 dc.webtrends.com
 127.0.0.1 dc.widespace.com
+127.0.0.1 dc43.s290.meetrics.net
 127.0.0.1 dc56.s290.meetrics.net
 127.0.0.1 dc61.s290.meetrics.net
 127.0.0.1 dc8xl0ndzn2cb.cloudfront.net
@@ -9648,6 +9649,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dy.admerize.be
 127.0.0.1 dy.adserve.io
 127.0.0.1 dy.testnet.nl
+127.0.0.1 dyn.emetriq.de
 127.0.0.1 dyn.loolav.space
 127.0.0.1 dyn.naiadsystems.com
 127.0.0.1 dynad.website.bg
@@ -19039,6 +19041,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 s282.meetrics.net
 127.0.0.1 s29.cnzz.com
 127.0.0.1 s29.sitemeter.com
+127.0.0.1 s290.mxcdn.net
 127.0.0.1 s2d6.com
 127.0.0.1 s3.adbers.com
 127.0.0.1 s3.addthis.com
