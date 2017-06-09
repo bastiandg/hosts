@@ -1975,6 +1975,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 servedbyadbutler.com
 0.0.0.0 servedbyopenx.com
+0.0.0.0 servethis.com
 0.0.0.0 services.hearstmags.com
 0.0.0.0 serving-sys.com
 0.0.0.0 sexaddpro.de
@@ -2049,7 +2050,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 stats.multiup.org
 0.0.0.0 stats.olark.com
 0.0.0.0 stats.suite101.com
-0.0.0.0 stats.surfaid.ihost.com
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.unwired-i.net
 0.0.0.0 stats.wordpress.com

@@ -2001,6 +2001,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 servedby-buysellads.com
 127.0.0.1 servedbyadbutler.com
 127.0.0.1 servedbyopenx.com
+127.0.0.1 servethis.com
 127.0.0.1 services.hearstmags.com
 127.0.0.1 serving-sys.com
 127.0.0.1 sexaddpro.de
@@ -2075,7 +2076,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 stats.multiup.org
 127.0.0.1 stats.olark.com
 127.0.0.1 stats.suite101.com
-127.0.0.1 stats.surfaid.ihost.com
 127.0.0.1 stats.townnews.com
 127.0.0.1 stats.unwired-i.net
 127.0.0.1 stats.wordpress.com
