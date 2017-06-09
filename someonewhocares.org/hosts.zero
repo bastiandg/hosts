@@ -210,6 +210,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
+0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 ab-gb.mgid.com
 0.0.0.0 ab.5.p2l.info
 0.0.0.0 abcnews.footprint.net
@@ -3369,6 +3370,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 c.admob.com
 0.0.0.0 c.adroll.com
 0.0.0.0 c.am10.ru
+0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.anytrx.com
 0.0.0.0 c.ar.msn.com
 0.0.0.0 c.as-us.falkag.net
@@ -5026,6 +5028,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 flower-online.petrovka.info
 0.0.0.0 flower.bg
 0.0.0.0 flowers-offer.com
+0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 flu23.com
@@ -5997,6 +6000,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 iq001.adtech.de
 0.0.0.0 iq001.adtech.fr
 0.0.0.0 iq001.adtech.us
+0.0.0.0 ir-de.amazon-adsystem.com
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 ircleaner.com
 0.0.0.0 irondel.swisshost.by
@@ -8467,6 +8471,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 proxy.sj4.marketscore.com
 0.0.0.0 proxycfg.marketscore.com
 0.0.0.0 prpops.com
+0.0.0.0 ps-us.amazon-adsystem.com
 0.0.0.0 psorias.atspace.com
 0.0.0.0 psp3d.us.intellitxt.com
 0.0.0.0 pspcave.uk.intellitxt.com
@@ -8574,6 +8579,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rckymtnnws.112.2o7.net
 0.0.0.0 rcm-images.amazon.com
 0.0.0.0 rcm-it.amazon.it
+0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 rd.alphabirdnetwork.com
 0.0.0.0 rd.intl.doubleclick.net
 0.0.0.0 rd1.hitbox.com
@@ -11087,6 +11093,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 wmedia.rotator.hadj7.adjuggler.net
 0.0.0.0 wmg.112.2o7.net
 0.0.0.0 wmgmulti.112.2o7.net
+0.0.0.0 wms-eu.amazon-adsystem.com
+0.0.0.0 wms-na.amazon-adsystem.com
 0.0.0.0 woche.oewabox.at
 0.0.0.0 wohnnet.oewabox.at
 0.0.0.0 womo.corrmedic.ru
@@ -11103,6 +11111,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 wp-club.net
 0.0.0.0 wpni.112.2o7.net
 0.0.0.0 wppluginspro.com
+0.0.0.0 ws-ea.amazon-adsystem.com
+0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws.addthis.com
 0.0.0.0 ws.xjb.ac.cn
 0.0.0.0 ws01.do.nu
