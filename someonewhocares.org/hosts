@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 09 Jun 2017 at 08:29:56 GMT
+# Last updated: Tue, 13 Jun 2017 at 06:48:22 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8473,6 +8473,7 @@
 127.0.0.1 morefreecamsecrets.com
 127.0.0.1 morevisits.info
 127.0.0.1 motd.pinion.gg
+127.0.0.1 motosal.net
 127.0.0.1 movieads.imgs.sapo.pt
 127.0.0.1 movsflix.com
 127.0.0.1 mp.tscapeplay.com
