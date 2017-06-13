@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 13 Jun 2017 at 06:48:22 GMT
+# Last updated: Tue, 13 Jun 2017 at 18:16:43 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6101,6 +6101,7 @@
 127.0.0.1 adsview.qq.com
 127.0.0.1 adsview2.qq.com
 127.0.0.1 adsvr.adknowledge.com
+127.0.0.1 adswakeup.com
 127.0.0.1 adsweb.tiscali.cz
 127.0.0.1 adsyndication.msn.com
 127.0.0.1 adsyndication.yelldirect.com
