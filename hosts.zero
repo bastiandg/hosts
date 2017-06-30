@@ -2949,7 +2949,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.neowin.net
 0.0.0.0 ads.nerve.com
 0.0.0.0 ads.netbul.com
-0.0.0.0 ads.netclusive.de
 0.0.0.0 ads.netcommunities.com
 0.0.0.0 ads.nethaber.com
 0.0.0.0 ads.netinfo.bg
@@ -10225,7 +10224,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 euniverseads.com
 0.0.0.0 eur.a1.yimg.com
 0.0.0.0 eurekster.com
-0.0.0.0 euro-linkindex.de
 0.0.0.0 euro-vertrieb.com
 0.0.0.0 euroad1.advantage.as
 0.0.0.0 euroclick.com
@@ -11650,7 +11648,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 gtlt.hit.gemius.pl
 0.0.0.0 gtlv.hit.gemius.pl
 0.0.0.0 gtmedia.us.intellitxt.com
-0.0.0.0 gtop.ro
 0.0.0.0 gtop100.com
 0.0.0.0 gtp1.acecounter.com
 0.0.0.0 gtp16.acecounter.com
@@ -17661,7 +17658,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 predictivesearch.com
 0.0.0.0 prefix.hit.gemius.pl
 0.0.0.0 premium-live-scan.com
-0.0.0.0 premium-offers.com
 0.0.0.0 premium-reward-club.com
 0.0.0.0 premium.ascensionweb.com
 0.0.0.0 premium.mookie1.com
@@ -18325,7 +18321,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 redsheriff.com
 0.0.0.0 reduxads.valuead.com
 0.0.0.0 reduxmedia.com
-0.0.0.0 reduxmediagroup.com
 0.0.0.0 reed-cw.grapeshot.co.uk
 0.0.0.0 reedbusiness.com.invalid
 0.0.0.0 reelmovienews.us.intellitxt.com
@@ -20707,7 +20702,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 stats.street-jeni.us
 0.0.0.0 stats.style.com
 0.0.0.0 stats.styletechnology.me
-0.0.0.0 stats.suite101.com
 0.0.0.0 stats.superstats.com
 0.0.0.0 stats.surfaid.ihost.com
 0.0.0.0 stats.telegraph.co.uk
@@ -23679,6 +23673,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 whoads.net
 0.0.0.0 whoateallthepies.uk.intellitxt.com
 0.0.0.0 whoisonline.net
+0.0.0.0 wholesaletraffic.info
 0.0.0.0 whometrics.net
 0.0.0.0 whos.amung.us
 0.0.0.0 whosread.com

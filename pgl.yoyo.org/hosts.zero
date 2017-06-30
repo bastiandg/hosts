@@ -512,7 +512,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.multimania.lycos.fr
 0.0.0.0 ads.nationalgeographic.com
 0.0.0.0 ads.ncm.com
-0.0.0.0 ads.netclusive.de
 0.0.0.0 ads.netmechanic.com
 0.0.0.0 ads.networksolutions.com
 0.0.0.0 ads.newdream.net
@@ -1126,6 +1125,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 class-act-clicks.com
 0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
+0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
 0.0.0.0 click2paid.com
 0.0.0.0 clickability.com
@@ -1206,6 +1206,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 counter.sparklit.com
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counters.honesty.com
+0.0.0.0 counting.kmindex.ru
 0.0.0.0 counts.tucows.com
 0.0.0.0 coupling-media.de
 0.0.0.0 cpalead.com
@@ -1314,7 +1315,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 eu1.madsone.com
 0.0.0.0 eur.a1.yimg.com
 0.0.0.0 eurekster.com
-0.0.0.0 euro-linkindex.de
 0.0.0.0 euroclick.com
 0.0.0.0 euros4click.de
 0.0.0.0 eusta.de
@@ -1415,7 +1415,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 grafstat.ro
 0.0.0.0 grapeshot.co.uk
 0.0.0.0 greystripe.com
-0.0.0.0 gtop.ro
 0.0.0.0 gtop100.com
 0.0.0.0 gunggo.com
 0.0.0.0 harrenmedia.com
@@ -1832,7 +1831,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 prchecker.info
 0.0.0.0 precisioncounter.com
 0.0.0.0 predictad.com
-0.0.0.0 premium-offers.com
 0.0.0.0 primaryads.com
 0.0.0.0 primetime.net
 0.0.0.0 privatecash.com
@@ -1906,7 +1904,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 realtechnetwork.com
 0.0.0.0 realtracker.com
 0.0.0.0 reduxmedia.com
-0.0.0.0 reduxmediagroup.com
 0.0.0.0 reedbusiness.com.invalid
 0.0.0.0 referralware.com
 0.0.0.0 regnow.com
@@ -2046,7 +2043,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 stats.mirrorfootball.co.uk
 0.0.0.0 stats.multiup.org
 0.0.0.0 stats.olark.com
-0.0.0.0 stats.suite101.com
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.unwired-i.net
 0.0.0.0 stats.wordpress.com
@@ -2269,6 +2265,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 whenu.com
 0.0.0.0 whispa.com
 0.0.0.0 whoisonline.net
+0.0.0.0 wholesaletraffic.info
 0.0.0.0 widespace.com
 0.0.0.0 widgetbucks.com
 0.0.0.0 wikia-ads.wikia.com
