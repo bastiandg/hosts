@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 28 Jun 2017 23:24:23 GMT
-# entries:        2328
+# last updated:   Sat, 01 Jul 2017 19:18:29 GMT
+# entries:        2329
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1664,6 +1664,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 metaffiliation.com
 127.0.0.1 metanetwork.com
 127.0.0.1 methodcash.com
+127.0.0.1 metrics.cnn.com
 127.0.0.1 metrics.windowsitpro.com
 127.0.0.1 mgid.com
 127.0.0.1 miarroba.com
