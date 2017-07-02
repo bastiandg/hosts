@@ -8354,6 +8354,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pr.5.p2l.info
 0.0.0.0 pr.ydp.yahoo.com
 0.0.0.0 precisioncounter.com
+0.0.0.0 preland.softmonetize.com
 0.0.0.0 premium-live-scan.com
 0.0.0.0 premium-reward-club.com
 0.0.0.0 premium.ascensionweb.com
@@ -10677,6 +10678,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 video.cynogage.com
 0.0.0.0 video.entertaintastic.com
+0.0.0.0 video.loudgames.com
+0.0.0.0 video.theparentingvillage.com
 0.0.0.0 videobox.com
 0.0.0.0 videocop.com
 0.0.0.0 videoegg.adbureau.net
