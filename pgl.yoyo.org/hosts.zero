@@ -781,6 +781,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adthis.com
 0.0.0.0 adtiger.de
 0.0.0.0 adtoll.com
+0.0.0.0 adtology.com
 0.0.0.0 adtoma.com
 0.0.0.0 adtrace.org
 0.0.0.0 adtrade.net
@@ -1402,7 +1403,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 globe7.com
 0.0.0.0 globus-inter.com
 0.0.0.0 gmads.net
-0.0.0.0 go-clicks.de
 0.0.0.0 go-rank.de
 0.0.0.0 goingplatinum.com
 0.0.0.0 goldstats.com
@@ -1507,7 +1507,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 inringtone.com
 0.0.0.0 insightexpress.com
 0.0.0.0 insightexpressai.com
-0.0.0.0 inspectorclick.com
 0.0.0.0 instantmadness.com
 0.0.0.0 intelliads.com
 0.0.0.0 intellitxt.com
@@ -1826,7 +1825,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 porntrack.com
 0.0.0.0 postrelease.com
 0.0.0.0 potenza.cz
-0.0.0.0 pr-star.de
 0.0.0.0 pr-ten.de
 0.0.0.0 praddpro.de
 0.0.0.0 prchecker.info
