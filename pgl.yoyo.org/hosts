@@ -21,7 +21,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 01 Jul 2017 19:18:29 GMT
+# last updated:   Tue, 11 Jul 2017 09:14:09 GMT
 # entries:        2327
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -1143,7 +1143,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 checkstat.nl
 127.0.0.1 chestionar.ro
 127.0.0.1 chitika.net
-127.0.0.1 cibleclick.com
+127.0.0.1 cibleclick.com.invalid
 127.0.0.1 cityads.telus.net
 127.0.0.1 cj.com
 127.0.0.1 cjbmanagement.com
