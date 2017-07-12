@@ -2462,6 +2462,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.dkelseymedia.com
 127.0.0.1 ads.doclix.com
 127.0.0.1 ads.doctors.co.il
+127.0.0.1 ads.domain.com
 127.0.0.1 ads.domainbg.com
 127.0.0.1 ads.domainoptions.net
 127.0.0.1 ads.domeus.com
@@ -20711,6 +20712,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stats.sa-as.com
 127.0.0.1 stats.sbstv.dk
 127.0.0.1 stats.searchles.com
+127.0.0.1 stats.self.com
 127.0.0.1 stats.sextracker.com
 127.0.0.1 stats.shopify.com
 127.0.0.1 stats.snacktools.net

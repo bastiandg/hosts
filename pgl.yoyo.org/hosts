@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 11 Jul 2017 22:48:00 GMT
-# entries:        2328
+# last updated:   Wed, 12 Jul 2017 13:54:58 GMT
+# entries:        2331
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -425,6 +425,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.digitalmedianet.com
 127.0.0.1 ads.digitalpoint.com
 127.0.0.1 ads.directionsmag.com
+127.0.0.1 ads.domain.com
 127.0.0.1 ads.domeus.com
 127.0.0.1 ads.eagletribune.com
 127.0.0.1 ads.easy-forex.com
@@ -2069,10 +2070,12 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 stats.mirrorfootball.co.uk
 127.0.0.1 stats.multiup.org
 127.0.0.1 stats.olark.com
+127.0.0.1 stats.self.com
 127.0.0.1 stats.townnews.com
 127.0.0.1 stats.unwired-i.net
 127.0.0.1 stats.wordpress.com
 127.0.0.1 stats.x14.eu
+127.0.0.1 stats2.self.com
 127.0.0.1 stats4all.com
 127.0.0.1 statsie.com
 127.0.0.1 statxpress.com

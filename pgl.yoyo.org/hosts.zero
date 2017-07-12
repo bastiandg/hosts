@@ -399,6 +399,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.digitalmedianet.com
 0.0.0.0 ads.digitalpoint.com
 0.0.0.0 ads.directionsmag.com
+0.0.0.0 ads.domain.com
 0.0.0.0 ads.domeus.com
 0.0.0.0 ads.eagletribune.com
 0.0.0.0 ads.easy-forex.com
@@ -2043,10 +2044,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 stats.mirrorfootball.co.uk
 0.0.0.0 stats.multiup.org
 0.0.0.0 stats.olark.com
+0.0.0.0 stats.self.com
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.unwired-i.net
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.x14.eu
+0.0.0.0 stats2.self.com
 0.0.0.0 stats4all.com
 0.0.0.0 statsie.com
 0.0.0.0 statxpress.com
