@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 12 Jul 2017 13:54:58 GMT
-# entries:        2331
+# last updated:   Thu, 13 Jul 2017 08:31:08 GMT
+# entries:        2333
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1232,6 +1232,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 counter.nowlinux.com
 127.0.0.1 counter.rambler.ru
 127.0.0.1 counter.search.bg
+127.0.0.1 counter.snackly.co
 127.0.0.1 counter.sparklit.com
 127.0.0.1 counter.yadro.ru
 127.0.0.1 counters.honesty.com
@@ -1608,6 +1609,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 liverail.com
 127.0.0.1 loading321.com
 127.0.0.1 log.btopenworld.com
+127.0.0.1 logger.snackly.co
 127.0.0.1 logua.com
 127.0.0.1 lop.com
 127.0.0.1 lucidmedia.com

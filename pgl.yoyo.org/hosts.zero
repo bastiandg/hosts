@@ -1206,6 +1206,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 counter.nowlinux.com
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.search.bg
+0.0.0.0 counter.snackly.co
 0.0.0.0 counter.sparklit.com
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counters.honesty.com
@@ -1582,6 +1583,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 liverail.com
 0.0.0.0 loading321.com
 0.0.0.0 log.btopenworld.com
+0.0.0.0 logger.snackly.co
 0.0.0.0 logua.com
 0.0.0.0 lop.com
 0.0.0.0 lucidmedia.com
