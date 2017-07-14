@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 13 Jul 2017 08:31:08 GMT
-# entries:        2332
+# entries:        2327
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -538,7 +538,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.multimania.lycos.fr
 127.0.0.1 ads.nationalgeographic.com
 127.0.0.1 ads.ncm.com
-127.0.0.1 ads.netmechanic.com
 127.0.0.1 ads.networksolutions.com
 127.0.0.1 ads.newdream.net
 127.0.0.1 ads.newgrounds.com
@@ -711,13 +710,11 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserv.iafrica.com
 127.0.0.1 adserv.qconline.com
 127.0.0.1 adserve.ams.rhythmxchange.com
-127.0.0.1 adserver-live.yoc.mobi
 127.0.0.1 adserver.43plc.com
 127.0.0.1 adserver.71i.de
 127.0.0.1 adserver.adultfriendfinder.com
 127.0.0.1 adserver.aidameter.com
 127.0.0.1 adserver.aol.fr
-127.0.0.1 adserver.beggarspromo.com
 127.0.0.1 adserver.betandwin.de
 127.0.0.1 adserver.bing.com
 127.0.0.1 adserver.bizhat.com
@@ -2215,7 +2212,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 truehits.net
 127.0.0.1 truehits1.gits.net.th
 127.0.0.1 truehits2.gits.net.th
-127.0.0.1 tsms-ad.tsms.com
 127.0.0.1 tubemogul.com
 127.0.0.1 turn.com
 127.0.0.1 tvmtracker.com
@@ -2346,7 +2342,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 yieldmanager.net
 127.0.0.1 yieldmo.com
 127.0.0.1 yieldtraffic.com
-127.0.0.1 yoc.mobi
 127.0.0.1 yoggrt.com
 127.0.0.1 z5x.net
 127.0.0.1 zangocash.com
