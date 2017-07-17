@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 16 Jul 2017 at 20:50:45 GMT
+# Last updated: Mon, 17 Jul 2017 at 01:49:21 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -10088,6 +10088,7 @@
 127.0.0.1 vice-ads-cdn.vice.com
 127.0.0.1 vid.atm.youku.com
 127.0.0.1 video-game-rewards-central.com
+127.0.0.1 video.buzzintersection.com
 127.0.0.1 video.cynogage.com
 127.0.0.1 video.entertaintastic.com
 127.0.0.1 video.loudgames.com
