@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 13 Jul 2017 08:31:08 GMT
-# entries:        2327
+# last updated:   Mon, 17 Jul 2017 14:25:48 GMT
+# entries:        2329
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1299,6 +1299,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 doublepimp.com
 127.0.0.1 drumcash.com
 127.0.0.1 dynamic.fmpub.net
+127.0.0.1 dynamicyield.com
 127.0.0.1 e-adimages.scrippsnetworks.com
 127.0.0.1 e-bannerx.com
 127.0.0.1 e-debtconsolidation.com
@@ -2065,6 +2066,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 stats.cts-bv.nl
 127.0.0.1 stats.directnic.com
 127.0.0.1 stats.hyperinzerce.cz
+127.0.0.1 stats.merriam-webster.com
 127.0.0.1 stats.mirrorfootball.co.uk
 127.0.0.1 stats.multiup.org
 127.0.0.1 stats.olark.com

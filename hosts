@@ -9617,6 +9617,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dynamic1.anandtech.com
 127.0.0.1 dynamic1.dailytech.com
 127.0.0.1 dynamic2.anandtech.com
+127.0.0.1 dynamicyield.com
 127.0.0.1 dyntraq.mtree.com
 127.0.0.1 dz2fz0bgyq9tn.cloudfront.net
 127.0.0.1 dzl.baidu.com
@@ -20680,6 +20681,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stats.mako.co.il
 127.0.0.1 stats.manticoretechnology.com
 127.0.0.1 stats.media.onet.pl
+127.0.0.1 stats.merriam-webster.com
 127.0.0.1 stats.metacount.com
 127.0.0.1 stats.mezzobit.com
 127.0.0.1 stats.millanusa.com
