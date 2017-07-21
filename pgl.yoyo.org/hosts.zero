@@ -512,6 +512,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.multimania.lycos.fr
 0.0.0.0 ads.nationalgeographic.com
 0.0.0.0 ads.ncm.com
+0.0.0.0 ads.netmechanic.com
 0.0.0.0 ads.networksolutions.com
 0.0.0.0 ads.newdream.net
 0.0.0.0 ads.newgrounds.com
@@ -865,7 +866,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 affiliatetracking.com
 0.0.0.0 affiliatetracking.net
 0.0.0.0 affiliatewindow.com
-0.0.0.0 affiliation-france.com
 0.0.0.0 afftracking.justanswer.com
 0.0.0.0 ah-ha.com
 0.0.0.0 ahalogy.com
@@ -1585,7 +1585,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 lop.com
 0.0.0.0 lucidmedia.com
 0.0.0.0 lzjl.com
-0.0.0.0 m.webtrends.com
 0.0.0.0 m1.webstats4u.com
 0.0.0.0 m4n.nl
 0.0.0.0 mackeeperapp.mackeeper.com
@@ -2152,17 +2151,14 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracking.crunchiemedia.com
 0.0.0.0 tracking.gajmp.com
 0.0.0.0 tracking.internetstores.de
-0.0.0.0 tracking.yourfilehost.com
 0.0.0.0 tracking101.com
 0.0.0.0 trackingsoft.com
 0.0.0.0 trackmysales.com
 0.0.0.0 tradeadexchange.com
 0.0.0.0 tradedoubler.com
 0.0.0.0 traffic-exchange.com
-0.0.0.0 traffic.liveuniversenetwork.com
 0.0.0.0 trafficadept.com
 0.0.0.0 trafficbalancerouting.com
-0.0.0.0 trafficcdn.liveuniversenetwork.com
 0.0.0.0 trafficfactory.biz
 0.0.0.0 trafficholder.com
 0.0.0.0 traffichunt.com

@@ -22248,7 +22248,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracking.websitealive.com
 127.0.0.1 tracking.whattoexpect.com
 127.0.0.1 tracking.wisepops.com
-127.0.0.1 tracking.yourfilehost.com
 127.0.0.1 tracking1.euroads.no
 127.0.0.1 tracking101.com
 127.0.0.1 tracking2.channeladvisor.com
@@ -22278,7 +22277,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 traffic.adxprts.com
 127.0.0.1 traffic.buyservices.com
 127.0.0.1 traffic.getmyads.com
-127.0.0.1 traffic.liveuniversenetwork.com
 127.0.0.1 traffic.mindviz.com
 127.0.0.1 traffic.outbrain.com
 127.0.0.1 traffic.prod.cobaltgroup.com
@@ -22292,7 +22290,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 trafficads.com
 127.0.0.1 trafficbalancerouting.com
 127.0.0.1 trafficbee.com
-127.0.0.1 trafficcdn.liveuniversenetwork.com
 127.0.0.1 trafficedge.adk2x.com
 127.0.0.1 trafficex.adlandpro.com
 127.0.0.1 trafficfactory.biz
