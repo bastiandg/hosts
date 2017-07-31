@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 26 Jul 2017 at 05:52:21 GMT
+# Last updated: Mon, 31 Jul 2017 at 02:27:14 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8383,6 +8383,7 @@
 127.0.0.1 media.ontarionorth.com
 127.0.0.1 media.popmarker.com
 127.0.0.1 media.popuptraffic.com
+127.0.0.1 media.primalforce.net
 127.0.0.1 media.trafficfactory.biz
 127.0.0.1 media.trafficjunky.net
 127.0.0.1 media.ventivmedia.com
