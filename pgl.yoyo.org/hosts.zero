@@ -1272,7 +1272,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 doublepimp.com
 0.0.0.0 drumcash.com
 0.0.0.0 dynamic.fmpub.net
-0.0.0.0 dynamicyield.com
 0.0.0.0 e-adimages.scrippsnetworks.com
 0.0.0.0 e-bannerx.com
 0.0.0.0 e-debtconsolidation.com
@@ -1861,6 +1860,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pubmatic.com
 0.0.0.0 pubs.lemonde.fr
 0.0.0.0 pulse360.com
+0.0.0.0 px.dynamicyield.com
 0.0.0.0 q.azcentral.com
 0.0.0.0 qctop.com
 0.0.0.0 qnsr.com
