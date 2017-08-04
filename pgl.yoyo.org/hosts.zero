@@ -683,7 +683,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserv.evo-x.de
 0.0.0.0 adserv.gamezone.de
 0.0.0.0 adserv.iafrica.com
-0.0.0.0 adserv.qconline.com
 0.0.0.0 adserve.ams.rhythmxchange.com
 0.0.0.0 adserver.43plc.com
 0.0.0.0 adserver.71i.de
@@ -1351,7 +1350,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 feedbackresearch.com
 0.0.0.0 feedjit.com
 0.0.0.0 ffxcam.fairfax.com.au
-0.0.0.0 fimc.net
 0.0.0.0 fimserve.com
 0.0.0.0 findcommerce.com
 0.0.0.0 findyourcasino.com
@@ -1401,6 +1399,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 globe7.com
 0.0.0.0 globus-inter.com
 0.0.0.0 gmads.net
+0.0.0.0 go-clicks.de
 0.0.0.0 go-rank.de
 0.0.0.0 goingplatinum.com
 0.0.0.0 goldstats.com
@@ -1521,7 +1520,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 itfarm.com
 0.0.0.0 itop.cz
 0.0.0.0 its-that-easy.com
-0.0.0.0 itsptp.com
 0.0.0.0 jcount.com
 0.0.0.0 jinkads.de
 0.0.0.0 joetec.net
@@ -1823,11 +1821,13 @@ ff02::2 ip6-allrouters
 0.0.0.0 porntrack.com
 0.0.0.0 postrelease.com
 0.0.0.0 potenza.cz
+0.0.0.0 pr-star.de
 0.0.0.0 pr-ten.de
 0.0.0.0 praddpro.de
 0.0.0.0 prchecker.info
 0.0.0.0 precisioncounter.com
 0.0.0.0 predictad.com
+0.0.0.0 premium-offers.com
 0.0.0.0 primaryads.com
 0.0.0.0 primetime.net
 0.0.0.0 privatecash.com
@@ -2098,7 +2098,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tfag.de
 0.0.0.0 theadhost.com
 0.0.0.0 theads.me
-0.0.0.0 thebugs.ws
 0.0.0.0 thecounter.com
 0.0.0.0 therapistla.com
 0.0.0.0 therichkids.com
@@ -2197,7 +2196,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 urlcash.net
 0.0.0.0 us.a1.yimg.com
 0.0.0.0 usapromotravel.com
-0.0.0.0 usmsad.tom.com
 0.0.0.0 utarget.co.uk
 0.0.0.0 utils.mediageneral.net
 0.0.0.0 v1.cnzz.com

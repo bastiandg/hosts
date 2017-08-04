@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 03 Aug 2017 14:16:30 GMT
-# entries:        2324
+# entries:        2322
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -709,7 +709,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserv.evo-x.de
 127.0.0.1 adserv.gamezone.de
 127.0.0.1 adserv.iafrica.com
-127.0.0.1 adserv.qconline.com
 127.0.0.1 adserve.ams.rhythmxchange.com
 127.0.0.1 adserver.43plc.com
 127.0.0.1 adserver.71i.de
@@ -1377,7 +1376,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 feedbackresearch.com
 127.0.0.1 feedjit.com
 127.0.0.1 ffxcam.fairfax.com.au
-127.0.0.1 fimc.net
 127.0.0.1 fimserve.com
 127.0.0.1 findcommerce.com
 127.0.0.1 findyourcasino.com
@@ -1427,6 +1425,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 globe7.com
 127.0.0.1 globus-inter.com
 127.0.0.1 gmads.net
+127.0.0.1 go-clicks.de
 127.0.0.1 go-rank.de
 127.0.0.1 goingplatinum.com
 127.0.0.1 goldstats.com
@@ -1547,7 +1546,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 itfarm.com
 127.0.0.1 itop.cz
 127.0.0.1 its-that-easy.com
-127.0.0.1 itsptp.com
 127.0.0.1 jcount.com
 127.0.0.1 jinkads.de
 127.0.0.1 joetec.net
@@ -1849,11 +1847,13 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 porntrack.com
 127.0.0.1 postrelease.com
 127.0.0.1 potenza.cz
+127.0.0.1 pr-star.de
 127.0.0.1 pr-ten.de
 127.0.0.1 praddpro.de
 127.0.0.1 prchecker.info
 127.0.0.1 precisioncounter.com
 127.0.0.1 predictad.com
+127.0.0.1 premium-offers.com
 127.0.0.1 primaryads.com
 127.0.0.1 primetime.net
 127.0.0.1 privatecash.com
@@ -2124,7 +2124,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 tfag.de
 127.0.0.1 theadhost.com
 127.0.0.1 theads.me
-127.0.0.1 thebugs.ws
 127.0.0.1 thecounter.com
 127.0.0.1 therapistla.com
 127.0.0.1 therichkids.com
@@ -2223,7 +2222,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 urlcash.net
 127.0.0.1 us.a1.yimg.com
 127.0.0.1 usapromotravel.com
-127.0.0.1 usmsad.tom.com
 127.0.0.1 utarget.co.uk
 127.0.0.1 utils.mediageneral.net
 127.0.0.1 v1.cnzz.com
