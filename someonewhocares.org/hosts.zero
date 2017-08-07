@@ -140,6 +140,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 911.x24hr.com
 0.0.0.0 961.com
 0.0.0.0 a-ads.com
+0.0.0.0 a-blog.eu
 0.0.0.0 a-msedge.net
 0.0.0.0 a-scrip.org
 0.0.0.0 a-ssl.ligatus.com
@@ -9806,6 +9807,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 t0.extreme-dm.com
 0.0.0.0 t1.adserver.com
 0.0.0.0 t1.extreme-dm.com
+0.0.0.0 t2.junbi-tracker.com
 0.0.0.0 t4.liverail.com
 0.0.0.0 t8t7frium3.s.ad6media.fr
 0.0.0.0 ta.at.ic5mp.net
