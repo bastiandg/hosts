@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 31 Jul 2017 at 04:55:22 GMT
+# Last updated: Mon, 07 Aug 2017 at 00:30:52 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9958,6 +9958,7 @@
 127.0.0.1 tradefx.advertserve.com
 127.0.0.1 tradem.com
 127.0.0.1 traffic.adxprts.com
+127.0.0.1 traffic.focuusing.com
 127.0.0.1 traffic.getmyads.com
 127.0.0.1 traffic.outbrain.com
 127.0.0.1 trafficbee.com
