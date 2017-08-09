@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 05 Aug 2017 14:26:08 GMT
-# entries:        2324
+# last updated:   Wed, 09 Aug 2017 07:58:23 GMT
+# entries:        2327
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -919,6 +919,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 anm.intelli-direct.com
 127.0.0.1 annonser.dagbladet.no
 127.0.0.1 api.intensifier.de
+127.0.0.1 appsflyer.com
 127.0.0.1 apture.com
 127.0.0.1 arc1.msn.com
 127.0.0.1 arcadebanners.com
@@ -1529,6 +1530,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 infinityads.com
 127.0.0.1 infolinks.com
 127.0.0.1 information.com
+127.0.0.1 inmobi.com
 127.0.0.1 inringtone.com
 127.0.0.1 insightexpress.com
 127.0.0.1 insightexpressai.com
@@ -1732,6 +1734,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 newt1.adultadworld.com
 127.0.0.1 newt1.adultworld.com
 127.0.0.1 newtopsites.com
+127.0.0.1 nexage.com
 127.0.0.1 ng3.ads.warnerbros.com
 127.0.0.1 ngs.impress.co.jp
 127.0.0.1 nitroclicks.com
