@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 07 Aug 2017 at 02:22:27 GMT
+# Last updated: Thu, 10 Aug 2017 at 15:05:41 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7416,6 +7416,7 @@
 127.0.0.1 enquete-annuelle.info
 127.0.0.1 entertainment-rewardpath.com
 127.0.0.1 entertainment-specials.com
+127.0.0.1 epl.paypal-communication.com
 127.0.0.1 epomads2.4shared.com
 127.0.0.1 erie.smartage.com
 127.0.0.1 ero-advertising.com
@@ -8859,6 +8860,7 @@
 127.0.0.1 partnerwebsites.mistermedia.nl
 127.0.0.1 pathforpoints.com
 127.0.0.1 paulsnetwork.com
+127.0.0.1 paypal-communication.com
 127.0.0.1 pb.tynt.com
 127.0.0.1 pbid.pro-market.net
 127.0.0.1 pc-gizmos-ssl.com
