@@ -51,6 +51,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 actionsplash.com
 0.0.0.0 actualdeals.com
 0.0.0.0 acuityads.com
+0.0.0.0 acuty1adsrv.com
 0.0.0.0 ad-balancer.at
 0.0.0.0 ad-balancer.net
 0.0.0.0 ad-center.com
@@ -303,6 +304,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adq.nextag.com
 0.0.0.0 adrazzi.com
 0.0.0.0 adreactor.com
+0.0.0.0 adreclaim.com
 0.0.0.0 adrecreate.com
 0.0.0.0 adremedy.com
 0.0.0.0 adreporting.com
@@ -918,6 +920,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 avpa.javalobby.org
 0.0.0.0 avres.net
 0.0.0.0 avsads.com
+0.0.0.0 avzadsrv.com
 0.0.0.0 awempire.com
 0.0.0.0 awin1.com
 0.0.0.0 azfront.com
@@ -1396,6 +1399,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 geobanner.adultfriendfinder.com
 0.0.0.0 geovisite.com
 0.0.0.0 getclicky.com
+0.0.0.0 gigya.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globaltakeoff.net
 0.0.0.0 globaltrack.com.invalid
@@ -1638,6 +1642,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 metanetwork.com
 0.0.0.0 methodcash.com
 0.0.0.0 metrics.cnn.com
+0.0.0.0 metrics.ctv.ca
 0.0.0.0 metrics.windowsitpro.com
 0.0.0.0 mgid.com
 0.0.0.0 miarroba.com
@@ -1674,6 +1679,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mystat-in.net
 0.0.0.0 mystat.pl
 0.0.0.0 mytop-in.net
+0.0.0.0 mytrafficads.com
 0.0.0.0 n69.com
 0.0.0.0 naiadsystems.com.invalid
 0.0.0.0 naj.sk
@@ -1810,6 +1816,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 play4traffic.com
 0.0.0.0 playhaven.com
+0.0.0.0 playmobileads.com
 0.0.0.0 plista.com
 0.0.0.0 plugrush.com
 0.0.0.0 pointroll.com
@@ -2278,6 +2285,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 wondoads.de
 0.0.0.0 woopra.com
 0.0.0.0 worldwide-cash.net
+0.0.0.0 ws-gateway.com
 0.0.0.0 wtlive.com
 0.0.0.0 www-banner.chat.ru
 0.0.0.0 www-google-analytics.l.google.com

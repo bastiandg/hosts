@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 09 Aug 2017 07:58:23 GMT
-# entries:        2327
+# last updated:   Thu, 10 Aug 2017 08:49:48 GMT
+# entries:        2335
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -77,6 +77,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 actionsplash.com
 127.0.0.1 actualdeals.com
 127.0.0.1 acuityads.com
+127.0.0.1 acuty1adsrv.com
 127.0.0.1 ad-balancer.at
 127.0.0.1 ad-balancer.net
 127.0.0.1 ad-center.com
@@ -329,6 +330,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adq.nextag.com
 127.0.0.1 adrazzi.com
 127.0.0.1 adreactor.com
+127.0.0.1 adreclaim.com
 127.0.0.1 adrecreate.com
 127.0.0.1 adremedy.com
 127.0.0.1 adreporting.com
@@ -944,6 +946,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 avpa.javalobby.org
 127.0.0.1 avres.net
 127.0.0.1 avsads.com
+127.0.0.1 avzadsrv.com
 127.0.0.1 awempire.com
 127.0.0.1 awin1.com
 127.0.0.1 azfront.com
@@ -1422,6 +1425,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 geobanner.adultfriendfinder.com
 127.0.0.1 geovisite.com
 127.0.0.1 getclicky.com
+127.0.0.1 gigya.com
 127.0.0.1 globalismedia.com
 127.0.0.1 globaltakeoff.net
 127.0.0.1 globaltrack.com.invalid
@@ -1664,6 +1668,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 metanetwork.com
 127.0.0.1 methodcash.com
 127.0.0.1 metrics.cnn.com
+127.0.0.1 metrics.ctv.ca
 127.0.0.1 metrics.windowsitpro.com
 127.0.0.1 mgid.com
 127.0.0.1 miarroba.com
@@ -1700,6 +1705,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mystat-in.net
 127.0.0.1 mystat.pl
 127.0.0.1 mytop-in.net
+127.0.0.1 mytrafficads.com
 127.0.0.1 n69.com
 127.0.0.1 naiadsystems.com.invalid
 127.0.0.1 naj.sk
@@ -1836,6 +1842,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 pixel.redditmedia.com
 127.0.0.1 play4traffic.com
 127.0.0.1 playhaven.com
+127.0.0.1 playmobileads.com
 127.0.0.1 plista.com
 127.0.0.1 plugrush.com
 127.0.0.1 pointroll.com
@@ -2304,6 +2311,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 wondoads.de
 127.0.0.1 woopra.com
 127.0.0.1 worldwide-cash.net
+127.0.0.1 ws-gateway.com
 127.0.0.1 wtlive.com
 127.0.0.1 www-banner.chat.ru
 127.0.0.1 www-google-analytics.l.google.com
