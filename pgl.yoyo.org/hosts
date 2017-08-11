@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 10 Aug 2017 15:42:21 GMT
-# entries:        2344
+# entries:        2343
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -475,7 +475,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.geekswithblogs.net
 127.0.0.1 ads.glispa.com
 127.0.0.1 ads.gmodules.com
-127.0.0.1 ads.godlikeproductions.com
 127.0.0.1 ads.goyk.com
 127.0.0.1 ads.gplusmedia.com
 127.0.0.1 ads.gradfinder.com
@@ -1203,7 +1202,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 clkrev.com
 127.0.0.1 cluster.adultworld.com
 127.0.0.1 clustrmaps.com
-127.0.0.1 cmpstar.com
 127.0.0.1 cnomy.com
 127.0.0.1 cnt.spbland.ru
 127.0.0.1 cnt1.pocitadlo.cz
@@ -1388,6 +1386,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 feedbackresearch.com
 127.0.0.1 feedjit.com
 127.0.0.1 ffxcam.fairfax.com.au
+127.0.0.1 fimc.net
 127.0.0.1 fimserve.com
 127.0.0.1 findcommerce.com
 127.0.0.1 findyourcasino.com
@@ -1545,6 +1544,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 inringtone.com
 127.0.0.1 insightexpress.com
 127.0.0.1 insightexpressai.com
+127.0.0.1 inspectorclick.com
 127.0.0.1 instantmadness.com
 127.0.0.1 intelliads.com
 127.0.0.1 intellitxt.com
@@ -2236,7 +2236,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 uarating.com
 127.0.0.1 ukbanners.com
 127.0.0.1 ultramercial.com
-127.0.0.1 unanimis.co.uk
 127.0.0.1 unknowntray.com
 127.0.0.1 untd.com
 127.0.0.1 updated.com
