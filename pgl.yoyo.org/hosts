@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 10 Aug 2017 15:42:21 GMT
-# entries:        2343
+# last updated:   Fri, 11 Aug 2017 13:50:17 GMT
+# entries:        2344
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1599,6 +1599,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ligatus.de
 127.0.0.1 lightningcast.net
 127.0.0.1 lightspeedcash.com
+127.0.0.1 limpingline.com
 127.0.0.1 link-booster.de
 127.0.0.1 link4ads.com
 127.0.0.1 linkadd.de
