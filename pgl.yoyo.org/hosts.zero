@@ -208,6 +208,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ademails.com
 0.0.0.0 adengage.com
 0.0.0.0 adexchangeprediction.com
+0.0.0.0 adexcite.com
 0.0.0.0 adexpose.com
 0.0.0.0 adext.inkclub.com
 0.0.0.0 adf.ly
@@ -1443,7 +1444,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 geovisite.com
 0.0.0.0 getclicky.com
 0.0.0.0 giddycoat.com
-0.0.0.0 gigya.com
+0.0.0.0 gigya.com.invalid
 0.0.0.0 globalismedia.com
 0.0.0.0 globaltakeoff.net
 0.0.0.0 globaltrack.com.invalid

@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 11 Aug 2017 16:44:32 GMT
-# entries:        2449
+# last updated:   Sun, 13 Aug 2017 20:28:36 GMT
+# entries:        2450
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -234,6 +234,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ademails.com
 127.0.0.1 adengage.com
 127.0.0.1 adexchangeprediction.com
+127.0.0.1 adexcite.com
 127.0.0.1 adexpose.com
 127.0.0.1 adext.inkclub.com
 127.0.0.1 adf.ly
@@ -1469,7 +1470,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 geovisite.com
 127.0.0.1 getclicky.com
 127.0.0.1 giddycoat.com
-127.0.0.1 gigya.com
+127.0.0.1 gigya.com.invalid
 127.0.0.1 globalismedia.com
 127.0.0.1 globaltakeoff.net
 127.0.0.1 globaltrack.com.invalid
