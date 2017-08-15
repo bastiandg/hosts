@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 14 Aug 2017 at 15:14:04 GMT
+# Last updated: Tue, 15 Aug 2017 at 04:06:09 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2028,6 +2028,7 @@
 127.0.0.1 b.webwise.net
 127.0.0.1 b.webwise.org
 127.0.0.1 beloysoff.ru
+127.0.0.1 bestreview.site
 127.0.0.1 bgl1dr1-a-fixed.sancharnet.in
 127.0.0.1 bgl1pp1-a-fixed.sancharnet.in
 127.0.0.1 bhyuu.com
@@ -3948,6 +3949,7 @@
 127.0.0.1 8cr.purredheanb.online
 127.0.0.1 8ruzz.allcpa.006238.xyz
 127.0.0.1 961.com
+127.0.0.1 9cd76b4462bb.com
 127.0.0.1 ANDpolice.com
 127.0.0.1 AUSpolice.com
 127.0.0.1 BRApolice.com
