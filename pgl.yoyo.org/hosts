@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 16 Aug 2017 09:14:57 GMT
-# entries:        2451
+# entries:        2449
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1304,7 +1304,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 decisiveducks.com
 127.0.0.1 decknetwork.net
 127.0.0.1 delightdriving.com
-127.0.0.1 deloo.de
 127.0.0.1 demandbase.com
 127.0.0.1 demdex.net
 127.0.0.1 di1.shopping.com
@@ -1420,7 +1419,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 feedbackresearch.com
 127.0.0.1 feedjit.com
 127.0.0.1 ffxcam.fairfax.com.au
-127.0.0.1 fimc.net
 127.0.0.1 fimserve.com
 127.0.0.1 findcommerce.com
 127.0.0.1 findyourcasino.com
