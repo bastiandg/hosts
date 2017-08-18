@@ -2759,6 +2759,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 app.scanscout.com
 0.0.0.0 app.yesware.com
 0.0.0.0 app2.letmacwork.world
+0.0.0.0 app2.letslowbefast.life
 0.0.0.0 app3.letmacwork.world
 0.0.0.0 app4.letslowbefast.site
 0.0.0.0 app4.letslowbefast.today
@@ -4943,6 +4944,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 f.qstatic.com
 0.0.0.0 f1.p0y.com
 0.0.0.0 f150123.privacy4browsing.com
+0.0.0.0 f18085.privacy4browsers.com
 0.0.0.0 f2.p0y.com
 0.0.0.0 f2ncracker.112.2o7.net
 0.0.0.0 f2nsmh.112.2o7.net
@@ -8660,6 +8662,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 redirect.click2net.com
 0.0.0.0 redirect.hotkeys.com
 0.0.0.0 redirect.xmlheads.com
+0.0.0.0 redonetype.com
 0.0.0.0 redsheriff.com
 0.0.0.0 reduxads.valuead.com
 0.0.0.0 refinance.shengen.ru
