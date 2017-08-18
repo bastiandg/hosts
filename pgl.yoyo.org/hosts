@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 16 Aug 2017 09:14:57 GMT
-# entries:        2449
+# last updated:   Fri, 18 Aug 2017 17:08:33 GMT
+# entries:        2450
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -928,6 +928,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 annonser.dagbladet.no
 127.0.0.1 anxiousapples.com
 127.0.0.1 api.intensifier.de
+127.0.0.1 app.adblockhyper.us
 127.0.0.1 appsflyer.com
 127.0.0.1 apture.com
 127.0.0.1 arc1.msn.com
