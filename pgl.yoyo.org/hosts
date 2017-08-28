@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 21 Aug 2017 08:43:04 GMT
-# entries:        2449
+# last updated:   Mon, 28 Aug 2017 07:54:05 GMT
+# entries:        2450
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2032,6 +2032,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 remotead.cnet.com
 127.0.0.1 republika.onet.pl
 127.0.0.1 retargeter.com
+127.0.0.1 revcontent.com
 127.0.0.1 revenue.net
 127.0.0.1 revenuedirect.com
 127.0.0.1 revsci.net
