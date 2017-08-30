@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 28 Aug 2017 at 07:34:10 GMT
+# Last updated: Wed, 30 Aug 2017 at 20:53:40 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2140,6 +2140,7 @@
 127.0.0.1 get-answers-fast.com
 127.0.0.1 gglcash4u.info	# twitter worm
 127.0.0.1 girlownedbypolicelike.blogspot.com	# Facebook trojan
+127.0.0.1 go.deliverymodo.com
 127.0.0.1 goggle.com
 127.0.0.1 goobbe.com
 127.0.0.1 greatarcadehits.com
