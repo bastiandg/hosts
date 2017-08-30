@@ -1926,7 +1926,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adminder.com
 0.0.0.0 adminec1.hitbox.com
 0.0.0.0 adminshop.com
-0.0.0.0 admitad.com
 0.0.0.0 admized.com
 0.0.0.0 admob.com
 0.0.0.0 admon1.count.brat-online.ro
@@ -22617,6 +22616,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 trk.vidible.tv
 0.0.0.0 trk.yadomedia.com
 0.0.0.0 trkmydomain.com
+0.0.0.0 trmit.com
 0.0.0.0 tropiccritics.com
 0.0.0.0 trovi.com
 0.0.0.0 troytempest.com

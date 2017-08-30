@@ -73,6 +73,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.abctv.com
 0.0.0.0 ad.aboutwebservices.com
 0.0.0.0 ad.abum.com
+0.0.0.0 ad.admitad.com
 0.0.0.0 ad.afy11.net
 0.0.0.0 ad.allstar.cz
 0.0.0.0 ad.altervista.org
@@ -277,7 +278,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 admex.com
 0.0.0.0 adminder.com
 0.0.0.0 adminshop.com
-0.0.0.0 admitad.com
 0.0.0.0 admized.com
 0.0.0.0 admob.com
 0.0.0.0 admonitor.com
@@ -2304,6 +2304,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 trickycelery.com
 0.0.0.0 tritetongue.com
 0.0.0.0 trix.net
+0.0.0.0 trmit.com
 0.0.0.0 truehits.net
 0.0.0.0 truehits1.gits.net.th
 0.0.0.0 truehits2.gits.net.th
