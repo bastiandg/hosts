@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 30 Aug 2017 21:27:23 GMT
-# entries:        2452
+# entries:        2448
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -567,7 +567,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.ole.com
 127.0.0.1 ads.olivebrandresponse.com
 127.0.0.1 ads.oneplace.com
-127.0.0.1 ads.ookla.com
 127.0.0.1 ads.optusnet.com.au
 127.0.0.1 ads.outpersonals.com
 127.0.0.1 ads.passion.com
@@ -1175,7 +1174,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 click.fool.com
 127.0.0.1 click.kmindex.ru
 127.0.0.1 click2freemoney.com
-127.0.0.1 click2paid.com
 127.0.0.1 clickability.com
 127.0.0.1 clickadz.com
 127.0.0.1 clickagents.com
@@ -2084,7 +2082,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 sedotracker.com
 127.0.0.1 seeq.com.invalid
 127.0.0.1 sensismediasmart.com.au
-127.0.0.1 seo4india.com
 127.0.0.1 separatesilver.com
 127.0.0.1 serv0.com
 127.0.0.1 servedby-buysellads.com
@@ -2093,7 +2090,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 servethis.com
 127.0.0.1 services.hearstmags.com
 127.0.0.1 serving-sys.com
-127.0.0.1 sexaddpro.de
 127.0.0.1 sexadvertentiesite.nl
 127.0.0.1 sexcounter.com
 127.0.0.1 sexinyourcity.com
