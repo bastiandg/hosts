@@ -1089,6 +1089,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.m-adx.com
 0.0.0.0 ad.m5prod.net
 0.0.0.0 ad.madvertise.de
+0.0.0.0 ad.mail.ru
 0.0.0.0 ad.mainichi.jp
 0.0.0.0 ad.maist.jp
 0.0.0.0 ad.mangareader.net
@@ -9522,6 +9523,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 dmp.adform.net
 0.0.0.0 dmp.gravity4.com
 0.0.0.0 dmp.theadex.com
+0.0.0.0 dmp.vihub.ru
 0.0.0.0 dms.netmng.com
 0.0.0.0 dmtracker.com
 0.0.0.0 dmtracking.alibaba.com
@@ -10322,6 +10324,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 eu-u.openx.net
 0.0.0.0 eu.npario-inc.net
 0.0.0.0 eu.nuggad.net
+0.0.0.0 eu.track.digitaladsystems.com
 0.0.0.0 eu.xtms.net
 0.0.0.0 eu1.heatmap.it
 0.0.0.0 eu1.madsone.com
@@ -14508,6 +14511,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mastermind.com
 0.0.0.0 mastertarget.ru
 0.0.0.0 mastertracks.be
+0.0.0.0 match.ads.betweendigital.com
 0.0.0.0 match.adsrvr.org
 0.0.0.0 match.basebanner.com
 0.0.0.0 match.rundsp.com
@@ -20521,6 +20525,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 st.pc.adonweb.ru
 0.0.0.0 st.sageanalyst.net
 0.0.0.0 st.smartredirect.de
+0.0.0.0 st.targetix.net
 0.0.0.0 st.top100.ru
 0.0.0.0 st.valueclick.com
 0.0.0.0 st.videojam.tv
@@ -21208,10 +21213,13 @@ ff02::2 ip6-allrouters
 0.0.0.0 synad.nuffnang.com.sg
 0.0.0.0 synad2.nuffnang.com.cn
 0.0.0.0 synad2.nuffnang.com.my
+0.0.0.0 sync-eu.exe.bid
 0.0.0.0 sync.adaptv.advertising.com
 0.0.0.0 sync.adkernel.com
 0.0.0.0 sync.atomex.net
+0.0.0.0 sync.audtd.com
 0.0.0.0 sync.cmedia.s3.amazonaws.com
+0.0.0.0 sync.credebat.com
 0.0.0.0 sync.darikweb.com
 0.0.0.0 sync.go.sonobi.com
 0.0.0.0 sync.mathtag.com
@@ -21219,6 +21227,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 sync.rhythmxchange.com
 0.0.0.0 sync.richmetrics.com
 0.0.0.0 sync.search.spotxchange.com
+0.0.0.0 sync.upravel.com
 0.0.0.0 sync2.adsniper.ru
 0.0.0.0 syncaccess.net
 0.0.0.0 synchrobox.adswizz.com

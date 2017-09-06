@@ -419,6 +419,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.linksynergy.com
 0.0.0.0 ad.livere.co.kr
 0.0.0.0 ad.lyricswire.com
+0.0.0.0 ad.mail.ru
 0.0.0.0 ad.mainichi.jp
 0.0.0.0 ad.maist.jp
 0.0.0.0 ad.mangareader.net
@@ -1109,6 +1110,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.belointeractive.com
 0.0.0.0 ads.beta.itravel2000.com
 0.0.0.0 ads.betanews.com
+0.0.0.0 ads.betweendigital.com
 0.0.0.0 ads.bfast.com
 0.0.0.0 ads.bfm.valueclick.net
 0.0.0.0 ads.bianca.com
@@ -3505,6 +3507,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cache.addthis.com
 0.0.0.0 cache.addthiscdn.com
 0.0.0.0 cache.adm.cnzz.net
+0.0.0.0 cache.betweendigital.com
 0.0.0.0 cache.blogads.com
 0.0.0.0 cache.unicast.com
 0.0.0.0 cacheserve.eurogrand.com
@@ -4471,6 +4474,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 dl.neodownload.webcam
 0.0.0.0 dlvr.readserver.net
 0.0.0.0 dmn2.bjpeu.edu.cn
+0.0.0.0 dmp.vihub.ru
 0.0.0.0 dnads.directnic.com
 0.0.0.0 dnps.com
 0.0.0.0 dnps.us.intellitxt.com
@@ -4906,6 +4910,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 etype.adbureau.net
 0.0.0.0 eu-pn4.adserver.yahoo.com
 0.0.0.0 eu-sonar.sociomantic.com
+0.0.0.0 eu.track.digitaladsystems.com
 0.0.0.0 eu.xtms.net
 0.0.0.0 eu1.recompenses.win
 0.0.0.0 eu2.madsone.com
@@ -6873,6 +6878,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mashinkhabar.com
 0.0.0.0 massage-v-almaty.kz
 0.0.0.0 mastertracks.be
+0.0.0.0 match.ads.betweendigital.com
 0.0.0.0 match.adsrvr.org
 0.0.0.0 matomy.adk2.co
 0.0.0.0 matrix.mediavantage.de
@@ -9493,6 +9499,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 st.blogads.com
 0.0.0.0 st.marketgid.com
 0.0.0.0 st.sageanalyst.net
+0.0.0.0 st.targetix.net
 0.0.0.0 st.valueclick.com
 0.0.0.0 st.videojam.tv
 0.0.0.0 st.vq.ku6.cn
@@ -9807,7 +9814,11 @@ ff02::2 ip6-allrouters
 0.0.0.0 syn.verticalacuity.com
 0.0.0.0 synad.nuffnang.com.sg
 0.0.0.0 synad2.nuffnang.com.cn
+0.0.0.0 sync-eu.exe.bid
+0.0.0.0 sync.audtd.com
+0.0.0.0 sync.credebat.com
 0.0.0.0 sync.mathtag.com
+0.0.0.0 sync.upravel.com
 0.0.0.0 syncaccess.net
 0.0.0.0 syndicated.mondominishows.com
 0.0.0.0 syndication.exdynsrv.com
