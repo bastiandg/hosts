@@ -546,7 +546,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.passion.com
 0.0.0.0 ads.pennet.com
 0.0.0.0 ads.penny-arcade.com
-0.0.0.0 ads.pheedo.com
 0.0.0.0 ads.phpclasses.org
 0.0.0.0 ads.pickmeup-ltd.com
 0.0.0.0 ads.planet.nl
@@ -1581,6 +1580,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 itfarm.com
 0.0.0.0 itop.cz
 0.0.0.0 its-that-easy.com
+0.0.0.0 itsptp.com
 0.0.0.0 ivykiosk.com
 0.0.0.0 jcount.com
 0.0.0.0 jewelcheese.com
@@ -1843,7 +1843,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pageranktop.com
 0.0.0.0 parse.ly.invalid
 0.0.0.0 parsely.com
-0.0.0.0 partage-facile.com
 0.0.0.0 partner-ads.com
 0.0.0.0 partner.pelikan.cz
 0.0.0.0 partner.topcities.com
@@ -2085,7 +2084,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 shiveringsail.com
 0.0.0.0 shockingswing.com
 0.0.0.0 shoppingads.com
-0.0.0.0 siccash.com
 0.0.0.0 sidebar.angelfire.com
 0.0.0.0 simplisticnose.com
 0.0.0.0 sinceresofa.com

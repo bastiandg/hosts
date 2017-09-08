@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 07 Sep 2017 21:38:09 GMT
-# entries:        2452
+# entries:        2450
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -572,7 +572,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.passion.com
 127.0.0.1 ads.pennet.com
 127.0.0.1 ads.penny-arcade.com
-127.0.0.1 ads.pheedo.com
 127.0.0.1 ads.phpclasses.org
 127.0.0.1 ads.pickmeup-ltd.com
 127.0.0.1 ads.planet.nl
@@ -1607,6 +1606,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 itfarm.com
 127.0.0.1 itop.cz
 127.0.0.1 its-that-easy.com
+127.0.0.1 itsptp.com
 127.0.0.1 ivykiosk.com
 127.0.0.1 jcount.com
 127.0.0.1 jewelcheese.com
@@ -1869,7 +1869,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 pageranktop.com
 127.0.0.1 parse.ly.invalid
 127.0.0.1 parsely.com
-127.0.0.1 partage-facile.com
 127.0.0.1 partner-ads.com
 127.0.0.1 partner.pelikan.cz
 127.0.0.1 partner.topcities.com
@@ -2111,7 +2110,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 shiveringsail.com
 127.0.0.1 shockingswing.com
 127.0.0.1 shoppingads.com
-127.0.0.1 siccash.com
 127.0.0.1 sidebar.angelfire.com
 127.0.0.1 simplisticnose.com
 127.0.0.1 sinceresofa.com
