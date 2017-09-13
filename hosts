@@ -1890,6 +1890,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 admarket.entireweb.com
 127.0.0.1 admarketplace.net
 127.0.0.1 admarkt.marktplaats.nl
+127.0.0.1 admarsx.com
 127.0.0.1 admarvel.com
 127.0.0.1 admarvel.s3.amazonaws.com
 127.0.0.1 admatch-syndication.mochila.com
@@ -1963,6 +1964,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adnetwork.nextgen.net
 127.0.0.1 adnetwork.rovicorp.com
 127.0.0.1 adnetworkperformance.com
+127.0.0.1 adnetworkperformance.compopcash.net
 127.0.0.1 adnetxchange.com
 127.0.0.1 adnews.maddog2000.de
 127.0.0.1 adnext.fr
@@ -2054,6 +2056,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adrunnr.com
 127.0.0.1 adrzr.com
 127.0.0.1 ads-a-darwin.hulu.com
+127.0.0.1 ads-a.juicyads.com
 127.0.0.1 ads-by.madadsmedia.com
 127.0.0.1 ads-by.yieldselect.com
 127.0.0.1 ads-click.com
@@ -2189,6 +2192,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.allsites.com
 127.0.0.1 ads.allvatar.com
 127.0.0.1 ads.allvertical.com
+127.0.0.1 ads.almasdarnews.com
 127.0.0.1 ads.alphaporno.com
 127.0.0.1 ads.alt.com
 127.0.0.1 ads.amakings.com
@@ -3543,6 +3547,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.yahoo.com
 127.0.0.1 ads.yam.com
 127.0.0.1 ads.yankscash.com
+127.0.0.1 ads.yap.yahoo.com
 127.0.0.1 ads.yashi.com
 127.0.0.1 ads.yeshanews.com
 127.0.0.1 ads.yieldmedia.net
@@ -3640,6 +3645,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads13.focalink.com
 127.0.0.1 ads13.hyperbanner.net
 127.0.0.1 ads13.udc.advance.net
+127.0.0.1 ads13000.cpmoz.com
 127.0.0.1 ads14.bpath.com
 127.0.0.1 ads14.focalink.com
 127.0.0.1 ads14.hyperbanner.net
@@ -3658,6 +3664,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads18.hyperbanner.net
 127.0.0.1 ads180.com
 127.0.0.1 ads19.focalink.com
+127.0.0.1 ads1a.depositfiles.com
 127.0.0.1 ads2-adnow.com
 127.0.0.1 ads2.ad-flow.com
 127.0.0.1 ads2.adbrite.com
@@ -3833,6 +3840,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adsatt.familyfun.starwave.com
 127.0.0.1 adsatt.go.starwave.com
 127.0.0.1 adsatt.movies.starwave.com
+127.0.0.1 adsbb.dfiles.eu
 127.0.0.1 adsbizsimple.com
 127.0.0.1 adsbookie.com
 127.0.0.1 adsbox.detik.com
@@ -4434,6 +4442,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adsweb.tiscali.it
 127.0.0.1 adswizz.com
 127.0.0.1 adsx.greystripe.com
+127.0.0.1 adsxyz.com
 127.0.0.1 adsy.lsipack.com
 127.0.0.1 adsy.mail.bg
 127.0.0.1 adsymptotic.com
@@ -4513,6 +4522,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adunit.chango.com
 127.0.0.1 adv-adserver.com
 127.0.0.1 adv-banner.libero.it
+127.0.0.1 adv-mydarkness.ggcorp.me
 127.0.0.1 adv-op2.joygames.me
 127.0.0.1 adv.0tub.com
 127.0.0.1 adv.440net.com
@@ -5062,6 +5072,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 amplifypixel.outbrain.com
 127.0.0.1 amrytt.adk2x.com
 127.0.0.1 ams.toxity.biz
+127.0.0.1 ams1-ib.adnxs.com
 127.0.0.1 ams1.ib.adnxs.com
 127.0.0.1 amscdn.btrll.com
 127.0.0.1 amu-d.openx.net
@@ -6410,6 +6421,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 betterhomeandgardenideas.com
 127.0.0.1 betterperformance.goldenopps.info
 127.0.0.1 betting-online.petrovka.info
+127.0.0.1 bevo-eu-west-1.adsnative.com
 127.0.0.1 bextra-store.shengen.ru
 127.0.0.1 bextra.ourtablets.com
 127.0.0.1 beyondhollywood.us.intellitxt.com
@@ -7457,12 +7469,14 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.ads.ookla.com
 127.0.0.1 cdn.adsafeprotected.com
 127.0.0.1 cdn.adservingsolutionsinc.com
+127.0.0.1 cdn.adskeeper.co.uk
 127.0.0.1 cdn.adspirit.de
 127.0.0.1 cdn.adsrvmedia.net
 127.0.0.1 cdn.adstatic.com
 127.0.0.1 cdn.adstract.com
 127.0.0.1 cdn.adtrace.org
 127.0.0.1 cdn.adtradr.com
+127.0.0.1 cdn.adtrue.com
 127.0.0.1 cdn.adual.net
 127.0.0.1 cdn.advertserve.com
 127.0.0.1 cdn.ajillionmax.com
@@ -9155,6 +9169,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dashboard.adcalls.nl
 127.0.0.1 dashboardnew.adcalls.nl
 127.0.0.1 dashgreen.online
+127.0.0.1 data-failover.eroadvertising.com
 127.0.0.1 data.abebooks.com
 127.0.0.1 data.ads.t-online.de
 127.0.0.1 data.adsrvr.org
@@ -9167,6 +9182,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 data.de.coremetrics.com
 127.0.0.1 data.emimino.cz
 127.0.0.1 data.ero-advertising.com
+127.0.0.1 data.eroadvertising.com
 127.0.0.1 data.flurry.com
 127.0.0.1 data.gosquared.com
 127.0.0.1 data.kataweb.it
@@ -10641,6 +10657,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fastlane.rubiconproject.com
 127.0.0.1 fastnclick.com
 127.0.0.1 fastonlineusers.com
+127.0.0.1 fastpopunder.com
 127.0.0.1 fastwebcounter.com
 127.0.0.1 fatbackandcollards.us.intellitxt.com
 127.0.0.1 fatbackmedia.us.intellitxt.com
@@ -10930,6 +10947,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fr.sitestat.com
 127.0.0.1 fr.slidein.clickintext.net
 127.0.0.1 fra-photobox-tracking.adalyser.com
+127.0.0.1 fra1-ib.adnxs.com
 127.0.0.1 fragmentserv.iac-online.de
 127.0.0.1 fratz.oewabox.at
 127.0.0.1 freakads.com
@@ -14670,6 +14688,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 media.go2speed.org
 127.0.0.1 media.gsimedia.net
 127.0.0.1 media.hauptbruch.de
+127.0.0.1 media.hw.adxpansion.com
 127.0.0.1 media.intelia.it
 127.0.0.1 media.lead.program3.com
 127.0.0.1 media.livepromotools.com
@@ -15733,6 +15752,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nana10.checkm8.com
 127.0.0.1 nana10digital.checkm8.com
 127.0.0.1 nandomedia.112.2o7.net
+127.0.0.1 nanoadexchange.com
 127.0.0.1 nanocluster.reklamz.com
 127.0.0.1 napi.lanistaads.com
 127.0.0.1 narrow.azenergyforum.com
@@ -15849,6 +15869,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 net-filter.com
 127.0.0.1 net-radar.com
 127.0.0.1 net.softonicads.com
+127.0.0.1 netadclick.com
 127.0.0.1 netads.hotwired.com
 127.0.0.1 netads.sohu.com
 127.0.0.1 netadsrv.iworld.com
@@ -18447,6 +18468,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 re.revolvermaps.com
 127.0.0.1 re.rutan.org
 127.0.0.1 reachjunction.com
+127.0.0.1 reactads.cdn.adglare.net
 127.0.0.1 reactads.com
 127.0.0.1 reactads.engine.adglare.net
 127.0.0.1 reactx.com
@@ -20301,6 +20323,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 southcoasttodaycom.112.2o7.net
 127.0.0.1 sovereign.sitetracker.com
 127.0.0.1 soxorok.ddospower.ro
+127.0.0.1 sp.adbrn.com
 127.0.0.1 sp.analytics.yahoo.com
 127.0.0.1 sp1.convertro.com
 127.0.0.1 sp1cluster.cxense.com
@@ -23181,6 +23204,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vault9.us.intellitxt.com
 127.0.0.1 vbadbg.hit.gemius.pl
 127.0.0.1 vbbg.adocean.pl
+127.0.0.1 vcdn.adnxs.com
 127.0.0.1 vcipo.info
 127.0.0.1 vclick.adbrite.com
 127.0.0.1 vclicks.net
