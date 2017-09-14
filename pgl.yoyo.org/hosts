@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 12 Sep 2017 12:27:05 GMT
-# entries:        2452
+# last updated:   Thu, 14 Sep 2017 19:48:43 GMT
+# entries:        2454
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -960,6 +960,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 b-1st.com
 127.0.0.1 b.aol.com
 127.0.0.1 b.engadget.com
+127.0.0.1 b0b1o.bid
 127.0.0.1 ba.afl.rakuten.co.jp
 127.0.0.1 babs.tv2.dk
 127.0.0.1 backbeatmedia.com
@@ -1918,6 +1919,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 pointroll.com
 127.0.0.1 pop-under.ru
 127.0.0.1 popads.net
+127.0.0.1 popflawlessads.com
 127.0.0.1 popub.com
 127.0.0.1 popunder.ru
 127.0.0.1 popup.msn.com
