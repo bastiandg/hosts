@@ -108,7 +108,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 15628.hittail.com
 127.0.0.1 15694.hittail.com
 127.0.0.1 15minadlt.hit.gemius.pl
-127.0.0.1 15minlt.adocean.pl
 127.0.0.1 16565.hittail.com
 127.0.0.1 165a7.v.fwmrm.net
 127.0.0.1 1687.ic-live.com
@@ -800,7 +799,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad-hoc-news.de.intellitxt.com
 127.0.0.1 ad-incisive.grapeshot.co.uk
 127.0.0.1 ad-indicator.com
-127.0.0.1 ad-js.chip.de
 127.0.0.1 ad-logics.com
 127.0.0.1 ad-media.xe.gr
 127.0.0.1 ad-noise.net
@@ -3748,7 +3746,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads3.gamecity.net
 127.0.0.1 ads3.haber3.com
 127.0.0.1 ads3.ihaberadserver.com
-127.0.0.1 ads3.ipon.lt
 127.0.0.1 ads3.jubii.dk
 127.0.0.1 ads3.kompasads.com
 127.0.0.1 ads3.moitepari.bg
@@ -3800,6 +3797,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads5.vertamedia.com
 127.0.0.1 ads5.virtual-nights.com
 127.0.0.1 ads5.virtumundo.com
+127.0.0.1 ads56-us-east.stickyadstv.com
 127.0.0.1 ads6.ad-flow.com
 127.0.0.1 ads6.advance.net
 127.0.0.1 ads6.advertwizard.com
@@ -5880,7 +5878,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ballsack.org
 127.0.0.1 bam-pilot.iovation.com
 127.0.0.1 bam.nr-data.net
-127.0.0.1 bambergerkennanchitinous.com.abbp2.pw
 127.0.0.1 ban.xpays.com
 127.0.0.1 bananacashback.com
 127.0.0.1 bandoc.d-group.co.il
@@ -6768,7 +6765,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 btn.counter.weather.ca
 127.0.0.1 btprmnav.com
 127.0.0.1 bttrack.com
-127.0.0.1 buddies.funbuddyicons.com
 127.0.0.1 budsinc.com
 127.0.0.1 buffalogoesout.com
 127.0.0.1 bugera.popunder.ru
@@ -7762,7 +7758,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdnssl.clicktale.net
 127.0.0.1 cdnt.meteorsolutions.com
 127.0.0.1 cdnt.yottos.com
-127.0.0.1 cdntest.gand.de
 127.0.0.1 cdnw.ringtonepartner.com
 127.0.0.1 cdreviews.us.intellitxt.com
 127.0.0.1 cdrinfo.us.intellitxt.com
@@ -9285,7 +9280,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 decrolyschool.be
 127.0.0.1 ded.gostats.com
 127.0.0.1 def.5.p2l.info
-127.0.0.1 defender-win-status-report.info
 127.0.0.1 del1.phillyburbs.com
 127.0.0.1 delawareonline.us.intellitxt.com
 127.0.0.1 delb.mspaceads.com
@@ -9438,7 +9432,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 digg.analytics.live.com
 127.0.0.1 digikulture-d.openx.net
 127.0.0.1 diginet.112.2o7.net
-127.0.0.1 diginet.adocean.pl
 127.0.0.1 diginetlt.hit.gemius.pl
 127.0.0.1 digistats.westjet.com
 127.0.0.1 digit-life.uk.intellitxt.com
@@ -9617,12 +9610,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 download-archiver.ru
 127.0.0.1 download.56.com
 127.0.0.1 download.abetterinternet.com
-127.0.0.1 download.cdn.downloadquick.net
 127.0.0.1 download.cdn.sharelive.net
 127.0.0.1 download.cdn.torchbrowser.com
 127.0.0.1 download.downloadquick.net
 127.0.0.1 download.filmfanatic.com
-127.0.0.1 download.funwebproducts.com
 127.0.0.1 download.grandcloud.cn
 127.0.0.1 download.hitbox.com
 127.0.0.1 download.mywebsearch.com
@@ -10761,9 +10752,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 files.goodadvert.ru
 127.0.0.1 files.native.ad
 127.0.0.1 files.tailsweep.com
-127.0.0.1 files4.downloadnet1188.com
 127.0.0.1 files4.securedownload01.com
-127.0.0.1 files5.downloadnet1188.com
 127.0.0.1 files5.securedownload01.com
 127.0.0.1 filmdrunk.us.intellitxt.com
 127.0.0.1 filmfanatic.com
@@ -16282,7 +16271,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 oas.foxnews.com
 127.0.0.1 oas.greensboro.com
 127.0.0.1 oas.guardian.co.uk
-127.0.0.1 oas.guardiannews.com
 127.0.0.1 oas.heise.de
 127.0.0.1 oas.hitbox.com
 127.0.0.1 oas.ibnlive.com
@@ -16307,7 +16295,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 oas.signonsandiego.com
 127.0.0.1 oas.startribune.com
 127.0.0.1 oas.stv.tv
-127.0.0.1 oas.theguardian.com
 127.0.0.1 oas.tidningsnatet.se
 127.0.0.1 oas.toronto.com
 127.0.0.1 oas.trustnet.com
@@ -16658,7 +16645,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ohmydating.com
 127.0.0.1 ohtuleht.spring-tns.net
 127.0.0.1 ohtulehtadee.hit.gemius.pl
-127.0.0.1 ohtulehtee.adocean.pl
 127.0.0.1 oi.webnavegador.com.br
 127.0.0.1 oidiscover.com
 127.0.0.1 oik.mactechinfo.info
@@ -17726,7 +17712,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 pn2.adserver.yahoo.com
 127.0.0.1 pntm-images.adbureau.net
 127.0.0.1 pntm.adbureau.net
-127.0.0.1 po.st
 127.0.0.1 poacprod.122.2o7.net
 127.0.0.1 pocketlint.uk.intellitxt.com
 127.0.0.1 poconorecordcom.112.2o7.net
@@ -19078,7 +19063,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 s1.czgde.adocean.pl
 127.0.0.1 s1.delfilt.adocean.pl
 127.0.0.1 s1.edipresse.adocean.pl
-127.0.0.1 s1.gojobsru.adocean.pl
 127.0.0.1 s1.gratkapl.adocean.pl
 127.0.0.1 s1.hit.stat.pl
 127.0.0.1 s1.hit.stat24.com
@@ -19543,7 +19527,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 search.freeonline.com
 127.0.0.1 search.in
 127.0.0.1 search.ipromote.com
-127.0.0.1 search.iwon.com
 127.0.0.1 search.keywordblocks.com
 127.0.0.1 search.mediatarget.com
 127.0.0.1 search.mywebsearch.com
@@ -20479,11 +20462,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 srv.stackadapt.com
 127.0.0.1 srv.uk.znaptag.com
 127.0.0.1 srv1.rapidstats.de
-127.0.0.1 srv1.wa.marketingsolutions.yahoo.com
 127.0.0.1 srv2.twittercounter.com
-127.0.0.1 srv2.wa.marketingsolutions.yahoo.com
 127.0.0.1 srv2trking.com
-127.0.0.1 srv3.wa.marketingsolutions.yahoo.com
 127.0.0.1 srvpub.com
 127.0.0.1 srwww1.com
 127.0.0.1 ss.hitbox.com
@@ -23294,7 +23274,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 vibrantmedia.com
 127.0.0.1 vice-ads-cdn.vice.com
 127.0.0.1 vice-d.openx.net
-127.0.0.1 vice-web-statics-cdn.vice.com
 127.0.0.1 vicodin-online.petrovka.info
 127.0.0.1 vicodin-store.shengen.ru
 127.0.0.1 vicodin.t-amo.net
@@ -25248,11 +25227,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.full-edition.info
 127.0.0.1 www.fulltraffic.net
 127.0.0.1 www.fun.lbn.ru
-127.0.0.1 www.funbuddyicons.com
 127.0.0.1 www.funklicks.com
 127.0.0.1 www.funnelchair.com
 127.0.0.1 www.funtopliste.de
-127.0.0.1 www.funwebproducts.com
 127.0.0.1 www.furnitureulimited.com
 127.0.0.1 www.fusestats.com
 127.0.0.1 www.fusionbanners.com
@@ -26405,7 +26382,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.theaffiliateprogram.com
 127.0.0.1 www.thecounter.com
 127.0.0.1 www.thedatesafe.com
-127.0.0.1 www.thedownloadpremiumfree36.com
 127.0.0.1 www.theexgirlfriends.com
 127.0.0.1 www.thefreepremiummy15.com
 127.0.0.1 www.thehomo.org

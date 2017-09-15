@@ -108,7 +108,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 15628.hittail.com
 0.0.0.0 15694.hittail.com
 0.0.0.0 15minadlt.hit.gemius.pl
-0.0.0.0 15minlt.adocean.pl
 0.0.0.0 16565.hittail.com
 0.0.0.0 165a7.v.fwmrm.net
 0.0.0.0 1687.ic-live.com
@@ -800,7 +799,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad-hoc-news.de.intellitxt.com
 0.0.0.0 ad-incisive.grapeshot.co.uk
 0.0.0.0 ad-indicator.com
-0.0.0.0 ad-js.chip.de
 0.0.0.0 ad-logics.com
 0.0.0.0 ad-media.xe.gr
 0.0.0.0 ad-noise.net
@@ -3748,7 +3746,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads3.gamecity.net
 0.0.0.0 ads3.haber3.com
 0.0.0.0 ads3.ihaberadserver.com
-0.0.0.0 ads3.ipon.lt
 0.0.0.0 ads3.jubii.dk
 0.0.0.0 ads3.kompasads.com
 0.0.0.0 ads3.moitepari.bg
@@ -3800,6 +3797,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads5.vertamedia.com
 0.0.0.0 ads5.virtual-nights.com
 0.0.0.0 ads5.virtumundo.com
+0.0.0.0 ads56-us-east.stickyadstv.com
 0.0.0.0 ads6.ad-flow.com
 0.0.0.0 ads6.advance.net
 0.0.0.0 ads6.advertwizard.com
@@ -5880,7 +5878,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ballsack.org
 0.0.0.0 bam-pilot.iovation.com
 0.0.0.0 bam.nr-data.net
-0.0.0.0 bambergerkennanchitinous.com.abbp2.pw
 0.0.0.0 ban.xpays.com
 0.0.0.0 bananacashback.com
 0.0.0.0 bandoc.d-group.co.il
@@ -6768,7 +6765,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 btn.counter.weather.ca
 0.0.0.0 btprmnav.com
 0.0.0.0 bttrack.com
-0.0.0.0 buddies.funbuddyicons.com
 0.0.0.0 budsinc.com
 0.0.0.0 buffalogoesout.com
 0.0.0.0 bugera.popunder.ru
@@ -7762,7 +7758,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdnssl.clicktale.net
 0.0.0.0 cdnt.meteorsolutions.com
 0.0.0.0 cdnt.yottos.com
-0.0.0.0 cdntest.gand.de
 0.0.0.0 cdnw.ringtonepartner.com
 0.0.0.0 cdreviews.us.intellitxt.com
 0.0.0.0 cdrinfo.us.intellitxt.com
@@ -9285,7 +9280,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 decrolyschool.be
 0.0.0.0 ded.gostats.com
 0.0.0.0 def.5.p2l.info
-0.0.0.0 defender-win-status-report.info
 0.0.0.0 del1.phillyburbs.com
 0.0.0.0 delawareonline.us.intellitxt.com
 0.0.0.0 delb.mspaceads.com
@@ -9438,7 +9432,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 digg.analytics.live.com
 0.0.0.0 digikulture-d.openx.net
 0.0.0.0 diginet.112.2o7.net
-0.0.0.0 diginet.adocean.pl
 0.0.0.0 diginetlt.hit.gemius.pl
 0.0.0.0 digistats.westjet.com
 0.0.0.0 digit-life.uk.intellitxt.com
@@ -9617,12 +9610,10 @@ ff02::2 ip6-allrouters
 0.0.0.0 download-archiver.ru
 0.0.0.0 download.56.com
 0.0.0.0 download.abetterinternet.com
-0.0.0.0 download.cdn.downloadquick.net
 0.0.0.0 download.cdn.sharelive.net
 0.0.0.0 download.cdn.torchbrowser.com
 0.0.0.0 download.downloadquick.net
 0.0.0.0 download.filmfanatic.com
-0.0.0.0 download.funwebproducts.com
 0.0.0.0 download.grandcloud.cn
 0.0.0.0 download.hitbox.com
 0.0.0.0 download.mywebsearch.com
@@ -10761,9 +10752,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 files.goodadvert.ru
 0.0.0.0 files.native.ad
 0.0.0.0 files.tailsweep.com
-0.0.0.0 files4.downloadnet1188.com
 0.0.0.0 files4.securedownload01.com
-0.0.0.0 files5.downloadnet1188.com
 0.0.0.0 files5.securedownload01.com
 0.0.0.0 filmdrunk.us.intellitxt.com
 0.0.0.0 filmfanatic.com
@@ -16282,7 +16271,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 oas.foxnews.com
 0.0.0.0 oas.greensboro.com
 0.0.0.0 oas.guardian.co.uk
-0.0.0.0 oas.guardiannews.com
 0.0.0.0 oas.heise.de
 0.0.0.0 oas.hitbox.com
 0.0.0.0 oas.ibnlive.com
@@ -16307,7 +16295,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 oas.signonsandiego.com
 0.0.0.0 oas.startribune.com
 0.0.0.0 oas.stv.tv
-0.0.0.0 oas.theguardian.com
 0.0.0.0 oas.tidningsnatet.se
 0.0.0.0 oas.toronto.com
 0.0.0.0 oas.trustnet.com
@@ -16658,7 +16645,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ohmydating.com
 0.0.0.0 ohtuleht.spring-tns.net
 0.0.0.0 ohtulehtadee.hit.gemius.pl
-0.0.0.0 ohtulehtee.adocean.pl
 0.0.0.0 oi.webnavegador.com.br
 0.0.0.0 oidiscover.com
 0.0.0.0 oik.mactechinfo.info
@@ -17726,7 +17712,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pn2.adserver.yahoo.com
 0.0.0.0 pntm-images.adbureau.net
 0.0.0.0 pntm.adbureau.net
-0.0.0.0 po.st
 0.0.0.0 poacprod.122.2o7.net
 0.0.0.0 pocketlint.uk.intellitxt.com
 0.0.0.0 poconorecordcom.112.2o7.net
@@ -19078,7 +19063,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 s1.czgde.adocean.pl
 0.0.0.0 s1.delfilt.adocean.pl
 0.0.0.0 s1.edipresse.adocean.pl
-0.0.0.0 s1.gojobsru.adocean.pl
 0.0.0.0 s1.gratkapl.adocean.pl
 0.0.0.0 s1.hit.stat.pl
 0.0.0.0 s1.hit.stat24.com
@@ -19543,7 +19527,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 search.freeonline.com
 0.0.0.0 search.in
 0.0.0.0 search.ipromote.com
-0.0.0.0 search.iwon.com
 0.0.0.0 search.keywordblocks.com
 0.0.0.0 search.mediatarget.com
 0.0.0.0 search.mywebsearch.com
@@ -20479,11 +20462,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 srv.stackadapt.com
 0.0.0.0 srv.uk.znaptag.com
 0.0.0.0 srv1.rapidstats.de
-0.0.0.0 srv1.wa.marketingsolutions.yahoo.com
 0.0.0.0 srv2.twittercounter.com
-0.0.0.0 srv2.wa.marketingsolutions.yahoo.com
 0.0.0.0 srv2trking.com
-0.0.0.0 srv3.wa.marketingsolutions.yahoo.com
 0.0.0.0 srvpub.com
 0.0.0.0 srwww1.com
 0.0.0.0 ss.hitbox.com
@@ -23294,7 +23274,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 vibrantmedia.com
 0.0.0.0 vice-ads-cdn.vice.com
 0.0.0.0 vice-d.openx.net
-0.0.0.0 vice-web-statics-cdn.vice.com
 0.0.0.0 vicodin-online.petrovka.info
 0.0.0.0 vicodin-store.shengen.ru
 0.0.0.0 vicodin.t-amo.net
@@ -25248,11 +25227,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.full-edition.info
 0.0.0.0 www.fulltraffic.net
 0.0.0.0 www.fun.lbn.ru
-0.0.0.0 www.funbuddyicons.com
 0.0.0.0 www.funklicks.com
 0.0.0.0 www.funnelchair.com
 0.0.0.0 www.funtopliste.de
-0.0.0.0 www.funwebproducts.com
 0.0.0.0 www.furnitureulimited.com
 0.0.0.0 www.fusestats.com
 0.0.0.0 www.fusionbanners.com
@@ -26405,7 +26382,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.theaffiliateprogram.com
 0.0.0.0 www.thecounter.com
 0.0.0.0 www.thedatesafe.com
-0.0.0.0 www.thedownloadpremiumfree36.com
 0.0.0.0 www.theexgirlfriends.com
 0.0.0.0 www.thefreepremiummy15.com
 0.0.0.0 www.thehomo.org
