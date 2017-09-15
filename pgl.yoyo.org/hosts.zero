@@ -500,6 +500,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.kompass.com
 0.0.0.0 ads.krawall.de
 0.0.0.0 ads.lesbianpersonals.com
+0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.linuxfoundation.org
 0.0.0.0 ads.linuxjournal.com
 0.0.0.0 ads.linuxsecurity.com
@@ -1053,6 +1054,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 bitads.net
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 bizad.nikkeibp.co.jp
+0.0.0.0 bizographics.com
 0.0.0.0 bizrate.com
 0.0.0.0 blast4traffic.com
 0.0.0.0 blingbucks.com
