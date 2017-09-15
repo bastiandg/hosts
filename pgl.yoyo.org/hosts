@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 15 Sep 2017 09:43:55 GMT
-# entries:        2456
+# last updated:   Fri, 15 Sep 2017 10:23:15 GMT
+# entries:        2457
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2137,6 +2137,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 snoobi.com
 127.0.0.1 socialspark.com
 127.0.0.1 softclick.com.br
+127.0.0.1 sonobi.com
 127.0.0.1 spacash.com
 127.0.0.1 sparkstudios.com
 127.0.0.1 specificmedia.co.uk
