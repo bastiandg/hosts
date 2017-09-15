@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 15 Sep 2017 10:23:15 GMT
-# entries:        2457
+# entries:        2452
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1031,7 +1031,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 banners.getiton.com
 127.0.0.1 banners.iq.pl
 127.0.0.1 banners.isoftmarketing.com
-127.0.0.1 banners.lifeserv.com
 127.0.0.1 banners.linkbuddies.com
 127.0.0.1 banners.passion.com
 127.0.0.1 banners.resultonline.com
@@ -1306,6 +1305,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 decisiveducks.com
 127.0.0.1 decknetwork.net
 127.0.0.1 delightdriving.com
+127.0.0.1 deloo.de
 127.0.0.1 demandbase.com
 127.0.0.1 demdex.net
 127.0.0.1 di1.shopping.com
@@ -1418,7 +1418,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 fastclick.com
 127.0.0.1 fastclick.com.edgesuite.net
 127.0.0.1 fastclick.net
-127.0.0.1 fb-promotions.com
 127.0.0.1 fc.webmasterpro.de
 127.0.0.1 feedbackresearch.com
 127.0.0.1 feedjit.com
@@ -1566,7 +1565,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ilbanner.com
 127.0.0.1 ilead.itrack.it
 127.0.0.1 illustriousoatmeal.com
-127.0.0.1 ilovecheating.com
 127.0.0.1 imageads.canoe.ca
 127.0.0.1 imagecash.net
 127.0.0.1 images-pw.secureserver.net
@@ -1908,7 +1906,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 phpmyvisites.net
 127.0.0.1 picadmedia.com
 127.0.0.1 pietexture.com
-127.0.0.1 pillscash.com
 127.0.0.1 pimproll.com
 127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 pixel.jumptap.com
@@ -1935,7 +1932,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 postrelease.com
 127.0.0.1 potenza.cz
 127.0.0.1 pr-star.de
-127.0.0.1 pr-ten.de
 127.0.0.1 practicetoothpaste.com
 127.0.0.1 praddpro.de
 127.0.0.1 prchecker.info
@@ -1976,7 +1972,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 publicidad.elmundo.es
 127.0.0.1 pubmatic.com
 127.0.0.1 pubs.lemonde.fr
-127.0.0.1 pulse360.com
 127.0.0.1 px.dynamicyield.com
 127.0.0.1 q.azcentral.com
 127.0.0.1 qctop.com

@@ -1005,7 +1005,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 banners.getiton.com
 0.0.0.0 banners.iq.pl
 0.0.0.0 banners.isoftmarketing.com
-0.0.0.0 banners.lifeserv.com
 0.0.0.0 banners.linkbuddies.com
 0.0.0.0 banners.passion.com
 0.0.0.0 banners.resultonline.com
@@ -1280,6 +1279,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 decisiveducks.com
 0.0.0.0 decknetwork.net
 0.0.0.0 delightdriving.com
+0.0.0.0 deloo.de
 0.0.0.0 demandbase.com
 0.0.0.0 demdex.net
 0.0.0.0 di1.shopping.com
@@ -1392,7 +1392,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 fastclick.com
 0.0.0.0 fastclick.com.edgesuite.net
 0.0.0.0 fastclick.net
-0.0.0.0 fb-promotions.com
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 feedbackresearch.com
 0.0.0.0 feedjit.com
@@ -1540,7 +1539,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ilbanner.com
 0.0.0.0 ilead.itrack.it
 0.0.0.0 illustriousoatmeal.com
-0.0.0.0 ilovecheating.com
 0.0.0.0 imageads.canoe.ca
 0.0.0.0 imagecash.net
 0.0.0.0 images-pw.secureserver.net
@@ -1882,7 +1880,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 phpmyvisites.net
 0.0.0.0 picadmedia.com
 0.0.0.0 pietexture.com
-0.0.0.0 pillscash.com
 0.0.0.0 pimproll.com
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.jumptap.com
@@ -1909,7 +1906,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 postrelease.com
 0.0.0.0 potenza.cz
 0.0.0.0 pr-star.de
-0.0.0.0 pr-ten.de
 0.0.0.0 practicetoothpaste.com
 0.0.0.0 praddpro.de
 0.0.0.0 prchecker.info
@@ -1950,7 +1946,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 publicidad.elmundo.es
 0.0.0.0 pubmatic.com
 0.0.0.0 pubs.lemonde.fr
-0.0.0.0 pulse360.com
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 q.azcentral.com
 0.0.0.0 qctop.com
