@@ -671,6 +671,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads6.gamecity.net
 0.0.0.0 ads7.gamecity.net
 0.0.0.0 ads8.com
+0.0.0.0 adsafeprotected.com
 0.0.0.0 adsatt.abc.starwave.com
 0.0.0.0 adsatt.abcnews.starwave.com
 0.0.0.0 adsatt.espn.go.com
@@ -1283,6 +1284,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 demdex.net
 0.0.0.0 di1.shopping.com
 0.0.0.0 dialerporn.com
+0.0.0.0 dianomi.com
 0.0.0.0 didtheyreadit.com
 0.0.0.0 differentdesk.com
 0.0.0.0 direct-xxx-access.com
