@@ -471,7 +471,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.heias.com
 0.0.0.0 ads.hideyourarms.com
 0.0.0.0 ads.hollywood.com
-0.0.0.0 ads.horsehero.com
 0.0.0.0 ads.horyzon-media.com
 0.0.0.0 ads.iafrica.com
 0.0.0.0 ads.ibest.com.br
@@ -720,7 +719,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.o2.pl
 0.0.0.0 adserver.oddschecker.com
 0.0.0.0 adserver.omroepzeeland.nl
-0.0.0.0 adserver.pl
 0.0.0.0 adserver.portalofevil.com
 0.0.0.0 adserver.portugalmail.net
 0.0.0.0 adserver.portugalmail.pt
@@ -1790,7 +1788,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 newtopsites.com
 0.0.0.0 nexage.com
 0.0.0.0 ng3.ads.warnerbros.com
-0.0.0.0 ngs.impress.co.jp
 0.0.0.0 nitroclicks.com
 0.0.0.0 novem.pl
 0.0.0.0 nuggad.net

@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 22 Sep 2017 11:45:17 GMT
-# entries:        2459
+# entries:        2456
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -497,7 +497,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.heias.com
 127.0.0.1 ads.hideyourarms.com
 127.0.0.1 ads.hollywood.com
-127.0.0.1 ads.horsehero.com
 127.0.0.1 ads.horyzon-media.com
 127.0.0.1 ads.iafrica.com
 127.0.0.1 ads.ibest.com.br
@@ -746,7 +745,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserver.o2.pl
 127.0.0.1 adserver.oddschecker.com
 127.0.0.1 adserver.omroepzeeland.nl
-127.0.0.1 adserver.pl
 127.0.0.1 adserver.portalofevil.com
 127.0.0.1 adserver.portugalmail.net
 127.0.0.1 adserver.portugalmail.pt
@@ -1816,7 +1814,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 newtopsites.com
 127.0.0.1 nexage.com
 127.0.0.1 ng3.ads.warnerbros.com
-127.0.0.1 ngs.impress.co.jp
 127.0.0.1 nitroclicks.com
 127.0.0.1 novem.pl
 127.0.0.1 nuggad.net
