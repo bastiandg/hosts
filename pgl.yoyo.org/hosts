@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 20 Sep 2017 13:43:38 GMT
-# entries:        2455
+# last updated:   Fri, 22 Sep 2017 11:45:17 GMT
+# entries:        2459
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -870,6 +870,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adxpose.com
 127.0.0.1 adxvalue.com
 127.0.0.1 adyea.com
+127.0.0.1 adz2you.com
+127.0.0.1 adzbazar.com
 127.0.0.1 adzerk.net
 127.0.0.1 adzerk.s3.amazonaws.com
 127.0.0.1 adzones.com
@@ -1211,6 +1213,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 clicmanager.fr
 127.0.0.1 clientmetrics-pa.googleapis.com
 127.0.0.1 clients.tbo.com
+127.0.0.1 clikerz.net
 127.0.0.1 cliksolution.com
 127.0.0.1 clixgalore.com
 127.0.0.1 clk.konflab.com
@@ -2345,6 +2348,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 tyroo.com
 127.0.0.1 uarating.com
 127.0.0.1 ukbanners.com
+127.0.0.1 ultimateclixx.com
 127.0.0.1 ultramercial.com
 127.0.0.1 unknowntray.com
 127.0.0.1 untd.com
