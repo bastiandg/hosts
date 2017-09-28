@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 26 Sep 2017 at 00:53:27 GMT
+# Last updated: Thu, 28 Sep 2017 at 01:20:36 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2038,6 +2038,7 @@
 127.0.0.1 bighow.net
 127.0.0.1 binsservicesonline.info
 127.0.0.1 bir.snjack.info
+127.0.0.1 bitcoinplus.com
 127.0.0.1 bj02.cww.com
 127.0.0.1 blackhat.be
 127.0.0.1 blenz-me.net
@@ -2078,6 +2079,7 @@
 127.0.0.1 codegur.com
 127.0.0.1 codeotel.com
 127.0.0.1 coderexception.com
+127.0.0.1 coin-hive.com
 127.0.0.1 coldcertainchannel.com
 127.0.0.1 com2err.xyz
 127.0.0.1 compufixshop.com
