@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 04 Oct 2017 11:40:53 GMT
-# entries:        2458
+# last updated:   Wed, 04 Oct 2017 14:27:43 GMT
+# entries:        2459
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1669,6 +1669,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 linkswaper.com
 127.0.0.1 linktarget.com
 127.0.0.1 liquidad.narrowcastmedia.com
+127.0.0.1 liveadexchanger.com
 127.0.0.1 liveintent.com
 127.0.0.1 liverail.com
 127.0.0.1 lizardslaugh.com
