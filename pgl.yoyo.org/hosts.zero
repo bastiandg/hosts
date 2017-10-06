@@ -703,7 +703,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.finditquick.com
 0.0.0.0 adserver.flossiemediagroup.com
 0.0.0.0 adserver.freecity.de
-0.0.0.0 adserver.freenet.de
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 adserver.hardsextube.com
 0.0.0.0 adserver.hardwareanalysis.com
@@ -1151,6 +1150,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
+0.0.0.0 click2paid.com
 0.0.0.0 clickability.com
 0.0.0.0 clickadz.com
 0.0.0.0 clickagents.com
@@ -1226,6 +1226,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 counter.bloke.com
 0.0.0.0 counter.cnw.cz
 0.0.0.0 counter.cz
+0.0.0.0 counter.dreamhost.com
 0.0.0.0 counter.fateback.com
 0.0.0.0 counter.mirohost.net
 0.0.0.0 counter.mojgorod.ru
@@ -1706,7 +1707,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 medleyads.com
 0.0.0.0 medyanetads.com
 0.0.0.0 megacash.de
-0.0.0.0 megago.com
 0.0.0.0 megastats.com
 0.0.0.0 megawerbung.de
 0.0.0.0 metaffiliation.com

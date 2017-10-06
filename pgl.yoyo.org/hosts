@@ -729,7 +729,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserver.finditquick.com
 127.0.0.1 adserver.flossiemediagroup.com
 127.0.0.1 adserver.freecity.de
-127.0.0.1 adserver.freenet.de
 127.0.0.1 adserver.friendfinder.com
 127.0.0.1 adserver.hardsextube.com
 127.0.0.1 adserver.hardwareanalysis.com
@@ -1177,6 +1176,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 click.fool.com
 127.0.0.1 click.kmindex.ru
 127.0.0.1 click2freemoney.com
+127.0.0.1 click2paid.com
 127.0.0.1 clickability.com
 127.0.0.1 clickadz.com
 127.0.0.1 clickagents.com
@@ -1252,6 +1252,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 counter.bloke.com
 127.0.0.1 counter.cnw.cz
 127.0.0.1 counter.cz
+127.0.0.1 counter.dreamhost.com
 127.0.0.1 counter.fateback.com
 127.0.0.1 counter.mirohost.net
 127.0.0.1 counter.mojgorod.ru
@@ -1732,7 +1733,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 medleyads.com
 127.0.0.1 medyanetads.com
 127.0.0.1 megacash.de
-127.0.0.1 megago.com
 127.0.0.1 megastats.com
 127.0.0.1 megawerbung.de
 127.0.0.1 metaffiliation.com
