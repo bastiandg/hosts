@@ -7,6 +7,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
+0.0.0.0 123freeavatars.com
 0.0.0.0 180hits.de
 0.0.0.0 180searchassistant.com
 0.0.0.0 207.net
@@ -206,6 +207,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adecn.com
 0.0.0.0 ademails.com
 0.0.0.0 adengage.com
+0.0.0.0 adexchangegate.com
 0.0.0.0 adexchangeprediction.com
 0.0.0.0 adexcite.com
 0.0.0.0 adexpose.com
@@ -2114,6 +2116,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 sonobi.com
 0.0.0.0 spacash.com
 0.0.0.0 sparkstudios.com
+0.0.0.0 specially4u.net
 0.0.0.0 specificmedia.co.uk
 0.0.0.0 specificpop.com
 0.0.0.0 spectacularsnail.com
