@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 11 Oct 2017 15:18:24 GMT
-# entries:        2468
+# last updated:   Wed, 11 Oct 2017 21:22:08 GMT
+# entries:        2470
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1226,6 +1226,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cnt.spbland.ru
 127.0.0.1 cnt1.pocitadlo.cz
 127.0.0.1 code-server.biz
+127.0.0.1 coinhive.com
 127.0.0.1 colonize.com
 127.0.0.1 comclick.com
 127.0.0.1 commandwalk.com
@@ -1312,6 +1313,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 decknetwork.net
 127.0.0.1 delightdriving.com
 127.0.0.1 deloo.de
+127.0.0.1 deloton.com
 127.0.0.1 demandbase.com
 127.0.0.1 demdex.net
 127.0.0.1 di1.shopping.com
