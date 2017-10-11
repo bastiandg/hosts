@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 10 Oct 2017 16:33:07 GMT
-# entries:        2466
+# last updated:   Wed, 11 Oct 2017 08:42:43 GMT
+# entries:        2467
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1851,6 +1851,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 onlinecash.com
 127.0.0.1 onlinecashmethod.com
 127.0.0.1 onlinerewardcenter.com
+127.0.0.1 open.oneplus.net
 127.0.0.1 openad.tf1.fr
 127.0.0.1 openad.travelnow.com
 127.0.0.1 openads.friendfinder.com
