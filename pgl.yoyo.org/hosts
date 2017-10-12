@@ -21,7 +21,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 11 Oct 2017 21:22:08 GMT
+# last updated:   Thu, 12 Oct 2017 15:12:09 GMT
 # entries:        2470
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -1215,7 +1215,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 clients.tbo.com
 127.0.0.1 clikerz.net
 127.0.0.1 cliksolution.com
-127.0.0.1 cliqz.com
 127.0.0.1 clixgalore.com
 127.0.0.1 clk.konflab.com
 127.0.0.1 clkads.com
@@ -1321,6 +1320,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 dianomi.com
 127.0.0.1 didtheyreadit.com
 127.0.0.1 differentdesk.com
+127.0.0.1 digital-ads.s3.amazonaws.com
 127.0.0.1 digitalmerkat.com
 127.0.0.1 direct-xxx-access.com
 127.0.0.1 directaclick.com
