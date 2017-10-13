@@ -1,6 +1,22 @@
 
-Fatal error: Uncaught Error: Call to undefined function dl() in /home/pgl/lib/dbsetup.inc:10
+Notice: Undefined variable: stylesheet in /home/pgl/lib/common.inc on line 49
+
+Notice: Undefined index: adservers in /home/pgl/lib/common.inc on line 92
+
+Notice: Undefined variable: set_up_date_arrays in /home/pgl/lib/dates.inc on line 6
+
+Notice: Undefined variable: bind in /home/apache/vhosts/pgl.yoyo.org/htdocs/adservers/serverlist.php on line 3
+
+Notice: Undefined variable: filtered in /home/pgl/lib/miscfuncs.inc on line 115
+
+Notice: Undefined variable: startdate in /home/apache/vhosts/pgl.yoyo.org/htdocs/adservers/serverlist.php on line 40
+
+Notice: Undefined index: month in /home/apache/vhosts/pgl.yoyo.org/htdocs/adservers/serverlist.php on line 41
+
+Notice: Undefined index: year in /home/apache/vhosts/pgl.yoyo.org/htdocs/adservers/serverlist.php on line 42
+
+Fatal error: Uncaught Error: Call to undefined function mysql_query() in /home/pgl/lib/adservers/funcs.inc:36
 Stack trace:
-#0 /home/pgl/lib/common.inc(42): include()
+#0 /home/apache/vhosts/pgl.yoyo.org/htdocs/adservers/serverlist.php(44): list_adservers('', '', Array, 0)
 #1 {main}
-  thrown in /home/pgl/lib/dbsetup.inc on line 10
+  thrown in /home/pgl/lib/adservers/funcs.inc on line 36
