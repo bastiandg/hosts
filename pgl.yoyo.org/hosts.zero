@@ -2231,7 +2231,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 theadhost.com
 0.0.0.0 theads.me
 0.0.0.0 thebugs.ws
-0.0.0.0 thecounter.com
+0.0.0.0 thecounter.com.invalid
 0.0.0.0 therapistla.com
 0.0.0.0 therichkids.com
 0.0.0.0 thirdrespect.com

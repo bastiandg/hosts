@@ -21,7 +21,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 12 Oct 2017 15:12:09 GMT
+# last updated:   Tue, 17 Oct 2017 10:03:39 GMT
 # entries:        2469
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -2257,7 +2257,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 theadhost.com
 127.0.0.1 theads.me
 127.0.0.1 thebugs.ws
-127.0.0.1 thecounter.com
+127.0.0.1 thecounter.com.invalid
 127.0.0.1 therapistla.com
 127.0.0.1 therichkids.com
 127.0.0.1 thirdrespect.com
