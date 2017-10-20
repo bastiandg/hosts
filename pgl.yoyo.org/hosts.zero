@@ -1619,7 +1619,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 layer-ad.de
 0.0.0.0 layer-ads.de
 0.0.0.0 lbn.ru
-0.0.0.0 lct.salesforce.com
 0.0.0.0 lead-analytics.nl
 0.0.0.0 leadboltads.net
 0.0.0.0 leadclick.com
@@ -1676,7 +1675,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 marketing.nyi.net
 0.0.0.0 marketing.osijek031.com
 0.0.0.0 marketingsolutions.yahoo.com
-0.0.0.0 maroonspider.com
 0.0.0.0 mas.sector.sk
 0.0.0.0 mastermind.com
 0.0.0.0 matchcows.com
@@ -1887,6 +1885,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 phpmyvisites.net
 0.0.0.0 picadmedia.com
 0.0.0.0 pietexture.com
+0.0.0.0 pillscash.com
 0.0.0.0 pimproll.com
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.jumptap.com

@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 17 Oct 2017 10:03:39 GMT
-# entries:        2467
+# entries:        2466
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1645,7 +1645,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 layer-ad.de
 127.0.0.1 layer-ads.de
 127.0.0.1 lbn.ru
-127.0.0.1 lct.salesforce.com
 127.0.0.1 lead-analytics.nl
 127.0.0.1 leadboltads.net
 127.0.0.1 leadclick.com
@@ -1702,7 +1701,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 marketing.nyi.net
 127.0.0.1 marketing.osijek031.com
 127.0.0.1 marketingsolutions.yahoo.com
-127.0.0.1 maroonspider.com
 127.0.0.1 mas.sector.sk
 127.0.0.1 mastermind.com
 127.0.0.1 matchcows.com
@@ -1913,6 +1911,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 phpmyvisites.net
 127.0.0.1 picadmedia.com
 127.0.0.1 pietexture.com
+127.0.0.1 pillscash.com
 127.0.0.1 pimproll.com
 127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 pixel.jumptap.com
