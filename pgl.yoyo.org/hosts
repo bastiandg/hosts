@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 17 Oct 2017 10:03:39 GMT
-# entries:        2469
+# entries:        2467
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -59,7 +59,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 a-counter.kiev.ua
 127.0.0.1 a.0day.kiev.ua
 127.0.0.1 a.aproductmsg.com
-127.0.0.1 a.collective-media.net
 127.0.0.1 a.consumer.net
 127.0.0.1 a.mktw.net
 127.0.0.1 a.sakh.com
@@ -469,7 +468,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.freecity.de
 127.0.0.1 ads.friendfinder.com
 127.0.0.1 ads.ft.com
-127.0.0.1 ads.futurenet.com
 127.0.0.1 ads.gamecity.net
 127.0.0.1 ads.gamershell.com
 127.0.0.1 ads.gamespyid.com

@@ -33,7 +33,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 a-counter.kiev.ua
 0.0.0.0 a.0day.kiev.ua
 0.0.0.0 a.aproductmsg.com
-0.0.0.0 a.collective-media.net
 0.0.0.0 a.consumer.net
 0.0.0.0 a.mktw.net
 0.0.0.0 a.sakh.com
@@ -443,7 +442,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.freecity.de
 0.0.0.0 ads.friendfinder.com
 0.0.0.0 ads.ft.com
-0.0.0.0 ads.futurenet.com
 0.0.0.0 ads.gamecity.net
 0.0.0.0 ads.gamershell.com
 0.0.0.0 ads.gamespyid.com
