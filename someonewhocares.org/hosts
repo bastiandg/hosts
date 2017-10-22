@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 21 Oct 2017 at 02:30:03 GMT
+# Last updated: Sat, 21 Oct 2017 at 23:12:59 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2048,6 +2048,7 @@
 127.0.0.1 bluescreenerrors.net
 127.0.0.1 bnvxcfhdgf.blogspot.com.es
 127.0.0.1 br.phorm.com
+127.0.0.1 brightonclick.com
 127.0.0.1 brunga.at	# Facebook phishing attempt
 127.0.0.1 bt.phorm.com
 127.0.0.1 bt.webwise.com
@@ -2614,6 +2615,7 @@
 127.0.0.1 www.bankofamerica.com.ok.am
 127.0.0.1 www.be4life.ru
 127.0.0.1 www.blenz-me.net
+127.0.0.1 www.brightonclick.com
 127.0.0.1 www.bumerang.cc
 127.0.0.1 www.cambonanza.com
 127.0.0.1 www.caramail.com
