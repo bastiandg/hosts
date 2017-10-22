@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 21 Oct 2017 at 23:12:59 GMT
+# Last updated: Sun, 22 Oct 2017 at 00:17:58 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2632,6 +2632,7 @@
 127.0.0.1 www.fischereszter.hu
 127.0.0.1 www.freedailydownload.com
 127.0.0.1 www.froling.bee.pl
+127.0.0.1 www.gacatl.com
 127.0.0.1 www.gezinti.com
 127.0.0.1 www.gns-consola.com
 127.0.0.1 www.goggle.com
@@ -10588,6 +10589,7 @@
 127.0.0.1 www.affpartners.com
 127.0.0.1 www.afterdownload.com
 127.0.0.1 www.agkn.com
+127.0.0.1 www.ajalis.com
 127.0.0.1 www.alexxe.com
 127.0.0.1 www.algocashmaster.com
 127.0.0.1 www.algocashmaster.net
@@ -10947,6 +10949,7 @@
 127.0.0.1 www.ijacko.net
 127.0.0.1 www.ilovecheating.com
 127.0.0.1 www.ilovemobi.com
+127.0.0.1 www.imcounting.com
 127.0.0.1 www.impressionaffiliate.com
 127.0.0.1 www.impressionaffiliate.mobi
 127.0.0.1 www.impressionlead.com
