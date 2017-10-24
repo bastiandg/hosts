@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 23 Oct 2017 at 18:16:31 GMT
+# Last updated: Tue, 24 Oct 2017 at 04:19:54 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2005,6 +2005,7 @@
 127.0.0.1 app2.letslowbefast.life
 127.0.0.1 apple-protection.info
 127.0.0.1 apple.com------support.host
+127.0.0.1 apple.com-analysis-safety-antimalware-support.accountant
 127.0.0.1 apple.com-onlinesupport.site
 127.0.0.1 apple.com-safetyalert.com
 127.0.0.1 apple.com-scan-virus-detected.com
