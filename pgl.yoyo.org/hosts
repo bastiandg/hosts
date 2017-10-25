@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 24 Oct 2017 15:55:54 GMT
-# entries:        2470
+# last updated:   Wed, 25 Oct 2017 07:55:31 GMT
+# entries:        2472
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -176,6 +176,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ad.weatherbug.com
 127.0.0.1 ad.wsod.com
 127.0.0.1 ad.wz.cz
+127.0.0.1 ad.xrea.com
 127.0.0.1 ad.yadro.ru
 127.0.0.1 ad.yourmedia.com
 127.0.0.1 ad.zanox.com
@@ -188,10 +189,12 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ad2.iinfo.cz
 127.0.0.1 ad2.linxcz.cz
 127.0.0.1 ad2.lupa.cz
+127.0.0.1 ad2.xrea.com
 127.0.0.1 ad2flash.com
 127.0.0.1 ad2games.com
 127.0.0.1 ad3.iinfo.cz
 127.0.0.1 ad3.pamedia.com.au
+127.0.0.1 ad3.xrea.com
 127.0.0.1 ad4game.com
 127.0.0.1 adaction.de
 127.0.0.1 adadvisor.net
@@ -2468,7 +2471,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 xplusone.com
 127.0.0.1 xponsor.com
 127.0.0.1 xq1.net
-127.0.0.1 xrea.com
 127.0.0.1 xtendmedia.com
 127.0.0.1 xtremetop100.com
 127.0.0.1 xxxcounter.com

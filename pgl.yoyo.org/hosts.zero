@@ -150,6 +150,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.weatherbug.com
 0.0.0.0 ad.wsod.com
 0.0.0.0 ad.wz.cz
+0.0.0.0 ad.xrea.com
 0.0.0.0 ad.yadro.ru
 0.0.0.0 ad.yourmedia.com
 0.0.0.0 ad.zanox.com
@@ -162,10 +163,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad2.iinfo.cz
 0.0.0.0 ad2.linxcz.cz
 0.0.0.0 ad2.lupa.cz
+0.0.0.0 ad2.xrea.com
 0.0.0.0 ad2flash.com
 0.0.0.0 ad2games.com
 0.0.0.0 ad3.iinfo.cz
 0.0.0.0 ad3.pamedia.com.au
+0.0.0.0 ad3.xrea.com
 0.0.0.0 ad4game.com
 0.0.0.0 adaction.de
 0.0.0.0 adadvisor.net
@@ -2442,7 +2445,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 xplusone.com
 0.0.0.0 xponsor.com
 0.0.0.0 xq1.net
-0.0.0.0 xrea.com
 0.0.0.0 xtendmedia.com
 0.0.0.0 xtremetop100.com
 0.0.0.0 xxxcounter.com

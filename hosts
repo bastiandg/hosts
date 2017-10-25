@@ -1397,6 +1397,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad2.speedbit.com
 127.0.0.1 ad2.tr.mediainter.net
 127.0.0.1 ad2.turn.com
+127.0.0.1 ad2.xrea.com
 127.0.0.1 ad2.yam.com
 127.0.0.1 ad2.zapmedya.com
 127.0.0.1 ad2.zophar.net
@@ -1441,6 +1442,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad3.pamedia.com.au
 127.0.0.1 ad3.rambler.ru
 127.0.0.1 ad3.speedbit.com
+127.0.0.1 ad3.xrea.com
 127.0.0.1 ad30.checkm8.com
 127.0.0.1 ad30digital.checkm8.com
 127.0.0.1 ad31.checkm8.com
@@ -27152,7 +27154,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 xpostmail.com
 127.0.0.1 xq1.net
 127.0.0.1 xr.h4ck.la
-127.0.0.1 xrea.com
 127.0.0.1 xstatic.nk-net.pl
 127.0.0.1 xsztfrlkphqy.com
 127.0.0.1 xtainment.net
