@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 25 Oct 2017 at 23:41:01 GMT
+# Last updated: Thu, 26 Oct 2017 at 02:46:56 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2138,6 +2138,7 @@
 127.0.0.1 feedbackexplorer.com
 127.0.0.1 fengyixin.com
 127.0.0.1 filosvybfimpsv.ru.gg
+127.0.0.1 filter.mediacpc.com
 127.0.0.1 fr.apple.com-services-assistance-recuperations-des-comptes.com
 127.0.0.1 freedailydownload.com
 127.0.0.1 froling.bee.pl
