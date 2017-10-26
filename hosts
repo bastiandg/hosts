@@ -5463,6 +5463,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 apple.com-onlinesupport.site
 127.0.0.1 apple.com-safetyalert.com
 127.0.0.1 apple.com-scan-virus-detected.com
+127.0.0.1 apple.com-security-desktop-antimalware-support.download
 127.0.0.1 apple.com-store.me
 127.0.0.1 apple.com-supportcenter.pro
 127.0.0.1 apple.com-supportcenter.website
