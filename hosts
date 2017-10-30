@@ -1666,6 +1666,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adexchange.guru
 127.0.0.1 adexchangegate.com
 127.0.0.1 adexchangeprediction.com
+127.0.0.1 adexchangetracker.com
 127.0.0.1 adexcite.com
 127.0.0.1 adexpansion.com
 127.0.0.1 adexpose.com
@@ -10780,6 +10781,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fif49.info
 127.0.0.1 fightline.us.intellitxt.com
 127.0.0.1 figlobal.112.2o7.net
+127.0.0.1 file-error-09x38.gq
 127.0.0.1 file.ipinyou.com.cn
 127.0.0.1 filecdn2.dotandad.com
 127.0.0.1 filedudes.us.intellitxt.com
@@ -16795,6 +16797,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 on.nimp.org
 127.0.0.1 onclasrv.com
 127.0.0.1 onclickads.net
+127.0.0.1 onclickprediction.com
 127.0.0.1 onclkds.com
 127.0.0.1 one.123counters.com
 127.0.0.1 one.cam4ads.com
@@ -17914,6 +17917,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 prebid.districtm.ca
 127.0.0.1 precisioncounter.com
 127.0.0.1 predictad.com
+127.0.0.1 predictiondisplay.com
+127.0.0.1 predictivadnetwork.com
 127.0.0.1 predictivesearch.com
 127.0.0.1 prefersurvey.net
 127.0.0.1 prefix.hit.gemius.pl
@@ -23269,6 +23274,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vendorweb.citibank.com
 127.0.0.1 venetian.evyy.net
 127.0.0.1 ventivmedia.com
+127.0.0.1 venturead.com
 127.0.0.1 venus.goclick.com
 127.0.0.1 vericlick.com
 127.0.0.1 verisignwildcard.112.2o7.net
