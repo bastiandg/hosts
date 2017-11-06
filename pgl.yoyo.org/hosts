@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 25 Oct 2017 06:55:31 GMT
-# entries:        2466
+# last updated:   Mon, 06 Nov 2017 09:32:14 GMT
+# entries:        2467
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -737,6 +737,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserver.hardsextube.com
 127.0.0.1 adserver.hardwareanalysis.com
 127.0.0.1 adserver.html.it
+127.0.0.1 adserver.hwupgrade.it
 127.0.0.1 adserver.irishwebmasterforum.com
 127.0.0.1 adserver.janes.com
 127.0.0.1 adserver.libero.it
