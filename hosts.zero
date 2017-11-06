@@ -467,6 +467,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 a-blog.eu
 0.0.0.0 a-counter.kiev.ua
 0.0.0.0 a-msedge.net
+0.0.0.0 a-nj.1rx.io
 0.0.0.0 a-scrip.org
 0.0.0.0 a-ssl.ligatus.com
 0.0.0.0 a.0day.kiev.ua
@@ -565,6 +566,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 a.phormlabs.com
 0.0.0.0 a.pokerplayermagazine.co.uk
 0.0.0.0 a.postrelease.com
+0.0.0.0 a.predictvideo.com
 0.0.0.0 a.press24.mk
 0.0.0.0 a.prisacom.com
 0.0.0.0 a.rad.live.com
@@ -5241,6 +5243,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 annonser.dagbladet.no
 0.0.0.0 annuaire-autosurf.com
 0.0.0.0 anon.doubleclick.speedera.net
+0.0.0.0 anonymousdemographics.com
 0.0.0.0 anonymousstats.keefox.org
 0.0.0.0 anorak.uk.intellitxt.com
 0.0.0.0 anouslab.cmail20.com
@@ -8542,6 +8545,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 conversion.7search.com
 0.0.0.0 conversionruler.com
 0.0.0.0 convertro.com
+0.0.0.0 convnjmp.basebanner.com
 0.0.0.0 convusmp.admailtiser.com
 0.0.0.0 cookie.monster.com
 0.0.0.0 cookie.pebblemedia.be
@@ -14956,6 +14960,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 meiluziai.info
 0.0.0.0 mein.monster.de
 0.0.0.0 melding-technology.com
+0.0.0.0 mellowads.com
 0.0.0.0 members.commissionmonster.com
 0.0.0.0 members.sexroulette.com
 0.0.0.0 members2.hookup.com
@@ -19050,6 +19055,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rya.rockyou.com
 0.0.0.0 ryanrhodes.net
 0.0.0.0 rydium.us.intellitxt.com
+0.0.0.0 s-39.predictvideo.com
 0.0.0.0 s-adserver.cxad.cxense.com
 0.0.0.0 s-adserver.sandbox.cxad.cxense.com
 0.0.0.0 s-static.innovid.com
@@ -19507,6 +19513,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 scripts.demandbase.com
 0.0.0.0 scripts.host.bannerflow.com
 0.0.0.0 scripts.kataweb.it
+0.0.0.0 scripts.kiosked.com
 0.0.0.0 scripts.kissmetrics.com
 0.0.0.0 scripts.linkz.net
 0.0.0.0 scripts.mofos.com
@@ -21306,6 +21313,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 sync.adkernel.com
 0.0.0.0 sync.atomex.net
 0.0.0.0 sync.audtd.com
+0.0.0.0 sync.bfmio.com
 0.0.0.0 sync.cmedia.s3.amazonaws.com
 0.0.0.0 sync.credebat.com
 0.0.0.0 sync.darikweb.com
@@ -22603,6 +22611,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 traffic.acwebconnecting.com
 0.0.0.0 traffic.adwitty.com
 0.0.0.0 traffic.adxprts.com
+0.0.0.0 traffic.adxprtz.com
 0.0.0.0 traffic.buyservices.com
 0.0.0.0 traffic.focuusing.com
 0.0.0.0 traffic.getmyads.com
@@ -25774,6 +25783,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.megacounter.de
 0.0.0.0 www.megagiftcity.com
 0.0.0.0 www.megastats.com
+0.0.0.0 www.mellowads.com
 0.0.0.0 www.merchantapp.com
 0.0.0.0 www.mercuras.com
 0.0.0.0 www.merlin.co.il

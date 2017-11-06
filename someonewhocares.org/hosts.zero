@@ -146,6 +146,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 a-ads.com
 0.0.0.0 a-blog.eu
 0.0.0.0 a-msedge.net
+0.0.0.0 a-nj.1rx.io
 0.0.0.0 a-scrip.org
 0.0.0.0 a-ssl.ligatus.com
 0.0.0.0 a.0day.kiev.ua
@@ -179,6 +180,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 a.oix.net
 0.0.0.0 a.openinternetexchange.com
 0.0.0.0 a.phormlabs.com
+0.0.0.0 a.predictvideo.com
 0.0.0.0 a.prisacom.com
 0.0.0.0 a.rad.live.com
 0.0.0.0 a.rad.msn.com
@@ -1401,6 +1403,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.jwtt3.com
 0.0.0.0 ads.kazaa.com
 0.0.0.0 ads.keywordblocks.com
+0.0.0.0 ads.kiosked.com
 0.0.0.0 ads.kixer.com
 0.0.0.0 ads.kleinman.com
 0.0.0.0 ads.kmpads.com
@@ -2709,6 +2712,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 annanicolesannanicolesmith.ca.tt
 0.0.0.0 annanicolesmith.1stok.com
 0.0.0.0 annuaire-autosurf.com
+0.0.0.0 anonymousdemographics.com
 0.0.0.0 anonymousstats.keefox.org
 0.0.0.0 anouslab.cmail20.com
 0.0.0.0 anrtx.tacoda.net
@@ -4088,6 +4092,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 conversantmedia.com
 0.0.0.0 conversion-pixel.invitemedia.com
 0.0.0.0 convertro.com
+0.0.0.0 convnjmp.basebanner.com
 0.0.0.0 cookie.pebblemedia.be
 0.0.0.0 cookiecontainer.blox.pl
 0.0.0.0 cookies.cmpnet.com
@@ -7175,6 +7180,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 megaplex.oewabox.at
 0.0.0.0 megasurfin.com
 0.0.0.0 melding-technology.com
+0.0.0.0 mellowads.com
 0.0.0.0 members2.hookup.com
 0.0.0.0 mens.1.p2l.info
 0.0.0.0 mercury.bravenet.com
@@ -8963,6 +8969,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ry.znvzzptgblovers.download
 0.0.0.0 rya.rockyou.com
 0.0.0.0 ryanrhodes.net
+0.0.0.0 s-39.predictvideo.com
 0.0.0.0 s-adserver.sandbox.cxad.cxense.com
 0.0.0.0 s.ad121m.com
 0.0.0.0 s.ad131m.com
@@ -9116,6 +9123,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 scrippswxyz.112.2o7.net
 0.0.0.0 script.banstex.com
 0.0.0.0 script.crsspxl.com
+0.0.0.0 scripts.kiosked.com
 0.0.0.0 scripts.linkz.net
 0.0.0.0 scripts.verticalacuity.com
 0.0.0.0 scrollbelow.com
@@ -9915,6 +9923,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 synad2.nuffnang.com.cn
 0.0.0.0 sync-eu.exe.bid
 0.0.0.0 sync.audtd.com
+0.0.0.0 sync.bfmio.com
 0.0.0.0 sync.credebat.com
 0.0.0.0 sync.mathtag.com
 0.0.0.0 sync.upravel.com
@@ -10537,6 +10546,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 traffic-stats.streamsolutions.co.uk
 0.0.0.0 traffic.adwitty.com
 0.0.0.0 traffic.adxprts.com
+0.0.0.0 traffic.adxprtz.com
 0.0.0.0 traffic.focuusing.com
 0.0.0.0 traffic.getmyads.com
 0.0.0.0 traffic.outbrain.com
@@ -10583,6 +10593,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 trk.etrigue.com
 0.0.0.0 trk.kissmetrics.com
 0.0.0.0 trk.tidaltv.com
+0.0.0.0 trk.vidible.tv
 0.0.0.0 trk.yadomedia.com
 0.0.0.0 tropiccritics.com
 0.0.0.0 trovi.com
@@ -12184,6 +12195,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.medical-research-books.com
 0.0.0.0 www.medical-rewardpath.com
 0.0.0.0 www.megacounter.de
+0.0.0.0 www.mellowads.com
 0.0.0.0 www.merchantapp.com
 0.0.0.0 www.merlin.co.il
 0.0.0.0 www.merryholidays.org
@@ -12972,6 +12984,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ytaahg.vo.llnwd.net
 0.0.0.0 yumenetworks.com
 0.0.0.0 yx-in-f108.1e100.net
+0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 z.admob.com
 0.0.0.0 z.blogads.com
 0.0.0.0 z.ceotrk.com

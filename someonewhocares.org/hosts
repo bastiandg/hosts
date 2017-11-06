@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 30 Oct 2017 at 07:48:20 GMT
+# Last updated: Mon, 06 Nov 2017 at 06:38:42 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -356,7 +356,9 @@
 127.0.0.1 3bc3fd26-91cf-46b2-8ec6-b1559ada0079.statcamp.net
 127.0.0.1 3ps.go.com
 127.0.0.1 4-counter.com
+127.0.0.1 a-nj.1rx.io
 127.0.0.1 a-ssl.ligatus.com
+127.0.0.1 a.predictvideo.com
 127.0.0.1 a.visualrevenue.com
 127.0.0.1 a796faee-7163-4757-a34f-e5b48cada4cb.statcamp.net
 127.0.0.1 abscbn.spinbox.net
@@ -398,6 +400,7 @@
 127.0.0.1 analytics.msnbc.msn.com
 127.0.0.1 analytics.prx.org
 127.0.0.1 anm.intelli-direct.com
+127.0.0.1 anonymousdemographics.com
 127.0.0.1 ant.conversive.nl
 127.0.0.1 antivirus-message.com
 127.0.0.1 apac.rel.msn.com
@@ -551,6 +554,7 @@
 127.0.0.1 connectionlead.com
 127.0.0.1 connexity.net
 127.0.0.1 convertro.com
+127.0.0.1 convnjmp.basebanner.com
 127.0.0.1 cookies.cmpnet.com
 127.0.0.1 count.channeladvisor.com
 127.0.0.1 count.paycounter.com
@@ -1155,6 +1159,7 @@
 127.0.0.1 rr7.xxxcounter.com
 127.0.0.1 rts.pgmediaserve.com
 127.0.0.1 rts.phn.doublepimp.com
+127.0.0.1 s-39.predictvideo.com
 127.0.0.1 s.clickability.com
 127.0.0.1 s.statistici.ro
 127.0.0.1 s.stats.wordpress.com
@@ -1411,6 +1416,7 @@
 127.0.0.1 straighttangerine.cz.cc
 127.0.0.1 sugoicounter.com
 127.0.0.1 superstats.com
+127.0.0.1 sync.bfmio.com
 127.0.0.1 systweak.com
 127.0.0.1 t.senaldos.com
 127.0.0.1 t.senaluno.com
@@ -5185,6 +5191,7 @@
 127.0.0.1 ads.jwtt3.com
 127.0.0.1 ads.kazaa.com
 127.0.0.1 ads.keywordblocks.com
+127.0.0.1 ads.kiosked.com
 127.0.0.1 ads.kixer.com
 127.0.0.1 ads.kleinman.com
 127.0.0.1 ads.kmpads.com
@@ -8563,6 +8570,7 @@
 127.0.0.1 mega.vast.mega-tags.com
 127.0.0.1 megapanel.gem.pl
 127.0.0.1 melding-technology.com
+127.0.0.1 mellowads.com
 127.0.0.1 mercury.bravenet.com
 127.0.0.1 messagent.duvalguillaume.com
 127.0.0.1 messagent.sanomadigital.nl
@@ -9541,6 +9549,7 @@
 127.0.0.1 screen-mates.com
 127.0.0.1 script.banstex.com
 127.0.0.1 script.crsspxl.com
+127.0.0.1 scripts.kiosked.com
 127.0.0.1 scripts.linkz.net
 127.0.0.1 scripts.verticalacuity.com
 127.0.0.1 sdk.streamrail.com
@@ -10109,6 +10118,7 @@
 127.0.0.1 tradefx.advertserve.com
 127.0.0.1 tradem.com
 127.0.0.1 traffic.adxprts.com
+127.0.0.1 traffic.adxprtz.com
 127.0.0.1 traffic.focuusing.com
 127.0.0.1 traffic.getmyads.com
 127.0.0.1 traffic.outbrain.com
@@ -10136,6 +10146,7 @@
 127.0.0.1 trk.ablogica.com
 127.0.0.1 trk.alskeip.com
 127.0.0.1 trk.etrigue.com
+127.0.0.1 trk.vidible.tv
 127.0.0.1 trk.yadomedia.com
 127.0.0.1 tropiccritics.com
 127.0.0.1 trustaffs.com
@@ -11081,6 +11092,7 @@
 127.0.0.1 www.media2.travelzoo.com
 127.0.0.1 www.medical-offer.com
 127.0.0.1 www.medical-rewardpath.com
+127.0.0.1 www.mellowads.com
 127.0.0.1 www.merchantapp.com
 127.0.0.1 www.merlin.co.il
 127.0.0.1 www.methodcasino2015.com
@@ -11559,6 +11571,7 @@
 127.0.0.1 ytaahg.vo.llnwd.net
 127.0.0.1 yumenetworks.com
 127.0.0.1 yx-in-f108.1e100.net
+127.0.0.1 z-na.amazon-adsystem.com
 127.0.0.1 z.admob.com
 127.0.0.1 z.blogads.com
 127.0.0.1 z.ceotrk.com
