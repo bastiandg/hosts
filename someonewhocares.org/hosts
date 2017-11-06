@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 06 Nov 2017 at 06:38:42 GMT
+# Last updated: Mon, 06 Nov 2017 at 07:41:57 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -4088,6 +4088,7 @@
 127.0.0.1 ab-gb.mgid.com
 127.0.0.1 ab913aa797e78b3.com
 127.0.0.1 abcnews.footprint.net
+127.0.0.1 abourselfi.com
 127.0.0.1 abrogatesdv.info
 127.0.0.1 abseckw.adtlgc.com
 127.0.0.1 ac.atpanel.com
@@ -6438,12 +6439,15 @@
 127.0.0.1 app1.letitbefaster.life
 127.0.0.1 app1.letitbefaster.website
 127.0.0.1 app1.letmacworkfaster.site
+127.0.0.1 app1.letslowbefast.site
 127.0.0.1 app2.letitbefaster.life
 127.0.0.1 app2.letitbefaster.website
 127.0.0.1 app2.letmacwork.world
+127.0.0.1 app2.letslowbefast.site
 127.0.0.1 app3.letitbefaster.life
 127.0.0.1 app3.letitbefaster.website
 127.0.0.1 app3.letmacwork.world
+127.0.0.1 app3.letslowbefast.site
 127.0.0.1 app4.letitbefaster.life
 127.0.0.1 app4.letitbefaster.website
 127.0.0.1 app4.letslowbefast.life
@@ -6451,6 +6455,7 @@
 127.0.0.1 app4.letslowbefast.today
 127.0.0.1 app5.letitbefaster.life
 127.0.0.1 app5.letitbefaster.website
+127.0.0.1 app5.letslowbefast.site
 127.0.0.1 apparel-offer.com
 127.0.0.1 apparelncs.com
 127.0.0.1 appdev.addthis.com
@@ -7077,6 +7082,7 @@
 127.0.0.1 charmedno1.com
 127.0.0.1 charmstroy.info
 127.0.0.1 chartbeat.com
+127.0.0.1 check.thealwaysnewandfreeupdating.stream
 127.0.0.1 checkintocash.data.7bpeople.com
 127.0.0.1 checkupgrade24.thebigforeverupgrades.space
 127.0.0.1 chefti.info
@@ -8359,6 +8365,7 @@
 127.0.0.1 leisure-offer.com
 127.0.0.1 letmefind.co
 127.0.0.1 letsfinder.com
+127.0.0.1 letslowbefast.site
 127.0.0.1 letssearch.com
 127.0.0.1 levexis.com
 127.0.0.1 lg.brandreachsys.com
@@ -8575,6 +8582,7 @@
 127.0.0.1 messagent.duvalguillaume.com
 127.0.0.1 messagent.sanomadigital.nl
 127.0.0.1 messagia.adcentric.proximi-t.com
+127.0.0.1 messardu.com
 127.0.0.1 mesterads.com
 127.0.0.1 metaapi.bulletproofserving.com
 127.0.0.1 meter-svc.nytimes.com
