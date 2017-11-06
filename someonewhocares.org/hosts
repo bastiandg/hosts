@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 06 Nov 2017 at 07:41:57 GMT
+# Last updated: Mon, 06 Nov 2017 at 16:52:12 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8753,6 +8753,7 @@
 127.0.0.1 new.smartcontext.pl
 127.0.0.1 newads.cmpnet.com
 127.0.0.1 newadserver.interfree.it
+127.0.0.1 newbritmoneymethod.com
 127.0.0.1 newbs.hutz.co.il
 127.0.0.1 newclk.com
 127.0.0.1 newip427.changeip.net
