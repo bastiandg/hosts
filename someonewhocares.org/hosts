@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 06 Nov 2017 at 16:52:12 GMT
+# Last updated: Tue, 07 Nov 2017 at 04:15:02 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1761,6 +1761,7 @@
 127.0.0.1 v7.stats.load.com
 127.0.0.1 valueclick.com
 127.0.0.1 valueclick.net
+127.0.0.1 velocecdn.com
 127.0.0.1 vertical-stats.huffpost.com
 127.0.0.1 video-stats.video.google.com
 127.0.0.1 vip.clickzs.com
@@ -8420,6 +8421,8 @@
 127.0.0.1 lw2.gamecopyworld.com
 127.0.0.1 lycos.247realmedia.com
 127.0.0.1 m.adbridge.de
+127.0.0.1 m.addthis.com
+127.0.0.1 m.addthisedge.com
 127.0.0.1 m.admob.com
 127.0.0.1 m.fr.2mdn.net
 127.0.0.1 m.fr.a2dfp.net
@@ -9923,6 +9926,7 @@
 127.0.0.1 sumome.com
 127.0.0.1 sunmaker.com
 127.0.0.1 superbrewards.com
+127.0.0.1 superfastcdn.com
 127.0.0.1 superinterstitial.com
 127.0.0.1 support.sweepstakes.com
 127.0.0.1 supremeadsonline.com

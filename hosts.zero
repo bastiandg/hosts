@@ -14148,6 +14148,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 lzjl.com
 0.0.0.0 m.2mdn.net
 0.0.0.0 m.adbridge.de
+0.0.0.0 m.addthis.com
+0.0.0.0 m.addthisedge.com
 0.0.0.0 m.admedia.com
 0.0.0.0 m.admob.com
 0.0.0.0 m.adnxs.com
@@ -21223,6 +21225,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 supercars.us.intellitxt.com
 0.0.0.0 superclix.de
 0.0.0.0 superegler.net
+0.0.0.0 superfastcdn.com
 0.0.0.0 superficial.crwdcntrl.net
 0.0.0.0 superficialsink.com
 0.0.0.0 superherohype.us.intellitxt.com
@@ -23301,6 +23304,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 veevu.tourstogo.us
 0.0.0.0 veille-referencement.com
 0.0.0.0 veksi.barginginfrance.net
+0.0.0.0 velocecdn.com
 0.0.0.0 vendorweb.citibank.com
 0.0.0.0 venetian.evyy.net
 0.0.0.0 ventivmedia.com

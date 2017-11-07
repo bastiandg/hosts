@@ -6622,6 +6622,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 lycoscollect.realmedia.com
 0.0.0.0 m.2mdn.net
 0.0.0.0 m.adbridge.de
+0.0.0.0 m.addthis.com
+0.0.0.0 m.addthisedge.com
 0.0.0.0 m.admob.com
 0.0.0.0 m.adnxs.com
 0.0.0.0 m.de.2mdn.net
@@ -9883,6 +9885,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 super.oewabox.at
 0.0.0.0 superbrewards.com
 0.0.0.0 superegler.net
+0.0.0.0 superfastcdn.com
 0.0.0.0 superinterstitial.com
 0.0.0.0 supermed.oewabox.at
 0.0.0.0 supernaturalart.com
@@ -10846,6 +10849,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 vclick.adbrite.com
 0.0.0.0 vcm.oewabox.at
 0.0.0.0 ve.tscapeplay.com
+0.0.0.0 velocecdn.com
 0.0.0.0 venturead.com
 0.0.0.0 venus.goclick.com
 0.0.0.0 verisignwildcard.112.2o7.net
