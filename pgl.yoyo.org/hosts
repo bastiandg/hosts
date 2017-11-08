@@ -21,7 +21,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 07 Nov 2017 14:58:14 GMT
+# last updated:   Wed, 08 Nov 2017 09:34:12 GMT
 # entries:        2470
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -191,7 +191,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ad2.lupa.cz
 127.0.0.1 ad2.xrea.com
 127.0.0.1 ad2flash.com
-127.0.0.1 ad2games.com
+127.0.0.1 ad2games.com.invalid
 127.0.0.1 ad3.iinfo.cz
 127.0.0.1 ad3.pamedia.com.au
 127.0.0.1 ad3.xrea.com

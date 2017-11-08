@@ -198,6 +198,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 23837.hittail.com
 0.0.0.0 243029-18685.link.iwanttodeliver.com
 0.0.0.0 244657-12903.link.iwanttodeliver.com
+0.0.0.0 2468.go2cloud.org
 0.0.0.0 24725.hittail.com
 0.0.0.0 247590.r.axf8.net
 0.0.0.0 247adbiz.net
@@ -1431,6 +1432,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad2digital.checkm8.com
 0.0.0.0 ad2flash.com
 0.0.0.0 ad2games.com
+0.0.0.0 ad2games.com.invalid
 0.0.0.0 ad2play.ftv-publicite.fr
 0.0.0.0 ad3.adfarm1.adition.com
 0.0.0.0 ad3.bannerbank.ru
@@ -5245,6 +5247,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 annonser.dagbladet.no
 0.0.0.0 annuaire-autosurf.com
 0.0.0.0 anon.doubleclick.speedera.net
+0.0.0.0 anonymous-net.com
 0.0.0.0 anonymousdemographics.com
 0.0.0.0 anonymousstats.keefox.org
 0.0.0.0 anorak.uk.intellitxt.com
@@ -18105,6 +18108,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 prosearchs.in
 0.0.0.0 prosieben01.webtrekk.net
 0.0.0.0 protect-x.com
+0.0.0.0 protect-your-privacy.net
 0.0.0.0 protection.alpolice.com
 0.0.0.0 protection.aspolice.com
 0.0.0.0 protection.aupolice.com
@@ -20748,6 +20752,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 statdb.pressflex.com
 0.0.0.0 static-bp.kameleoon.com
 0.0.0.0 static-shareaholic.s3.amazonaws.com
+0.0.0.0 static-ssl.exoclick.com
 0.0.0.0 static-trackers.adtarget.me
 0.0.0.0 static-uk.addynamo.net
 0.0.0.0 static.2mdn.net
