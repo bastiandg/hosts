@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 09 Nov 2017 08:56:15 GMT
-# entries:        2480
+# last updated:   Thu, 09 Nov 2017 14:28:26 GMT
+# entries:        2484
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -643,6 +643,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.v3.com
 127.0.0.1 ads.verticalresponse.com
 127.0.0.1 ads.vgchartz.com
+127.0.0.1 ads.videobash.com
 127.0.0.1 ads.videosz.com
 127.0.0.1 ads.virtual-nights.com
 127.0.0.1 ads.virtualcountries.com
@@ -771,6 +772,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserver2.mindshare.de
 127.0.0.1 adserverplus.com
 127.0.0.1 adserversolutions.com
+127.0.0.1 adserving.unibet.com
 127.0.0.1 adservinginternational.com
 127.0.0.1 adsfac.eu
 127.0.0.1 adsfac.net
@@ -1272,6 +1274,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 counting.kmindex.ru
 127.0.0.1 counts.tucows.com
 127.0.0.1 coupling-media.de
+127.0.0.1 cp.abbp1.pw
 127.0.0.1 cpalead.com
 127.0.0.1 cpays.com
 127.0.0.1 cpmaffiliation.com
@@ -1739,6 +1742,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mediaplazza.com
 127.0.0.1 mediaplex.com
 127.0.0.1 mediascale.de
+127.0.0.1 mediaserver.bwinpartypartners.it
 127.0.0.1 mediatext.com
 127.0.0.1 mediavoice.com
 127.0.0.1 mediax.angloinfo.com
