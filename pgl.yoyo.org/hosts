@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 08 Nov 2017 09:34:12 GMT
-# entries:        2470
+# last updated:   Thu, 09 Nov 2017 08:56:15 GMT
+# entries:        2480
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1594,6 +1594,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 incentaclick.com
 127.0.0.1 incrediblesugar.com
 127.0.0.1 indexstats.com
+127.0.0.1 indexww.com
 127.0.0.1 indieclick.com
 127.0.0.1 industrybrains.com
 127.0.0.1 inetlog.ru
@@ -1607,6 +1608,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 insightexpressai.com
 127.0.0.1 inspectorclick.com
 127.0.0.1 instantmadness.com
+127.0.0.1 instinctiveads.com
 127.0.0.1 intelliads.com
 127.0.0.1 intellitxt.com
 127.0.0.1 interactive.forthnet.gr
@@ -1631,12 +1633,14 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 jinkads.de
 127.0.0.1 joetec.net
 127.0.0.1 js.users.51.la
+127.0.0.1 jsecoin.com
 127.0.0.1 juicyads.com
 127.0.0.1 jumptap.com
 127.0.0.1 justrelevant.com
 127.0.0.1 justwebads.com
 127.0.0.1 k.iinfo.cz
 127.0.0.1 kanoodle.com
+127.0.0.1 kargo.com
 127.0.0.1 keymedia.hu
 127.0.0.1 kindads.com
 127.0.0.1 kissmetrics.com
@@ -1664,6 +1668,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ligatus.de
 127.0.0.1 lightningcast.net
 127.0.0.1 lightspeedcash.com
+127.0.0.1 lijit.com
 127.0.0.1 limpingline.com
 127.0.0.1 link-booster.de
 127.0.0.1 link4ads.com
@@ -1735,6 +1740,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mediaplex.com
 127.0.0.1 mediascale.de
 127.0.0.1 mediatext.com
+127.0.0.1 mediavoice.com
 127.0.0.1 mediax.angloinfo.com
 127.0.0.1 mediaz.angloinfo.com
 127.0.0.1 medleyads.com
@@ -1754,6 +1760,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 microstatic.pl
 127.0.0.1 microticker.com
 127.0.0.1 midnightclicking.com
+127.0.0.1 minexmr.com
 127.0.0.1 misstrends.com
 127.0.0.1 mixedreading.com
 127.0.0.1 mixpanel.com
@@ -1787,6 +1794,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mystat.pl
 127.0.0.1 mytop-in.net
 127.0.0.1 mytrafficads.com
+127.0.0.1 mzbcdn.net
 127.0.0.1 n69.com
 127.0.0.1 naiadsystems.com.invalid
 127.0.0.1 naj.sk
@@ -1825,6 +1833,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ng3.ads.warnerbros.com
 127.0.0.1 nitroclicks.com
 127.0.0.1 novem.pl
+127.0.0.1 ntv.io
 127.0.0.1 nuggad.net
 127.0.0.1 numax.nu-1.com
 127.0.0.1 nuseek.com
@@ -2224,6 +2233,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 superstats.com
 127.0.0.1 supertop.ru
 127.0.0.1 supertop100.com
+127.0.0.1 supportxmr.com
 127.0.0.1 surfmusik-adserver.de
 127.0.0.1 swan-swan-goose.com
 127.0.0.1 swissadsolutions.com
