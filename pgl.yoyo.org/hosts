@@ -21,7 +21,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 10 Nov 2017 10:47:09 GMT
+# last updated:   Fri, 10 Nov 2017 11:30:26 GMT
 # entries:        2468
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -147,7 +147,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ad.mgd.de
 127.0.0.1 ad.musicmatch.com
 127.0.0.1 ad.nachtagenten.de
-127.0.0.1 ad.nozonedata.com
 127.0.0.1 ad.nttnavi.co.jp
 127.0.0.1 ad.nwt.cz
 127.0.0.1 ad.onad.eu
@@ -1981,6 +1980,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 provexia.com
 127.0.0.1 provideplant.com
 127.0.0.1 prsitecheck.com
+127.0.0.1 ps7894.com
 127.0.0.1 psstt.com
 127.0.0.1 pub.chez.com
 127.0.0.1 pub.club-internet.fr
