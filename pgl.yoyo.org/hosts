@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 10 Nov 2017 11:30:26 GMT
-# entries:        2468
+# last updated:   Fri, 10 Nov 2017 15:17:09 GMT
+# entries:        2469
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1762,6 +1762,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mixpanel.com
 127.0.0.1 mixtraffic.com
 127.0.0.1 mjxads.internet.com
+127.0.0.1 ml314.com
 127.0.0.1 mlm.de
 127.0.0.1 mmismm.com
 127.0.0.1 mmtro.com
