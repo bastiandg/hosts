@@ -4709,6 +4709,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 advertserve.com
 127.0.0.1 advertstream.com
 127.0.0.1 advertwizard.com
+127.0.0.1 advfromnwl.com
 127.0.0.1 advice-ads-cdn.vice.com
 127.0.0.1 advice-ads.s3.amazonaws.com
 127.0.0.1 advice.hit.gemius.pl

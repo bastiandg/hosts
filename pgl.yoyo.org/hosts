@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 14 Nov 2017 10:47:43 GMT
-# entries:        2471
+# last updated:   Tue, 14 Nov 2017 16:06:41 GMT
+# entries:        2472
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -854,6 +854,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 advertserve.com
 127.0.0.1 advertstream.com
 127.0.0.1 advertwizard.com
+127.0.0.1 advfromnwl.com
 127.0.0.1 advideo.uimserv.net
 127.0.0.1 adview.ppro.de
 127.0.0.1 advisormedia.cz
