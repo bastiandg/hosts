@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 10 Nov 2017 15:17:09 GMT
-# entries:        2469
+# last updated:   Tue, 14 Nov 2017 10:47:43 GMT
+# entries:        2471
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -826,6 +826,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adv.freeonline.it
 127.0.0.1 adv.hwupgrade.it
 127.0.0.1 adv.livedoor.com
+127.0.0.1 adv.nexthardware.com
 127.0.0.1 adv.webmd.com
 127.0.0.1 adv.wp.pl
 127.0.0.1 adv.yo.cz
@@ -1970,6 +1971,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 promo.ulust.com
 127.0.0.1 promo1.webcams.nl
 127.0.0.1 promobenef.com
+127.0.0.1 promos.bwin.it
 127.0.0.1 promos.fling.com
 127.0.0.1 promote.pair.com
 127.0.0.1 promotion-campaigns.com

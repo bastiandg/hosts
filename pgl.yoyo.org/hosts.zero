@@ -800,6 +800,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adv.freeonline.it
 0.0.0.0 adv.hwupgrade.it
 0.0.0.0 adv.livedoor.com
+0.0.0.0 adv.nexthardware.com
 0.0.0.0 adv.webmd.com
 0.0.0.0 adv.wp.pl
 0.0.0.0 adv.yo.cz
@@ -1944,6 +1945,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 promo.ulust.com
 0.0.0.0 promo1.webcams.nl
 0.0.0.0 promobenef.com
+0.0.0.0 promos.bwin.it
 0.0.0.0 promos.fling.com
 0.0.0.0 promote.pair.com
 0.0.0.0 promotion-campaigns.com
