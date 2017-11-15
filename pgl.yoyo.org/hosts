@@ -21,7 +21,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 14 Nov 2017 16:06:41 GMT
+# last updated:   Wed, 15 Nov 2017 11:10:17 GMT
 # entries:        2472
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -1151,6 +1151,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cbanners.virtuagirlhd.com
 127.0.0.1 cbmall.com
 127.0.0.1 cdn.freefarcy.com
+127.0.0.1 cdn.segment.com
 127.0.0.1 cecash.com
 127.0.0.1 centerpointmedia.com
 127.0.0.1 ceskydomov.alias.ngs.modry.cz
@@ -2103,7 +2104,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 secure.webconnect.net
 127.0.0.1 sedoparking.com
 127.0.0.1 sedotracker.com
-127.0.0.1 segment.com
 127.0.0.1 sensismediasmart.com.au
 127.0.0.1 separatesilver.com
 127.0.0.1 serv0.com

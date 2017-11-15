@@ -7698,6 +7698,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.sagent.io
 0.0.0.0 cdn.sail-horizon.com
 0.0.0.0 cdn.scarabresearch.com
+0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.segment.io
 0.0.0.0 cdn.shoppingminds.net
 0.0.0.0 cdn.siftscience.com
@@ -19782,7 +19783,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 segapi.quantserve.com
 0.0.0.0 segment-data.zqtk.net
 0.0.0.0 segment-pixel.invitemedia.com
-0.0.0.0 segment.com
 0.0.0.0 segments.adaptv.advertising.com
 0.0.0.0 segob.gob.mx
 0.0.0.0 segs.btrll.com
