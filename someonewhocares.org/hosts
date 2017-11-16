@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 14 Nov 2017 at 01:39:58 GMT
+# Last updated: Thu, 16 Nov 2017 at 09:49:52 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2510,7 +2510,6 @@
 127.0.0.1 software-wenc.co.cc
 127.0.0.1 solutionscore.com
 127.0.0.1 solveseek.com
-127.0.0.1 someonewhocares.com
 127.0.0.1 sonatns.sonatrach.dz
 127.0.0.1 sousay.info
 127.0.0.1 sparc.nour.net.sa
@@ -2714,7 +2713,6 @@
 127.0.0.1 www.shinilchurch.net	# domain was hacked and had a trojan installed
 127.0.0.1 www.sinera.org
 127.0.0.1 www.siom.ac.cn
-127.0.0.1 www.someonewhocares.com
 127.0.0.1 www.speedtestbeta.com
 127.0.0.1 www.stopphoulplay.com
 127.0.0.1 www.taba.site
