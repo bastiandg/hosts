@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 17 Nov 2017 15:20:15 GMT
-# entries:        2469
+# last updated:   Fri, 17 Nov 2017 16:29:15 GMT
+# entries:        2475
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1769,6 +1769,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 moatads.com
 127.0.0.1 mobclix.com
 127.0.0.1 mocean.mobi
+127.0.0.1 monetate.net
 127.0.0.1 moneyexpert.com
 127.0.0.1 monsterpops.com
 127.0.0.1 mopub.com
@@ -1878,6 +1879,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ovalpigs.com
 127.0.0.1 overture.com
 127.0.0.1 owebmoney.ru
+127.0.0.1 owneriq.net
 127.0.0.1 oxado.com
 127.0.0.1 oxcash.com
 127.0.0.1 oxen.hillcountrytexas.com
@@ -2140,6 +2142,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 slopeaota.com
 127.0.0.1 smart4ads.com
 127.0.0.1 smartadserver.com
+127.0.0.1 smartlook.com
+127.0.0.1 smetrics.walgreens.com
 127.0.0.1 smowtion.com
 127.0.0.1 snakesort.com
 127.0.0.1 snapads.com
@@ -2367,6 +2371,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 urlcash.net
 127.0.0.1 us.a1.yimg.com
 127.0.0.1 usapromotravel.com
+127.0.0.1 userreplay.com
+127.0.0.1 userreplay.net
 127.0.0.1 utarget.co.uk
 127.0.0.1 utils.mediageneral.net
 127.0.0.1 v1.cnzz.com
