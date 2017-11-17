@@ -8831,6 +8831,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 red04.as-eu.falkag.net
 0.0.0.0 red04.as-us.falkag.net
 0.0.0.0 redherring.ngadcenter.net
+0.0.0.0 redir.bebi.com
 0.0.0.0 redirect.click2net.com
 0.0.0.0 redirect.hotkeys.com
 0.0.0.0 redirect.xmlheads.com
@@ -9638,6 +9639,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 sql-server-driver.beesearch.info
 0.0.0.0 src.kitcode.net
 0.0.0.0 srs.targetpoint.com
+0.0.0.0 srv.bebi.com
 0.0.0.0 srv.juiceadv.com
 0.0.0.0 srv.sayyac.com
 0.0.0.0 ss.hitbox.com

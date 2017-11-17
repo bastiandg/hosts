@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 16 Nov 2017 at 16:45:26 GMT
+# Last updated: Fri, 17 Nov 2017 at 00:31:11 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9379,6 +9379,7 @@
 127.0.0.1 red.as-eu.falkag.net
 127.0.0.1 red.as-us.falkag.net
 127.0.0.1 redherring.ngadcenter.net
+127.0.0.1 redir.bebi.com
 127.0.0.1 redirect.click2net.com
 127.0.0.1 redirect.hotkeys.com
 127.0.0.1 re.directrev.com
@@ -9838,6 +9839,7 @@
 127.0.0.1 sq2trk2.com
 127.0.0.1 s.rev2pub.com
 127.0.0.1 srs.targetpoint.com
+127.0.0.1 srv.bebi.com
 127.0.0.1 srv.juiceadv.com
 127.0.0.1 srv.sayyac.com
 127.0.0.1 ssads.osdn.com
