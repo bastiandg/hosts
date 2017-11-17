@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 15 Nov 2017 11:10:17 GMT
-# entries:        2471
+# entries:        2468
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -753,7 +753,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserver.sciflicks.com
 127.0.0.1 adserver.sharewareonline.com
 127.0.0.1 adserver.spankaway.com
-127.0.0.1 adserver.startnow.com
 127.0.0.1 adserver.theonering.net
 127.0.0.1 adserver.twitpic.com
 127.0.0.1 adserver.viagogo.com
@@ -1286,7 +1285,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 creative.whi.co.nz
 127.0.0.1 creatives.as4x.tmcs.net
 127.0.0.1 creatives.livejasmin.com
-127.0.0.1 crispads.com
 127.0.0.1 criteo.com
 127.0.0.1 critictruck.com
 127.0.0.1 crowdgravity.com
@@ -1970,7 +1968,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 projectwonderful.com
 127.0.0.1 promo.badoink.com
 127.0.0.1 promo.ulust.com
-127.0.0.1 promo1.webcams.nl
 127.0.0.1 promobenef.com
 127.0.0.1 promos.bwin.it
 127.0.0.1 promos.fling.com
