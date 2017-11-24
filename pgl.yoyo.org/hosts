@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 24 Nov 2017 11:53:05 GMT
-# entries:        2482
+# entries:        2480
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1650,7 +1650,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 komoona.com
 127.0.0.1 kompasads.com
 127.0.0.1 kontera.com
-127.0.0.1 kt-g.de
 127.0.0.1 ktu.sv2.biz
 127.0.0.1 lakequincy.com
 127.0.0.1 launchbit.com
@@ -2061,7 +2060,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 revcontent.com
 127.0.0.1 revenue.net
 127.0.0.1 revenuedirect.com
-127.0.0.1 revsci.net
 127.0.0.1 revstats.com
 127.0.0.1 richmails.com
 127.0.0.1 richmedia.yimg.com
@@ -2116,7 +2114,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 servethis.com
 127.0.0.1 services.hearstmags.com
 127.0.0.1 serving-sys.com
-127.0.0.1 sexadvertentiesite.nl
 127.0.0.1 sexcounter.com
 127.0.0.1 sexinyourcity.com
 127.0.0.1 sexlist.com
@@ -2375,6 +2372,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 unknowntray.com
 127.0.0.1 untd.com
 127.0.0.1 unusualtitle.com
+127.0.0.1 updated.com
 127.0.0.1 urlcash.net
 127.0.0.1 us.a1.yimg.com
 127.0.0.1 usapromotravel.com
