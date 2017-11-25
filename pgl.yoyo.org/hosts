@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 24 Nov 2017 11:53:05 GMT
-# entries:        2480
+# last updated:   Sat, 25 Nov 2017 12:55:16 GMT
+# entries:        2484
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1642,6 +1642,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 k.iinfo.cz
 127.0.0.1 kanoodle.com
 127.0.0.1 kargo.com
+127.0.0.1 karonty.com
 127.0.0.1 keymedia.hu
 127.0.0.1 kindads.com
 127.0.0.1 kissmetrics.com
@@ -1812,6 +1813,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 nend.net
 127.0.0.1 neocounter.neoworx-blog-tools.net
 127.0.0.1 neoffic.com
+127.0.0.1 nephritish.com
 127.0.0.1 net-filter.com
 127.0.0.1 netaffiliation.com
 127.0.0.1 netagent.cz
@@ -1928,6 +1930,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 phpadsnew.new.natuurpark.nl
 127.0.0.1 phpmyvisites.net
 127.0.0.1 picadmedia.com
+127.0.0.1 piet2eix3l.com
 127.0.0.1 pietexture.com
 127.0.0.1 pillscash.com
 127.0.0.1 pimproll.com
@@ -2142,6 +2145,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 skylink.vn
 127.0.0.1 slickaffiliate.com
 127.0.0.1 slopeaota.com
+127.0.0.1 smart.brvaffs.com
 127.0.0.1 smart4ads.com
 127.0.0.1 smartadserver.com
 127.0.0.1 smartlook.com
