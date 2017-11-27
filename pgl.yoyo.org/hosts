@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 27 Nov 2017 08:47:11 GMT
-# entries:        2485
+# last updated:   Mon, 27 Nov 2017 21:50:56 GMT
+# entries:        2488
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1171,6 +1171,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 chiefcurrent.com
 127.0.0.1 chinchickens.com
 127.0.0.1 chitika.net
+127.0.0.1 christingel.com
 127.0.0.1 cityads.telus.net
 127.0.0.1 cj.com
 127.0.0.1 cjbmanagement.com
@@ -1772,6 +1773,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mmismm.com
 127.0.0.1 mmtro.com
 127.0.0.1 moatads.com
+127.0.0.1 mob.system-onlline.com
 127.0.0.1 mobclix.com
 127.0.0.1 mocean.mobi
 127.0.0.1 monetate.net
@@ -2043,6 +2045,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 realtechnetwork.com
 127.0.0.1 realtracker.com
 127.0.0.1 receptiveink.com
+127.0.0.1 redirectvoluum.com
 127.0.0.1 reduxmedia.com
 127.0.0.1 referralware.com
 127.0.0.1 regnow.com
