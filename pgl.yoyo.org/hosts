@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 25 Nov 2017 12:55:16 GMT
-# entries:        2484
+# last updated:   Mon, 27 Nov 2017 08:47:11 GMT
+# entries:        2485
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2374,6 +2374,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ultimateclixx.com
 127.0.0.1 ultramercial.com
 127.0.0.1 unknowntray.com
+127.0.0.1 unrulymedia.com
 127.0.0.1 untd.com
 127.0.0.1 unusualtitle.com
 127.0.0.1 updated.com
