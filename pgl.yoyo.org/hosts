@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 27 Nov 2017 21:50:56 GMT
-# entries:        2488
+# last updated:   Tue, 28 Nov 2017 16:33:52 GMT
+# entries:        2489
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1335,6 +1335,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 directtrack.com
 127.0.0.1 discountclick.com
 127.0.0.1 displayadsmedia.com
+127.0.0.1 disqusads.com
 127.0.0.1 dist.belnk.com
 127.0.0.1 dk4ywix.com
 127.0.0.1 dmtracker.com
