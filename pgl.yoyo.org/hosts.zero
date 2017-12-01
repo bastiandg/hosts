@@ -438,7 +438,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.forium.de
 0.0.0.0 ads.fortunecity.com
 0.0.0.0 ads.fotosidan.se
-0.0.0.0 ads.foxkidseurope.net
 0.0.0.0 ads.foxnetworks.com
 0.0.0.0 ads.foxnews.com
 0.0.0.0 ads.freecity.de
@@ -2043,6 +2042,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 revcontent.com
 0.0.0.0 revenue.net
 0.0.0.0 revenuedirect.com
+0.0.0.0 revsci.net
 0.0.0.0 revstats.com
 0.0.0.0 richmails.com
 0.0.0.0 richmedia.yimg.com

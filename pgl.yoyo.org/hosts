@@ -464,7 +464,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.forium.de
 127.0.0.1 ads.fortunecity.com
 127.0.0.1 ads.fotosidan.se
-127.0.0.1 ads.foxkidseurope.net
 127.0.0.1 ads.foxnetworks.com
 127.0.0.1 ads.foxnews.com
 127.0.0.1 ads.freecity.de
@@ -2069,6 +2068,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 revcontent.com
 127.0.0.1 revenue.net
 127.0.0.1 revenuedirect.com
+127.0.0.1 revsci.net
 127.0.0.1 revstats.com
 127.0.0.1 richmails.com
 127.0.0.1 richmedia.yimg.com
