@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 29 Nov 2017 21:46:09 GMT
-# entries:        2492
+# last updated:   Fri, 01 Dec 2017 13:42:43 GMT
+# entries:        2496
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1229,6 +1229,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cnt1.pocitadlo.cz
 127.0.0.1 code-server.biz
 127.0.0.1 coinhive.com
+127.0.0.1 cointraffic.io
 127.0.0.1 colonize.com
 127.0.0.1 comclick.com
 127.0.0.1 commandwalk.com
@@ -1295,6 +1296,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 crownclam.com
 127.0.0.1 crtv.mate1.com
 127.0.0.1 crwdcntrl.net
+127.0.0.1 ctnet2.in
 127.0.0.1 ctnetwork.hu
 127.0.0.1 cubics.com
 127.0.0.1 curtaincows.com
@@ -1651,10 +1653,12 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 kissmetrics.com
 127.0.0.1 kliks.nl
 127.0.0.1 kniverto.com
+127.0.0.1 koinser.in
 127.0.0.1 komoona.com
 127.0.0.1 kompasads.com
 127.0.0.1 kontera.com
 127.0.0.1 ktu.sv2.biz
+127.0.0.1 lacerta.space
 127.0.0.1 lakequincy.com
 127.0.0.1 launchbit.com
 127.0.0.1 layer-ad.de

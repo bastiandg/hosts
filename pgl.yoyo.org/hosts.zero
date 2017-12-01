@@ -1203,6 +1203,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cnt1.pocitadlo.cz
 0.0.0.0 code-server.biz
 0.0.0.0 coinhive.com
+0.0.0.0 cointraffic.io
 0.0.0.0 colonize.com
 0.0.0.0 comclick.com
 0.0.0.0 commandwalk.com
@@ -1269,6 +1270,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 crownclam.com
 0.0.0.0 crtv.mate1.com
 0.0.0.0 crwdcntrl.net
+0.0.0.0 ctnet2.in
 0.0.0.0 ctnetwork.hu
 0.0.0.0 cubics.com
 0.0.0.0 curtaincows.com
@@ -1625,10 +1627,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 kissmetrics.com
 0.0.0.0 kliks.nl
 0.0.0.0 kniverto.com
+0.0.0.0 koinser.in
 0.0.0.0 komoona.com
 0.0.0.0 kompasads.com
 0.0.0.0 kontera.com
 0.0.0.0 ktu.sv2.biz
+0.0.0.0 lacerta.space
 0.0.0.0 lakequincy.com
 0.0.0.0 launchbit.com
 0.0.0.0 layer-ad.de
