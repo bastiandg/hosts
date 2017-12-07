@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 04 Dec 2017 16:43:31 GMT
-# entries:        2497
+# last updated:   Thu, 07 Dec 2017 21:35:03 GMT
+# entries:        2499
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1783,6 +1783,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mob.system-onlline.com
 127.0.0.1 mobclix.com
 127.0.0.1 mocean.mobi
+127.0.0.1 moggattice.com
 127.0.0.1 monetate.net
 127.0.0.1 moneyexpert.com
 127.0.0.1 monsterpops.com
@@ -2177,6 +2178,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 specificmedia.co.uk
 127.0.0.1 specificpop.com
 127.0.0.1 spectacularsnail.com
+127.0.0.1 speedomizer.com
 127.0.0.1 spezialreporte.de
 127.0.0.1 spillvacation.com
 127.0.0.1 spinbox.techtracker.com
