@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 07 Dec 2017 21:35:03 GMT
-# entries:        2499
+# entries:        2498
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1517,7 +1517,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 gunggo.com
 127.0.0.1 harrenmedia.com
 127.0.0.1 harrenmedianetwork.com
-127.0.0.1 hatevery.info
 127.0.0.1 havamedia.net
 127.0.0.1 heias.com
 127.0.0.1 hellobar.com
@@ -2028,6 +2027,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 radiate.com
 127.0.0.1 rampidads.com
 127.0.0.1 rank-master.com
+127.0.0.1 rank-master.de
 127.0.0.1 rankchamp.de
 127.0.0.1 ranking-charts.de
 127.0.0.1 ranking-hits.de
@@ -2239,7 +2239,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 straightnest.com
 127.0.0.1 strivesidewalk.com
 127.0.0.1 structuresofa.com
-127.0.0.1 suavalds.com
 127.0.0.1 subscribe.hearstmags.com
 127.0.0.1 succeedscene.com
 127.0.0.1 sugoicounter.com
