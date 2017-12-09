@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 09 Dec 2017 11:11:14 GMT
-# entries:        2501
+# last updated:   Sat, 09 Dec 2017 12:41:53 GMT
+# entries:        2508
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -324,6 +324,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adonspot.com
 127.0.0.1 adoperator.com
 127.0.0.1 adorigin.com
+127.0.0.1 adotmob.com
 127.0.0.1 adpenguin.biz
 127.0.0.1 adpepper.dk
 127.0.0.1 adpepper.nl
@@ -1241,6 +1242,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 comprabanner.it
 127.0.0.1 concernrain.com
 127.0.0.1 confirmed-profits.com
+127.0.0.1 connatix.com
 127.0.0.1 connextra.com
 127.0.0.1 consciouscabbage.com
 127.0.0.1 contaxe.de
@@ -1323,6 +1325,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 deloton.com
 127.0.0.1 demandbase.com
 127.0.0.1 demdex.net
+127.0.0.1 deployads.com
 127.0.0.1 di1.shopping.com
 127.0.0.1 dialerporn.com
 127.0.0.1 dianomi.com
@@ -1358,6 +1361,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 dragzebra.com
 127.0.0.1 drumcash.com
 127.0.0.1 dynamic.fmpub.net
+127.0.0.1 dyntrk.com
 127.0.0.1 e-adimages.scrippsnetworks.com
 127.0.0.1 e-bannerx.com
 127.0.0.1 e-debtconsolidation.com
@@ -2011,6 +2015,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 publicidad.elmundo.es
 127.0.0.1 pubmatic.com
 127.0.0.1 pubs.lemonde.fr
+127.0.0.1 pushengage.com
 127.0.0.1 px.dynamicyield.com
 127.0.0.1 q.azcentral.com
 127.0.0.1 qctop.com
@@ -2175,6 +2180,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 socialspark.com
 127.0.0.1 softclick.com.br
 127.0.0.1 sonobi.com
+127.0.0.1 sortable.com
 127.0.0.1 spacash.com
 127.0.0.1 sparkstudios.com
 127.0.0.1 specially4u.net
@@ -2419,6 +2425,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 videoegg.com
 127.0.0.1 view4cash.de
 127.0.0.1 viewpoint.com
+127.0.0.1 visiblemeasures.com
 127.0.0.1 visistat.com
 127.0.0.1 visit.webhosting.yahoo.com
 127.0.0.1 visitbox.de
