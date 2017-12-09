@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 07 Dec 2017 21:35:03 GMT
-# entries:        2498
+# last updated:   Sat, 09 Dec 2017 11:11:14 GMT
+# entries:        2501
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1132,6 +1132,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 calmfoot.com
 127.0.0.1 campaign.bharatmatrimony.com
 127.0.0.1 caniamedia.com
+127.0.0.1 capacitly.com
 127.0.0.1 carambo.la
 127.0.0.1 carbonads.com
 127.0.0.1 carbonads.net
@@ -1596,6 +1597,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 imrworldwide.com
 127.0.0.1 inboxdollars.com
 127.0.0.1 incentaclick.com
+127.0.0.1 incognitosearches.com
 127.0.0.1 incrediblesugar.com
 127.0.0.1 indexstats.com
 127.0.0.1 indexww.com
@@ -2120,6 +2122,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 secure.webconnect.net
 127.0.0.1 sedoparking.com
 127.0.0.1 sedotracker.com
+127.0.0.1 sendmepixel.com
 127.0.0.1 sensismediasmart.com.au
 127.0.0.1 separatesilver.com
 127.0.0.1 serv0.com
