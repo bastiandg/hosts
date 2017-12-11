@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 11 Dec 2017 20:30:25 GMT
-# entries:        2511
+# last updated:   Mon, 11 Dec 2017 21:53:59 GMT
+# entries:        2515
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1232,6 +1232,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cnt.spbland.ru
 127.0.0.1 cnt1.pocitadlo.cz
 127.0.0.1 code-server.biz
+127.0.0.1 coin-hive.com
 127.0.0.1 coinhive.com
 127.0.0.1 cointraffic.io
 127.0.0.1 colonize.com
@@ -1800,6 +1801,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mpstat.us
 127.0.0.1 mr-rank.de
 127.0.0.1 mrskincash.com
+127.0.0.1 mtrcs.samba.tv
 127.0.0.1 mtree.com
 127.0.0.1 musiccounter.ru
 127.0.0.1 muwmedia.com
@@ -1952,6 +1954,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 pillscash.com
 127.0.0.1 pimproll.com
 127.0.0.1 pixel.adsafeprotected.com
+127.0.0.1 pixel.condenastdigital.com
 127.0.0.1 pixel.jumptap.com
 127.0.0.1 pixel.redditmedia.com
 127.0.0.1 play4traffic.com
@@ -2540,6 +2543,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 zeusclicks.com
 127.0.0.1 zintext.com
 127.0.0.1 zmedia.com
+127.0.0.1 zqtk.net
 127.0.0.1 zv1.november-lax.com
 </pre>
 
