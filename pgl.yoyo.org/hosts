@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 09 Dec 2017 12:41:53 GMT
-# entries:        2508
+# last updated:   Mon, 11 Dec 2017 20:30:25 GMT
+# entries:        2511
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -960,6 +960,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 auto-bannertausch.de
 127.0.0.1 autohits.dk
 127.0.0.1 avenuea.com
+127.0.0.1 avocet.io
 127.0.0.1 avpa.javalobby.org
 127.0.0.1 avres.net
 127.0.0.1 avsads.com
@@ -1282,6 +1283,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cpays.com
 127.0.0.1 cpmaffiliation.com
 127.0.0.1 cpmstar.com
+127.0.0.1 cpx.to
 127.0.0.1 cpxinteractive.com
 127.0.0.1 cqcounter.com
 127.0.0.1 crakmedia.com
@@ -2261,6 +2263,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 surfmusik-adserver.de
 127.0.0.1 swan-swan-goose.com
 127.0.0.1 swissadsolutions.com
+127.0.0.1 switchadhub.com
 127.0.0.1 swordfishdc.com
 127.0.0.1 sx.trhnt.com
 127.0.0.1 t.insigit.com
