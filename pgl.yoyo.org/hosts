@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 12 Dec 2017 08:20:17 GMT
-# entries:        2520
+# last updated:   Tue, 12 Dec 2017 12:03:03 GMT
+# entries:        2522
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1762,6 +1762,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mediascale.de
 127.0.0.1 mediaserver.bwinpartypartners.it
 127.0.0.1 mediatext.com
+127.0.0.1 mediatrking.com
 127.0.0.1 mediavoice.com
 127.0.0.1 mediax.angloinfo.com
 127.0.0.1 mediaz.angloinfo.com
@@ -2313,6 +2314,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 tinybar.com
 127.0.0.1 tizers.net
 127.0.0.1 tlvmedia.com
+127.0.0.1 tnkexchange.com
 127.0.0.1 tns-counter.ru
 127.0.0.1 tntclix.co.uk
 127.0.0.1 top-casting-termine.de
