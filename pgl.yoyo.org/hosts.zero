@@ -57,6 +57,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad-balancer.at
 0.0.0.0 ad-balancer.net
 0.0.0.0 ad-center.com
+0.0.0.0 ad-miner.com
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-rotator.com
 0.0.0.0 ad-server.gulasidorna.se
@@ -1201,6 +1202,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 clk.konflab.com
 0.0.0.0 clkads.com
 0.0.0.0 clkrev.com
+0.0.0.0 cloudcoins.biz
+0.0.0.0 cloudcoins.co
 0.0.0.0 cluster.adultworld.com
 0.0.0.0 clustrmaps.com
 0.0.0.0 cnomy.com

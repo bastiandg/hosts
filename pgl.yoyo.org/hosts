@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 12 Dec 2017 20:57:50 GMT
-# entries:        2522
+# last updated:   Thu, 14 Dec 2017 08:54:18 GMT
+# entries:        2525
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -83,6 +83,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ad-balancer.at
 127.0.0.1 ad-balancer.net
 127.0.0.1 ad-center.com
+127.0.0.1 ad-miner.com
 127.0.0.1 ad-pay.de
 127.0.0.1 ad-rotator.com
 127.0.0.1 ad-server.gulasidorna.se
@@ -1227,6 +1228,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 clk.konflab.com
 127.0.0.1 clkads.com
 127.0.0.1 clkrev.com
+127.0.0.1 cloudcoins.biz
+127.0.0.1 cloudcoins.co
 127.0.0.1 cluster.adultworld.com
 127.0.0.1 clustrmaps.com
 127.0.0.1 cnomy.com
