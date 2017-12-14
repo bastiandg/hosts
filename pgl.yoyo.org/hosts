@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 14 Dec 2017 08:54:18 GMT
-# entries:        2525
+# last updated:   Thu, 14 Dec 2017 09:49:56 GMT
+# entries:        2529
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1420,6 +1420,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 eusta.de
 127.0.0.1 evergage.com
 127.0.0.1 evidencecleanergold.com
+127.0.0.1 evidon.com
 127.0.0.1 ewebcounter.com
 127.0.0.1 exchange-it.com
 127.0.0.1 exchange.bg
@@ -1918,6 +1919,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 oxen.hillcountrytexas.com
 127.0.0.1 pagead.l.google.com
 127.0.0.1 pagefair.com
+127.0.0.1 pagefair.net
 127.0.0.1 pagerank-ranking.de
 127.0.0.1 pagerank-submitter.de
 127.0.0.1 pagerank-united.de
@@ -1997,6 +1999,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 primaryads.com
 127.0.0.1 primetime.net
 127.0.0.1 privatecash.com
+127.0.0.1 privy.com
 127.0.0.1 pro-advertising.com
 127.0.0.1 pro.i-doctor.co.kr
 127.0.0.1 proext.com
@@ -2160,6 +2163,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 shareadspace.com
 127.0.0.1 shareasale.com
 127.0.0.1 sharepointads.com
+127.0.0.1 sharethrough.com
 127.0.0.1 shelterstraw.com
 127.0.0.1 sher.index.hu
 127.0.0.1 shinystat.com
