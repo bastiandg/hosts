@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 14 Dec 2017 09:49:56 GMT
-# entries:        2529
+# last updated:   Thu, 14 Dec 2017 11:50:56 GMT
+# entries:        2530
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -752,6 +752,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserver.portalofevil.com
 127.0.0.1 adserver.portugalmail.net
 127.0.0.1 adserver.portugalmail.pt
+127.0.0.1 adserver.pressboard.ca
 127.0.0.1 adserver.sanomawsoy.fi
 127.0.0.1 adserver.sciflicks.com
 127.0.0.1 adserver.sharewareonline.com
