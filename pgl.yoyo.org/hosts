@@ -148,6 +148,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ad.mgd.de
 127.0.0.1 ad.musicmatch.com
 127.0.0.1 ad.nachtagenten.de
+127.0.0.1 ad.nozonedata.com
 127.0.0.1 ad.nttnavi.co.jp
 127.0.0.1 ad.nwt.cz
 127.0.0.1 ad.onad.eu
@@ -381,7 +382,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.aspalliance.com
 127.0.0.1 ads.avazu.net
 127.0.0.1 ads.batpmturner.com
-127.0.0.1 ads.beenetworks.net
 127.0.0.1 ads.belointeractive.com
 127.0.0.1 ads.berlinonline.de
 127.0.0.1 ads.betanews.com

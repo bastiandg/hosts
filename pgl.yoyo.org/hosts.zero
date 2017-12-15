@@ -122,6 +122,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.mgd.de
 0.0.0.0 ad.musicmatch.com
 0.0.0.0 ad.nachtagenten.de
+0.0.0.0 ad.nozonedata.com
 0.0.0.0 ad.nttnavi.co.jp
 0.0.0.0 ad.nwt.cz
 0.0.0.0 ad.onad.eu
@@ -355,7 +356,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.aspalliance.com
 0.0.0.0 ads.avazu.net
 0.0.0.0 ads.batpmturner.com
-0.0.0.0 ads.beenetworks.net
 0.0.0.0 ads.belointeractive.com
 0.0.0.0 ads.berlinonline.de
 0.0.0.0 ads.betanews.com
