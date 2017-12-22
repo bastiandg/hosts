@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sat, 16 Dec 2017 16:50:21 GMT
-# entries:        2533
+# entries:        2532
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -781,7 +781,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adskape.ru
 127.0.0.1 adsklick.de
 127.0.0.1 adsmarket.com
-127.0.0.1 adsmart.co.uk
 127.0.0.1 adsmart.com
 127.0.0.1 adsmart.net
 127.0.0.1 adsmogo.com
@@ -1302,6 +1301,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 creatives.as4x.tmcs.net
 127.0.0.1 creatives.livejasmin.com
 127.0.0.1 credishe.com
+127.0.0.1 crispads.com
 127.0.0.1 criteo.com
 127.0.0.1 critictruck.com
 127.0.0.1 croissed.info
@@ -1378,7 +1378,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 e-n-t-e-r-n-e-x.com
 127.0.0.1 e-planning.net
 127.0.0.1 e.kde.cz
-127.0.0.1 eadexchange.com
 127.0.0.1 eas.almamedia.fi
 127.0.0.1 easyhits4u.com
 127.0.0.1 ebayadvertising.com
