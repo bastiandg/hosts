@@ -739,6 +739,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adapi.ragapa.com
 0.0.0.0 adb.fling.com
 0.0.0.0 adbers.com
+0.0.0.0 adbetnet.advertserve.com
 0.0.0.0 adbg.hit.gemius.pl
 0.0.0.0 adbit.co
 0.0.0.0 adblade.com
@@ -9033,6 +9034,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rubyfortune.com
 0.0.0.0 rubylan.net
 0.0.0.0 rubytag.net
+0.0.0.0 runtime.lemonpi.io
 0.0.0.0 ruspolice.com
 0.0.0.0 ruspolice.net
 0.0.0.0 russ-shalavy.ru
