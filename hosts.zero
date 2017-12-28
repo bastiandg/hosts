@@ -7729,6 +7729,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn1.crispadvertising.com
 0.0.0.0 cdn1.eyewonder.com
 0.0.0.0 cdn1.inner-active.mobi
+0.0.0.0 cdn1.minestat.biz
 0.0.0.0 cdn1.rmgserving.com
 0.0.0.0 cdn1.skinected.com
 0.0.0.0 cdn1.smartadserver.com
@@ -7744,6 +7745,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn2.amateurmatch.com
 0.0.0.0 cdn2.crispadvertising.com
 0.0.0.0 cdn2.emediate.eu
+0.0.0.0 cdn2.minestat.biz
 0.0.0.0 cdn2sitescout-a.akamaihd.net
 0.0.0.0 cdn3.adexprts.com
 0.0.0.0 cdn3.emediate.eu

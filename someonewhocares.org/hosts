@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 27 Dec 2017 at 16:14:42 GMT
+# Last updated: Thu, 28 Dec 2017 at 00:44:12 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2073,6 +2073,8 @@
 127.0.0.1 callbling.com
 127.0.0.1 cambonanza.com
 127.0.0.1 ccudl.com
+127.0.0.1 cdn1.minestat.biz
+127.0.0.1 cdn2.minestat.biz
 127.0.0.1 cdn.radiatewheel.info
 127.0.0.1 changduk26.com			# Facebook trojan
 127.0.0.1 check.goodroundtoupdates.date

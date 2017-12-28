@@ -3768,6 +3768,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn1.ads.contentabc.com
 0.0.0.0 cdn1.ads.mofos.com
 0.0.0.0 cdn1.eyewonder.com
+0.0.0.0 cdn1.minestat.biz
 0.0.0.0 cdn1.rmgserving.com
 0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 cdn1.traffichaus.com
@@ -3776,6 +3777,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn2.adsdk.com
 0.0.0.0 cdn2.amateurmatch.com
 0.0.0.0 cdn2.emediate.eu
+0.0.0.0 cdn2.minestat.biz
 0.0.0.0 cdn3.adexprts.com
 0.0.0.0 cdn3.telemetryverification.net
 0.0.0.0 cdn454.telemetryverification.net
