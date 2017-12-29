@@ -748,7 +748,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adsfac.eu
 0.0.0.0 adsfac.net
 0.0.0.0 adsfac.us
-0.0.0.0 adshost1.com
 0.0.0.0 adside.com
 0.0.0.0 adsk2.co
 0.0.0.0 adskape.ru
@@ -861,7 +860,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 affiliate.dtiserv.com
 0.0.0.0 affiliate.gamestop.com
 0.0.0.0 affiliate.mercola.com
-0.0.0.0 affiliate.mogs.com
 0.0.0.0 affiliate.offgamers.com
 0.0.0.0 affiliate.travelnow.com
 0.0.0.0 affiliate.viator.com
@@ -1049,7 +1047,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 best-pr.info
 0.0.0.0 best-top.ro
 0.0.0.0 bestsearch.net
-0.0.0.0 bhclicks.com
 0.0.0.0 bidclix.com
 0.0.0.0 bidclix.net
 0.0.0.0 bidswitch.net
@@ -2292,7 +2289,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 throattrees.com
 0.0.0.0 thruport.com
 0.0.0.0 tidytrail.com
-0.0.0.0 tinybar.com
 0.0.0.0 tizers.net
 0.0.0.0 tlvmedia.com
 0.0.0.0 tnkexchange.com
@@ -2459,7 +2455,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 webstats4u.com
 0.0.0.0 webtrackerplus.com
 0.0.0.0 webtraffic.se
-0.0.0.0 webtraxx.de
 0.0.0.0 webtrendslive.com
 0.0.0.0 werbung.meteoxpress.com
 0.0.0.0 wetrack.it
