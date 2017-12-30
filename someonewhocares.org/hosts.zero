@@ -2770,6 +2770,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.adsymptotic.com
 0.0.0.0 api.affinesystems.com
 0.0.0.0 api.airpush.com
+0.0.0.0 api.behavioralengine.com
 0.0.0.0 api.bizographics.com
 0.0.0.0 api.content-ad.net
 0.0.0.0 api.content.ad
@@ -9750,6 +9751,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 static.adzerk.net
 0.0.0.0 static.aff-landing-tmp.foxtab.com
 0.0.0.0 static.affiliation-france.com
+0.0.0.0 static.audienceinsights.net
 0.0.0.0 static.carbonads.com
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.clickonometrics.pl
