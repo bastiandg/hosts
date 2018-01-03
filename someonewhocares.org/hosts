@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 03 Jan 2018 at 06:16:12 GMT
+# Last updated: Wed, 03 Jan 2018 at 18:00:26 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7054,7 +7054,6 @@
 127.0.0.1 cdn.stat.easydate.biz
 127.0.0.1 cdn.stickyadstv.com
 127.0.0.1 cdn.syn.verticalacuity.com
-127.0.0.1 cdn.tabnak.ir
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.trafficstars.com
 127.0.0.1 cdnt.yottos.com
