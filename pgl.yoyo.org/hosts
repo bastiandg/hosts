@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 16 Dec 2017 16:50:21 GMT
-# entries:        2526
+# last updated:   Wed, 03 Jan 2018 12:45:39 GMT
+# entries:        2528
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -952,6 +952,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 auctionads.com
 127.0.0.1 auctionads.net
 127.0.0.1 audience2media.com
+127.0.0.1 audienceinsights.com
 127.0.0.1 audit.median.hu
 127.0.0.1 audit.webinform.hu
 127.0.0.1 auto-bannertausch.de
@@ -1067,6 +1068,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 beamincrease.com
 127.0.0.1 beamkite.com
 127.0.0.1 begun.ru
+127.0.0.1 behavioralengine.com
 127.0.0.1 belstat.com
 127.0.0.1 belstat.nl
 127.0.0.1 berp.com
