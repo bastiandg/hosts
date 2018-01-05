@@ -1216,7 +1216,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 clicktrade.com
 127.0.0.1 clickxchange.com
 127.0.0.1 clickz.com
-127.0.0.1 clickzxc.com
 127.0.0.1 clicmanager.fr
 127.0.0.1 clientmetrics-pa.googleapis.com
 127.0.0.1 clients.tbo.com
@@ -2318,6 +2317,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 throattrees.com
 127.0.0.1 thruport.com
 127.0.0.1 tidytrail.com
+127.0.0.1 tinybar.com
 127.0.0.1 tizers.net
 127.0.0.1 tlvmedia.com
 127.0.0.1 tnkexchange.com

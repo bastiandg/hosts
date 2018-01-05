@@ -1190,7 +1190,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 clicktrade.com
 0.0.0.0 clickxchange.com
 0.0.0.0 clickz.com
-0.0.0.0 clickzxc.com
 0.0.0.0 clicmanager.fr
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clients.tbo.com
@@ -2292,6 +2291,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 throattrees.com
 0.0.0.0 thruport.com
 0.0.0.0 tidytrail.com
+0.0.0.0 tinybar.com
 0.0.0.0 tizers.net
 0.0.0.0 tlvmedia.com
 0.0.0.0 tnkexchange.com
