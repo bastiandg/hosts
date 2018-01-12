@@ -4824,6 +4824,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 affiliate.kitapyurdu.com
 0.0.0.0 affiliate.mercola.com
 0.0.0.0 affiliate.mlntracker.com
+0.0.0.0 affiliate.mogs.com
 0.0.0.0 affiliate.mymall.bg
 0.0.0.0 affiliate.offgamers.com
 0.0.0.0 affiliate.techstats.net
@@ -12497,7 +12498,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 idm.us.intellitxt.com
 0.0.0.0 idontlikeyouinthatway.us.intellitxt.com
 0.0.0.0 idpix.media6degrees.com
-0.0.0.0 idregie.com
 0.0.0.0 idsync.rlcdn.com
 0.0.0.0 idtargeting.com
 0.0.0.0 iebar.baidu.com
@@ -18019,7 +18019,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pro-networks.us.intellitxt.com
 0.0.0.0 pro.hit.gemius.pl
 0.0.0.0 pro.hit.stat24.com
-0.0.0.0 pro.i-doctor.co.kr
 0.0.0.0 pro.ip-api.com
 0.0.0.0 pro.letv.com
 0.0.0.0 pro.marinsm.com

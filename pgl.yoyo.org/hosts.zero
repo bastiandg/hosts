@@ -861,6 +861,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 affiliate.dtiserv.com
 0.0.0.0 affiliate.gamestop.com
 0.0.0.0 affiliate.mercola.com
+0.0.0.0 affiliate.mogs.com
 0.0.0.0 affiliate.offgamers.com
 0.0.0.0 affiliate.travelnow.com
 0.0.0.0 affiliate.viator.com
@@ -1561,7 +1562,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 icptrack.com
 0.0.0.0 idcounter.com
 0.0.0.0 identads.com
-0.0.0.0 idregie.com
 0.0.0.0 idtargeting.com
 0.0.0.0 ientrymail.com
 0.0.0.0 iesnare.com
@@ -1977,7 +1977,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 privatecash.com
 0.0.0.0 privy.com
 0.0.0.0 pro-advertising.com
-0.0.0.0 pro.i-doctor.co.kr
 0.0.0.0 proext.com
 0.0.0.0 profero.com
 0.0.0.0 profitrumour.com

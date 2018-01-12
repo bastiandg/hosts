@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 11 Jan 2018 23:28:22 GMT
-# entries:        2532
+# entries:        2531
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -887,6 +887,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 affiliate.dtiserv.com
 127.0.0.1 affiliate.gamestop.com
 127.0.0.1 affiliate.mercola.com
+127.0.0.1 affiliate.mogs.com
 127.0.0.1 affiliate.offgamers.com
 127.0.0.1 affiliate.travelnow.com
 127.0.0.1 affiliate.viator.com
@@ -1587,7 +1588,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 icptrack.com
 127.0.0.1 idcounter.com
 127.0.0.1 identads.com
-127.0.0.1 idregie.com
 127.0.0.1 idtargeting.com
 127.0.0.1 ientrymail.com
 127.0.0.1 iesnare.com
@@ -2003,7 +2003,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 privatecash.com
 127.0.0.1 privy.com
 127.0.0.1 pro-advertising.com
-127.0.0.1 pro.i-doctor.co.kr
 127.0.0.1 proext.com
 127.0.0.1 profero.com
 127.0.0.1 profitrumour.com
