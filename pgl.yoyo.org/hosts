@@ -21,15 +21,15 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 08 Jan 2018 21:18:32 GMT
-# entries:        2529
+# last updated:   Thu, 11 Jan 2018 23:28:22 GMT
+# entries:        2532
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 16 Jan 1998 00:00:00
+# start date:    Sat, 17 Jan 1998 00:00:00
 127.0.0.1 101com.com
 127.0.0.1 101order.com
 127.0.0.1 123found.com
@@ -294,6 +294,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 admanagement.ch
 127.0.0.1 admanager.btopenworld.com
 127.0.0.1 admanager.carsoup.com
+127.0.0.1 admantx.com
 127.0.0.1 admarketplace.net
 127.0.0.1 admarvel.com
 127.0.0.1 admax.nexage.com
@@ -1313,6 +1314,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 curtaincows.com
 127.0.0.1 customad.cnn.com
 127.0.0.1 cutecushion.com
+127.0.0.1 cxense.com
 127.0.0.1 cyberbounty.com
 127.0.0.1 cybermonitor.com
 127.0.0.1 d.adroll.com
@@ -1776,6 +1778,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 methodcash.com
 127.0.0.1 metrics.cnn.com
 127.0.0.1 metrics.ctv.ca
+127.0.0.1 metrics.foxnews.com
 127.0.0.1 metrics.govexec.com
 127.0.0.1 metrics.windowsitpro.com
 127.0.0.1 mgid.com
