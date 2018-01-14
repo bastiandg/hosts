@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 11 Jan 2018 23:28:22 GMT
-# entries:        2531
+# last updated:   Sun, 14 Jan 2018 16:42:04 GMT
+# entries:        2532
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1880,6 +1880,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 oascentral.chicagobusiness.com
 127.0.0.1 oascentral.fortunecity.com
 127.0.0.1 oascentral.register.com
+127.0.0.1 oclasrv.com
 127.0.0.1 oewa.at
 127.0.0.1 oewabox.at
 127.0.0.1 offerforge.com
