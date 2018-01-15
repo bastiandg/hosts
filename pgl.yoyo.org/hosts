@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 14 Jan 2018 17:14:21 GMT
-# entries:        2535
+# last updated:   Mon, 15 Jan 2018 21:19:35 GMT
+# entries:        2537
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -798,6 +798,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adsrv.iol.co.za
 127.0.0.1 adsrvr.org
 127.0.0.1 adsstat.com
+127.0.0.1 adstage.io
 127.0.0.1 adstat.4u.pl
 127.0.0.1 adstest.weather.com
 127.0.0.1 adsupply.com
@@ -950,6 +951,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 at-adserver.alltop.com
 127.0.0.1 atdmt.com
 127.0.0.1 athena-ads.wikia.com
+127.0.0.1 attributiontracker.com
 127.0.0.1 atwola.com
 127.0.0.1 auctionads.com
 127.0.0.1 auctionads.net
