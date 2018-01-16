@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 15 Jan 2018 21:19:35 GMT
-# entries:        2537
+# last updated:   Tue, 16 Jan 2018 15:14:06 GMT
+# entries:        2540
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1768,6 +1768,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mediaserver.bwinpartypartners.it
 127.0.0.1 mediatext.com
 127.0.0.1 mediatrking.com
+127.0.0.1 mediavine.com
 127.0.0.1 mediavoice.com
 127.0.0.1 mediax.angloinfo.com
 127.0.0.1 mediaz.angloinfo.com
@@ -2077,6 +2078,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 readgoldfish.com
 127.0.0.1 readserver.net
 127.0.0.1 realcastmedia.com
+127.0.0.1 realclever.com
 127.0.0.1 realclix.com
 127.0.0.1 realmedia-a800.d4p.net
 127.0.0.1 realtechnetwork.com
@@ -2298,6 +2300,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 takru.com
 127.0.0.1 tangerinenet.biz
 127.0.0.1 tapad.com
+127.0.0.1 tapinfluence.com
 127.0.0.1 targad.de
 127.0.0.1 targetingnow.com
 127.0.0.1 targetnet.com
