@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 16 Jan 2018 15:14:06 GMT
-# entries:        2538
+# last updated:   Thu, 18 Jan 2018 14:18:49 GMT
+# entries:        2540
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2492,6 +2492,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 webstat.net
 127.0.0.1 webstats4u.com
 127.0.0.1 webtrackerplus.com
+127.0.0.1 webtracky.com
 127.0.0.1 webtraffic.se
 127.0.0.1 webtrendslive.com
 127.0.0.1 werbung.meteoxpress.com
@@ -2501,6 +2502,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 whispa.com
 127.0.0.1 whoisonline.net
 127.0.0.1 wholesaletraffic.info
+127.0.0.1 widdit.com
 127.0.0.1 widespace.com
 127.0.0.1 widgetbucks.com
 127.0.0.1 wikia-ads.wikia.com
