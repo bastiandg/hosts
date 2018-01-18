@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 18 Jan 2018 14:18:49 GMT
-# entries:        2540
+# last updated:   Thu, 18 Jan 2018 17:16:35 GMT
+# entries:        2541
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2291,6 +2291,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 t.pusk.ru
 127.0.0.1 taboola.com
 127.0.0.1 tacoda.net
+127.0.0.1 tags.tiqcdn.com
 127.0.0.1 tagular.com
 127.0.0.1 tailsweep.co.uk
 127.0.0.1 tailsweep.com
