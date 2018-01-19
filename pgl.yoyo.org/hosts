@@ -575,7 +575,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.pennet.com
 127.0.0.1 ads.penny-arcade.com
 127.0.0.1 ads.phpclasses.org
-127.0.0.1 ads.pickmeup-ltd.com
 127.0.0.1 ads.planet.nl
 127.0.0.1 ads.pni.com
 127.0.0.1 ads.pof.com
@@ -928,6 +927,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 americash.com
 127.0.0.1 amung.us
 127.0.0.1 an.tacoda.net
+127.0.0.1 anahtars.com
 127.0.0.1 analytics.adpost.org
 127.0.0.1 analytics.google.com
 127.0.0.1 analytics.live.com
@@ -1573,6 +1573,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 hotlog.ru
 127.0.0.1 hotrank.com.tw
 127.0.0.1 hs-analytics.net
+127.0.0.1 htmlhubing.xyz
 127.0.0.1 httpool.com
 127.0.0.1 hurricanedigitalmedia.com
 127.0.0.1 hydramedia.com
@@ -1819,7 +1820,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 myaffiliateprogram.com
 127.0.0.1 mybloglog.com
 127.0.0.1 mycounter.ua
-127.0.0.1 mymoneymakingapp.com
 127.0.0.1 mypagerank.net
 127.0.0.1 mypagerank.ru
 127.0.0.1 mypowermall.com
