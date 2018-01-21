@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 21 Jan 2018 12:37:21 GMT
-# entries:        2543
+# last updated:   Sun, 21 Jan 2018 18:08:40 GMT
+# entries:        2545
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2150,6 +2150,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 secure.webconnect.net
 127.0.0.1 sedoparking.com
 127.0.0.1 sedotracker.com
+127.0.0.1 segment.com
 127.0.0.1 sendmepixel.com
 127.0.0.1 sensismediasmart.com.au
 127.0.0.1 separatesilver.com
@@ -2326,6 +2327,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 thrnt.com
 127.0.0.1 throattrees.com
 127.0.0.1 thruport.com
+127.0.0.1 tia.timeinc.net
 127.0.0.1 tidytrail.com
 127.0.0.1 tinybar.com
 127.0.0.1 tinypass.com
