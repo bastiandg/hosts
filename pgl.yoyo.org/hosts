@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 18 Jan 2018 17:16:35 GMT
-# entries:        2541
+# last updated:   Sun, 21 Jan 2018 12:37:21 GMT
+# entries:        2543
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -44,6 +44,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 2mdn.net
 127.0.0.1 2o7.net
 127.0.0.1 360yield.com
+127.0.0.1 3lift.com
 127.0.0.1 4affiliate.net
 127.0.0.1 4d5.net
 127.0.0.1 50websads.com
@@ -2469,6 +2470,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 vs.tucows.com
 127.0.0.1 vungle.com
 127.0.0.1 warlog.ru
+127.0.0.1 watchingthat.com
 127.0.0.1 wdads.sx.atl.publicus.com
 127.0.0.1 web-stat.com
 127.0.0.1 web.informer.com
