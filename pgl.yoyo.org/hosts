@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 24 Jan 2018 19:22:39 GMT
-# entries:        2546
+# entries:        2543
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -499,7 +499,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.heias.com
 127.0.0.1 ads.hideyourarms.com
 127.0.0.1 ads.hollywood.com
-127.0.0.1 ads.horsehero.com
 127.0.0.1 ads.horyzon-media.com
 127.0.0.1 ads.iafrica.com
 127.0.0.1 ads.ibest.com.br
@@ -641,7 +640,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.v3.com
 127.0.0.1 ads.verticalresponse.com
 127.0.0.1 ads.vgchartz.com
-127.0.0.1 ads.videobash.com
 127.0.0.1 ads.videosz.com
 127.0.0.1 ads.virtual-nights.com
 127.0.0.1 ads.virtualcountries.com
@@ -1147,7 +1145,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 casalemedia.com
 127.0.0.1 casalmedia.com
 127.0.0.1 cash4members.com
-127.0.0.1 cash4popup.de
 127.0.0.1 cashcrate.com
 127.0.0.1 cashengines.com
 127.0.0.1 cashfiesta.com
@@ -1233,7 +1230,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 clkads.com
 127.0.0.1 clkrev.com
 127.0.0.1 cloudcoins.biz
-127.0.0.1 cloudcoins.co
 127.0.0.1 cluster.adultworld.com
 127.0.0.1 clustrmaps.com
 127.0.0.1 cnomy.com
@@ -1383,6 +1379,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 e-n-t-e-r-n-e-x.com
 127.0.0.1 e-planning.net
 127.0.0.1 e.kde.cz
+127.0.0.1 eadexchange.com
 127.0.0.1 eas.almamedia.fi
 127.0.0.1 easyhits4u.com
 127.0.0.1 ebayadvertising.com
@@ -2432,7 +2429,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 unrulymedia.com
 127.0.0.1 untd.com
 127.0.0.1 unusualtitle.com
-127.0.0.1 updated.com
 127.0.0.1 urlcash.net
 127.0.0.1 us.a1.yimg.com
 127.0.0.1 usapromotravel.com
@@ -2500,6 +2496,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 webtrackerplus.com
 127.0.0.1 webtracky.com
 127.0.0.1 webtraffic.se
+127.0.0.1 webtraxx.de
 127.0.0.1 webtrendslive.com
 127.0.0.1 werbung.meteoxpress.com
 127.0.0.1 wetrack.it

@@ -473,7 +473,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.heias.com
 0.0.0.0 ads.hideyourarms.com
 0.0.0.0 ads.hollywood.com
-0.0.0.0 ads.horsehero.com
 0.0.0.0 ads.horyzon-media.com
 0.0.0.0 ads.iafrica.com
 0.0.0.0 ads.ibest.com.br
@@ -615,7 +614,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.v3.com
 0.0.0.0 ads.verticalresponse.com
 0.0.0.0 ads.vgchartz.com
-0.0.0.0 ads.videobash.com
 0.0.0.0 ads.videosz.com
 0.0.0.0 ads.virtual-nights.com
 0.0.0.0 ads.virtualcountries.com
@@ -1121,7 +1119,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 casalemedia.com
 0.0.0.0 casalmedia.com
 0.0.0.0 cash4members.com
-0.0.0.0 cash4popup.de
 0.0.0.0 cashcrate.com
 0.0.0.0 cashengines.com
 0.0.0.0 cashfiesta.com
@@ -1207,7 +1204,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 clkads.com
 0.0.0.0 clkrev.com
 0.0.0.0 cloudcoins.biz
-0.0.0.0 cloudcoins.co
 0.0.0.0 cluster.adultworld.com
 0.0.0.0 clustrmaps.com
 0.0.0.0 cnomy.com
@@ -1357,6 +1353,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 e-n-t-e-r-n-e-x.com
 0.0.0.0 e-planning.net
 0.0.0.0 e.kde.cz
+0.0.0.0 eadexchange.com
 0.0.0.0 eas.almamedia.fi
 0.0.0.0 easyhits4u.com
 0.0.0.0 ebayadvertising.com
@@ -2406,7 +2403,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 unrulymedia.com
 0.0.0.0 untd.com
 0.0.0.0 unusualtitle.com
-0.0.0.0 updated.com
 0.0.0.0 urlcash.net
 0.0.0.0 us.a1.yimg.com
 0.0.0.0 usapromotravel.com
@@ -2474,6 +2470,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 webtrackerplus.com
 0.0.0.0 webtracky.com
 0.0.0.0 webtraffic.se
+0.0.0.0 webtraxx.de
 0.0.0.0 webtrendslive.com
 0.0.0.0 werbung.meteoxpress.com
 0.0.0.0 wetrack.it
