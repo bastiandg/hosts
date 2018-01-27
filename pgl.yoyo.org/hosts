@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 27 Jan 2018 14:59:18 GMT
-# entries:        2544
+# last updated:   Sat, 27 Jan 2018 15:39:08 GMT
+# entries:        2563
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -208,6 +208,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adbooth.net
 127.0.0.1 adbot.com
 127.0.0.1 adbrite.com
+127.0.0.1 adbrn.com
 127.0.0.1 adbroker.de
 127.0.0.1 adbunker.com
 127.0.0.1 adbutler.com
@@ -806,6 +807,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adsys.townnews.com
 127.0.0.1 adsystem.simplemachines.org
 127.0.0.1 adtech.de
+127.0.0.1 adtechjp.com
 127.0.0.1 adtechus.com
 127.0.0.1 adtegrity.net
 127.0.0.1 adthis.com
@@ -889,6 +891,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 affiliate.mogs.com
 127.0.0.1 affiliate.offgamers.com
 127.0.0.1 affiliate.travelnow.com
+127.0.0.1 affiliate.treated.com
 127.0.0.1 affiliate.viator.com
 127.0.0.1 affiliatefuel.com
 127.0.0.1 affiliatefuture.com
@@ -920,6 +923,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 all4spy.com
 127.0.0.1 alladvantage.com
 127.0.0.1 allosponsor.com
+127.0.0.1 alphonso.tv
 127.0.0.1 amazingcounters.com
 127.0.0.1 amazon-adsystem.com
 127.0.0.1 ambitiousagreement.com
@@ -959,6 +963,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 audienceinsights.com
 127.0.0.1 audit.median.hu
 127.0.0.1 audit.webinform.hu
+127.0.0.1 augur.io
 127.0.0.1 auto-bannertausch.de
 127.0.0.1 autohits.dk
 127.0.0.1 avenuea.com
@@ -1082,6 +1087,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 bestsearch.net
 127.0.0.1 bidclix.com
 127.0.0.1 bidclix.net
+127.0.0.1 bidr.io
 127.0.0.1 bidswitch.net
 127.0.0.1 bidtrk.com
 127.0.0.1 bidvertiser.com
@@ -1231,6 +1237,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 clkads.com
 127.0.0.1 clkrev.com
 127.0.0.1 cloudcoins.biz
+127.0.0.1 clrstm.com
 127.0.0.1 cluster.adultworld.com
 127.0.0.1 clustrmaps.com
 127.0.0.1 cnomy.com
@@ -1526,6 +1533,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 gpr.hu
 127.0.0.1 grafstat.ro
 127.0.0.1 grapeshot.co.uk
+127.0.0.1 graph.instagram.com
 127.0.0.1 greetzebra.com
 127.0.0.1 greystripe.com
 127.0.0.1 gtop100.com
@@ -1670,6 +1678,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 kissmetrics.com
 127.0.0.1 kliks.nl
 127.0.0.1 kniverto.com
+127.0.0.1 knorex.com
 127.0.0.1 koinser.in
 127.0.0.1 komoona.com
 127.0.0.1 kompasads.com
@@ -1760,6 +1769,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mediacharger.com
 127.0.0.1 mediadvertising.ro
 127.0.0.1 mediageneral.com
+127.0.0.1 mediaiqdigital.com
 127.0.0.1 mediamath.com
 127.0.0.1 mediamgr.ugo.com
 127.0.0.1 mediaplazza.com
@@ -1813,12 +1823,14 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mpstat.us
 127.0.0.1 mr-rank.de
 127.0.0.1 mrskincash.com
+127.0.0.1 mstrlytcs.com
 127.0.0.1 mtrcs.samba.tv
 127.0.0.1 mtree.com
 127.0.0.1 musiccounter.ru
 127.0.0.1 muwmedia.com
 127.0.0.1 myaffiliateprogram.com
 127.0.0.1 mybloglog.com
+127.0.0.1 mybuys.com
 127.0.0.1 mycounter.ua
 127.0.0.1 mypagerank.net
 127.0.0.1 mypagerank.ru
@@ -1835,6 +1847,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 navigator.io
 127.0.0.1 navrcholu.cz
 127.0.0.1 nbjmp.com
+127.0.0.1 ncaudienceexchange.com
 127.0.0.1 ndparking.com
 127.0.0.1 nedstat.com
 127.0.0.1 nedstat.nl
@@ -1871,6 +1884,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 nuggad.net
 127.0.0.1 numax.nu-1.com
 127.0.0.1 nuseek.com
+127.0.0.1 nzaza.com
 127.0.0.1 oas.benchmark.fr
 127.0.0.1 oas.foxnews.com
 127.0.0.1 oas.repubblica.it
@@ -1956,6 +1970,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 performancerevenues.com
 127.0.0.1 performancing.com
 127.0.0.1 permutive.com
+127.0.0.1 personagraph.com
 127.0.0.1 pgmediaserve.com
 127.0.0.1 pgpartner.com
 127.0.0.1 pheedo.com
@@ -1970,6 +1985,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 pimproll.com
 127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 pixel.condenastdigital.com
+127.0.0.1 pixel.digitru.st
 127.0.0.1 pixel.jumptap.com
 127.0.0.1 pixel.redditmedia.com
 127.0.0.1 play4traffic.com
@@ -2126,6 +2142,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ru4.com
 127.0.0.1 rubiconproject.com
 127.0.0.1 rulerabbit.com
+127.0.0.1 runads.com
+127.0.0.1 rundsp.com
 127.0.0.1 s.adroll.com
 127.0.0.1 s2d6.com
 127.0.0.1 sageanalyst.net
@@ -2307,6 +2325,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 targetpoint.com
 127.0.0.1 tatsumi-sys.jp
 127.0.0.1 tcads.net
+127.0.0.1 tdxio.com
 127.0.0.1 teads.tv
 127.0.0.1 techclicks.net
 127.0.0.1 teenrevenue.com
