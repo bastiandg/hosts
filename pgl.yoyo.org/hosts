@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 27 Jan 2018 16:33:59 GMT
-# entries:        2564
+# last updated:   Sat, 27 Jan 2018 17:55:27 GMT
+# entries:        2570
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -37,6 +37,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 180hits.de
 127.0.0.1 180searchassistant.com
 127.0.0.1 207.net
+127.0.0.1 20a840a14a0ef7d6.com
 127.0.0.1 247media.com
 127.0.0.1 24log.com
 127.0.0.1 24log.de
@@ -1072,6 +1073,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 barnesandnoble.bfast.com
 127.0.0.1 basebanner.com
 127.0.0.1 baskettexture.com
+127.0.0.1 bat.bing.com
 127.0.0.1 bawdybeast.com
 127.0.0.1 baypops.com
 127.0.0.1 bbelements.com
@@ -1174,6 +1176,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cgicounter.puretec.de
 127.0.0.1 ch.questionmarket.com
 127.0.0.1 chameleon.ad
+127.0.0.1 channel1vids.com
 127.0.0.1 channelintelligence.com
 127.0.0.1 chart.dk
 127.0.0.1 chartbeat.com
@@ -1813,6 +1816,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 moatads.com
 127.0.0.1 mob.system-onlline.com
 127.0.0.1 mobclix.com
+127.0.0.1 mobileiconnect.com
 127.0.0.1 mocean.mobi
 127.0.0.1 moggattice.com
 127.0.0.1 monetate.net
@@ -2139,6 +2143,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 roxr.net
 127.0.0.1 rtbpop.com
 127.0.0.1 rtbpopd.com
+127.0.0.1 rtmark.net
 127.0.0.1 ru-traffic.com
 127.0.0.1 ru4.com
 127.0.0.1 rubiconproject.com
@@ -2390,6 +2395,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 tracedesire.com
 127.0.0.1 track.adform.net
 127.0.0.1 track.anchorfree.com
+127.0.0.1 track.dating-4-you.com
 127.0.0.1 track.flexlinks.com
 127.0.0.1 track.flexlinkspro.com
 127.0.0.1 track.gawker.com
