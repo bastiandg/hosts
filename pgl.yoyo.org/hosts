@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 27 Jan 2018 19:37:41 GMT
-# entries:        2571
+# last updated:   Sun, 28 Jan 2018 10:10:08 GMT
+# entries:        2572
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2107,6 +2107,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 redirectvoluum.com
 127.0.0.1 reduxmedia.com
 127.0.0.1 referralware.com
+127.0.0.1 referrer.disqus.com
 127.0.0.1 regnow.com
 127.0.0.1 reinvigorate.net
 127.0.0.1 reklam.rfsl.se
