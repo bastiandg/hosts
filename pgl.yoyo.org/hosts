@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 28 Jan 2018 10:10:08 GMT
-# entries:        2572
+# last updated:   Sun, 28 Jan 2018 21:20:04 GMT
+# entries:        2574
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1756,6 +1756,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mastermind.com
 127.0.0.1 matchcows.com
 127.0.0.1 matchcraft.com
+127.0.0.1 matheranalytics.com
 127.0.0.1 mathtag.com
 127.0.0.1 max.i12.de
 127.0.0.1 maximumcash.com
@@ -2229,6 +2230,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 snoobi.com
 127.0.0.1 socialspark.com
 127.0.0.1 softclick.com.br
+127.0.0.1 somniture.stuff.co.nz
 127.0.0.1 sonobi.com
 127.0.0.1 sortable.com
 127.0.0.1 spacash.com
