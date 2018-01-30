@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 29 Jan 2018 09:31:20 GMT
-# entries:        2574
+# last updated:   Tue, 30 Jan 2018 22:28:38 GMT
+# entries:        2576
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1768,6 +1768,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 media-servers.net
 127.0.0.1 media.ftv-publicite.fr
 127.0.0.1 media.funpic.de
+127.0.0.1 media.net
 127.0.0.1 media6degrees.com
 127.0.0.1 mediaarea.eu
 127.0.0.1 mediabridge.cc
@@ -1886,6 +1887,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ng3.ads.warnerbros.com
 127.0.0.1 nitroclicks.com
 127.0.0.1 novem.pl
+127.0.0.1 ns1p.net
 127.0.0.1 ntv.io
 127.0.0.1 nuggad.net
 127.0.0.1 numax.nu-1.com

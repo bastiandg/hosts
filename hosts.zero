@@ -14689,6 +14689,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 media.mobpartner.mobi
 0.0.0.0 media.mydas.mobi
 0.0.0.0 media.naked.com
+0.0.0.0 media.net
 0.0.0.0 media.netrefer.com
 0.0.0.0 media.nk-net.pl
 0.0.0.0 media.ontarionorth.com
@@ -16157,6 +16158,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ns1.webwise.com
 0.0.0.0 ns1.webwise.net
 0.0.0.0 ns1.webwise.org
+0.0.0.0 ns1p.net
 0.0.0.0 ns2.hitbox.com
 0.0.0.0 ns2.lalibco.com
 0.0.0.0 ns2.oix.com

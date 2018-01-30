@@ -1742,6 +1742,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 media-servers.net
 0.0.0.0 media.ftv-publicite.fr
 0.0.0.0 media.funpic.de
+0.0.0.0 media.net
 0.0.0.0 media6degrees.com
 0.0.0.0 mediaarea.eu
 0.0.0.0 mediabridge.cc
@@ -1860,6 +1861,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ng3.ads.warnerbros.com
 0.0.0.0 nitroclicks.com
 0.0.0.0 novem.pl
+0.0.0.0 ns1p.net
 0.0.0.0 ntv.io
 0.0.0.0 nuggad.net
 0.0.0.0 numax.nu-1.com
