@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 30 Jan 2018 at 05:37:24 GMT
+# Last updated: Tue, 30 Jan 2018 at 07:06:09 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2600,6 +2600,7 @@
 127.0.0.1 sparc.nour.net.sa
 127.0.0.1 speedtestbeta.com
 127.0.0.1 sps01.office.ctm.net
+127.0.0.1 s.pubmine.com
 127.0.0.1 squartera.info
 127.0.0.1 stackoverflow.dluat.com
 127.0.0.1 stackoverflow.hex1.ru
@@ -9419,6 +9420,7 @@
 127.0.0.1 publishers.bidtraffic.com
 127.0.0.1 publishers.brokertraffic.com
 127.0.0.1 publishing.kalooga.com
+127.0.0.1 pubpress.net
 127.0.0.1 pub.sapo.pt
 127.0.0.1 pubshop.img.uol.com.br
 127.0.0.1 pub.web.sapo.io
