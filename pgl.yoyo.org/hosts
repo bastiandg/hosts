@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 31 Jan 2018 18:16:43 GMT
-# entries:        2577
+# last updated:   Wed, 31 Jan 2018 20:48:57 GMT
+# entries:        2579
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1739,6 +1739,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 lucklayed.info
 127.0.0.1 lumpyleaf.com
 127.0.0.1 lzjl.com
+127.0.0.1 m.trb.com
 127.0.0.1 m1.webstats4u.com
 127.0.0.1 m4n.nl
 127.0.0.1 mackeeperapp.mackeeper.com
@@ -2435,6 +2436,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 traffiq.com
 127.0.0.1 trafic.ro
 127.0.0.1 travis.bosscasinos.com
+127.0.0.1 trbas.com
 127.0.0.1 trekblue.com
 127.0.0.1 trekdata.com
 127.0.0.1 trendcounter.com
