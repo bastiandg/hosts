@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 31 Jan 2018 20:48:57 GMT
-# entries:        2579
+# last updated:   Thu, 01 Feb 2018 08:59:59 GMT
+# entries:        2580
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -665,6 +665,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.xtra.co.nz
 127.0.0.1 ads.y-0.net
 127.0.0.1 ads.yahoo.com
+127.0.0.1 ads.yap.yahoo.com
 127.0.0.1 ads.yimg.com
 127.0.0.1 ads.yldmgrimg.net
 127.0.0.1 ads.yourfreedvds.com
