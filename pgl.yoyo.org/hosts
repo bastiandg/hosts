@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 01 Feb 2018 21:29:18 GMT
-# entries:        2581
+# entries:        2580
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -213,7 +213,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adbroker.de
 127.0.0.1 adbunker.com
 127.0.0.1 adbutler.com
-127.0.0.1 adbutler.de
 127.0.0.1 adbuyer.com
 127.0.0.1 adbuyer3.lycos.com
 127.0.0.1 adcash.com
