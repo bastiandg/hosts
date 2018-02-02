@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 01 Feb 2018 21:29:18 GMT
-# entries:        2582
+# entries:        2581
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2439,7 +2439,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 traffiq.com
 127.0.0.1 trafic.ro
 127.0.0.1 travis.bosscasinos.com
-127.0.0.1 trbas.com
 127.0.0.1 trekblue.com
 127.0.0.1 trekdata.com
 127.0.0.1 trendcounter.com
