@@ -1782,6 +1782,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 metrics.foxnews.com
 0.0.0.0 metrics.govexec.com
 0.0.0.0 metrics.windowsitpro.com
+0.0.0.0 metrilo.com
 0.0.0.0 mgid.com
 0.0.0.0 miarroba.com
 0.0.0.0 microstatic.pl
