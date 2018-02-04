@@ -1472,6 +1472,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 freelogs.com
 0.0.0.0 freeonlineusers.com
 0.0.0.0 freepay.com
+0.0.0.0 freeskreen.com
 0.0.0.0 freestats.com
 0.0.0.0 freestats.tv
 0.0.0.0 freewebcounter.com
@@ -1718,6 +1719,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 lzjl.com
 0.0.0.0 m.trb.com
 0.0.0.0 m1.webstats4u.com
+0.0.0.0 m32.media
 0.0.0.0 m4n.nl
 0.0.0.0 mackeeperapp.mackeeper.com
 0.0.0.0 madclient.uimserv.net
@@ -2221,6 +2223,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 specificpop.com
 0.0.0.0 spectacularsnail.com
 0.0.0.0 speedomizer.com
+0.0.0.0 speedshiftmedia.com
 0.0.0.0 spezialreporte.de
 0.0.0.0 spillvacation.com
 0.0.0.0 spinbox.techtracker.com

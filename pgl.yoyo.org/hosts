@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 01 Feb 2018 21:29:18 GMT
-# entries:        2581
+# last updated:   Sun, 04 Feb 2018 17:22:08 GMT
+# entries:        2584
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1498,6 +1498,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 freelogs.com
 127.0.0.1 freeonlineusers.com
 127.0.0.1 freepay.com
+127.0.0.1 freeskreen.com
 127.0.0.1 freestats.com
 127.0.0.1 freestats.tv
 127.0.0.1 freewebcounter.com
@@ -1744,6 +1745,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 lzjl.com
 127.0.0.1 m.trb.com
 127.0.0.1 m1.webstats4u.com
+127.0.0.1 m32.media
 127.0.0.1 m4n.nl
 127.0.0.1 mackeeperapp.mackeeper.com
 127.0.0.1 madclient.uimserv.net
@@ -2247,6 +2249,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 specificpop.com
 127.0.0.1 spectacularsnail.com
 127.0.0.1 speedomizer.com
+127.0.0.1 speedshiftmedia.com
 127.0.0.1 spezialreporte.de
 127.0.0.1 spillvacation.com
 127.0.0.1 spinbox.techtracker.com
