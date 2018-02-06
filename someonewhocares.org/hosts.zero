@@ -378,6 +378,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.fout.jp
 0.0.0.0 ad.fr.doubleclick.net
 0.0.0.0 ad.funpic.de
+0.0.0.0 ad.g-content.bid
 0.0.0.0 ad.garantiarkadas.com
 0.0.0.0 ad.gazeta.pl
 0.0.0.0 ad.ghfusion.com
@@ -3743,6 +3744,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.holdlads.com
 0.0.0.0 cdn.imgtty.com
 0.0.0.0 cdn.innovid.com
+0.0.0.0 cdn.jquery-uim.download
 0.0.0.0 cdn.komoona.com
 0.0.0.0 cdn.lazymem.com
 0.0.0.0 cdn.lazymic.com
@@ -3762,6 +3764,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.sagent.io
 0.0.0.0 cdn.shoppingminds.net
 0.0.0.0 cdn.stat.easydate.biz
+0.0.0.0 cdn.static-cnt.bid
 0.0.0.0 cdn.stickyadstv.com
 0.0.0.0 cdn.syn.verticalacuity.com
 0.0.0.0 cdn.taboola.com
@@ -4063,6 +4066,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cnhv.co
 0.0.0.0 cnn.122.2o7.net
 0.0.0.0 cnn.entertainment.printthis.clickability.com
+0.0.0.0 cnt.statistic.date
 0.0.0.0 cnt.trafficstars.com
 0.0.0.0 cnt.xcounter.com
 0.0.0.0 cnt1.xhamster.com
@@ -4083,6 +4087,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 coin-hive.com
 0.0.0.0 coinerra.com
 0.0.0.0 coinhive.com
+0.0.0.0 coinimp.com
 0.0.0.0 coinurl.com
 0.0.0.0 col.mobileads.msn.com
 0.0.0.0 coldcertainchannel.com
@@ -4365,6 +4370,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 crux.songline.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 crypto-loot.com
+0.0.0.0 cryptoloot.pro
 0.0.0.0 cs.adxpansion.com
 0.0.0.0 cs.prd.msys.playstation.net
 0.0.0.0 cs.sexcounter.com
@@ -5279,6 +5285,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 freecamerauk.co.uk
 0.0.0.0 freecamsexposed.com
 0.0.0.0 freechat.llil.de
+0.0.0.0 freecontent.bid
 0.0.0.0 freecoolgift.com
 0.0.0.0 freedailydownload.com
 0.0.0.0 freedesignerhandbagreviews.com
@@ -5753,6 +5760,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 hakerzy.net
 0.0.0.0 hakuba.janis.or.jp
 0.0.0.0 halfords.ukrpts.net
+0.0.0.0 hallaert.online
 0.0.0.0 halleberrynude.ca.tt
 0.0.0.0 haouzy.info
 0.0.0.0 happydiscountspecials.com
@@ -5763,6 +5771,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 harvest176.adgardener.com
 0.0.0.0 harvest284.adgardener.com
 0.0.0.0 harvest285.adgardener.com
+0.0.0.0 hashing.win
 0.0.0.0 hathor.eztonez.com
 0.0.0.0 hatrecord.ru
 0.0.0.0 havakhosh.com
@@ -7419,6 +7428,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 minero.pw
 0.0.0.0 minestat.biz
 0.0.0.0 mini.videostrip.com
+0.0.0.0 minr.pw
 0.0.0.0 mipsa.ciae.ac.cn
 0.0.0.0 mirror.pointroll.com
 0.0.0.0 mitobeb.yadozalamom.pw
@@ -11394,6 +11404,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 webads.bizservers.com
 0.0.0.0 webads.nl
 0.0.0.0 webanalytics.globalthoughtz.com
+0.0.0.0 webassembly.stream
 0.0.0.0 webbizwild.com
 0.0.0.0 webbug.seatreport.com
 0.0.0.0 webcamsex.nl
@@ -11882,6 +11893,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.clownsong.com
 0.0.0.0 www.cm1359.com
 0.0.0.0 www.codez-knacken.de
+0.0.0.0 www.coinimp.com
 0.0.0.0 www.come-see-it-all.com
 0.0.0.0 www.commerce-offer.com
 0.0.0.0 www.commerce-rewardpath.com
@@ -11943,6 +11955,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.crispads.com
 0.0.0.0 www.crowdgravity.com
 0.0.0.0 www.crowdignite.com
+0.0.0.0 www.cryptoloot.pro
 0.0.0.0 www.cshacks.partycat.us
 0.0.0.0 www.ctbdev.net
 0.0.0.0 www.cw.nu
@@ -12066,6 +12079,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.freecamerauk.co.uk
 0.0.0.0 www.freecamsecrets.com
 0.0.0.0 www.freecamsexposed.com
+0.0.0.0 www.freecontent.bid
 0.0.0.0 www.freecoolgift.com
 0.0.0.0 www.freedailydownload.com
 0.0.0.0 www.freedesignerhandbagreviews.com
@@ -12182,9 +12196,11 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.guptamedianetwork.com
 0.0.0.0 www.hai2u.com
 0.0.0.0 www.hakerzy.net
+0.0.0.0 www.hallaert.online
 0.0.0.0 www.haoyunlaid.com
 0.0.0.0 www.happydiscountspecials.com
 0.0.0.0 www.hardware4freaks.de
+0.0.0.0 www.hashing.win
 0.0.0.0 www.health-beauty-rewardpath.com
 0.0.0.0 www.health-beauty-savingblvd.com
 0.0.0.0 www.healthbeautyncs.com
@@ -12403,6 +12419,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.mijnbladopdemat.nl
 0.0.0.0 www.mikras.nl
 0.0.0.0 www.milkfountain.com
+0.0.0.0 www.minr.pw
 0.0.0.0 www.mktg-offer.com
 0.0.0.0 www.mlinktracker.com
 0.0.0.0 www.mlntracker.com
@@ -12543,6 +12560,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.postmasterdirect.com
 0.0.0.0 www.postnewsads.com
 0.0.0.0 www.poxudeli.ru
+0.0.0.0 www.ppoi.org
 0.0.0.0 www.precisioncounter.com
 0.0.0.0 www.predictivadnetwork.com
 0.0.0.0 www.premium-reward-club.com
@@ -12850,6 +12868,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.wdm29.com
 0.0.0.0 www.web-stat.com
 0.0.0.0 www.webabrufe.de
+0.0.0.0 www.webassembly.stream
 0.0.0.0 www.webcashvideos.com
 0.0.0.0 www.webcompteur.com
 0.0.0.0 www.webcounter.com
