@@ -39,6 +39,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 123plays.com
 0.0.0.0 123specialgifts.com
 0.0.0.0 130.211.230.53
+0.0.0.0 15.basebanner.com
 0.0.0.0 17003124.xyz
 0.0.0.0 192.168.112.2o7.net
 0.0.0.0 1ca.cqcounter.com
@@ -6110,6 +6111,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 impno.tradedoubler.com
 0.0.0.0 import.globalsources.com
 0.0.0.0 imppl.tradedoubler.com
+0.0.0.0 imprammp.taboola.com
 0.0.0.0 impressionaffiliate.com
 0.0.0.0 impressionaffiliate.mobi
 0.0.0.0 impressionlead.com
@@ -11078,6 +11080,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 videos.twitter.secure-logins01.com
 0.0.0.0 videos.video-loader.com
 0.0.0.0 videoslots.888.com
+0.0.0.0 vidstat.taboola.com
+0.0.0.0 vidstatb.taboola.com
 0.0.0.0 view.atdmt.com
 0.0.0.0 view.avenuea.com
 0.0.0.0 view.binlayer.com
@@ -11459,6 +11463,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 west.05tz2e9.com
 0.0.0.0 westjet.112.2o7.net
 0.0.0.0 wewillrocknow.com
+0.0.0.0 wf.basebanner.com
 0.0.0.0 wfussb.oewabox.at
 0.0.0.0 whentheyopened.com
 0.0.0.0 whenvideoup.thebigandfreesystemupdate.website
