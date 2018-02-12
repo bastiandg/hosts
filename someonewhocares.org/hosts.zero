@@ -10730,6 +10730,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 traffic.focuusing.com
 0.0.0.0 traffic.getmyads.com
 0.0.0.0 traffic.outbrain.com
+0.0.0.0 traffic.spot.im
 0.0.0.0 trafficbee.com
 0.0.0.0 trafficnetworkads24.com
 0.0.0.0 trafficopen.com
@@ -12715,6 +12716,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.sports-offer.com
 0.0.0.0 www.sports-offer.net
 0.0.0.0 www.sports-premiumblvd.com
+0.0.0.0 www.spot.im
 0.0.0.0 www.sq2trk2.com
 0.0.0.0 www.star-advertising.com
 0.0.0.0 www.startnewtab.com
