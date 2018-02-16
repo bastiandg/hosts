@@ -1116,7 +1116,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 buyhitscheap.com
 0.0.0.0 buysellads.com
 0.0.0.0 buzzonclick.com
-0.0.0.0 bvalphaserver.com
 0.0.0.0 bwp.download.com
 0.0.0.0 c.bigmir.net
 0.0.0.0 c1.nowlinux.com
@@ -2068,7 +2067,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ranking-id.de
 0.0.0.0 ranking-links.de
 0.0.0.0 ranking-liste.de
-0.0.0.0 ranking-street.de
 0.0.0.0 rankingchart.de
 0.0.0.0 rankingscout.com
 0.0.0.0 rankyou.com
@@ -2262,7 +2260,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 stats.hyperinzerce.cz
 0.0.0.0 stats.merriam-webster.com
 0.0.0.0 stats.mirrorfootball.co.uk
-0.0.0.0 stats.multiup.org
 0.0.0.0 stats.olark.com
 0.0.0.0 stats.pusher.com
 0.0.0.0 stats.self.com
