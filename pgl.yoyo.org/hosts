@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 04 Feb 2018 20:50:56 GMT
-# entries:        2581
+# entries:        2580
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -951,7 +951,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 arcadebanners.com
 127.0.0.1 ard.xxxblackbook.com
 127.0.0.1 are-ter.com
-127.0.0.1 art19.com
 127.0.0.1 as.webmd.com
 127.0.0.1 as1.advfn.com
 127.0.0.1 assets1.exgfnetwork.com
