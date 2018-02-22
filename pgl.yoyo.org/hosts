@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 21 Feb 2018 14:21:05 GMT
-# entries:        2582
+# entries:        2581
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1425,7 +1425,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 entrecard.s3.amazonaws.com
 127.0.0.1 eqads.com
 127.0.0.1 ero-advertising.com
-127.0.0.1 esellerate.net
 127.0.0.1 estat.com
 127.0.0.1 etahub.com
 127.0.0.1 etargetnet.com
