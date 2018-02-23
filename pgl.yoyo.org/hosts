@@ -21,7 +21,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 21 Feb 2018 14:21:05 GMT
+# last updated:   Wed, 21 Feb 2018 14:20:42 GMT
 # entries:        2581
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -1155,6 +1155,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 casalemedia.com
 127.0.0.1 casalmedia.com
 127.0.0.1 cash4members.com
+127.0.0.1 cash4popup.de
 127.0.0.1 cashcrate.com
 127.0.0.1 cashengines.com
 127.0.0.1 cashfiesta.com
@@ -1165,7 +1166,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 casinorewards.com
 127.0.0.1 casinotraffic.com
 127.0.0.1 casinotreasure.com
-127.0.0.1 casterist.info
 127.0.0.1 cbanners.virtuagirlhd.com
 127.0.0.1 cbmall.com
 127.0.0.1 cdn.freefarcy.com
@@ -1778,7 +1778,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 media6degrees.com
 127.0.0.1 mediaarea.eu
 127.0.0.1 mediabridge.cc
-127.0.0.1 mediacharger.com
 127.0.0.1 mediadvertising.ro
 127.0.0.1 mediageneral.com
 127.0.0.1 mediaiqdigital.com
@@ -1846,6 +1845,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mybloglog.com
 127.0.0.1 mybuys.com
 127.0.0.1 mycounter.ua
+127.0.0.1 mymoneymakingapp.com
 127.0.0.1 mypagerank.net
 127.0.0.1 mypagerank.ru
 127.0.0.1 mypowermall.com
