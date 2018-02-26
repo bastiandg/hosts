@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 25 Feb 2018 09:36:36 GMT
-# entries:        2583
+# last updated:   Mon, 26 Feb 2018 21:59:18 GMT
+# entries:        2589
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1297,6 +1297,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 counting.kmindex.ru
 127.0.0.1 counts.tucows.com
 127.0.0.1 coupling-media.de
+127.0.0.1 cowledges.com
 127.0.0.1 cp.abbp1.pw
 127.0.0.1 cpalead.com
 127.0.0.1 cpays.com
@@ -1510,6 +1511,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 futuristicfairies.com
 127.0.0.1 fuzzyflavor.com
 127.0.0.1 fxstyle.net
+127.0.0.1 g3j2wzmon8b.com
 127.0.0.1 ga87z2o.com
 127.0.0.1 galaxien.com
 127.0.0.1 game-advertising-online.com
@@ -2039,6 +2041,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 primetime.net
 127.0.0.1 privatecash.com
 127.0.0.1 privy.com
+127.0.0.1 prmtracking.com
 127.0.0.1 pro-advertising.com
 127.0.0.1 proext.com
 127.0.0.1 profero.com
@@ -2056,6 +2059,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 proranktracker.com
 127.0.0.1 proton-tm.com
 127.0.0.1 protraffic.com
+127.0.0.1 provalist.info
 127.0.0.1 provexia.com
 127.0.0.1 provideplant.com
 127.0.0.1 prsitecheck.com
@@ -2307,6 +2311,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 stormyshock.com
 127.0.0.1 stormysponge.com
 127.0.0.1 straightnest.com
+127.0.0.1 stream4fun.com
 127.0.0.1 strivesidewalk.com
 127.0.0.1 structuresofa.com
 127.0.0.1 subscribe.hearstmags.com
@@ -2440,6 +2445,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 trafficz.net
 127.0.0.1 traffiq.com
 127.0.0.1 trafic.ro
+127.0.0.1 traktrafficflow.com
 127.0.0.1 travis.bosscasinos.com
 127.0.0.1 trekblue.com
 127.0.0.1 trekdata.com
