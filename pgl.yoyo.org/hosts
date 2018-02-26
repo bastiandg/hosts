@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 26 Feb 2018 21:59:18 GMT
-# entries:        2589
+# last updated:   Mon, 26 Feb 2018 22:02:14 GMT
+# entries:        2594
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -55,6 +55,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 777partner.com
 127.0.0.1 77tracking.com
 127.0.0.1 7bpeople.com
+127.0.0.1 7f1au20glg.com
+127.0.0.1 7mu36somt5.com
 127.0.0.1 7search.com
 127.0.0.1 99count.com
 127.0.0.1 a-ads.com
@@ -1801,6 +1803,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 megacash.de
 127.0.0.1 megastats.com
 127.0.0.1 megawerbung.de
+127.0.0.1 mellowads.com
 127.0.0.1 metaffiliation.com
 127.0.0.1 metanetwork.com
 127.0.0.1 methodcash.com
@@ -2482,6 +2485,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 userreplay.net
 127.0.0.1 utarget.co.uk
 127.0.0.1 utils.mediageneral.net
+127.0.0.1 utlpwxdt.com
 127.0.0.1 v1.cnzz.com
 127.0.0.1 validclick.com
 127.0.0.1 valuead.com
@@ -2489,6 +2493,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 valueclickmedia.com
 127.0.0.1 valuecommerce.com
 127.0.0.1 valuesponsor.com
+127.0.0.1 variablefitness.com
 127.0.0.1 veille-referencement.com
 127.0.0.1 ventivmedia.com
 127.0.0.1 vericlick.com
