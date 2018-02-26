@@ -4537,6 +4537,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 dev.adforum.com
 0.0.0.0 dev.hitbox.com
 0.0.0.0 dev.sfbg.com
+0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 dev101.hitbox.com
 0.0.0.0 dev102.hitbox.com
 0.0.0.0 dev103.hitbox.com
@@ -6109,6 +6110,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 impie.tradedoubler.com
 0.0.0.0 impit.tradedouble.com
 0.0.0.0 impit.tradedoubler.com
+0.0.0.0 impl.onscroll.com
 0.0.0.0 impnl.tradedoubler.com
 0.0.0.0 impno.tradedoubler.com
 0.0.0.0 import.globalsources.com
@@ -10150,6 +10152,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.expo9.exponential.com
 0.0.0.0 tags.hypeads.org
+0.0.0.0 tags.onscroll.com
 0.0.0.0 tags.rllcll.com
 0.0.0.0 tags.tagcade.com
 0.0.0.0 tags.toroadvertising.com
@@ -11665,6 +11668,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.ads2srv.com
 0.0.0.0 www.ads345.com
 0.0.0.0 www.adscience.nl
+0.0.0.0 www.adsensecustomsearchads.com
 0.0.0.0 www.adsentnetwork.com
 0.0.0.0 www.adserver-espnet.sportszone.net
 0.0.0.0 www.adserver.co.il
@@ -12868,6 +12872,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.vippotexa.ru
 0.0.0.0 www.vipromoffers.com
 0.0.0.0 www.virtumundo.com
+0.0.0.0 www.visualwebsiteoptimizer.com
 0.0.0.0 www.vmcsatellite.com
 0.0.0.0 www.vomitgirl.org
 0.0.0.0 www.voucher-for-you.online
