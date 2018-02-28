@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 27 Feb 2018 18:17:25 GMT
-# entries:        2595
+# last updated:   Wed, 28 Feb 2018 16:23:48 GMT
+# entries:        2596
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1864,6 +1864,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 naj.sk
 127.0.0.1 namimedia.com
 127.0.0.1 nastydollars.com
+127.0.0.1 nativeroll.tv
 127.0.0.1 navigator.io
 127.0.0.1 navrcholu.cz
 127.0.0.1 nbjmp.com
