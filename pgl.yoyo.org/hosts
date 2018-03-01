@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 28 Feb 2018 16:23:48 GMT
-# entries:        2596
+# last updated:   Thu, 01 Mar 2018 20:22:09 GMT
+# entries:        2597
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2223,6 +2223,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 shockingswing.com
 127.0.0.1 shoppingads.com
 127.0.0.1 sidebar.angelfire.com
+127.0.0.1 simpli.fi
 127.0.0.1 simplisticnose.com
 127.0.0.1 sinceresofa.com
 127.0.0.1 sinoa.com
