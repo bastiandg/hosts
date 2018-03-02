@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 01 Mar 2018 20:22:09 GMT
-# entries:        2597
+# entries:        2595
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -120,7 +120,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ad.cooks.com
 127.0.0.1 ad.crwdcntrl.net
 127.0.0.1 ad.digitallook.com
-127.0.0.1 ad.directrev.com
 127.0.0.1 ad.doctissimo.fr
 127.0.0.1 ad.domainfactory.de
 127.0.0.1 ad.e-kolay.net
@@ -283,7 +282,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adk2.com
 127.0.0.1 adk2ads.tictacti.com
 127.0.0.1 adland.ru
-127.0.0.1 adlantic.nl
 127.0.0.1 adledge.com
 127.0.0.1 adlegend.com
 127.0.0.1 adlog.com.com
