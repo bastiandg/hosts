@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 01 Mar 2018 20:22:09 GMT
-# entries:        2595
+# entries:        2582
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -972,7 +972,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 avenuea.com
 127.0.0.1 avocet.io
 127.0.0.1 avpa.javalobby.org
-127.0.0.1 avres.net
 127.0.0.1 avsads.com
 127.0.0.1 avzadsrv.com
 127.0.0.1 awempire.com
@@ -1080,7 +1079,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 bbelements.com
 127.0.0.1 bbn.img.com.ua
 127.0.0.1 beamincrease.com
-127.0.0.1 beamkite.com
 127.0.0.1 begun.ru
 127.0.0.1 behavioralengine.com
 127.0.0.1 belstat.com
@@ -1166,6 +1164,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 casinorewards.com
 127.0.0.1 casinotraffic.com
 127.0.0.1 casinotreasure.com
+127.0.0.1 casterist.info
 127.0.0.1 cbanners.virtuagirlhd.com
 127.0.0.1 cbmall.com
 127.0.0.1 cdn.freefarcy.com
@@ -1187,7 +1186,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cherrythread.com
 127.0.0.1 chestionar.ro
 127.0.0.1 chiefcurrent.com
-127.0.0.1 chinchickens.com
 127.0.0.1 chitika.net
 127.0.0.1 christingel.com
 127.0.0.1 cinstein.com
@@ -1254,7 +1252,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cointraffic.io
 127.0.0.1 colonize.com
 127.0.0.1 comclick.com
-127.0.0.1 commandwalk.com
 127.0.0.1 commindo-media-ressourcen.de
 127.0.0.1 commissionmonster.com
 127.0.0.1 compactbanner.com
@@ -1321,7 +1318,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 critictruck.com
 127.0.0.1 croissed.info
 127.0.0.1 crowdgravity.com
-127.0.0.1 crownclam.com
 127.0.0.1 crtv.mate1.com
 127.0.0.1 crwdcntrl.net
 127.0.0.1 ctnet2.in
@@ -1346,7 +1342,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 debtbusterloans.com
 127.0.0.1 decisiveducks.com
 127.0.0.1 decknetwork.net
-127.0.0.1 delightdriving.com
 127.0.0.1 deloo.de
 127.0.0.1 deloton.com
 127.0.0.1 demandbase.com
@@ -1356,7 +1351,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 dialerporn.com
 127.0.0.1 dianomi.com
 127.0.0.1 didtheyreadit.com
-127.0.0.1 differentdesk.com
 127.0.0.1 digital-ads.s3.amazonaws.com
 127.0.0.1 digitalmerkat.com
 127.0.0.1 direct-xxx-access.com
@@ -1670,7 +1664,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ivwbox.de
 127.0.0.1 ivykiosk.com
 127.0.0.1 jcount.com
-127.0.0.1 jewelcheese.com
 127.0.0.1 jinkads.de
 127.0.0.1 joetec.net
 127.0.0.1 joneself.com
@@ -1950,7 +1943,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ota.cartrawler.com
 127.0.0.1 otto-images.developershed.com
 127.0.0.1 outbrain.com
-127.0.0.1 ovalpigs.com
 127.0.0.1 overture.com
 127.0.0.1 owebmoney.ru
 127.0.0.1 owneriq.net
@@ -1968,7 +1960,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 parsely.com
 127.0.0.1 partner-ads.com
 127.0.0.1 partner.pelikan.cz
-127.0.0.1 partner.topcities.com
 127.0.0.1 partnerad.l.google.com
 127.0.0.1 partnercash.de
 127.0.0.1 partners.priceline.com
@@ -2223,7 +2214,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 sidebar.angelfire.com
 127.0.0.1 simpli.fi
 127.0.0.1 simplisticnose.com
-127.0.0.1 sinceresofa.com
 127.0.0.1 sinoa.com
 127.0.0.1 sitemeter.com
 127.0.0.1 sitestat.com
@@ -2316,7 +2306,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 straightnest.com
 127.0.0.1 stream4fun.com
 127.0.0.1 strivesidewalk.com
-127.0.0.1 structuresofa.com
 127.0.0.1 subscribe.hearstmags.com
 127.0.0.1 succeedscene.com
 127.0.0.1 sugoicounter.com
@@ -2372,7 +2361,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 throattrees.com
 127.0.0.1 thruport.com
 127.0.0.1 tia.timeinc.net
-127.0.0.1 tidytrail.com
 127.0.0.1 tinybar.com
 127.0.0.1 tinypass.com
 127.0.0.1 tizers.net
@@ -2485,7 +2473,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 userreplay.net
 127.0.0.1 utarget.co.uk
 127.0.0.1 utils.mediageneral.net
-127.0.0.1 utlpwxdt.com
 127.0.0.1 v1.cnzz.com
 127.0.0.1 validclick.com
 127.0.0.1 valuead.com
