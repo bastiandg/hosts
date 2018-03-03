@@ -458,7 +458,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 a-ads.com
 0.0.0.0 a-blog.eu
 0.0.0.0 a-counter.kiev.ua
-0.0.0.0 a-msedge.net
 0.0.0.0 a-nj.1rx.io
 0.0.0.0 a-scrip.org
 0.0.0.0 a-ssl.ligatus.com
@@ -15512,7 +15511,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ms.yandex.ru
 0.0.0.0 ms11.net
 0.0.0.0 ms127.0.0.101341.club
-0.0.0.0 msedge.net
 0.0.0.0 mseuppremain.112.2o7.net
 0.0.0.0 mseupwinxpfam.112.2o7.net
 0.0.0.0 msfn.us.intellitxt.com
@@ -24145,6 +24143,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 wireless.ign.us.intellitxt.com
 0.0.0.0 wirelessforumsorg.skimlinks.com
 0.0.0.0 wirtvlg.oewabox.at
+0.0.0.0 wisepops.com
 0.0.0.0 wissende.122.2o7.net
 0.0.0.0 witch-counter.de
 0.0.0.0 withleather.us.intellitxt.com
