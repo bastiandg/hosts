@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 03 Mar 2018 22:20:22 GMT
-# entries:        2583
+# last updated:   Sun, 04 Mar 2018 19:00:01 GMT
+# entries:        2595
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1482,6 +1482,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 flurry.com
 127.0.0.1 fonecta.leiki.com
 127.0.0.1 foo.cosmocode.de
+127.0.0.1 foresee.com
 127.0.0.1 forex-affiliate.net
 127.0.0.1 fpctraffic.com
 127.0.0.1 fpctraffic2.com
@@ -1519,6 +1520,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 geobanner.adultfriendfinder.com
 127.0.0.1 geovisite.com
 127.0.0.1 getclicky.com
+127.0.0.1 getwisdom.io
 127.0.0.1 giddycoat.com
 127.0.0.1 globalismedia.com
 127.0.0.1 globaltakeoff.net
@@ -1585,6 +1587,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 hotkeys.com
 127.0.0.1 hotlog.ru
 127.0.0.1 hotrank.com.tw
+127.0.0.1 hoverowl.com
 127.0.0.1 hs-analytics.net
 127.0.0.1 htmlhubing.xyz
 127.0.0.1 httpool.com
@@ -1641,6 +1644,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 inringtone.com
 127.0.0.1 insightexpress.com
 127.0.0.1 insightexpressai.com
+127.0.0.1 inspectlet.com
 127.0.0.1 inspectorclick.com
 127.0.0.1 instantmadness.com
 127.0.0.1 instinctiveads.com
@@ -1729,6 +1733,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 loading321.com
 127.0.0.1 log.btopenworld.com
 127.0.0.1 logger.snackly.co
+127.0.0.1 logrocket.com
 127.0.0.1 logua.com
 127.0.0.1 lop.com
 127.0.0.1 lopsidedspoon.com
@@ -1829,6 +1834,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 monsterpops.com
 127.0.0.1 mopub.com
 127.0.0.1 mouseflow.com
+127.0.0.1 mousestats.com
 127.0.0.1 mowfruit.com
 127.0.0.1 mpstat.us
 127.0.0.1 mr-rank.de
@@ -1974,6 +1980,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 peacepowder.com
 127.0.0.1 peep-auktion.de
 127.0.0.1 peer39.com
+127.0.0.1 pendo.io
 127.0.0.1 pennyweb.com
 127.0.0.1 pepperjamnetwork.com
 127.0.0.1 percentmobile.com
@@ -2073,8 +2080,10 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 qctop.com
 127.0.0.1 qnsr.com
 127.0.0.1 quaintcan.com
+127.0.0.1 qualtrics.com
 127.0.0.1 quantcast.com
 127.0.0.1 quantserve.com
+127.0.0.1 quantummetric.com
 127.0.0.1 quarterserver.de
 127.0.0.1 questaffiliates.net
 127.0.0.1 quicksandear.com
@@ -2193,6 +2202,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 servethis.com
 127.0.0.1 services.hearstmags.com
 127.0.0.1 serving-sys.com
+127.0.0.1 sessioncam.com
 127.0.0.1 sexcounter.com
 127.0.0.1 sexinyourcity.com
 127.0.0.1 sexlist.com
@@ -2471,6 +2481,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 usapromotravel.com
 127.0.0.1 userreplay.com
 127.0.0.1 userreplay.net
+127.0.0.1 userzoom.com
 127.0.0.1 utarget.co.uk
 127.0.0.1 utils.mediageneral.net
 127.0.0.1 v1.cnzz.com
@@ -2499,6 +2510,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 visistat.com
 127.0.0.1 visit.webhosting.yahoo.com
 127.0.0.1 visitbox.de
+127.0.0.1 visitpath.com
 127.0.0.1 visual-pagerank.fr
 127.0.0.1 visualrevenue.com
 127.0.0.1 voicefive.com
