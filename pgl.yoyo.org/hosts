@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 04 Mar 2018 19:00:01 GMT
-# entries:        2595
+# last updated:   Sun, 04 Mar 2018 19:16:03 GMT
+# entries:        2606
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -931,6 +931,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 amazon-adsystem.com
 127.0.0.1 ambitiousagreement.com
 127.0.0.1 americash.com
+127.0.0.1 amplitude.com
 127.0.0.1 amung.us
 127.0.0.1 an.tacoda.net
 127.0.0.1 anahtars.com
@@ -1307,6 +1308,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 craktraffic.com
 127.0.0.1 crawlability.com
 127.0.0.1 crawlclocks.com
+127.0.0.1 crazyegg.com
 127.0.0.1 crazypopups.com
 127.0.0.1 creafi-online-media.com
 127.0.0.1 creative.whi.co.nz
@@ -1446,6 +1448,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 exoclick.com
 127.0.0.1 exogripper.com
 127.0.0.1 experteerads.com
+127.0.0.1 exponea.com
 127.0.0.1 exponential.com
 127.0.0.1 express-submit.de
 127.0.0.1 extractorandburner.com
@@ -1550,6 +1553,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 harrenmedia.com
 127.0.0.1 harrenmedianetwork.com
 127.0.0.1 havamedia.net
+127.0.0.1 heap.com
 127.0.0.1 heias.com
 127.0.0.1 hellobar.com
 127.0.0.1 hentaicounter.com
@@ -1651,6 +1655,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 intelliads.com
 127.0.0.1 intellitxt.com
 127.0.0.1 interactive.forthnet.gr
+127.0.0.1 intercom.com
 127.0.0.1 intergi.com
 127.0.0.1 internetfuel.com
 127.0.0.1 interreklame.de
@@ -1735,6 +1740,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 logger.snackly.co
 127.0.0.1 logrocket.com
 127.0.0.1 logua.com
+127.0.0.1 looker.com
 127.0.0.1 lop.com
 127.0.0.1 lopsidedspoon.com
 127.0.0.1 loudloss.com
@@ -1765,6 +1771,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 matchcraft.com
 127.0.0.1 matheranalytics.com
 127.0.0.1 mathtag.com
+127.0.0.1 matomo.org
 127.0.0.1 max.i12.de
 127.0.0.1 maximumcash.com
 127.0.0.1 mbs.megaroticlive.com
@@ -1943,6 +1950,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 opienetwork.com
 127.0.0.1 opinionstage.com
 127.0.0.1 optimize-stats.voxmedia.com
+127.0.0.1 optimizely.com
 127.0.0.1 optimost.com
 127.0.0.1 optmd.com
 127.0.0.1 ordingly.com
@@ -2330,6 +2338,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 swan-swan-goose.com
 127.0.0.1 swissadsolutions.com
 127.0.0.1 switchadhub.com
+127.0.0.1 switchads.com
 127.0.0.1 swordfishdc.com
 127.0.0.1 sx.trhnt.com
 127.0.0.1 t.insigit.com
@@ -2352,6 +2361,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 tcads.net
 127.0.0.1 tdxio.com
 127.0.0.1 teads.tv
+127.0.0.1 tealeaf.com
 127.0.0.1 techclicks.net
 127.0.0.1 teenrevenue.com
 127.0.0.1 teliad.de
@@ -2479,6 +2489,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 urlcash.net
 127.0.0.1 us.a1.yimg.com
 127.0.0.1 usapromotravel.com
+127.0.0.1 useriq.com
 127.0.0.1 userreplay.com
 127.0.0.1 userreplay.net
 127.0.0.1 userzoom.com
