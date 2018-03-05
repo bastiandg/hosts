@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 04 Mar 2018 at 03:59:28 GMT
+# Last updated: Mon, 05 Mar 2018 at 06:15:04 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -4135,6 +4135,7 @@
 127.0.0.1 a5.websponsors.com
 127.0.0.1 a7cleaner.com
 127.0.0.1 a98spolicies.com
+127.0.0.1 a.adexchangemachine.com
 127.0.0.1 a.admaxserver.com
 127.0.0.1 a.admob.com
 127.0.0.1 a.adorika.net
@@ -6683,6 +6684,7 @@
 127.0.0.1 babanetwork.adk2x.com
 127.0.0.1 babycenter.tt.omtrdc.net
 127.0.0.1 backoffice.evobinary.com
+127.0.0.1 b.adexchangemachine.com
 127.0.0.1 b.admob.com
 127.0.0.1 b.ads2.msn.com
 127.0.0.1 badservant.guj.de
@@ -6974,6 +6976,7 @@
 127.0.0.1 cache.unicast.com
 127.0.0.1 c.actiondesk.com
 127.0.0.1 c.ad6media.fr
+127.0.0.1 c.adexchangemachine.com
 127.0.0.1 c.admob.com
 127.0.0.1 c.adroll.com
 127.0.0.1 califia.imaginemedia.com
@@ -9070,6 +9073,8 @@
 127.0.0.1 om.elvenar.com
 127.0.0.1 ometrics.warnerbros.com
 127.0.0.1 onclickads.net
+127.0.0.1 onclickmega.com
+127.0.0.1 onclicksuper.com
 127.0.0.1 onclkds.com
 127.0.0.1 oneluckyvisitor.org
 127.0.0.1 onlinadverts.com

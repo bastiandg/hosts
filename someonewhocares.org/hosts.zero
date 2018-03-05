@@ -153,6 +153,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 a.0day.kiev.ua
 0.0.0.0 a.1nimo.com
 0.0.0.0 a.ad.playstation.net
+0.0.0.0 a.adexchangemachine.com
 0.0.0.0 a.admaxserver.com
 0.0.0.0 a.admob.com
 0.0.0.0 a.adorika.net
@@ -3002,6 +3003,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 azvjudwr.info
 0.0.0.0 azz.badazz.org
 0.0.0.0 b.a2gw.com
+0.0.0.0 b.adexchangemachine.com
 0.0.0.0 b.admob.com
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 b.ads2.msads.net
@@ -3472,6 +3474,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 bzresults.122.2o7.net
 0.0.0.0 c.actiondesk.com
 0.0.0.0 c.ad6media.fr
+0.0.0.0 c.adexchangemachine.com
 0.0.0.0 c.admob.com
 0.0.0.0 c.adroll.com
 0.0.0.0 c.am10.ru
@@ -8181,7 +8184,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 on.5.p2l.info
 0.0.0.0 on.nimp.org
 0.0.0.0 onclickads.net
+0.0.0.0 onclickmega.com
 0.0.0.0 onclickprediction.com
+0.0.0.0 onclicksuper.com
 0.0.0.0 onclkds.com
 0.0.0.0 one.123counters.com
 0.0.0.0 oneluckyvisitor.org

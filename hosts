@@ -466,6 +466,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.abnad.net
 127.0.0.1 a.abv.bg
 127.0.0.1 a.ad.playstation.net
+127.0.0.1 a.adexchangemachine.com
 127.0.0.1 a.admaxserver.com
 127.0.0.1 a.admob.com
 127.0.0.1 a.adnium.com
@@ -5732,6 +5733,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 b.a2gw.com
 127.0.0.1 b.abnad.net
 127.0.0.1 b.adbox.lv
+127.0.0.1 b.adexchangemachine.com
 127.0.0.1 b.admedia.com
 127.0.0.1 b.admob.com
 127.0.0.1 b.adnxs.com
@@ -6856,6 +6858,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.abnad.net
 127.0.0.1 c.actiondesk.com
 127.0.0.1 c.ad6media.fr
+127.0.0.1 c.adexchangemachine.com
 127.0.0.1 c.adfirmative.com
 127.0.0.1 c.admob.com
 127.0.0.1 c.adroll.com
@@ -16744,7 +16747,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 on.nimp.org
 127.0.0.1 onclasrv.com
 127.0.0.1 onclickads.net
+127.0.0.1 onclickmega.com
 127.0.0.1 onclickprediction.com
+127.0.0.1 onclicksuper.com
 127.0.0.1 onclkds.com
 127.0.0.1 one.123counters.com
 127.0.0.1 one.cam4ads.com
