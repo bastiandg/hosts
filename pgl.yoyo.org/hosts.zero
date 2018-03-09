@@ -459,7 +459,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.gplusmedia.com
 0.0.0.0 ads.gradfinder.com
 0.0.0.0 ads.grindinggears.com
-0.0.0.0 ads.groundspeak.com
 0.0.0.0 ads.gsm-exchange.com
 0.0.0.0 ads.gsmexchange.com
 0.0.0.0 ads.guardian.co.uk
@@ -570,7 +569,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.returnpath.net
 0.0.0.0 ads.s3.sitepoint.com
 0.0.0.0 ads.satyamonline.com
-0.0.0.0 ads.savannahnow.com
 0.0.0.0 ads.saymedia.com
 0.0.0.0 ads.scifi.com
 0.0.0.0 ads.seniorfriendfinder.com
@@ -627,7 +625,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.web.de
 0.0.0.0 ads.webmasterpoint.org
 0.0.0.0 ads.websiteservices.com
-0.0.0.0 ads.whi.co.nz
 0.0.0.0 ads.whoishostingthis.com
 0.0.0.0 ads.wiezoekje.nl
 0.0.0.0 ads.wikia.nocookie.net
@@ -1284,7 +1281,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 crazyegg.com
 0.0.0.0 crazypopups.com
 0.0.0.0 creafi-online-media.com
-0.0.0.0 creative.whi.co.nz
 0.0.0.0 creatives.as4x.tmcs.net
 0.0.0.0 creatives.livejasmin.com
 0.0.0.0 credishe.com
@@ -2610,4 +2606,3 @@ ff02::2 ip6-allrouters
 0.0.0.0 zintext.com
 0.0.0.0 zmedia.com
 0.0.0.0 zqtk.net
-0.0.0.0 zv1.november-lax.com
