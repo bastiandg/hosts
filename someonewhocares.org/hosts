@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 11 Mar 2018 at 19:13:06 GMT
+# Last updated: Sun, 11 Mar 2018 at 20:40:16 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2769,6 +2769,7 @@
 127.0.0.1 www.bumerang.cc
 127.0.0.1 www.cablyshaw.com
 127.0.0.1 www.cambonanza.com
+127.0.0.1 www.canadianshawid.com
 127.0.0.1 www.caramail.com
 127.0.0.1 www.chelick.net			# Facebook trojan
 127.0.0.1 www.coinimp.com
