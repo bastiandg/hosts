@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 10 Mar 2018 at 02:03:15 GMT
+# Last updated: Sun, 11 Mar 2018 at 19:13:06 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2306,6 +2306,7 @@
 127.0.0.1 likethislist.biz			# Facebook trojan
 127.0.0.1 likethis.mbosoft.com			# Facebook trojan
 127.0.0.1 lilovakia.info
+127.0.0.1 livecheck2update.thepointofforcontentingclear.bid
 127.0.0.1 livecheck.theperfectsystoupdating.date
 127.0.0.1 load.jsecoin.com
 127.0.0.1 loseweight.asdjiiw.com
