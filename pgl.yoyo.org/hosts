@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 05 Mar 2018 11:42:20 GMT
-# entries:        2601
+# entries:        2600
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2378,7 +2378,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 thruport.com
 127.0.0.1 tia.timeinc.net
 127.0.0.1 tinybar.com
-127.0.0.1 tinypass.com
 127.0.0.1 tizers.net
 127.0.0.1 tlvmedia.com
 127.0.0.1 tnkexchange.com
