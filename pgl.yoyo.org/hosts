@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 05 Mar 2018 11:42:20 GMT
-# entries:        2599
+# last updated:   Tue, 13 Mar 2018 18:57:06 GMT
+# entries:        2600
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1192,6 +1192,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cjlog.com
 127.0.0.1 claria.com
 127.0.0.1 class-act-clicks.com
+127.0.0.1 clearbit.com
 127.0.0.1 click.absoluteagency.com
 127.0.0.1 click.fool.com
 127.0.0.1 click.kmindex.ru
