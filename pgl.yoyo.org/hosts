@@ -21,7 +21,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 13 Mar 2018 18:57:06 GMT
+# last updated:   Wed, 14 Mar 2018 21:12:28 GMT
 # entries:        2599
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -941,6 +941,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 apester.com
 127.0.0.1 api.intensifier.de
 127.0.0.1 app.adblockhyper.us
+127.0.0.1 app.pendo.io
 127.0.0.1 appsflyer.com
 127.0.0.1 apture.com
 127.0.0.1 apusx.com
@@ -1984,7 +1985,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 peacepowder.com
 127.0.0.1 peep-auktion.de
 127.0.0.1 peer39.com
-127.0.0.1 pendo.io
 127.0.0.1 pennyweb.com
 127.0.0.1 pepperjamnetwork.com
 127.0.0.1 percentmobile.com

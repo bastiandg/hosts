@@ -5345,6 +5345,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 app.getresponse.com
 0.0.0.0 app.mashero.com
 0.0.0.0 app.medyanetads.com
+0.0.0.0 app.pendo.io
 0.0.0.0 app.pho8.com
 0.0.0.0 app.pubserver.adhood.com
 0.0.0.0 app.scanscout.com
@@ -17360,7 +17361,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pei-ads.playboy.com
 0.0.0.0 pei-ads.thesmokingjacket.com
 0.0.0.0 pelmorexmedia.122.2o7.net
-0.0.0.0 pendo.io
 0.0.0.0 penix.nl
 0.0.0.0 pennwellcorp.112.2o7.net
 0.0.0.0 pennyweb.com
