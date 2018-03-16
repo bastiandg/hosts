@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 15 Mar 2018 14:18:12 GMT
-# entries:        2600
+# entries:        2599
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1738,7 +1738,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 logger.snackly.co
 127.0.0.1 logrocket.com
 127.0.0.1 logua.com
-127.0.0.1 looker.com
 127.0.0.1 lop.com
 127.0.0.1 lopsidedspoon.com
 127.0.0.1 loudloss.com
