@@ -4792,6 +4792,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 affiliates.lifeselector.com
 0.0.0.0 affiliates.neteller.com
 0.0.0.0 affiliates.pinnaclesports.com
+0.0.0.0 affiliates.rozetka.com.ua
 0.0.0.0 affiliates.streamray.com
 0.0.0.0 affiliates.thinkhost.net
 0.0.0.0 affiliates.thrixxx.com
@@ -4821,6 +4822,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 afp.qiyi.com
 0.0.0.0 afraidtoask.us.intellitxt.com
 0.0.0.0 afterdawn.us.intellitxt.com
+0.0.0.0 afterview.ru
 0.0.0.0 aftrk.com
 0.0.0.0 afunnygames.com
 0.0.0.0 afx.tagcdn.com
@@ -24069,6 +24071,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 widget.achetezfacile.com
 0.0.0.0 widget.criteo.com
 0.0.0.0 widget.crowdignite.com
+0.0.0.0 widget.intercom.io
 0.0.0.0 widget.nativly.com
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widget.plugrush.com
