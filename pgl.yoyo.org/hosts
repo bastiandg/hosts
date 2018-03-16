@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 16 Mar 2018 14:32:40 GMT
-# entries:        2603
+# last updated:   Fri, 16 Mar 2018 22:23:36 GMT
+# entries:        2604
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2221,6 +2221,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 sharethrough.com
 127.0.0.1 shelterstraw.com
 127.0.0.1 sher.index.hu
+127.0.0.1 shermore.info
 127.0.0.1 shinystat.com
 127.0.0.1 shinystat.it
 127.0.0.1 shiveringsail.com
