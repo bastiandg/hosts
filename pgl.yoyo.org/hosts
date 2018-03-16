@@ -21,7 +21,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 15 Mar 2018 14:18:12 GMT
+# last updated:   Fri, 16 Mar 2018 11:17:32 GMT
 # entries:        2599
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -1508,6 +1508,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 fuzzyflavor.com
 127.0.0.1 fxstyle.net
 127.0.0.1 g3j2wzmon8b.com
+127.0.0.1 ga.clearbit.com
 127.0.0.1 ga87z2o.com
 127.0.0.1 galaxien.com
 127.0.0.1 game-advertising-online.com
@@ -1653,7 +1654,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 intelliads.com
 127.0.0.1 intellitxt.com
 127.0.0.1 interactive.forthnet.gr
-127.0.0.1 intercom.com
 127.0.0.1 intergi.com
 127.0.0.1 internetfuel.com
 127.0.0.1 interreklame.de
