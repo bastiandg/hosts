@@ -311,7 +311,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adplus.co.id
 0.0.0.0 adplxmd.com
 0.0.0.0 adprofile.net
-0.0.0.0 adprojekt.pl
 0.0.0.0 adq.nextag.com
 0.0.0.0 adrazzi.com
 0.0.0.0 adreactor.com
@@ -1910,6 +1909,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 onlinecash.com
 0.0.0.0 onlinecashmethod.com
 0.0.0.0 onlinerewardcenter.com
+0.0.0.0 onscroll.com
 0.0.0.0 open.oneplus.net
 0.0.0.0 openad.tf1.fr
 0.0.0.0 openad.travelnow.com
@@ -2078,6 +2078,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ranking-id.de
 0.0.0.0 ranking-links.de
 0.0.0.0 ranking-liste.de
+0.0.0.0 ranking-street.de
 0.0.0.0 rankingchart.de
 0.0.0.0 rankingscout.com
 0.0.0.0 rankyou.com

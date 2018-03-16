@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 16 Mar 2018 11:17:32 GMT
-# entries:        2599
+# last updated:   Fri, 16 Mar 2018 12:28:33 GMT
+# entries:        2600
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -337,7 +337,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adplus.co.id
 127.0.0.1 adplxmd.com
 127.0.0.1 adprofile.net
-127.0.0.1 adprojekt.pl
 127.0.0.1 adq.nextag.com
 127.0.0.1 adrazzi.com
 127.0.0.1 adreactor.com
@@ -1936,6 +1935,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 onlinecash.com
 127.0.0.1 onlinecashmethod.com
 127.0.0.1 onlinerewardcenter.com
+127.0.0.1 onscroll.com
 127.0.0.1 open.oneplus.net
 127.0.0.1 openad.tf1.fr
 127.0.0.1 openad.travelnow.com
@@ -2104,6 +2104,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ranking-id.de
 127.0.0.1 ranking-links.de
 127.0.0.1 ranking-liste.de
+127.0.0.1 ranking-street.de
 127.0.0.1 rankingchart.de
 127.0.0.1 rankingscout.com
 127.0.0.1 rankyou.com
