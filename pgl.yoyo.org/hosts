@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 18 Mar 2018 09:32:20 GMT
-# entries:        2607
+# entries:        2606
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1117,7 +1117,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 bn.bfast.com
 127.0.0.1 boersego-ads.de
 127.0.0.1 boilingbeetle.com
-127.0.0.1 boldchat.com
 127.0.0.1 boom.ro
 127.0.0.1 boomads.com
 127.0.0.1 boost-my-pr.de
