@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 18 Mar 2018 23:10:15 GMT
-# entries:        2607
+# last updated:   Mon, 19 Mar 2018 09:48:42 GMT
+# entries:        2608
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1910,6 +1910,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 numax.nu-1.com
 127.0.0.1 nuseek.com
 127.0.0.1 nzaza.com
+127.0.0.1 o0bc.com
 127.0.0.1 oas.benchmark.fr
 127.0.0.1 oas.foxnews.com
 127.0.0.1 oas.repubblica.it
