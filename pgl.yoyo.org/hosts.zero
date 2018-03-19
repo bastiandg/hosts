@@ -910,6 +910,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.live.com
+0.0.0.0 analytics.newsinc.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 anm.intelli-direct.com
 0.0.0.0 annonser.dagbladet.no

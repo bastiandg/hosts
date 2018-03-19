@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 19 Mar 2018 09:48:42 GMT
-# entries:        2608
+# last updated:   Mon, 19 Mar 2018 13:20:57 GMT
+# entries:        2609
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -936,6 +936,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 analytics.adpost.org
 127.0.0.1 analytics.google.com
 127.0.0.1 analytics.live.com
+127.0.0.1 analytics.newsinc.com
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 anm.intelli-direct.com
 127.0.0.1 annonser.dagbladet.no
