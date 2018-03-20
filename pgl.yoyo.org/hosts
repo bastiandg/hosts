@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 19 Mar 2018 21:21:51 GMT
-# entries:        2610
+# last updated:   Tue, 20 Mar 2018 00:19:15 GMT
+# entries:        2613
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1674,6 +1674,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 itsptp.com
 127.0.0.1 ivwbox.de
 127.0.0.1 ivykiosk.com
+127.0.0.1 janrain.com
 127.0.0.1 jcount.com
 127.0.0.1 jinkads.de
 127.0.0.1 joetec.net
@@ -1816,6 +1817,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 metrics.govexec.com
 127.0.0.1 metrics.windowsitpro.com
 127.0.0.1 metrilo.com
+127.0.0.1 mg2connext.com
 127.0.0.1 mgid.com
 127.0.0.1 miarroba.com
 127.0.0.1 microstatic.pl
@@ -2170,6 +2172,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 rose.ixbt.com
 127.0.0.1 rotabanner.com
 127.0.0.1 roxr.net
+127.0.0.1 rpxnow.com
 127.0.0.1 rtbpop.com
 127.0.0.1 rtbpopd.com
 127.0.0.1 rtmark.net
