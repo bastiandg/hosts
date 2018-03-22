@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 21 Mar 2018 23:09:17 GMT
-# entries:        2617
+# last updated:   Thu, 22 Mar 2018 00:36:18 GMT
+# entries:        2618
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1081,6 +1081,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 baypops.com
 127.0.0.1 bbelements.com
 127.0.0.1 bbn.img.com.ua
+127.0.0.1 beacon.gu-web.net
 127.0.0.1 beamincrease.com
 127.0.0.1 begun.ru
 127.0.0.1 behavioralengine.com
