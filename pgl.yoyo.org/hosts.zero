@@ -316,6 +316,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adrazzi.com
 0.0.0.0 adreactor.com
 0.0.0.0 adreclaim.com
+0.0.0.0 adrecover.com
 0.0.0.0 adrecreate.com
 0.0.0.0 adremedy.com
 0.0.0.0 adreporting.com
@@ -2413,6 +2414,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 track.flexlinks.com
 0.0.0.0 track.flexlinkspro.com
 0.0.0.0 track.gawker.com
+0.0.0.0 track.viewdeos.com
+0.0.0.0 track1.viewdeos.com
 0.0.0.0 trackalyzer.com
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 tracker.marinsm.com
