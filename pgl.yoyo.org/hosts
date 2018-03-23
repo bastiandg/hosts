@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 22 Mar 2018 13:01:14 GMT
-# entries:        2614
+# last updated:   Fri, 23 Mar 2018 19:04:30 GMT
+# entries:        2615
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1270,6 +1270,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 contextweb.com
 127.0.0.1 conversantmedia.com
 127.0.0.1 conversionruler.com
+127.0.0.1 convrse.media
 127.0.0.1 cookies.cmpnet.com
 127.0.0.1 copperchickens.com
 127.0.0.1 copycarpenter.com
