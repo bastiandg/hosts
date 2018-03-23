@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 23 Mar 2018 19:04:30 GMT
-# entries:        2615
+# last updated:   Fri, 23 Mar 2018 22:11:25 GMT
+# entries:        2616
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1546,6 +1546,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 gp.dejanews.com
 127.0.0.1 gpr.hu
 127.0.0.1 grafstat.ro
+127.0.0.1 grahamdigital.com
 127.0.0.1 grapeshot.co.uk
 127.0.0.1 graph.instagram.com
 127.0.0.1 greetzebra.com
