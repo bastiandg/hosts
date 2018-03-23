@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 22 Mar 2018 13:01:14 GMT
-# entries:        2616
+# entries:        2614
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1521,7 +1521,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 gamesites100.net
 127.0.0.1 gamesites200.com
 127.0.0.1 gamesitestop100.com
-127.0.0.1 gator.com
 127.0.0.1 gbanners.hornymatches.com
 127.0.0.1 geo.digitalpoint.com
 127.0.0.1 geobanner.adultfriendfinder.com
@@ -2579,7 +2578,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 wholesaletraffic.info
 127.0.0.1 widdit.com
 127.0.0.1 widespace.com
-127.0.0.1 widget.intercom.io
 127.0.0.1 widgetbucks.com
 127.0.0.1 wikia-ads.wikia.com
 127.0.0.1 window.nixnet.cz
