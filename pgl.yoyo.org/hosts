@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 22 Mar 2018 13:01:14 GMT
-# entries:        2619
+# entries:        2616
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -991,7 +991,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 banner-exchange-24.de
 127.0.0.1 banner.ad.nu
 127.0.0.1 banner.ambercoastcasino.com
-127.0.0.1 banner.blogranking.net
 127.0.0.1 banner.buempliz-online.ch
 127.0.0.1 banner.casino.net
 127.0.0.1 banner.casinodelrio.com
@@ -1240,7 +1239,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 clikerz.net
 127.0.0.1 cliksolution.com
 127.0.0.1 clixgalore.com
-127.0.0.1 clk.konflab.com
 127.0.0.1 clkads.com
 127.0.0.1 clkrev.com
 127.0.0.1 cloudcoins.biz
@@ -1836,7 +1834,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mmismm.com
 127.0.0.1 mmtro.com
 127.0.0.1 moatads.com
-127.0.0.1 mob.system-onlline.com
 127.0.0.1 mobclix.com
 127.0.0.1 mobileiconnect.com
 127.0.0.1 mocean.mobi

@@ -5903,7 +5903,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 banner.betfred.com
 0.0.0.0 banner.betroyalaffiliates.com
 0.0.0.0 banner.betwwts.com
-0.0.0.0 banner.blogranking.net
 0.0.0.0 banner.buempliz-online.ch
 0.0.0.0 banner.casino.net
 0.0.0.0 banner.casinodelrio.com
@@ -8090,7 +8089,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 clk.addmt.com
 0.0.0.0 clk.atdmt.com
 0.0.0.0 clk.cloudyisland.com
-0.0.0.0 clk.konflab.com
 0.0.0.0 clk.madisonlogic.com
 0.0.0.0 clk.pointroll.com
 0.0.0.0 clk.relestar.com
@@ -15346,7 +15344,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 moatads.com
 0.0.0.0 mob.adnxs.com
 0.0.0.0 mob.adwhirl.com
-0.0.0.0 mob.system-onlline.com
 0.0.0.0 mobatory.com
 0.0.0.0 mobclix.com
 0.0.0.0 mobfactory.info
