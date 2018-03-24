@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 24 Mar 2018 13:11:42 GMT
-# entries:        2617
+# last updated:   Sat, 24 Mar 2018 15:00:00 GMT
+# entries:        2636
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -198,6 +198,9 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ad3.pamedia.com.au
 127.0.0.1 ad3.xrea.com
 127.0.0.1 ad4game.com
+127.0.0.1 ad4mat.com
+127.0.0.1 ad4mat.de
+127.0.0.1 ad4mat.net
 127.0.0.1 adaction.de
 127.0.0.1 adadvisor.net
 127.0.0.1 adap.tv
@@ -585,6 +588,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.printscr.com
 127.0.0.1 ads.prisacom.com
 127.0.0.1 ads.program3.com
+127.0.0.1 ads.programattik.com
 127.0.0.1 ads.psd2html.com
 127.0.0.1 ads.pushplay.com
 127.0.0.1 ads.quoka.de
@@ -769,6 +773,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserver1.ogilvy-interactive.de
 127.0.0.1 adserver2.mindshare.de
 127.0.0.1 adserverplus.com
+127.0.0.1 adserverpub.com
 127.0.0.1 adserversolutions.com
 127.0.0.1 adserving.unibet.com
 127.0.0.1 adservinginternational.com
@@ -884,6 +889,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adzones.com
 127.0.0.1 af-ad.co.uk
 127.0.0.1 affbuzzads.com
+127.0.0.1 affec.tv
 127.0.0.1 affili.net
 127.0.0.1 affiliate.1800flowers.com
 127.0.0.1 affiliate.doubleyourdating.com
@@ -1385,6 +1391,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 doubtfulrainstorm.com
 127.0.0.1 dragzebra.com
 127.0.0.1 drumcash.com
+127.0.0.1 dsp.io
 127.0.0.1 dynamic.fmpub.net
 127.0.0.1 dyntrk.com
 127.0.0.1 e-adimages.scrippsnetworks.com
@@ -1403,6 +1410,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ecircle-ag.com
 127.0.0.1 eclick.vn
 127.0.0.1 ecoupons.com
+127.0.0.1 edaa.eu
 127.0.0.1 edgeio.com
 127.0.0.1 effectivemeasure.com
 127.0.0.1 effectivemeasure.net
@@ -1415,6 +1423,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 emarketer.com
 127.0.0.1 emediate.dk
 127.0.0.1 emediate.eu
+127.0.0.1 emerse.com
 127.0.0.1 engine.espace.netavenir.com
 127.0.0.1 enginenetwork.com
 127.0.0.1 enlarget.com
@@ -1660,6 +1669,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 instinctiveads.com
 127.0.0.1 intelliads.com
 127.0.0.1 intellitxt.com
+127.0.0.1 intentmedia.com
+127.0.0.1 intentmedia.net
 127.0.0.1 interactive.forthnet.gr
 127.0.0.1 intergi.com
 127.0.0.1 internetfuel.com
@@ -1713,6 +1724,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 leadboltads.net
 127.0.0.1 leadclick.com
 127.0.0.1 leadingedgecash.com
+127.0.0.1 leadplace.fr
 127.0.0.1 leadzupc.com
 127.0.0.1 levelrate.de
 127.0.0.1 lfstmedia.com
@@ -1843,6 +1855,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 monetate.net
 127.0.0.1 moneyexpert.com
 127.0.0.1 monsterpops.com
+127.0.0.1 mookie1.com
 127.0.0.1 mopub.com
 127.0.0.1 mouseflow.com
 127.0.0.1 mousestats.com
@@ -1859,6 +1872,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mybloglog.com
 127.0.0.1 mybuys.com
 127.0.0.1 mycounter.ua
+127.0.0.1 mydas.mobi
 127.0.0.1 mymoneymakingapp.com
 127.0.0.1 mypagerank.net
 127.0.0.1 mypagerank.ru
@@ -2023,6 +2037,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 pixel.digitru.st
 127.0.0.1 pixel.jumptap.com
 127.0.0.1 pixel.redditmedia.com
+127.0.0.1 pixel.sojern.com
+127.0.0.1 pixel.watch
 127.0.0.1 play4traffic.com
 127.0.0.1 playhaven.com
 127.0.0.1 playmobileads.com
@@ -2086,6 +2102,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 pub.realmedia.fr
 127.0.0.1 pubdirecte.com
 127.0.0.1 publicidad.elmundo.es
+127.0.0.1 publicidees.com
 127.0.0.1 pubmatic.com
 127.0.0.1 pubs.lemonde.fr
 127.0.0.1 pushcrew.com
@@ -2170,6 +2187,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 rmedia.boston.com
 127.0.0.1 roar.com
 127.0.0.1 robotreplay.com
+127.0.0.1 rockabox.co
 127.0.0.1 roia.biz
 127.0.0.1 rok.com.com
 127.0.0.1 rose.ixbt.com
@@ -2375,6 +2393,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 techclicks.net
 127.0.0.1 teenrevenue.com
 127.0.0.1 teliad.de
+127.0.0.1 temelio.com
 127.0.0.1 terribleturkey.com
 127.0.0.1 text-link-ads.com
 127.0.0.1 textad.sexsearch.com
