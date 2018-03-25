@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 25 Mar 2018 10:21:08 GMT
-# entries:        2646
+# last updated:   Sun, 25 Mar 2018 20:42:16 GMT
+# entries:        2647
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2275,6 +2275,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 smart4ads.com
 127.0.0.1 smartadserver.com
 127.0.0.1 smartlook.com
+127.0.0.1 smetrics.ctv.ca
 127.0.0.1 smetrics.walgreens.com
 127.0.0.1 smowtion.com
 127.0.0.1 snakesort.com
