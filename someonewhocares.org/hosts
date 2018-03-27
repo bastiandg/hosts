@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 27 Mar 2018 at 03:23:42 GMT
+# Last updated: Tue, 27 Mar 2018 at 15:06:42 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2101,6 +2101,7 @@
 127.0.0.1 brightonclick.com
 127.0.0.1 br.phorm.com
 127.0.0.1 brunga.at	# Facebook phishing attempt
+127.0.0.1 btlsurvey.com
 127.0.0.1 bt.phorm.com
 127.0.0.1 bt.webwise.com
 127.0.0.1 bt.webwise.net
