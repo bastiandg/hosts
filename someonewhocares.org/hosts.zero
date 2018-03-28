@@ -22,7 +22,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 1.primaryads.com
 0.0.0.0 10.im.cz
 0.0.0.0 1000ps.oewabox.at
-0.0.0.0 101xp.com
 0.0.0.0 102.112.2o7.net
 0.0.0.0 102.122.2o7.net
 0.0.0.0 104231.dtiblog.com
@@ -4491,7 +4490,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 data.webads.co.nz
 0.0.0.0 data0.bell.ca
 0.0.0.0 data2.perf.overture.com
-0.0.0.0 datds.net
 0.0.0.0 date.ventivmedia.com
 0.0.0.0 datingadvertising.com
 0.0.0.0 dawnnationaladvertiser.com
@@ -4989,7 +4987,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 electronics-offer.net
 0.0.0.0 electronics-rewardpath.com
 0.0.0.0 electronicspresent.com
-0.0.0.0 eluxer.net
 0.0.0.0 email.positionly.com
 0.0.0.0 emailadvantagegroup.com
 0.0.0.0 emailproductreview.com
@@ -5056,7 +5053,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 esg.hitbox.com
 0.0.0.0 esgic.1.p2l.info
 0.0.0.0 espn.footprint.net
-0.0.0.0 espritgames.ru
 0.0.0.0 etad.telegraph.co.uk
 0.0.0.0 etahub.com
 0.0.0.0 eternal.reklamlab.com
@@ -5595,7 +5591,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 global-promotions.internationalredirects.com
 0.0.0.0 global.msmtrakk03a.com
 0.0.0.0 global.ymtrack.com
-0.0.0.0 globallysearch.com
 0.0.0.0 globalnetworkanalys.com
 0.0.0.0 globalwebads.com
 0.0.0.0 gm.mmstat.com
@@ -5665,7 +5660,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 googletagservices.com
 0.0.0.0 googlewordpad.info
 0.0.0.0 goplayz.com
-0.0.0.0 goqrench.net
 0.0.0.0 gorensin.info
 0.0.0.0 gorillanation.us.intellitxt.com
 0.0.0.0 gostats.com
@@ -6528,7 +6522,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ku6.allyes.com
 0.0.0.0 ku6afp.allyes.com
 0.0.0.0 kuhdi.com
-0.0.0.0 kwanzy.com
 0.0.0.0 kxrzz.superpromo.7112531.com
 0.0.0.0 ky.5.p2l.info
 0.0.0.0 l-sspcash.adxcore.com
@@ -8628,7 +8621,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pl.spanel.gem.pl
 0.0.0.0 pl.superando.net
 0.0.0.0 pl.web.toleadoo.com
-0.0.0.0 plarium.com
 0.0.0.0 plasmatv4free.com
 0.0.0.0 plasmatvreward.com
 0.0.0.0 platads.com
@@ -8750,7 +8742,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 projectorreviews.us.intellitxt.com
 0.0.0.0 projectpoi.com
 0.0.0.0 prolapseman.com
-0.0.0.0 promo.101xp.com
 0.0.0.0 promo.awempire.com
 0.0.0.0 promo.betcity.net
 0.0.0.0 promo.easy-dating.org
@@ -8972,7 +8963,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 realizmobi.com
 0.0.0.0 realmedia-a800.d4p.net
 0.0.0.0 realmedia.advance.net
-0.0.0.0 realty.yandex.ru
 0.0.0.0 reboot.sitescout.com
 0.0.0.0 record.commissionlounge.com
 0.0.0.0 recordnetcom.112.2o7.net
@@ -9387,7 +9377,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 search.conduit.com
 0.0.0.0 search.freeonline.com
 0.0.0.0 search.keywordblocks.com
-0.0.0.0 search.mytab.club
 0.0.0.0 search.netseer.com
 0.0.0.0 search.privitize.com
 0.0.0.0 search.spotxchange.com
@@ -9397,7 +9386,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 searchpill.boom.ru
 0.0.0.0 searchportal.information.com
 0.0.0.0 searchstats.usa.gov
-0.0.0.0 searchuttorm.com
 0.0.0.0 searchwe.com
 0.0.0.0 searscom.112.2o7.net
 0.0.0.0 seasonale.1.p2l.info
@@ -9800,7 +9788,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sponsorships.net
 0.0.0.0 sport-betting-online.hitslog.net
 0.0.0.0 sportat.oewabox.at
-0.0.0.0 sportiv.ru
 0.0.0.0 sports-bonuspath.com
 0.0.0.0 sports-fitness-rewardpath.com
 0.0.0.0 sports-offer.com
@@ -13264,10 +13251,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 y1.extreme-dm.com
 0.0.0.0 y2k.hitbox.com
 0.0.0.0 y3.ifengimg.com
-0.0.0.0 yabs.yandex.ru
 0.0.0.0 yadro.ru
-0.0.0.0 yandex.ru
-0.0.0.0 yandex.ua
 0.0.0.0 yang.hitbox.com
 0.0.0.0 yasmin.1.p2l.info
 0.0.0.0 yasmin.3.p2l.info
