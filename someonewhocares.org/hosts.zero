@@ -4030,6 +4030,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 clownsong.com
 0.0.0.0 cluster.adultadworld.com
 0.0.0.0 cluster3.adultadworld.com
+0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 cm.npc-hearst.overture.com
 0.0.0.0 cm.the-n.overture.com
 0.0.0.0 cm1359.com
@@ -4454,6 +4455,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 d3.zedo.com
 0.0.0.0 d4.zedo.com
 0.0.0.0 d5.zedo.com
+0.0.0.0 d5p.de17a.com
 0.0.0.0 d6.c5.b0.a2.top.mail.ru
 0.0.0.0 d6.zedo.com
 0.0.0.0 d7.zedo.com
@@ -6999,6 +7001,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 m9.za.2mdn.net
 0.0.0.0 ma.5.p2l.info
 0.0.0.0 ma.baidu.com
+0.0.0.0 ma.wp.pl
 0.0.0.0 mac-helper.site
 0.0.0.0 mac-os.apple.com-secured.online
 0.0.0.0 mac-osx.message-warning.net
@@ -10164,6 +10167,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 sync-eu.exe.bid
 0.0.0.0 sync.audtd.com
 0.0.0.0 sync.bfmio.com
+0.0.0.0 sync.clickonometrics.pl
 0.0.0.0 sync.credebat.com
 0.0.0.0 sync.mathtag.com
 0.0.0.0 sync.upravel.com
@@ -10900,6 +10904,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tx.5.p2l.info
 0.0.0.0 tx.micro.net.pk
 0.0.0.0 tynt.com
+0.0.0.0 tz284.com
 0.0.0.0 u-ads.adap.tv
 0.0.0.0 u.admob.com
 0.0.0.0 u.extreme-dm.com

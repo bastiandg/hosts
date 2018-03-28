@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 28 Mar 2018 at 01:59:07 GMT
+# Last updated: Wed, 28 Mar 2018 at 02:09:33 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1440,6 +1440,7 @@
 127.0.0.1 sugoicounter.com
 127.0.0.1 superstats.com
 127.0.0.1 sync.bfmio.com
+127.0.0.1 sync.clickonometrics.pl
 127.0.0.1 s.youtube.com				# Blocking this will interfere with video watching history
 127.0.0.1 systweak.com
 #127.0.0.1 t2.hulu.com		# Uncomment to block Hulu.
@@ -2944,6 +2945,7 @@
 127.0.0.1 ad-yt-bfp.doubleclick.net
 127.0.0.1 ad.za.doubleclick.net
 127.0.0.1 amn.doubleclick.net
+127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 creative.cc-dt.com
 127.0.0.1 doubleclick.com
 127.0.0.1 doubleclick.de
@@ -7488,6 +7490,7 @@
 127.0.0.1 d2.zedo.com
 127.0.0.1 d3.zedo.com
 127.0.0.1 d4.zedo.com
+127.0.0.1 d5p.de17a.com
 127.0.0.1 d5.zedo.com
 127.0.0.1 d6.c5.b0.a2.top.mail.ru
 127.0.0.1 d6.zedo.com
@@ -8696,6 +8699,7 @@
 127.0.0.1 match.adsrvr.org
 127.0.0.1 matomy.adk2.co
 127.0.0.1 matrix.mediavantage.de
+127.0.0.1 ma.wp.pl
 127.0.0.1 maxadserver.corusradionetwork.com
 127.0.0.1 maxads.ruralpress.com
 127.0.0.1 maxbounty.com
@@ -10474,6 +10478,7 @@
 127.0.0.1 twojszczesliwydzien.com
 127.0.0.1 twoj-typ.pl
 127.0.0.1 twoj-voucher.com
+127.0.0.1 tz284.com
 127.0.0.1 u85foldero.com
 127.0.0.1 ua2.admixer.net
 127.0.0.1 uac.advertising.com
