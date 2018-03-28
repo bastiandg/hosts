@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 27 Mar 2018 at 15:06:42 GMT
+# Last updated: Wed, 28 Mar 2018 at 01:59:07 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1203,6 +1203,7 @@
 127.0.0.1 s290.mxcdn.net
 127.0.0.1 s29.sitemeter.com
 127.0.0.1 s2.statcounter.com
+127.0.0.1 s2trade.mtxcapital.com
 127.0.0.1 s2.youtube.com
 127.0.0.1 s30.sitemeter.com
 127.0.0.1 s31.sitemeter.com
@@ -1542,6 +1543,7 @@
 127.0.0.1 tracking.engagedigitalmedia.com
 127.0.0.1 tracking.experience.com
 127.0.0.1 tracking.fanbridge.com
+127.0.0.1 tracking-financial-review.net
 127.0.0.1 tracking.fitprosperity.net
 127.0.0.1 tracking.foxnews.com
 127.0.0.1 tracking.gajmp.com
@@ -1932,6 +1934,7 @@
 127.0.0.1 www.megacounter.de
 127.0.0.1 www.metareward.com		# web bugs in spam
 127.0.0.1 www.mmstat.com
+127.0.0.1 www.mnbasd77.com
 127.0.0.1 www.mpsnare.iesnare.com
 127.0.0.1 www.mpsnare.iesnare.co.uk
 127.0.0.1 www.naturalgrowthstore.biz
@@ -1969,6 +1972,7 @@
 127.0.0.1 www.toolbarcounter.com
 127.0.0.1 www.tradedoubler.com
 127.0.0.1 www.tradedoubler.com.ar
+127.0.0.1 www.tradingtactics.win
 127.0.0.1 www.trafficmagnet.net # web bugs in spam
 127.0.0.1 www.trafic.ro
 127.0.0.1 www.trendcounter.com
@@ -4068,6 +4072,7 @@
 127.0.0.1 0d79ed.r.axf8.net
 127.0.0.1 0pn.ru
 127.0.0.1 0qizz.super-promo.hoxo.info
+127.0.0.1 101xp.com
 127.0.0.1 104231.dtiblog.com
 127.0.0.1 1097834592.rsc.cdn77.org
 127.0.0.1 10fbb07a4b0.se
@@ -6937,6 +6942,7 @@
 127.0.0.1 browserbreckalarm.info
 127.0.0.1 browserprotecter.com
 127.0.0.1 browsesafemac.com
+127.0.0.1 brxfinance.com
 127.0.0.1 bsads.looksmart.com
 #127.0.0.1 b.scorecardresearch.com	# interferes with Huffington Post slideshows
 127.0.0.1 bs.israelinfo.ru
@@ -7514,6 +7520,7 @@
 127.0.0.1 data-failover.eroadvertising.com
 127.0.0.1 data.flurry.com
 127.0.0.1 data.namesakeoscilloscopemarquis.com
+127.0.0.1 datds.net
 127.0.0.1 date.ventivmedia.com
 127.0.0.1 datingadvertising.com
 127.0.0.1 dawnnationaladvertiser.com
@@ -7673,6 +7680,7 @@
 127.0.0.1 electronicspresent.com
 127.0.0.1 electronics-rewardpath.com
 127.0.0.1 e-ltvp.inmobi.com
+127.0.0.1 eluxer.net
 127.0.0.1 emailadvantagegroup.com
 127.0.0.1 emailproductreview.com
 127.0.0.1 emapadserver.com
@@ -7707,6 +7715,7 @@
 127.0.0.1 es.adserver.yahoo.com
 127.0.0.1 escape.insites.eu
 127.0.0.1 espn.footprint.net
+127.0.0.1 espritgames.ru
 127.0.0.1 etad.telegraph.co.uk
 127.0.0.1 etahub.com
 127.0.0.1 eternal.reklamlab.com
@@ -8009,6 +8018,8 @@
 127.0.0.1 gimmethatreward.com
 127.0.0.1 gingert.net
 127.0.0.1 giu9aab.bid
+127.0.0.1 glenm.mtxcapital.com
+127.0.0.1 globallysearch.com
 127.0.0.1 global.msmtrakk03a.com
 127.0.0.1 globalnetworkanalys.com
 127.0.0.1 global-promotions.internationalredirects.com
@@ -8028,6 +8039,7 @@
 127.0.0.1 go.arboru.bbelements.com
 127.0.0.1 goautofinance.com
 127.0.0.1 go.bb007.bbelements.com
+127.0.0.1 go.conversionmasters.com
 127.0.0.1 go.cz.bbelements.com
 127.0.0.1 go.data1rtb.com
 127.0.0.1 go.eu.bbelements.com
@@ -8054,6 +8066,7 @@
 127.0.0.1 goplayz.com
 127.0.0.1 go.pl.bbelements.com
 127.0.0.1 go.pol.bbelements.com
+127.0.0.1 goqrench.net
 127.0.0.1 go.spaceshipads.com
 127.0.0.1 go.stirshakead.com
 127.0.0.1 got2goshop.com
@@ -8501,6 +8514,7 @@
 127.0.0.1 ku6afp.allyes.com
 127.0.0.1 ku6.allyes.com
 127.0.0.1 kuhdi.com
+127.0.0.1 kwanzy.com
 127.0.0.1 kxrzz.superpromo.7112531.com
 127.0.0.1 l2.l.qq.com
 127.0.0.1 l.5min.com
@@ -9312,6 +9326,7 @@
 127.0.0.1 pixel.watch
 127.0.0.1 pix.revsci.net
 127.0.0.1 pl.ads.justpremium.com
+127.0.0.1 plarium.com
 127.0.0.1 plasmatv4free.com
 127.0.0.1 plasmatvreward.com
 127.0.0.1 platads.com
@@ -9394,6 +9409,7 @@
 127.0.0.1 profile.uproxx.com
 127.0.0.1 profitboosterapp.com
 127.0.0.1 pro.letv.com
+127.0.0.1 promo.101xp.com
 127.0.0.1 promo.awempire.com
 127.0.0.1 promo.betcity.net
 127.0.0.1 promo.easy-dating.org
@@ -9563,6 +9579,7 @@
 127.0.0.1 realizmobi.com
 127.0.0.1 realmedia-a800.d4p.net	# Scientific American
 127.0.0.1 realmedia.advance.net
+127.0.0.1 realty.yandex.ru
 127.0.0.1 reboot.sitescout.com
 127.0.0.1 record.commissionlounge.com
 127.0.0.1 recreation-leisure-rewardpath.com
@@ -9800,10 +9817,12 @@
 127.0.0.1 search.addthis.com
 127.0.0.1 search.freeonline.com
 127.0.0.1 search.keywordblocks.com
+127.0.0.1 search.mytab.club
 127.0.0.1 search.netseer.com
 127.0.0.1 searchportal.information.com
 127.0.0.1 search.spotxchange.com
 127.0.0.1 searchstats.usa.gov
+127.0.0.1 searchuttorm.com
 127.0.0.1 searchwe.com
 127.0.0.1 seasonalsamplerspecials.com
 127.0.0.1 sebar.thand.info
@@ -10032,6 +10051,7 @@
 127.0.0.1 sponsors.behance.com
 127.0.0.1 sponsors.ezgreen.com
 127.0.0.1 sponsorships.net
+127.0.0.1 sportiv.ru
 127.0.0.1 sports-bonuspath.com
 127.0.0.1 sports-fitness-rewardpath.com
 127.0.0.1 sports-offer.com
@@ -11846,8 +11866,11 @@
 127.0.0.1 xpcs.ads.yahoo.com
 127.0.0.1 xstatic.nk-net.pl
 127.0.0.1 xsztfrlkphqy.com
+127.0.0.1 yabs.yandex.ru
 127.0.0.1 y.admob.com
 127.0.0.1 yadro.ru
+127.0.0.1 yandex.ru
+127.0.0.1 yandex.ua
 127.0.0.1 y.cdn.adblade.com
 127.0.0.1 yepdigital.adk2x.com
 127.0.0.1 yhit.press
