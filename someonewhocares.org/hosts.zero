@@ -2690,6 +2690,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ams1-ib.adnxs.com
 0.0.0.0 ams1.ib.adnxs.com
 0.0.0.0 amscdn.btrll.com
+0.0.0.0 an.mlb.com
 0.0.0.0 an.tacoda.net
 0.0.0.0 an.yandex.ru
 0.0.0.0 analysis.fc2.com
@@ -5112,7 +5113,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 f150123.privacy4browsing.com
 0.0.0.0 f18085.privacy4browsers.com
 0.0.0.0 f2.p0y.com
-0.0.0.0 f2go.conversionmasters.com
 0.0.0.0 f2ncracker.112.2o7.net
 0.0.0.0 f2nsmh.112.2o7.net
 0.0.0.0 f2ntheage.112.2o7.net
@@ -5483,7 +5483,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 gcirm.wisinfo.com
 0.0.0.0 gcirm2.indystar.com
 0.0.0.0 gcounter.hosting4u.net
-0.0.0.0 gd.mlb.com
 0.0.0.0 gd1.doubleclick.net
 0.0.0.0 gd10.doubleclick.net
 0.0.0.0 gd11.doubleclick.net
@@ -5613,6 +5612,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 go.arbopl.bbelements.com
 0.0.0.0 go.arboru.bbelements.com
 0.0.0.0 go.bb007.bbelements.com
+0.0.0.0 go.conversionmasters.com
 0.0.0.0 go.cz.bbelements.com
 0.0.0.0 go.data1rtb.com
 0.0.0.0 go.deliverymodo.com
@@ -11107,6 +11107,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 verisignwildcard.112.2o7.net
 0.0.0.0 verisonwildcard.112.2o7.net
 0.0.0.0 versionsupport.set2updatenowsafesystemset4now.info
+0.0.0.0 versionsupport.thebig-centeralplacecontentgreat.date
 0.0.0.0 vertical-stats.huffpost.com
 0.0.0.0 vh1com.112.2o7.net
 0.0.0.0 vht.tradedoubler.com
