@@ -778,6 +778,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 acvs.mediaonenetwork.net
 127.0.0.1 acvsrv.mediaonenetwork.net
 127.0.0.1 acyclovir.1.p2l.info
+127.0.0.1 ad
 127.0.0.1 ad-411.com
 127.0.0.1 ad-ace.doubleclick.net
 127.0.0.1 ad-apac.doubleclick.net
@@ -2047,6 +2048,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adrunnr.com
 127.0.0.1 ads-a-darwin.hulu.com
 127.0.0.1 ads-a.juicyads.com
+127.0.0.1 ads-adseast.yldbt.com
 127.0.0.1 ads-by.madadsmedia.com
 127.0.0.1 ads-by.yieldselect.com
 127.0.0.1 ads-click.com
@@ -4039,6 +4041,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserver.ilounge.com
 127.0.0.1 adserver.infinit.net
 127.0.0.1 adserver.infotiger.com
+127.0.0.1 adserver.intentiq.com
 127.0.0.1 adserver.interfree.it
 127.0.0.1 adserver.inwind.it
 127.0.0.1 adserver.iprom.net
@@ -4246,6 +4249,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserversolutions.com
 127.0.0.1 adserverus.info
 127.0.0.1 adservice.aliexpress.com
+127.0.0.1 adservice.google.ca
+127.0.0.1 adservice.google.com
 127.0.0.1 adservicedomain.info
 127.0.0.1 adservices.google.com
 127.0.0.1 adservices.picadmedia.com
@@ -5309,6 +5314,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.gameanalytics.com
 127.0.0.1 api.infinario.com
 127.0.0.1 api.intensifier.de
+127.0.0.1 api.intentiq.com
 127.0.0.1 api.inwemo.com
 127.0.0.1 api.iperceptions.com
 127.0.0.1 api.ipinfodb.com
@@ -7503,6 +7509,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.freelev.com
 127.0.0.1 cdn.g.promosrv.com
 127.0.0.1 cdn.geni.us
+127.0.0.1 cdn.getsmartcontent.com
 127.0.0.1 cdn.go.arbo.bbelements.com
 127.0.0.1 cdn.go.arbopl.bbelements.com
 127.0.0.1 cdn.go.cz.bbelements.com
@@ -7702,6 +7709,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdsusa.veinteractive.com
 127.0.0.1 cdxbin.vulnerap.com
 127.0.0.1 cdxninteractive.blueadvertise.com
+127.0.0.1 ce.lijit.com
 127.0.0.1 cecash.com
 127.0.0.1 ced.sascdn.com
 127.0.0.1 celebitchy.us.intellitxt.com
@@ -9238,6 +9246,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 de.hosting.adjug.com
 127.0.0.1 de.ioam.de
 127.0.0.1 de.sitestat.com
+127.0.0.1 de.tynt.com
 127.0.0.1 de1.frosmo.com
 127.0.0.1 de17a.com
 127.0.0.1 dealdotcom.com
@@ -9609,6 +9618,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 dp-medien.eu
 127.0.0.1 dp.g.doubleclick.net
 127.0.0.1 dp.specificclick.net
+127.0.0.1 dp1.33across.com
 127.0.0.1 dp2.specificclick.net
 127.0.0.1 dpbolvw.net
 127.0.0.1 dpm.demdex.net
@@ -10349,6 +10359,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 events.boomtrain.com
 127.0.0.1 events.foreseeresults.com
 127.0.0.1 events.kalooga.com
+127.0.0.1 events.kiosked.com
 127.0.0.1 events.streamrail.net
 127.0.0.1 events.webflowmetrics.com
 127.0.0.1 eventtracker.videostrip.com
@@ -10382,6 +10393,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 examnotes.us.intellitxt.com
 127.0.0.1 exasked.com
 127.0.0.1 excellent.michaelanthonyrobinson.com
+127.0.0.1 exch.quantserve.com
 127.0.0.1 exchange-it.com
 127.0.0.1 exchange.adswizz.com
 127.0.0.1 exchange.bg
@@ -11115,6 +11127,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gadgetsytecnologia.com
 127.0.0.1 gadk.hit.gemius.pl
 127.0.0.1 gadnet.hit.gemius.pl
+127.0.0.1 gads.pubmatic.com
 127.0.0.1 gae.caspion.com
 127.0.0.1 gaee.hit.gemius.pl
 127.0.0.1 gahu.hit.gemius.pl
@@ -11769,6 +11782,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gscounters.us1.gigya.com
 127.0.0.1 gserv.cneteu.net
 127.0.0.1 gsf-cf.softonic.com
+127.0.0.1 gslbeacon.lijit.com
 127.0.0.1 gsm-mobile-phone.beesearch.info
 127.0.0.1 gsmarena.us.intellitxt.com
 127.0.0.1 gsmtop.net
@@ -12600,6 +12614,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 imarker.com
 127.0.0.1 imarker.ru
 127.0.0.1 imarketservices.com
+127.0.0.1 imasdk.googleapis.com
 127.0.0.1 imc.l.qq.com
 127.0.0.1 imc2.122.2o7.net
 127.0.0.1 imeem.112.2o7.net
@@ -18361,6 +18376,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 qualifiedourspecialoffer.com
 127.0.0.1 qualityporn.biz
 127.0.0.1 quantcast.com
+127.0.0.1 quantcast584928381.s.moatpixel.com
 127.0.0.1 quantserve.com
 127.0.0.1 quantummetric.com
 127.0.0.1 quareclk.com
@@ -18385,6 +18401,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 quoka-d.openx.net
 127.0.0.1 quotidiennokoue.com
 127.0.0.1 qwestfull.112.2o7.net
+127.0.0.1 qxxru.linknotification.com
 127.0.0.1 qy.corrmedic.ru
 127.0.0.1 qz.informs.com
 127.0.0.1 r.254a.com
@@ -21333,6 +21350,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sync.go.sonobi.com
 127.0.0.1 sync.mathtag.com
 127.0.0.1 sync.monarchads.com
+127.0.0.1 sync.pulseradius.com
 127.0.0.1 sync.rhythmxchange.com
 127.0.0.1 sync.richmetrics.com
 127.0.0.1 sync.search.spotxchange.com
@@ -21942,6 +21960,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tk.baidu.com
 127.0.0.1 tkweb.baidu.com
 127.0.0.1 tlvmedia.com
+127.0.0.1 tlx.3lift.com
 127.0.0.1 tm.tradetracker.net
 127.0.0.1 tmcnet.us.intellitxt.com
 127.0.0.1 tmgr.ccmbg.com
@@ -24094,6 +24113,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wh.motorpresse-statistik.de
 127.0.0.1 whabi.csheaven.com
 127.0.0.1 whaleads.com
+127.0.0.1 whatishotnow.net
 127.0.0.1 whatseek.com
 127.0.0.1 whatthetech.us.intellitxt.com
 127.0.0.1 whave.iptvdeals.com
