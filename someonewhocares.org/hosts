@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 30 Mar 2018 at 20:54:35 GMT
+# Last updated: Sat, 31 Mar 2018 at 08:20:12 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8777,6 +8777,7 @@
 127.0.0.1 media.elb-kind.de
 127.0.0.1 media.espace-plus.net
 127.0.0.1 media.fairlink.ru
+127.0.0.1 mediafaze.com
 127.0.0.1 media-fire.org
 127.0.0.1 mediafr.247realmedia.com
 127.0.0.1 media.funpic.de
