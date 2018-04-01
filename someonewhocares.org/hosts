@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 01 Apr 2018 at 18:00:41 GMT
+# Last updated: Sun, 01 Apr 2018 at 20:20:58 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7086,6 +7086,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 cd8iw9mh.cricket
 127.0.0.1 c.de.msn.com
 127.0.0.1 c.dk.msn.com
+127.0.0.1 cdm.unnoticeablegangrene.com
 127.0.0.1 cdn1.adexprt.com
 127.0.0.1 cdn1.ads.contentabc.com
 127.0.0.1 cdn1.ads.mofos.com
