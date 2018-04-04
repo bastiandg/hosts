@@ -2167,6 +2167,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.afa.net
 127.0.0.1 ads.affbuzzads.com
 127.0.0.1 ads.affiliateclub.com
+127.0.0.1 ads.affiliates-spinit.com
 127.0.0.1 ads.affiliates.match.com
 127.0.0.1 ads.afraccess.com
 127.0.0.1 ads.aftonbladet.se
@@ -2544,6 +2545,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.factorymedia.com
 127.0.0.1 ads.fairfax.com.au
 127.0.0.1 ads.fark.com
+127.0.0.1 ads.fasttrack-ignite.com
 127.0.0.1 ads.faxo.com
 127.0.0.1 ads.fayettevillenc.com
 127.0.0.1 ads.ferianc.com
@@ -2611,6 +2613,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.geekswithblogs.net
 127.0.0.1 ads.genericlink.com
 127.0.0.1 ads.germanfriendfinder.com
+127.0.0.1 ads.getlucky.com
 127.0.0.1 ads.gettools.com
 127.0.0.1 ads.ghettotube.com
 127.0.0.1 ads.gigaom.com.php5-12.websitetestlink.com
@@ -2771,6 +2774,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.jiwire.com
 127.0.0.1 ads.jlisting.jp
 127.0.0.1 ads.jo-games.com
+127.0.0.1 ads.joaffs.com
 127.0.0.1 ads.jobsite.co.uk
 127.0.0.1 ads.joemonster.org
 127.0.0.1 ads.joetec.net
@@ -2786,6 +2790,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.justrelevant.com
 127.0.0.1 ads.jwtt3.com
 127.0.0.1 ads.ka6tata.com
+127.0.0.1 ads.kabooaffiliates.com
 127.0.0.1 ads.kaktuz.net
 127.0.0.1 ads.kaldata.com
 127.0.0.1 ads.kanal3.bg
@@ -2812,9 +2817,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.kyalon.net
 127.0.0.1 ads.lanistaads.com
 127.0.0.1 ads.laptop.bg
+127.0.0.1 ads.larryaffiliates.com
 127.0.0.1 ads.layer-ad.org
 127.0.0.1 ads.lehighvalleylive.com
 127.0.0.1 ads.leo.org
+127.0.0.1 ads.leovegas.com
 127.0.0.1 ads.lesbianpersonals.com
 127.0.0.1 ads.lfstmedia.com
 127.0.0.1 ads.lifehealthpro.com
@@ -2900,6 +2907,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.mnemosoft.com
 127.0.0.1 ads.mobclix.com
 127.0.0.1 ads.mobgold.com
+127.0.0.1 ads.mobilautomaten.com
 127.0.0.1 ads.mobiledia.com
 127.0.0.1 ads.mobilemarketer.com
 127.0.0.1 ads.mobilityware.com
@@ -3282,6 +3290,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.sumotorrent.com
 127.0.0.1 ads.sun.com
 127.0.0.1 ads.sunjournal.com
+127.0.0.1 ads.suomiautomaatti.com
 127.0.0.1 ads.sup.com
 127.0.0.1 ads.superonline.com
 127.0.0.1 ads.supplyframe.com
@@ -18600,7 +18609,10 @@ ff02::2 ip6-allrouters
 127.0.0.1 reclamus.com
 127.0.0.1 recommender.scarabresearch.com
 127.0.0.1 record.affiliatelounge.com
+127.0.0.1 record.affiliates.karjalakasino.com
+127.0.0.1 record.bonniergaming.com
 127.0.0.1 record.commissionlounge.com
+127.0.0.1 record.mrwin.com
 127.0.0.1 recordeaglecom.112.2o7.net
 127.0.0.1 recordnetcom.112.2o7.net
 127.0.0.1 recordonlinecom.112.2o7.net
@@ -22442,6 +22454,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 trackalyzer.com
 127.0.0.1 trackcmp.net
 127.0.0.1 trackdiscovery.net
+127.0.0.1 tracker-pm2.spilleren.com
 127.0.0.1 tracker.azet.sk
 127.0.0.1 tracker.baidu.com
 127.0.0.1 tracker.bang.com

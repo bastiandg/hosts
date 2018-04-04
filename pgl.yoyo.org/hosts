@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 29 Mar 2018 08:49:56 GMT
-# entries:        2647
+# last updated:   Wed, 04 Apr 2018 08:11:14 GMT
+# entries:        2660
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -370,6 +370,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.adultswim.com
 127.0.0.1 ads.advance.net
 127.0.0.1 ads.adverline.com
+127.0.0.1 ads.affiliates-spinit.com
 127.0.0.1 ads.affiliates.match.com
 127.0.0.1 ads.ak.facebook.com.edgesuite.net
 127.0.0.1 ads.allvatar.com
@@ -459,6 +460,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.expedia.com
 127.0.0.1 ads.factorymedia.com
 127.0.0.1 ads.fairfax.com.au
+127.0.0.1 ads.fasttrack-ignite.com
 127.0.0.1 ads.faxo.com
 127.0.0.1 ads.ferianc.com
 127.0.0.1 ads.filmup.com
@@ -483,6 +485,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.gaming-universe.de
 127.0.0.1 ads.gawker.com
 127.0.0.1 ads.geekswithblogs.net
+127.0.0.1 ads.getlucky.com
 127.0.0.1 ads.glispa.com
 127.0.0.1 ads.gmodules.com
 127.0.0.1 ads.goyk.com
@@ -520,16 +523,20 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.iwon.com
 127.0.0.1 ads.jewishfriendfinder.com
 127.0.0.1 ads.jiwire.com
+127.0.0.1 ads.joaffs.com
 127.0.0.1 ads.jobsite.co.uk
 127.0.0.1 ads.jpost.com
 127.0.0.1 ads.jubii.dk
 127.0.0.1 ads.justhungry.com
+127.0.0.1 ads.kabooaffiliates.com
 127.0.0.1 ads.kaktuz.net
 127.0.0.1 ads.kelbymediagroup.com
 127.0.0.1 ads.kinobox.cz
 127.0.0.1 ads.kinxxx.com
 127.0.0.1 ads.kompass.com
 127.0.0.1 ads.krawall.de
+127.0.0.1 ads.larryaffiliates.com
+127.0.0.1 ads.leovegas.com
 127.0.0.1 ads.lesbianpersonals.com
 127.0.0.1 ads.linkedin.com
 127.0.0.1 ads.linuxfoundation.org
@@ -543,6 +550,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.medienhaus.de
 127.0.0.1 ads.mgnetwork.com
 127.0.0.1 ads.mmania.com
+127.0.0.1 ads.mobilautomaten.com
 127.0.0.1 ads.moceanads.com
 127.0.0.1 ads.motor-forum.nl
 127.0.0.1 ads.motormedia.nl
@@ -617,6 +625,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.sptimes.com
 127.0.0.1 ads.stackoverflow.com
 127.0.0.1 ads.sun.com
+127.0.0.1 ads.suomiautomaatti.com
 127.0.0.1 ads.supplyframe.com
 127.0.0.1 ads.t-online.de
 127.0.0.1 ads.tahono.com
@@ -2155,6 +2164,9 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 realtechnetwork.com
 127.0.0.1 realtracker.com
 127.0.0.1 receptiveink.com
+127.0.0.1 record.affiliates.karjalakasino.com
+127.0.0.1 record.bonniergaming.com
+127.0.0.1 record.mrwin.com
 127.0.0.1 redirectvoluum.com
 127.0.0.1 reduxmedia.com
 127.0.0.1 referralware.com
@@ -2464,6 +2476,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 track.viewdeos.com
 127.0.0.1 track1.viewdeos.com
 127.0.0.1 trackalyzer.com
+127.0.0.1 tracker-pm2.spilleren.com
 127.0.0.1 tracker.icerocket.com
 127.0.0.1 tracker.marinsm.com
 127.0.0.1 tracking.crunchiemedia.com
