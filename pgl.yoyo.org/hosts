@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 04 Apr 2018 08:11:14 GMT
-# entries:        2660
+# entries:        2661
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1100,6 +1100,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 bbn.img.com.ua
 127.0.0.1 beacon.gu-web.net
 127.0.0.1 beamincrease.com
+127.0.0.1 beamkite.com
 127.0.0.1 begun.ru
 127.0.0.1 behavioralengine.com
 127.0.0.1 belstat.com
@@ -1205,7 +1206,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 checkstat.nl
 127.0.0.1 cherrythread.com
 127.0.0.1 chestionar.ro
-127.0.0.1 chiefcurrent.com
 127.0.0.1 chitika.net
 127.0.0.1 christingel.com
 127.0.0.1 cinstein.com
@@ -1272,6 +1272,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cointraffic.io
 127.0.0.1 colonize.com
 127.0.0.1 comclick.com
+127.0.0.1 commandwalk.com
 127.0.0.1 commindo-media-ressourcen.de
 127.0.0.1 commissionmonster.com
 127.0.0.1 compactbanner.com
@@ -1339,6 +1340,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 critictruck.com
 127.0.0.1 croissed.info
 127.0.0.1 crowdgravity.com
+127.0.0.1 crownclam.com
 127.0.0.1 crtv.mate1.com
 127.0.0.1 crwdcntrl.net
 127.0.0.1 ctnet2.in
@@ -1363,6 +1365,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 debtbusterloans.com
 127.0.0.1 decisiveducks.com
 127.0.0.1 decknetwork.net
+127.0.0.1 delightdriving.com
 127.0.0.1 deloo.de
 127.0.0.1 deloton.com
 127.0.0.1 demandbase.com
@@ -1372,6 +1375,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 dialerporn.com
 127.0.0.1 dianomi.com
 127.0.0.1 didtheyreadit.com
+127.0.0.1 differentdesk.com
 127.0.0.1 digital-ads.s3.amazonaws.com
 127.0.0.1 digitalmerkat.com
 127.0.0.1 direct-xxx-access.com
@@ -1535,7 +1539,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 fxstyle.net
 127.0.0.1 g3j2wzmon8b.com
 127.0.0.1 ga.clearbit.com
-127.0.0.1 ga87z2o.com
 127.0.0.1 galaxien.com
 127.0.0.1 game-advertising-online.com
 127.0.0.1 gamehouse.com
@@ -2018,7 +2021,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 pbnet.ru
 127.0.0.1 pbterra.com
 127.0.0.1 pcash.imlive.com
-127.0.0.1 peacepowder.com
 127.0.0.1 peep-auktion.de
 127.0.0.1 peer39.com
 127.0.0.1 pennyweb.com
@@ -2433,7 +2435,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 tnkexchange.com
 127.0.0.1 tns-counter.ru
 127.0.0.1 tntclix.co.uk
-127.0.0.1 top-casting-termine.de
 127.0.0.1 top-site-list.com
 127.0.0.1 top.list.ru
 127.0.0.1 top.mail.ru
