@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 08 Apr 2018 18:28:41 GMT
-# entries:        2661
+# last updated:   Sun, 08 Apr 2018 20:16:34 GMT
+# entries:        2662
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1904,6 +1904,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 nativeroll.tv
 127.0.0.1 navigator.io
 127.0.0.1 navrcholu.cz
+127.0.0.1 nbhxgjz.com
 127.0.0.1 nbjmp.com
 127.0.0.1 ncaudienceexchange.com
 127.0.0.1 ndparking.com
