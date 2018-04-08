@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 08 Apr 2018 20:16:34 GMT
-# entries:        2662
+# last updated:   Sun, 08 Apr 2018 21:14:29 GMT
+# entries:        2663
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2585,6 +2585,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 vrs.cz
 127.0.0.1 vs.tucows.com
 127.0.0.1 vungle.com
+127.0.0.1 vutzmxahqio.co
 127.0.0.1 wantmobi.bid
 127.0.0.1 warlog.ru
 127.0.0.1 watchingthat.com
