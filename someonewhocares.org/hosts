@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 07 Apr 2018 at 18:35:14 GMT
+# Last updated: Sun, 08 Apr 2018 at 18:04:21 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2833,6 +2833,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.hashing.win
 127.0.0.1 www.icecars.com
 127.0.0.1 www.indesignstudioinfo.com
+127.0.0.1 www.indexerflash.com
 127.0.0.1 www.infopaypal.com
 127.0.0.1 www.keybinary.com
 127.0.0.1 www.kinomarathon.ru
