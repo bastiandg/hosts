@@ -515,7 +515,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.lesbianpersonals.com
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.linuxfoundation.org
-0.0.0.0 ads.linuxjournal.com
 0.0.0.0 ads.linuxsecurity.com
 0.0.0.0 ads.livenation.com
 0.0.0.0 ads.mariuana.it
@@ -2115,7 +2114,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 radiate.com
 0.0.0.0 rampidads.com
 0.0.0.0 rank-master.com
-0.0.0.0 rank-master.de
 0.0.0.0 rankchamp.de
 0.0.0.0 ranking-charts.de
 0.0.0.0 ranking-hits.de
@@ -2665,6 +2663,5 @@ ff02::2 ip6-allrouters
 0.0.0.0 zenzuu.com
 0.0.0.0 zeus.developershed.com
 0.0.0.0 zeusclicks.com
-0.0.0.0 zintext.com
 0.0.0.0 zmedia.com
 0.0.0.0 zqtk.net
