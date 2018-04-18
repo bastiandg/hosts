@@ -508,6 +508,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.consumer.net
 127.0.0.1 a.custompc.co.uk
 127.0.0.1 a.dpmsrv.com
+127.0.0.1 a.dynad.net
 127.0.0.1 a.environmentaldefense.org
 127.0.0.1 a.evo.co.uk
 127.0.0.1 a.fandango.com
@@ -6903,6 +6904,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.codeonclick.com
 127.0.0.1 c.de.msn.com
 127.0.0.1 c.dk.msn.com
+127.0.0.1 c.dynad.net
 127.0.0.1 c.eblastengine.com
 127.0.0.1 c.ecliks.com
 127.0.0.1 c.effectivemeasure.net
@@ -10430,7 +10432,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 expedia6vt.112.2o7.net
 127.0.0.1 expedia8.112.2o7.net
 127.0.0.1 experianservicescorp.122.2o7.net
-127.0.0.1 experience.tinypass.com
 127.0.0.1 experteerads.com
 127.0.0.1 expertland.net
 127.0.0.1 experts.us.intellitxt.com
@@ -19079,6 +19080,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 s.di.com.pl
 127.0.0.1 s.domob.cn
 127.0.0.1 s.dpmsrv.com
+127.0.0.1 s.dynad.net
 127.0.0.1 s.effectivemeasure.net
 127.0.0.1 s.estat.com
 127.0.0.1 s.flite.com
@@ -21364,6 +21366,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 t.cqq5id8n.com
 127.0.0.1 t.dailymail.co.uk
 127.0.0.1 t.dtscout.com
+127.0.0.1 t.dynad.net
 127.0.0.1 t.extreme-dm.com
 127.0.0.1 t.flux.com
 127.0.0.1 t.frtyg.com
@@ -26344,6 +26347,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.silvercash.com
 127.0.0.1 www.simplecounter.net
 127.0.0.1 www.simpli.fi
+127.0.0.1 www.simplyhelper.com
 127.0.0.1 www.sinera.org
 127.0.0.1 www.singlesadnetwork.com
 127.0.0.1 www.siom.ac.cn
@@ -27334,6 +27338,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 z.admob.com
 127.0.0.1 z.blogads.com
 127.0.0.1 z.ceotrk.com
+127.0.0.1 z.dynad.net
 127.0.0.1 z.extreme-dm.com
 127.0.0.1 z.moatads.com
 127.0.0.1 z0.extreme-dm.com

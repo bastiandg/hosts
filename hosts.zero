@@ -508,6 +508,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 a.consumer.net
 0.0.0.0 a.custompc.co.uk
 0.0.0.0 a.dpmsrv.com
+0.0.0.0 a.dynad.net
 0.0.0.0 a.environmentaldefense.org
 0.0.0.0 a.evo.co.uk
 0.0.0.0 a.fandango.com
@@ -6903,6 +6904,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 c.codeonclick.com
 0.0.0.0 c.de.msn.com
 0.0.0.0 c.dk.msn.com
+0.0.0.0 c.dynad.net
 0.0.0.0 c.eblastengine.com
 0.0.0.0 c.ecliks.com
 0.0.0.0 c.effectivemeasure.net
@@ -10430,7 +10432,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 expedia6vt.112.2o7.net
 0.0.0.0 expedia8.112.2o7.net
 0.0.0.0 experianservicescorp.122.2o7.net
-0.0.0.0 experience.tinypass.com
 0.0.0.0 experteerads.com
 0.0.0.0 expertland.net
 0.0.0.0 experts.us.intellitxt.com
@@ -19079,6 +19080,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 s.di.com.pl
 0.0.0.0 s.domob.cn
 0.0.0.0 s.dpmsrv.com
+0.0.0.0 s.dynad.net
 0.0.0.0 s.effectivemeasure.net
 0.0.0.0 s.estat.com
 0.0.0.0 s.flite.com
@@ -21364,6 +21366,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 t.cqq5id8n.com
 0.0.0.0 t.dailymail.co.uk
 0.0.0.0 t.dtscout.com
+0.0.0.0 t.dynad.net
 0.0.0.0 t.extreme-dm.com
 0.0.0.0 t.flux.com
 0.0.0.0 t.frtyg.com
@@ -26344,6 +26347,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.silvercash.com
 0.0.0.0 www.simplecounter.net
 0.0.0.0 www.simpli.fi
+0.0.0.0 www.simplyhelper.com
 0.0.0.0 www.sinera.org
 0.0.0.0 www.singlesadnetwork.com
 0.0.0.0 www.siom.ac.cn
@@ -27334,6 +27338,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 z.admob.com
 0.0.0.0 z.blogads.com
 0.0.0.0 z.ceotrk.com
+0.0.0.0 z.dynad.net
 0.0.0.0 z.extreme-dm.com
 0.0.0.0 z.moatads.com
 0.0.0.0 z0.extreme-dm.com

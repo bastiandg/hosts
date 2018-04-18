@@ -172,6 +172,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 a.cctv.com
 0.0.0.0 a.cntv.cn
 0.0.0.0 a.collective-media.net
+0.0.0.0 a.dynad.net
 0.0.0.0 a.karmatrail.club
 0.0.0.0 a.kaytri.com
 0.0.0.0 a.kerg.net
@@ -3511,6 +3512,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 c.codeonclick.com
 0.0.0.0 c.de.msn.com
 0.0.0.0 c.dk.msn.com
+0.0.0.0 c.dynad.net
 0.0.0.0 c.eblastengine.com
 0.0.0.0 c.es.msn.com
 0.0.0.0 c.fi.msn.com
@@ -5115,7 +5117,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 exnjmdgds1.doubleclick.net
 0.0.0.0 expedia.ca.112.2o7.net
 0.0.0.0 expedia4.112.2o7.net
-0.0.0.0 experience.tinypass.com
 0.0.0.0 expertland.net
 0.0.0.0 experts.us.intellitxt.com
 0.0.0.0 exponential.com
@@ -9235,6 +9236,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 s.clicktale.net
 0.0.0.0 s.di.com.pl
 0.0.0.0 s.domob.cn
+0.0.0.0 s.dynad.net
 0.0.0.0 s.flite.com
 0.0.0.0 s.innovid.com
 0.0.0.0 s.media-imdb.com
@@ -10218,6 +10220,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 t.adonly.com
 0.0.0.0 t.atpanel.com
 0.0.0.0 t.cpmadvisors.com
+0.0.0.0 t.dynad.net
 0.0.0.0 t.extreme-dm.com
 0.0.0.0 t.frtyg.com
 0.0.0.0 t.mdn2015x1.com
@@ -12813,6 +12816,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.showcaserealestate.net
 0.0.0.0 www.simplecounter.net
 0.0.0.0 www.simpli.fi
+0.0.0.0 www.simplyhelper.com
 0.0.0.0 www.sinera.org
 0.0.0.0 www.siom.ac.cn
 0.0.0.0 www.sizzle-savings.com
@@ -13352,6 +13356,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 z.admob.com
 0.0.0.0 z.blogads.com
 0.0.0.0 z.ceotrk.com
+0.0.0.0 z.dynad.net
 0.0.0.0 z.extreme-dm.com
 0.0.0.0 z.moatads.com
 0.0.0.0 z0.extreme-dm.com
