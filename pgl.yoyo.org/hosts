@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 13 Apr 2018 07:47:55 GMT
-# entries:        2658
+# last updated:   Thu, 19 Apr 2018 15:23:21 GMT
+# entries:        2662
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1515,6 +1515,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 foo.cosmocode.de
 127.0.0.1 foresee.com
 127.0.0.1 forex-affiliate.net
+127.0.0.1 forter.com
 127.0.0.1 fpctraffic.com
 127.0.0.1 fpctraffic2.com
 127.0.0.1 fqtag.com
@@ -1777,6 +1778,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 lucidmedia.com
 127.0.0.1 lucklayed.info
 127.0.0.1 lumpyleaf.com
+127.0.0.1 lytics.io
 127.0.0.1 lzjl.com
 127.0.0.1 m.trb.com
 127.0.0.1 m1.webstats4u.com
@@ -1939,6 +1941,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 novem.pl
 127.0.0.1 ns1p.net
 127.0.0.1 ntv.io
+127.0.0.1 ntvk1.ru
 127.0.0.1 nuggad.net
 127.0.0.1 numax.nu-1.com
 127.0.0.1 nuseek.com
@@ -2100,6 +2103,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 promotion-campaigns.com
 127.0.0.1 pronetadvertising.com
 127.0.0.1 propellerads.com
+127.0.0.1 props.id
 127.0.0.1 proranktracker.com
 127.0.0.1 proton-tm.com
 127.0.0.1 protraffic.com
