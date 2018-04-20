@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 19 Apr 2018 15:23:21 GMT
-# entries:        2660
+# entries:        2658
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -755,7 +755,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserver.janes.com
 127.0.0.1 adserver.libero.it
 127.0.0.1 adserver.news.com.au
-127.0.0.1 adserver.ngz-network.de
 127.0.0.1 adserver.nydailynews.com
 127.0.0.1 adserver.o2.pl
 127.0.0.1 adserver.oddschecker.com
@@ -1111,7 +1110,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 bidclix.net
 127.0.0.1 bidr.io
 127.0.0.1 bidswitch.net
-127.0.0.1 bidtrk.com
 127.0.0.1 bidvertiser.com
 127.0.0.1 bigbangmedia.com
 127.0.0.1 bigclicks.com

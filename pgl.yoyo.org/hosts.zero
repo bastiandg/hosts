@@ -729,7 +729,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.janes.com
 0.0.0.0 adserver.libero.it
 0.0.0.0 adserver.news.com.au
-0.0.0.0 adserver.ngz-network.de
 0.0.0.0 adserver.nydailynews.com
 0.0.0.0 adserver.o2.pl
 0.0.0.0 adserver.oddschecker.com
@@ -1085,7 +1084,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bidclix.net
 0.0.0.0 bidr.io
 0.0.0.0 bidswitch.net
-0.0.0.0 bidtrk.com
 0.0.0.0 bidvertiser.com
 0.0.0.0 bigbangmedia.com
 0.0.0.0 bigclicks.com
