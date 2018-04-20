@@ -2656,7 +2656,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.hamptonroads.com
 0.0.0.0 ads.hamtonroads.com
 0.0.0.0 ads.happyidiots.nl
-0.0.0.0 ads.hardwaresecrets.com
 0.0.0.0 ads.hardwarezone.com
 0.0.0.0 ads.harpers.org
 0.0.0.0 ads.haskovo.net
@@ -4257,6 +4256,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adservice.aliexpress.com
 0.0.0.0 adservice.google.ca
 0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.com.au
 0.0.0.0 adservicedomain.info
 0.0.0.0 adservices.google.com
 0.0.0.0 adservices.picadmedia.com
@@ -5100,6 +5100,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 analytics.percentmobile.com
 0.0.0.0 analytics.pimproll.com
 0.0.0.0 analytics.prx.org
+0.0.0.0 analytics.publitas.com
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics.r.msn.com
 0.0.0.0 analytics.radiatemedia.com
@@ -6714,6 +6715,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 bsads.looksmart.com
 0.0.0.0 bsclick.adknowledge.com
 0.0.0.0 bserver.blick.com
+0.0.0.0 bsnj.eyeblaster.akadns.net
 0.0.0.0 bspixel.bidsystem.com
 0.0.0.0 bstats.adbrite.com
 0.0.0.0 bt.linkpulse.com

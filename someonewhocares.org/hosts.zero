@@ -2357,6 +2357,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserversolutions.com
 0.0.0.0 adservice.google.ca
 0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.com.au
 0.0.0.0 adservices.google.com
 0.0.0.0 adservices.picadmedia.com
 0.0.0.0 adservicestats.com
@@ -2710,6 +2711,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 analytics.onesearch.id
 0.0.0.0 analytics.percentmobile.com
 0.0.0.0 analytics.prx.org
+0.0.0.0 analytics.publitas.com
 0.0.0.0 analytics.services.kirra.nl
 0.0.0.0 analytics.shareaholic.com
 0.0.0.0 analytics.spotta.nl
@@ -3375,6 +3377,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bsads.looksmart.com
 0.0.0.0 bserver.blick.com
+0.0.0.0 bsnj.eyeblaster.akadns.net
 0.0.0.0 bstats.adbrite.com
 0.0.0.0 bt.linkpulse.com
 0.0.0.0 bt.phorm.com

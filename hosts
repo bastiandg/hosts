@@ -2656,7 +2656,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.hamptonroads.com
 127.0.0.1 ads.hamtonroads.com
 127.0.0.1 ads.happyidiots.nl
-127.0.0.1 ads.hardwaresecrets.com
 127.0.0.1 ads.hardwarezone.com
 127.0.0.1 ads.harpers.org
 127.0.0.1 ads.haskovo.net
@@ -4257,6 +4256,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adservice.aliexpress.com
 127.0.0.1 adservice.google.ca
 127.0.0.1 adservice.google.com
+127.0.0.1 adservice.google.com.au
 127.0.0.1 adservicedomain.info
 127.0.0.1 adservices.google.com
 127.0.0.1 adservices.picadmedia.com
@@ -5100,6 +5100,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analytics.percentmobile.com
 127.0.0.1 analytics.pimproll.com
 127.0.0.1 analytics.prx.org
+127.0.0.1 analytics.publitas.com
 127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics.r.msn.com
 127.0.0.1 analytics.radiatemedia.com
@@ -6714,6 +6715,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bsads.looksmart.com
 127.0.0.1 bsclick.adknowledge.com
 127.0.0.1 bserver.blick.com
+127.0.0.1 bsnj.eyeblaster.akadns.net
 127.0.0.1 bspixel.bidsystem.com
 127.0.0.1 bstats.adbrite.com
 127.0.0.1 bt.linkpulse.com
