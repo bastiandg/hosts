@@ -2318,6 +2318,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.wemnet.nl
 0.0.0.0 adserver.wietforum.nl
 0.0.0.0 adserver.x3.hu
+0.0.0.0 adserver.xpanama.net
 0.0.0.0 adserver.ya.com
 0.0.0.0 adserver.yahoo.com
 0.0.0.0 adserver.zaz.com.br
@@ -2708,6 +2709,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 analytics.ku6.com
 0.0.0.0 analytics.kwebsoft.com
 0.0.0.0 analytics.msnbc.msn.com
+0.0.0.0 analytics.myfinances.com
 0.0.0.0 analytics.onesearch.id
 0.0.0.0 analytics.percentmobile.com
 0.0.0.0 analytics.prx.org
