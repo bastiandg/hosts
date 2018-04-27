@@ -2909,7 +2909,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.mobilemarketer.com
 0.0.0.0 ads.mobilityware.com
 0.0.0.0 ads.mobygames.com
-0.0.0.0 ads.moceanads.com
 0.0.0.0 ads.modbee.com
 0.0.0.0 ads.mofos.com
 0.0.0.0 ads.mondogames.com
@@ -8866,7 +8865,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cri.d1.sc.omtrdc.net
 0.0.0.0 cribdare2no.com
 0.0.0.0 crimg.sv.publicus.com
-0.0.0.0 crispads.com
 0.0.0.0 crisptic01.net
 0.0.0.0 criteo.com
 0.0.0.0 critictruck.com
@@ -9550,7 +9548,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 domainplayersclub.com
 0.0.0.0 domains.googlesyndication.com
 0.0.0.0 domainsponsor.com
-0.0.0.0 domainsteam.de
 0.0.0.0 domdex.com
 0.0.0.0 dominionenterprises.112.2o7.net
 0.0.0.0 domwpm.stream
@@ -11729,7 +11726,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 gpaper223.112.2o7.net
 0.0.0.0 gpapercareer.112.2o7.net
 0.0.0.0 gpapermom104.112.2o7.net
-0.0.0.0 gpr.hu
 0.0.0.0 gr.adserver.yahoo.com
 0.0.0.0 gr.linkwi.se
 0.0.0.0 grab.nastydollars.com
@@ -15394,7 +15390,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mobscan.info
 0.0.0.0 mobularity.com
 0.0.0.0 moc.silk.com
-0.0.0.0 mocean.mobi
 0.0.0.0 mochibot.com
 0.0.0.0 mocka.frost-electric-supply.com
 0.0.0.0 modescrips.info
@@ -17662,7 +17657,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pixel.indieclick.com
 0.0.0.0 pixel.industrybrains.com
 0.0.0.0 pixel.invitemedia.com
-0.0.0.0 pixel.jumptap.com
 0.0.0.0 pixel.keywee.co
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 pixel.meteora.us
