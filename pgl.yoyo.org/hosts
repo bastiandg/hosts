@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 19 Apr 2018 15:23:21 GMT
-# entries:        2650
+# entries:        2649
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1787,7 +1787,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 marketing.osijek031.com
 127.0.0.1 marketingsolutions.yahoo.com
 127.0.0.1 mas.sector.sk
-127.0.0.1 mastermind.com
 127.0.0.1 matchcows.com
 127.0.0.1 matchcraft.com
 127.0.0.1 matheranalytics.com
