@@ -715,7 +715,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.cams.com
 0.0.0.0 adserver.com
 0.0.0.0 adserver.digitoday.com
-0.0.0.0 adserver.finditquick.com
 0.0.0.0 adserver.flossiemediagroup.com
 0.0.0.0 adserver.freecity.de
 0.0.0.0 adserver.friendfinder.com
@@ -1362,6 +1361,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 docksalmon.com
 0.0.0.0 domaining.in
 0.0.0.0 domainsponsor.com
+0.0.0.0 domainsteam.de
 0.0.0.0 domdex.com
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.de
@@ -2103,6 +2103,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 radiate.com
 0.0.0.0 rampidads.com
 0.0.0.0 rank-master.com
+0.0.0.0 rank-master.de
 0.0.0.0 rankchamp.de
 0.0.0.0 ranking-charts.de
 0.0.0.0 ranking-hits.de
@@ -2397,6 +2398,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tnkexchange.com
 0.0.0.0 tns-counter.ru
 0.0.0.0 tntclix.co.uk
+0.0.0.0 top-casting-termine.de
 0.0.0.0 top-site-list.com
 0.0.0.0 top.list.ru
 0.0.0.0 top.mail.ru
