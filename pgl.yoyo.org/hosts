@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 19 Apr 2018 15:23:21 GMT
-# entries:        2651
+# last updated:   Sat, 05 May 2018 18:50:23 GMT
+# entries:        2652
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1181,6 +1181,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cbanners.virtuagirlhd.com
 127.0.0.1 cbmall.com
 127.0.0.1 cdn.freefarcy.com
+127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.segment.com
 127.0.0.1 cecash.com
 127.0.0.1 centerpointmedia.com
