@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 02 May 2018 at 23:49:24 GMT
+# Last updated: Sun, 06 May 2018 at 20:31:23 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2298,6 +2298,8 @@ ff02::3		ip6-allhosts
 127.0.0.1 iswwwup.com
 127.0.0.1 itwititer.com
 127.0.0.1 ity.elusmedic.ru
+127.0.0.1 iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+127.0.0.1 iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 127.0.0.1 jajajaj-thats-you-really.com
 127.0.0.1 janezk.50webs.co
 127.0.0.1 jat01.iwantyourightnow.info
@@ -2841,6 +2843,8 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.indesignstudioinfo.com
 127.0.0.1 www.indexerflash.com
 127.0.0.1 www.infopaypal.com
+127.0.0.1 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+127.0.0.1 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 127.0.0.1 www.keybinary.com
 127.0.0.1 www.kinomarathon.ru
 127.0.0.1 www.kpremium.com
@@ -9141,6 +9145,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 offer.alibaba.com
 127.0.0.1 offer.camp
 127.0.0.1 offerfactory.click
+127.0.0.1 offer-mediaservices.download
 127.0.0.1 offerreality.com
 127.0.0.1 offers.bycontext.com
 127.0.0.1 offers.impower.com
