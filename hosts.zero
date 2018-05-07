@@ -140,6 +140,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 1it.cqcounter.com
 0.0.0.0 1jo.cqcounter.com
 0.0.0.0 1kdailyprofit.biz
+0.0.0.0 1l-view.mail.ru
 0.0.0.0 1man1jar.org
 0.0.0.0 1man2needles.com
 0.0.0.0 1nl.cqcounter.com
@@ -5220,6 +5221,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 anxiety.1.p2l.info
 0.0.0.0 anxiousapples.com
 0.0.0.0 any-log.videe.tv
+0.0.0.0 anycast.dt.adsafeprotected.com
 0.0.0.0 anyclip-d.openx.net
 0.0.0.0 anythinghollywood.us.intellitxt.com
 0.0.0.0 aol.spb.su
@@ -11363,6 +11365,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 geo.hyperlinksecure.com
 0.0.0.0 geo.interia.pl
 0.0.0.0 geo.jetpackdigital.com
+0.0.0.0 geo.moatads.com
 0.0.0.0 geo.nbcsports.com
 0.0.0.0 geo.offermatica.com
 0.0.0.0 geo.precisionclick.com
@@ -17690,6 +17693,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pixel.realtor.com
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 pixel.rubiconproject.com
+0.0.0.0 pixel.rubiconproject.net
 0.0.0.0 pixel.sitescout.com
 0.0.0.0 pixel.sojern.com
 0.0.0.0 pixel.solvemedia.com
@@ -18428,6 +18432,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 r.remarketingpixel.com
 0.0.0.0 r.skimresources.com
 0.0.0.0 r.turn.com
+0.0.0.0 r.turn.com.akadns.net
 0.0.0.0 r.w.inmobi.com
 0.0.0.0 r.yieldkit.com
 0.0.0.0 r01.ibg.bg
@@ -21001,6 +21006,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 stats.jtvnw.net
 0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.klsoft.com
+0.0.0.0 stats.l.doubleclick.net
 0.0.0.0 stats.ladotstats.nl
 0.0.0.0 stats.libresse.no
 0.0.0.0 stats.lightningcast.net
@@ -21337,6 +21343,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 synad2.nuffnang.com.my
 0.0.0.0 sync-eu.exe.bid
 0.0.0.0 sync-tm.everesttech.net
+0.0.0.0 sync.1rx.io
 0.0.0.0 sync.adaptv.advertising.com
 0.0.0.0 sync.adkernel.com
 0.0.0.0 sync.atomex.net
