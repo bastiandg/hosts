@@ -813,7 +813,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad-serverparc.nl
 0.0.0.0 ad-servicestats.net
 0.0.0.0 ad-souk.com
-0.0.0.0 ad-space.net
 0.0.0.0 ad-sponsor.com
 0.0.0.0 ad-srv.net
 0.0.0.0 ad-tech.com
@@ -9782,7 +9781,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 e-2dj6wjnyqkajabp.stats.esomniture.com
 0.0.0.0 e-adimages.scrippsnetworks.com
 0.0.0.0 e-ads.eqads.com
-0.0.0.0 e-bannerx.com
 0.0.0.0 e-debtconsolidation.com
 0.0.0.0 e-dot.hut1.ru
 0.0.0.0 e-hosting.hut1.ru
@@ -21303,7 +21301,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sweetsforfree.com
 0.0.0.0 swfhostltd.com
 0.0.0.0 swinon.site
-0.0.0.0 swissadsolutions.com
 0.0.0.0 swisscom.demdex.net
 0.0.0.0 swissinf.wemfbox.ch
 0.0.0.0 switch.d-agency.net
@@ -22088,6 +22085,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 topsir.com
 0.0.0.0 topsite.lv
 0.0.0.0 topsites.blogflux.com
+0.0.0.0 topsites.com.br
 0.0.0.0 topsocialite.us.intellitxt.com
 0.0.0.0 topspeed.us.intellitxt.com
 0.0.0.0 topstats.com

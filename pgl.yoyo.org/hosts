@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sat, 05 May 2018 18:50:23 GMT
-# entries:        2647
+# entries:        2644
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -93,7 +93,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ad-server.gulasidorna.se
 127.0.0.1 ad-serverparc.nl
 127.0.0.1 ad-souk.com
-127.0.0.1 ad-space.net
 127.0.0.1 ad-tech.com
 127.0.0.1 ad-up.com
 127.0.0.1 ad.100.tbn.ru
@@ -1046,7 +1045,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 banners.adultfriendfinder.com
 127.0.0.1 banners.amigos.com
 127.0.0.1 banners.asiafriendfinder.com
-127.0.0.1 banners.audioholics.com
 127.0.0.1 banners.babylon-x.com
 127.0.0.1 banners.bol.com.br
 127.0.0.1 banners.cams.com
@@ -1399,7 +1397,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 dynamic.fmpub.net
 127.0.0.1 dyntrk.com
 127.0.0.1 e-adimages.scrippsnetworks.com
-127.0.0.1 e-bannerx.com
 127.0.0.1 e-debtconsolidation.com
 127.0.0.1 e-m.fr
 127.0.0.1 e-n-t-e-r-n-e-x.com
@@ -2368,7 +2365,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 supertop100.com
 127.0.0.1 surfmusik-adserver.de
 127.0.0.1 swan-swan-goose.com
-127.0.0.1 swissadsolutions.com
 127.0.0.1 switchadhub.com
 127.0.0.1 switchads.com
 127.0.0.1 swordfishdc.com
@@ -2447,6 +2443,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 topsearcher.com
 127.0.0.1 topsir.com
 127.0.0.1 topsite.lv
+127.0.0.1 topsites.com.br
 127.0.0.1 topstats.com
 127.0.0.1 totemcash.com
 127.0.0.1 touchclarity.com
