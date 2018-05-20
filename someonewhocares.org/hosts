@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 18 May 2018 at 00:48:49 GMT
+# Last updated: Sun, 20 May 2018 at 07:48:23 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2794,6 +2794,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www21.counsellor.gov.cn
 127.0.0.1 www4.gy7k.net
 127.0.0.1 www.abetterinternet.com
+127.0.0.1 www.activeindexer.com
 127.0.0.1 www.adshufffle.com
 127.0.0.1 www.adwords.google.lloymlincs.com
 127.0.0.1 www.afantispy.com
