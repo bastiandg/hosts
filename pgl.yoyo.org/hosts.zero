@@ -1529,7 +1529,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 gostats.com
 0.0.0.0 gp.dejanews.com
 0.0.0.0 grafstat.ro
-0.0.0.0 grahamdigital.com
 0.0.0.0 grapeshot.co.uk
 0.0.0.0 graph.instagram.com
 0.0.0.0 greetzebra.com
@@ -2004,6 +2003,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pietexture.com
 0.0.0.0 pillscash.com
 0.0.0.0 pimproll.com
+0.0.0.0 ping.ublock.org
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.digitru.st
