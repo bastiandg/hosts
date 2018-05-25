@@ -1520,6 +1520,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 goingplatinum.com
 0.0.0.0 goldstats.com
 0.0.0.0 google-analytics.com
+0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleadservices.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 gorgeousground.com
@@ -1530,6 +1531,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 graph.instagram.com
 0.0.0.0 greetzebra.com
 0.0.0.0 greystripe.com
+0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gtop100.com
 0.0.0.0 guardedgovernor.com
 0.0.0.0 guitarbelieve.com

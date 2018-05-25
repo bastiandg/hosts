@@ -11642,6 +11642,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 googfle.com
 127.0.0.1 google-analytics.com
 127.0.0.1 google.tucows.com
+127.0.0.1 googleadapis.l.google.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleads2.g.doubleclick.net
 127.0.0.1 googleads4.g.doubleclick.net
@@ -11799,6 +11800,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gsmtop.net
 127.0.0.1 gspro.adocean.pl
 127.0.0.1 gspro.hit.gemius.pl
+127.0.0.1 gstaticadssl.l.google.com
 127.0.0.1 gtb19.acecounter.com
 127.0.0.1 gtb5.acecounter.com
 127.0.0.1 gtcc1.acecounter.com
