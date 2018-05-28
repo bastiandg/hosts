@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 25 May 2018 23:55:18 GMT
-# entries:        2641
+# last updated:   Fri, 25 May 2018 23:55:06 GMT
+# entries:        2640
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1557,7 +1557,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 graph.instagram.com
 127.0.0.1 greetzebra.com
 127.0.0.1 greystripe.com
-127.0.0.1 gstaticadssl.l.google.com
 127.0.0.1 gtop100.com
 127.0.0.1 guardedgovernor.com
 127.0.0.1 guitarbelieve.com
