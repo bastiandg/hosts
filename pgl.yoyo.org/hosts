@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 25 May 2018 23:55:06 GMT
-# entries:        2640
+# last updated:   Thu, 24 May 2018 11:47:07 GMT
+# entries:        2639
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1546,7 +1546,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 goingplatinum.com
 127.0.0.1 goldstats.com
 127.0.0.1 google-analytics.com
-127.0.0.1 googleadapis.l.google.com
 127.0.0.1 googleadservices.com
 127.0.0.1 googlesyndication.com
 127.0.0.1 gorgeousground.com

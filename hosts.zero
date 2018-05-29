@@ -11642,7 +11642,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 googfle.com
 0.0.0.0 google-analytics.com
 0.0.0.0 google.tucows.com
-0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
