@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 03 Jun 2018 at 17:47:41 GMT
+# Last updated: Mon, 04 Jun 2018 at 01:55:03 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2022,6 +2022,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 11398.onceedge.ru
 127.0.0.1 2006mindfreaklike.blogspot.com	# Facebook trojan
 127.0.0.1 20-yrs-1.info
+127.0.0.1 24newsoft.fetmoredonefasterbysubmiting.download
 127.0.0.1 24upgradecheck.thesteadysystemforupgrades.download
 127.0.0.1 59-106-20-39.r-bl100.sakura.ne.jp
 127.0.0.1 662bd114b7c9.onceedge.ru
