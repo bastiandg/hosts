@@ -1142,6 +1142,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cashlayer.com
 0.0.0.0 cashpartner.com
 0.0.0.0 casinogames.com
+0.0.0.0 casinopays.com
 0.0.0.0 casinorewards.com
 0.0.0.0 casinotraffic.com
 0.0.0.0 casinotreasure.com
@@ -1325,7 +1326,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 decisiveducks.com
 0.0.0.0 decknetwork.net
 0.0.0.0 delightdriving.com
-0.0.0.0 deloo.de
 0.0.0.0 deloton.com
 0.0.0.0 demandbase.com
 0.0.0.0 demdex.net
@@ -2588,7 +2588,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 woopra.com
 0.0.0.0 worldwide-cash.net
 0.0.0.0 wpnrtnmrewunrtok.xyz
-0.0.0.0 ws-gateway.com
 0.0.0.0 wt-eu02.net
 0.0.0.0 wtlive.com
 0.0.0.0 www-banner.chat.ru

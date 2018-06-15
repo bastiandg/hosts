@@ -7329,6 +7329,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 casino-online.100gal.net
 0.0.0.0 casino770.com
 0.0.0.0 casinogames.com
+0.0.0.0 casinopays.com
 0.0.0.0 casinorewards.com
 0.0.0.0 casinotraffic.com
 0.0.0.0 casinotreasure.com
@@ -9341,7 +9342,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 delivery.yourfuckbook.com
 0.0.0.0 delivery1.topad.mobi
 0.0.0.0 dellinc.tt.omtrdc.net
-0.0.0.0 deloo.de
 0.0.0.0 deloton.com
 0.0.0.0 delta-promotion-usa.com
 0.0.0.0 delta.rspcdn.com
@@ -24294,7 +24294,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 wroclawski.com.pl
 0.0.0.0 ws-ea.amazon-adsystem.com
 0.0.0.0 ws-eu.amazon-adsystem.com
-0.0.0.0 ws-gateway.com
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws.addthis.com
 0.0.0.0 ws.sharethis.com

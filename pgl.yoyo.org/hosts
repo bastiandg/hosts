@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 12 Jun 2018 19:57:04 GMT
-# entries:        2637
+# entries:        2636
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1168,6 +1168,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cashlayer.com
 127.0.0.1 cashpartner.com
 127.0.0.1 casinogames.com
+127.0.0.1 casinopays.com
 127.0.0.1 casinorewards.com
 127.0.0.1 casinotraffic.com
 127.0.0.1 casinotreasure.com
@@ -1351,7 +1352,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 decisiveducks.com
 127.0.0.1 decknetwork.net
 127.0.0.1 delightdriving.com
-127.0.0.1 deloo.de
 127.0.0.1 deloton.com
 127.0.0.1 demandbase.com
 127.0.0.1 demdex.net
@@ -2614,7 +2614,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 woopra.com
 127.0.0.1 worldwide-cash.net
 127.0.0.1 wpnrtnmrewunrtok.xyz
-127.0.0.1 ws-gateway.com
 127.0.0.1 wt-eu02.net
 127.0.0.1 wtlive.com
 127.0.0.1 www-banner.chat.ru
