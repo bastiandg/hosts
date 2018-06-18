@@ -10475,6 +10475,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ext.host-tracker.com
 0.0.0.0 extended.dmtracker.com
 0.0.0.0 external.dmtracker.com
+0.0.0.0 extinstalls.icu
 0.0.0.0 extntechnologies.us.intellitxt.com
 0.0.0.0 extra.eboundservices.com
 0.0.0.0 extractorandburner.com
