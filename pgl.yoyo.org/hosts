@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 12 Jun 2018 19:57:04 GMT
-# entries:        2636
+# entries:        2634
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1044,7 +1044,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 banners.adultfriendfinder.com
 127.0.0.1 banners.amigos.com
 127.0.0.1 banners.asiafriendfinder.com
-127.0.0.1 banners.babylon-x.com
 127.0.0.1 banners.bol.com.br
 127.0.0.1 banners.cams.com
 127.0.0.1 banners.clubseventeen.com
@@ -1394,6 +1393,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 dynamic.fmpub.net
 127.0.0.1 dyntrk.com
 127.0.0.1 e-adimages.scrippsnetworks.com
+127.0.0.1 e-bannerx.com
 127.0.0.1 e-debtconsolidation.com
 127.0.0.1 e-m.fr
 127.0.0.1 e-n-t-e-r-n-e-x.com
@@ -1522,7 +1522,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 futuristicfairies.com
 127.0.0.1 fuzzyflavor.com
 127.0.0.1 fxstyle.net
-127.0.0.1 g3j2wzmon8b.com
 127.0.0.1 ga.clearbit.com
 127.0.0.1 galaxien.com
 127.0.0.1 game-advertising-online.com
@@ -1867,7 +1866,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mydas.mobi
 127.0.0.1 mymoneymakingapp.com
 127.0.0.1 mypagerank.net
-127.0.0.1 mypagerank.ru
 127.0.0.1 mypowermall.com
 127.0.0.1 mystat-in.net
 127.0.0.1 mystat.pl

@@ -1018,7 +1018,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 banners.adultfriendfinder.com
 0.0.0.0 banners.amigos.com
 0.0.0.0 banners.asiafriendfinder.com
-0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.bol.com.br
 0.0.0.0 banners.cams.com
 0.0.0.0 banners.clubseventeen.com
@@ -1368,6 +1367,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 dynamic.fmpub.net
 0.0.0.0 dyntrk.com
 0.0.0.0 e-adimages.scrippsnetworks.com
+0.0.0.0 e-bannerx.com
 0.0.0.0 e-debtconsolidation.com
 0.0.0.0 e-m.fr
 0.0.0.0 e-n-t-e-r-n-e-x.com
@@ -1496,7 +1496,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 futuristicfairies.com
 0.0.0.0 fuzzyflavor.com
 0.0.0.0 fxstyle.net
-0.0.0.0 g3j2wzmon8b.com
 0.0.0.0 ga.clearbit.com
 0.0.0.0 galaxien.com
 0.0.0.0 game-advertising-online.com
@@ -1841,7 +1840,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mydas.mobi
 0.0.0.0 mymoneymakingapp.com
 0.0.0.0 mypagerank.net
-0.0.0.0 mypagerank.ru
 0.0.0.0 mypowermall.com
 0.0.0.0 mystat-in.net
 0.0.0.0 mystat.pl

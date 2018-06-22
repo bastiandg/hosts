@@ -6055,7 +6055,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 banners.asiafriendfinder.com
 0.0.0.0 banners.askmecca.com
 0.0.0.0 banners.audioholics.com
-0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.betcris.com
 0.0.0.0 banners.bghelp.co.uk
 0.0.0.0 banners.bgmaps.com
@@ -9792,6 +9791,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 e-2dj6wjnyqkajabp.stats.esomniture.com
 0.0.0.0 e-adimages.scrippsnetworks.com
 0.0.0.0 e-ads.eqads.com
+0.0.0.0 e-bannerx.com
 0.0.0.0 e-debtconsolidation.com
 0.0.0.0 e-dot.hut1.ru
 0.0.0.0 e-hosting.hut1.ru
@@ -11133,7 +11133,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 g2.gumgum.com
 0.0.0.0 g2.us.intellitxt.com
 0.0.0.0 g3.us.intellitxt.com
-0.0.0.0 g3j2wzmon8b.com
 0.0.0.0 g3t4d5.madison.com
 0.0.0.0 g4.us.intellitxt.com
 0.0.0.0 g4p.grt02.com
@@ -15732,7 +15731,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mymoneymakingapp.com
 0.0.0.0 myoffertracking.com
 0.0.0.0 mypagerank.net
-0.0.0.0 mypagerank.ru
 0.0.0.0 myperiod.club
 0.0.0.0 myphentermine.polybuild.ru
 0.0.0.0 mypowermall.com
