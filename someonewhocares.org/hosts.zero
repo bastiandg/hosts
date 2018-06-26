@@ -2829,6 +2829,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.murdoog.com
 0.0.0.0 api.opencandy.com
 0.0.0.0 api.optnmnstr.com
+0.0.0.0 api.redshell.io
 0.0.0.0 api.sagent.io
 0.0.0.0 api.shoppingminds.net
 0.0.0.0 api.tumra.com
@@ -6252,6 +6253,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 in.adserver.yahoo.com
 0.0.0.0 in.getclicky.com
 0.0.0.0 in.paycounter.com
+0.0.0.0 in.treasuredata.com
 0.0.0.0 in.webcounter.cc
 0.0.0.0 in.yimg.com
 0.0.0.0 incentive-scene.com
@@ -9098,6 +9100,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 redirect.hotkeys.com
 0.0.0.0 redirect.xmlheads.com
 0.0.0.0 redonetype.com
+0.0.0.0 redshell.io
 0.0.0.0 redsheriff.com
 0.0.0.0 reduxads.valuead.com
 0.0.0.0 refinance.shengen.ru
@@ -10519,7 +10522,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tips.oewabox.at
 0.0.0.0 tipsforall.xyz
 0.0.0.0 tipsurf.com
-0.0.0.0 tiqcdn.com
 0.0.0.0 tirolcom.oewabox.at
 0.0.0.0 titan-gel-extra.com
 0.0.0.0 tivvitter.com
@@ -10957,6 +10959,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 trc.taboolasyndication.com
 0.0.0.0 trckaction.com
 0.0.0.0 trcko.com
+0.0.0.0 treasuredata.com
 0.0.0.0 trekmedia.net
 0.0.0.0 trendingpatrol.com
 0.0.0.0 trendnews.com

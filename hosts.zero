@@ -5349,6 +5349,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.optnmnstr.com
 0.0.0.0 api.petametrics.com
 0.0.0.0 api.proofpositivemedia.com
+0.0.0.0 api.redshell.io
 0.0.0.0 api.sagent.io
 0.0.0.0 api.segment.io
 0.0.0.0 api.shoppingminds.net
@@ -12818,6 +12819,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 in.joinourwebsite.com
 0.0.0.0 in.paycounter.com
 0.0.0.0 in.riskymail4free.com
+0.0.0.0 in.treasuredata.com
 0.0.0.0 in.webcounter.cc
 0.0.0.0 in.yimg.com
 0.0.0.0 in.zog.link
@@ -18661,6 +18663,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 redirectvoluum.com
 0.0.0.0 redonetype.com
 0.0.0.0 redroomnetwork.com
+0.0.0.0 redshell.io
 0.0.0.0 redsheriff.com
 0.0.0.0 reduxads.valuead.com
 0.0.0.0 reduxmedia.com
@@ -21969,7 +21972,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tips.oewabox.at
 0.0.0.0 tipsforall.xyz
 0.0.0.0 tipsurf.com
-0.0.0.0 tiqcdn.com
 0.0.0.0 tirerackcom.112.2o7.net
 0.0.0.0 tirolcom.oewabox.at
 0.0.0.0 tiscali.js.ad.dotandad.com
@@ -22756,6 +22758,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 trc.taboolasyndication.com
 0.0.0.0 trckaction.com
 0.0.0.0 trcko.com
+0.0.0.0 treasuredata.com
 0.0.0.0 trekblue.com
 0.0.0.0 trekdata.com
 0.0.0.0 trekmedia.net
