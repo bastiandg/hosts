@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 12 Jun 2018 19:57:04 GMT
-# entries:        2634
+# entries:        2632
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -241,7 +241,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adengage.com
 127.0.0.1 adexchangegate.com
 127.0.0.1 adexchangeprediction.com
-127.0.0.1 adexcite.com
 127.0.0.1 adexpose.com
 127.0.0.1 adext.inkclub.com
 127.0.0.1 adf.ly
@@ -305,7 +304,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 admarvel.com
 127.0.0.1 admax.nexage.com
 127.0.0.1 admedia.com
-127.0.0.1 admedia.ro
 127.0.0.1 admeld.com
 127.0.0.1 admerize.be
 127.0.0.1 admeta.com
