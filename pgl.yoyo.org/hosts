@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 12 Jun 2018 19:57:04 GMT
-# entries:        2629
+# entries:        2623
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -822,7 +822,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adtoma.com
 127.0.0.1 adtrace.org
 127.0.0.1 adtrade.net
-127.0.0.1 adtrading.de
 127.0.0.1 adtrak.net
 127.0.0.1 adtriplex.com
 127.0.0.1 adultadvertising.com
@@ -979,12 +978,10 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 avocet.io
 127.0.0.1 avpa.javalobby.org
 127.0.0.1 avsads.com
-127.0.0.1 avzadsrv.com
 127.0.0.1 awempire.com
 127.0.0.1 awin1.com
 127.0.0.1 b-1st.com
 127.0.0.1 b.aol.com
-127.0.0.1 b.engadget.com
 127.0.0.1 b59812ee54afcabd.com
 127.0.0.1 ba.afl.rakuten.co.jp
 127.0.0.1 babs.tv2.dk
@@ -1039,7 +1036,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 banners.adultfriendfinder.com
 127.0.0.1 banners.amigos.com
 127.0.0.1 banners.asiafriendfinder.com
-127.0.0.1 banners.babylon-x.com
 127.0.0.1 banners.bol.com.br
 127.0.0.1 banners.cams.com
 127.0.0.1 banners.clubseventeen.com
@@ -2116,7 +2112,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 rank-master.com
 127.0.0.1 rank-master.de
 127.0.0.1 rankchamp.de
-127.0.0.1 ranking-charts.de
 127.0.0.1 ranking-hits.de
 127.0.0.1 ranking-id.de
 127.0.0.1 ranking-links.de
@@ -2231,7 +2226,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 sexinyourcity.com
 127.0.0.1 sexlist.com
 127.0.0.1 sextracker.com
-127.0.0.1 sexystat.com
 127.0.0.1 shakesea.com
 127.0.0.1 shakytaste.com
 127.0.0.1 shareadspace.com
