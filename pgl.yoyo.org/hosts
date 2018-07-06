@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 12 Jun 2018 19:57:04 GMT
-# entries:        2630
+# entries:        2629
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -83,7 +83,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 actualdeals.com
 127.0.0.1 actuallysheep.com
 127.0.0.1 acuityads.com
-127.0.0.1 acuty1adsrv.com
 127.0.0.1 ad-balancer.at
 127.0.0.1 ad-balancer.net
 127.0.0.1 ad-center.com
