@@ -23314,6 +23314,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 v5.cnzz.com
 127.0.0.1 v7.cnzz.com
 127.0.0.1 v7.stats.load.com
+127.0.0.1 v8.analytics.pinsightmedia.com
+127.0.0.1 v8engine.pinsightmedia.com
+127.0.0.1 v8push.pinsightmedia.com
 127.0.0.1 v9.cnzz.com
 127.0.0.1 va.5.p2l.info
 127.0.0.1 vacation.toppick.info
