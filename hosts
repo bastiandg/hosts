@@ -1596,6 +1596,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adclick.com
 127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 adclick.hit.gemius.pl
+127.0.0.1 adclicks.io
 127.0.0.1 adclickservice.com
 127.0.0.1 adclient-af.lp.uol.com.br
 127.0.0.1 adclient.163.com
@@ -7571,7 +7572,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.mirageads.net
 127.0.0.1 cdn.mobicow.com
 127.0.0.1 cdn.mplxtms.com
-127.0.0.1 cdn.mxpnl.com
 127.0.0.1 cdn.my-pc-cleaner.org
 127.0.0.1 cdn.ndparking.com
 127.0.0.1 cdn.nearbyad.com
@@ -8316,6 +8316,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 collector-1054.tvsquared.com
 127.0.0.1 collector-184.tvsquared.com
 127.0.0.1 collector-195.tvsquared.com
+127.0.0.1 collector-2398.tvsquared.com
 127.0.0.1 collector-428.tvsquared.com
 127.0.0.1 collector-pxel3l4xih.perimeterx.net
 127.0.0.1 collector.deepmetrix.com
@@ -15529,6 +15530,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ms.yandex.ru
 127.0.0.1 ms11.net
 127.0.0.1 ms127.0.0.101341.club
+127.0.0.1 mscom.demdex.net
 127.0.0.1 mseuppremain.112.2o7.net
 127.0.0.1 mseupwinxpfam.112.2o7.net
 127.0.0.1 msfn.us.intellitxt.com
@@ -16269,6 +16271,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ny.5.p2l.info
 127.0.0.1 nyads.ny.publicus.com
 127.0.0.1 nydailynews.d1.sc.omtrdc.net
+127.0.0.1 nym1-ib.adnxs.com
 127.0.0.1 nym1.b.adnxs.com
 127.0.0.1 nym1.ib.adnxs.com
 127.0.0.1 nysubwayoffer.com
@@ -18600,7 +18603,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 realmedia.nana.co.il
 127.0.0.1 realtechnetwork.com
 127.0.0.1 realtime.deximedia.com
-127.0.0.1 realtime.services.disqus.com
 127.0.0.1 realtimeads.com
 127.0.0.1 realtouchbannerwidget.aebn.net
 127.0.0.1 realtracker.com
@@ -19784,7 +19786,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 seethisinaction.com
 127.0.0.1 seg.sharethis.com
 127.0.0.1 segapi.quantserve.com
-127.0.0.1 segment-data.zqtk.net
 127.0.0.1 segment-pixel.invitemedia.com
 127.0.0.1 segments.adaptv.advertising.com
 127.0.0.1 segob.gob.mx
