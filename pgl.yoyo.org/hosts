@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 12 Jun 2018 19:57:04 GMT
-# entries:        2622
+# entries:        2623
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -821,6 +821,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adtoma.com
 127.0.0.1 adtrace.org
 127.0.0.1 adtrade.net
+127.0.0.1 adtrading.de
 127.0.0.1 adtrak.net
 127.0.0.1 adtriplex.com
 127.0.0.1 adultadvertising.com
@@ -945,7 +946,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 annonser.dagbladet.no
 127.0.0.1 anxiousapples.com
 127.0.0.1 api.intensifier.de
-127.0.0.1 app.adblockhyper.us
 127.0.0.1 app.pendo.io
 127.0.0.1 appsflyer.com
 127.0.0.1 aps.hearstnp.com
@@ -1035,6 +1035,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 banners.adultfriendfinder.com
 127.0.0.1 banners.amigos.com
 127.0.0.1 banners.asiafriendfinder.com
+127.0.0.1 banners.babylon-x.com
 127.0.0.1 banners.bol.com.br
 127.0.0.1 banners.cams.com
 127.0.0.1 banners.clubseventeen.com
@@ -1690,13 +1691,13 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 kindads.com
 127.0.0.1 kissmetrics.com
 127.0.0.1 kliks.nl
+127.0.0.1 kniverto.com
 127.0.0.1 knorex.com
 127.0.0.1 koinser.in
 127.0.0.1 komoona.com
 127.0.0.1 kompasads.com
 127.0.0.1 kontera.com
 127.0.0.1 ktu.sv2.biz
-127.0.0.1 lacerta.space
 127.0.0.1 lakequincy.com
 127.0.0.1 launchbit.com
 127.0.0.1 layer-ad.de
@@ -2225,6 +2226,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 sexinyourcity.com
 127.0.0.1 sexlist.com
 127.0.0.1 sextracker.com
+127.0.0.1 sexystat.com
 127.0.0.1 shakesea.com
 127.0.0.1 shakytaste.com
 127.0.0.1 shareadspace.com
@@ -2421,7 +2423,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 topping.com.ua
 127.0.0.1 toprebates.com
 127.0.0.1 topsafelist.net
-127.0.0.1 topsearcher.com
 127.0.0.1 topsir.com
 127.0.0.1 topsite.lv
 127.0.0.1 topsites.com.br
