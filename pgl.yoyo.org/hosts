@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 25 Jul 2018 08:43:17 GMT
-# entries:        2623
+# last updated:   Wed, 25 Jul 2018 13:45:04 GMT
+# entries:        2624
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2196,6 +2196,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 samsungads.com
 127.0.0.1 saysidewalk.com
 127.0.0.1 sbx.pagesjaunes.fr
+127.0.0.1 sc-analytics.appspot.com
 127.0.0.1 scambiobanner.aruba.it
 127.0.0.1 scanscout.com
 127.0.0.1 scarcestream.com
