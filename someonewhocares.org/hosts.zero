@@ -5137,6 +5137,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 euniverseads.com
 0.0.0.0 eur.a1.yimg.com
 0.0.0.0 europe.adserver.yahoo.com
+0.0.0.0 euw.adserver.snapads.com
 0.0.0.0 eveley.club
 0.0.0.0 event-log.videe.tv
 0.0.0.0 events.kiosked.com
@@ -9435,6 +9436,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 sazadubo48.bid
 0.0.0.0 sb.freeskreen.com
 0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 sc-spyware.com
 0.0.0.0 sc.5.p2l.info
 0.0.0.0 sc.intellitxt.com
