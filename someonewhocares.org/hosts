@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 27 Jul 2018 at 03:55:26 GMT
+# Last updated: Fri, 27 Jul 2018 at 11:30:23 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2333,6 +2333,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 kaytri.com
 127.0.0.1 kczambians.com
 127.0.0.1 kdowqlpt.info
+127.0.0.1 keepass.fr
 127.0.0.1 kentsucks.youcanoptout.com
 127.0.0.1 keybinary.com
 127.0.0.1 keyupgrade.thecentral2updating.bid
