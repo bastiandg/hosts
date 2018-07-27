@@ -2219,6 +2219,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 simplisticnose.com
 0.0.0.0 sinoa.com
 0.0.0.0 sitedataprocessing.com
+0.0.0.0 siteimproveanalytics.com
 0.0.0.0 sitemeter.com
 0.0.0.0 sitestat.com
 0.0.0.0 sixsigmatraffic.com
@@ -2417,6 +2418,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 track.viewdeos.com
 0.0.0.0 track1.viewdeos.com
 0.0.0.0 trackalyzer.com
+0.0.0.0 trackedlink.net
+0.0.0.0 trackedweb.net
 0.0.0.0 tracker-pm2.spilleren.com
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 tracker.marinsm.com
