@@ -5070,6 +5070,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 analyticcdn.globalmailer.com
 0.0.0.0 analytics-api-samples.googlecode.com
 0.0.0.0 analytics-eu.clickdimensions.com
+0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics.admob.com
 0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics.amakings.com
@@ -12991,6 +12992,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 interyield.td573.com
 0.0.0.0 intext.billboard.cz
 0.0.0.0 intext.lookit.cz
+0.0.0.0 intljs.rmtag.com
 0.0.0.0 intnet-offer.com
 0.0.0.0 intogossip.us.intellitxt.com
 0.0.0.0 intomobile.us.intellitxt.com

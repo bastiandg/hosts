@@ -2726,6 +2726,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 an.tacoda.net
 0.0.0.0 an.yandex.ru
 0.0.0.0 analysis.fc2.com
+0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics.admob.com
 0.0.0.0 analytics.ku6.com
 0.0.0.0 analytics.kwebsoft.com
@@ -6334,6 +6335,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 interia.adsearch.adkontekst.pl
 0.0.0.0 internet.billboard.cz
 0.0.0.0 interyield.td573.com
+0.0.0.0 intljs.rmtag.com
 0.0.0.0 intnet-offer.com
 0.0.0.0 intrack.pl
 0.0.0.0 inv-nets.admixer.net
