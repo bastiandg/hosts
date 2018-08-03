@@ -1912,6 +1912,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 openad.travelnow.com
 0.0.0.0 openads.friendfinder.com
 0.0.0.0 openads.org
+0.0.0.0 opentag-stats.qubit.com
 0.0.0.0 openx.angelsgroup.org.uk
 0.0.0.0 openx.blindferret.com
 0.0.0.0 opienetwork.com
@@ -2544,6 +2545,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 webtracky.com
 0.0.0.0 webtraffic.se
 0.0.0.0 webtraxx.de
+0.0.0.0 webtrends.telegraph.co.uk
 0.0.0.0 webtrendslive.com
 0.0.0.0 werbung.meteoxpress.com
 0.0.0.0 wetrack.it
@@ -2616,5 +2618,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 zenzuu.com
 0.0.0.0 zeus.developershed.com
 0.0.0.0 zeusclicks.com
+0.0.0.0 zm232.com
 0.0.0.0 zmedia.com
 0.0.0.0 zqtk.net
