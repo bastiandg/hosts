@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 27 Jul 2018 08:30:14 GMT
-# entries:        2621
+# entries:        2614
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1161,7 +1161,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 casinotreasure.com
 127.0.0.1 casterist.info
 127.0.0.1 cbanners.virtuagirlhd.com
-127.0.0.1 cbmall.com
 127.0.0.1 cdn.freefarcy.com
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.segment.com
@@ -1527,7 +1526,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 globe7.com
 127.0.0.1 globus-inter.com
 127.0.0.1 gmads.net
-127.0.0.1 go-clicks.de
 127.0.0.1 go-rank.de
 127.0.0.1 goingplatinum.com
 127.0.0.1 goldstats.com
@@ -1604,7 +1602,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 iasds01.com
 127.0.0.1 iconadserver.com
 127.0.0.1 icptrack.com
-127.0.0.1 idcounter.com
 127.0.0.1 identads.com
 127.0.0.1 idtargeting.com
 127.0.0.1 ientrymail.com
@@ -1677,7 +1674,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 juicyads.com
 127.0.0.1 jumptap.com
 127.0.0.1 justrelevant.com
-127.0.0.1 justwebads.com
 127.0.0.1 k.iinfo.cz
 127.0.0.1 kanoodle.com
 127.0.0.1 kargo.com
@@ -1747,7 +1743,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 m.trb.com
 127.0.0.1 m1.webstats4u.com
 127.0.0.1 m32.media
-127.0.0.1 m4n.nl
 127.0.0.1 mackeeperapp.mackeeper.com
 127.0.0.1 madclient.uimserv.net
 127.0.0.1 madisonavenue.com
@@ -2105,6 +2100,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 rank-master.com
 127.0.0.1 rank-master.de
 127.0.0.1 rankchamp.de
+127.0.0.1 ranking-charts.de
 127.0.0.1 ranking-hits.de
 127.0.0.1 ranking-id.de
 127.0.0.1 ranking-links.de
@@ -2199,7 +2195,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 scripte-monster.de
 127.0.0.1 scrubsky.com
 127.0.0.1 scrubswim.com
-127.0.0.1 searchfeast.com
 127.0.0.1 searchmarketing.com
 127.0.0.1 searchramp.com
 127.0.0.1 secure.webconnect.net
@@ -2253,7 +2248,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 smartlook.com
 127.0.0.1 smetrics.ctv.ca
 127.0.0.1 smetrics.walgreens.com
-127.0.0.1 smowtion.com
 127.0.0.1 snakesort.com
 127.0.0.1 snapads.com
 127.0.0.1 sneaklevel.com
@@ -2382,7 +2376,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 theadex.com
 127.0.0.1 theadhost.com
 127.0.0.1 theads.me
-127.0.0.1 thebugs.ws
 127.0.0.1 therapistla.com
 127.0.0.1 therichkids.com
 127.0.0.1 thirdrespect.com

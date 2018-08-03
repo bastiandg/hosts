@@ -1135,7 +1135,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 casinotreasure.com
 0.0.0.0 casterist.info
 0.0.0.0 cbanners.virtuagirlhd.com
-0.0.0.0 cbmall.com
 0.0.0.0 cdn.freefarcy.com
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.segment.com
@@ -1501,7 +1500,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 globe7.com
 0.0.0.0 globus-inter.com
 0.0.0.0 gmads.net
-0.0.0.0 go-clicks.de
 0.0.0.0 go-rank.de
 0.0.0.0 goingplatinum.com
 0.0.0.0 goldstats.com
@@ -1578,7 +1576,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 iasds01.com
 0.0.0.0 iconadserver.com
 0.0.0.0 icptrack.com
-0.0.0.0 idcounter.com
 0.0.0.0 identads.com
 0.0.0.0 idtargeting.com
 0.0.0.0 ientrymail.com
@@ -1651,7 +1648,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 juicyads.com
 0.0.0.0 jumptap.com
 0.0.0.0 justrelevant.com
-0.0.0.0 justwebads.com
 0.0.0.0 k.iinfo.cz
 0.0.0.0 kanoodle.com
 0.0.0.0 kargo.com
@@ -1721,7 +1717,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 m.trb.com
 0.0.0.0 m1.webstats4u.com
 0.0.0.0 m32.media
-0.0.0.0 m4n.nl
 0.0.0.0 mackeeperapp.mackeeper.com
 0.0.0.0 madclient.uimserv.net
 0.0.0.0 madisonavenue.com
@@ -2079,6 +2074,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rank-master.com
 0.0.0.0 rank-master.de
 0.0.0.0 rankchamp.de
+0.0.0.0 ranking-charts.de
 0.0.0.0 ranking-hits.de
 0.0.0.0 ranking-id.de
 0.0.0.0 ranking-links.de
@@ -2173,7 +2169,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 scripte-monster.de
 0.0.0.0 scrubsky.com
 0.0.0.0 scrubswim.com
-0.0.0.0 searchfeast.com
 0.0.0.0 searchmarketing.com
 0.0.0.0 searchramp.com
 0.0.0.0 secure.webconnect.net
@@ -2227,7 +2222,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 smartlook.com
 0.0.0.0 smetrics.ctv.ca
 0.0.0.0 smetrics.walgreens.com
-0.0.0.0 smowtion.com
 0.0.0.0 snakesort.com
 0.0.0.0 snapads.com
 0.0.0.0 sneaklevel.com
@@ -2356,7 +2350,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 theadex.com
 0.0.0.0 theadhost.com
 0.0.0.0 theads.me
-0.0.0.0 thebugs.ws
 0.0.0.0 therapistla.com
 0.0.0.0 therichkids.com
 0.0.0.0 thirdrespect.com
