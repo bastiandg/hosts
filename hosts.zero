@@ -464,7 +464,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 9down.us.intellitxt.com
 0.0.0.0 a-ads.com
 0.0.0.0 a-blog.eu
-0.0.0.0 a-counter.kiev.ua
 0.0.0.0 a-nj.1rx.io
 0.0.0.0 a-scrip.org
 0.0.0.0 a-ssl.ligatus.com
@@ -1701,7 +1700,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adgeo.163.com
 0.0.0.0 adgoto.com
 0.0.0.0 adgraphics.theonion.com
-0.0.0.0 adgridwork.com
 0.0.0.0 adgroup.naver.com
 0.0.0.0 adguanggao.eee114.com
 0.0.0.0 adhall.com
