@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 05 Aug 2018 12:03:08 GMT
-# entries:        2619
+# last updated:   Fri, 10 Aug 2018 16:50:44 GMT
+# entries:        2620
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1623,6 +1623,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 impressionmedia.cz
 127.0.0.1 impressionz.co.uk
 127.0.0.1 imrworldwide.com
+127.0.0.1 inaccused.com
 127.0.0.1 inboxdollars.com
 127.0.0.1 incentaclick.com
 127.0.0.1 incognitosearches.com
