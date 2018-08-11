@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 10 Aug 2018 16:50:44 GMT
-# entries:        2620
+# last updated:   Sat, 11 Aug 2018 08:29:43 GMT
+# entries:        2621
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1499,6 +1499,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 freestats.com
 127.0.0.1 freestats.tv
 127.0.0.1 freewebcounter.com
+127.0.0.1 freshmarketer.com
 127.0.0.1 frtyj.com
 127.0.0.1 fullstory.com
 127.0.0.1 functionalclam.com
