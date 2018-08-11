@@ -4762,7 +4762,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 downloads.mytvandmovies.com
 0.0.0.0 dp1.33across.com
 0.0.0.0 dpbolvw.net
-0.0.0.0 dpm.demdex.net
 0.0.0.0 dqs001.adtech.de
 0.0.0.0 dqs001.adtech.fr
 0.0.0.0 dqs001.adtech.us
@@ -7509,7 +7508,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 metrics.elle.com
 0.0.0.0 metrics.experts-exchange.com
 0.0.0.0 metrics.fandome.com
-0.0.0.0 metrics.foxnews.com
 0.0.0.0 metrics.gap.com
 0.0.0.0 metrics.health.com
 0.0.0.0 metrics.hrblock.com
