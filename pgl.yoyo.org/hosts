@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 11 Aug 2018 08:29:43 GMT
-# entries:        2621
+# last updated:   Tue, 14 Aug 2018 18:11:02 GMT
+# entries:        2622
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1896,6 +1896,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 newtopsites.com
 127.0.0.1 nexage.com
 127.0.0.1 ng3.ads.warnerbros.com
+127.0.0.1 nitratory.com
 127.0.0.1 nitroclicks.com
 127.0.0.1 novem.pl
 127.0.0.1 ns1p.net
