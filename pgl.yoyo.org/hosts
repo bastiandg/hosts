@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 14 Aug 2018 18:11:02 GMT
-# entries:        2622
+# last updated:   Wed, 15 Aug 2018 15:10:04 GMT
+# entries:        2624
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1733,6 +1733,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 log.btopenworld.com
 127.0.0.1 logger.snackly.co
 127.0.0.1 logrocket.com
+127.0.0.1 logs.roku.com
 127.0.0.1 logua.com
 127.0.0.1 lop.com
 127.0.0.1 lopsidedspoon.com
@@ -2443,6 +2444,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 tracker-pm2.spilleren.com
 127.0.0.1 tracker.icerocket.com
 127.0.0.1 tracker.marinsm.com
+127.0.0.1 tracker.trackerfix.com
 127.0.0.1 tracking.crunchiemedia.com
 127.0.0.1 tracking.gajmp.com
 127.0.0.1 tracking.internetstores.de

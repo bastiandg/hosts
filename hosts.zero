@@ -14021,6 +14021,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 logs.eresmas.com
 0.0.0.0 logs.eresmas.net
 0.0.0.0 logs.loggly.com
+0.0.0.0 logs.roku.com
 0.0.0.0 logs.sexy-parade.com
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.thebloggernetwork.com
@@ -22580,6 +22581,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracker.squidanalytics.com
 0.0.0.0 tracker.stats.in.th
 0.0.0.0 tracker.svcoffer.com
+0.0.0.0 tracker.trackerfix.com
 0.0.0.0 tracker.tradedoubler.com
 0.0.0.0 tracker.truehits.in.th
 0.0.0.0 tracker.truehits.net
