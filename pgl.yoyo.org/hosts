@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 16 Aug 2018 07:04:35 GMT
-# entries:        2624
+# last updated:   Thu, 16 Aug 2018 09:38:41 GMT
+# entries:        2626
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1549,6 +1549,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 harrenmedianetwork.com
 127.0.0.1 havamedia.net
 127.0.0.1 heap.com
+127.0.0.1 heapanalytics.com
 127.0.0.1 heias.com
 127.0.0.1 hellobar.com
 127.0.0.1 hentaicounter.com
@@ -1731,6 +1732,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 lizardslaugh.com
 127.0.0.1 loading321.com
 127.0.0.1 log.btopenworld.com
+127.0.0.1 log.logrocket.io
 127.0.0.1 logger.snackly.co
 127.0.0.1 logs.logrocket.com
 127.0.0.1 logs.roku.com

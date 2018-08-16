@@ -13919,6 +13919,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 log.feedjit.com
 0.0.0.0 log.hankooki.com
 0.0.0.0 log.idg.no
+0.0.0.0 log.logrocket.io
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.newsvine.com
 0.0.0.0 log.olark.com
