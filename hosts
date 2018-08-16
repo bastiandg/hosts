@@ -14015,12 +14015,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 logp.xiti.com
 127.0.0.1 logp2.xiti.com
 127.0.0.1 logp3.xiti.com
-127.0.0.1 logrocket.com
 127.0.0.1 logs-01.loggly.com
 127.0.0.1 logs.comics.com
 127.0.0.1 logs.eresmas.com
 127.0.0.1 logs.eresmas.net
 127.0.0.1 logs.loggly.com
+127.0.0.1 logs.logrocket.com
 127.0.0.1 logs.roku.com
 127.0.0.1 logs.sexy-parade.com
 127.0.0.1 logs.spilgames.com
