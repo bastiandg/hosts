@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 16 Aug 2018 09:38:41 GMT
-# entries:        2626
+# last updated:   Thu, 16 Aug 2018 11:50:05 GMT
+# entries:        2629
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1077,6 +1077,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 beacon.gu-web.net
 127.0.0.1 beamincrease.com
 127.0.0.1 beamkite.com
+127.0.0.1 bebi.com
 127.0.0.1 begun.ru
 127.0.0.1 behavioralengine.com
 127.0.0.1 belstat.com
@@ -2010,6 +2011,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 picadmedia.com
 127.0.0.1 piet2eix3l.com
 127.0.0.1 pietexture.com
+127.0.0.1 piguiqproxy.com
 127.0.0.1 pillscash.com
 127.0.0.1 pimproll.com
 127.0.0.1 ping.ublock.org
@@ -2641,6 +2643,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 yieldmo.com
 127.0.0.1 yieldtraffic.com
 127.0.0.1 yldbt.com
+127.0.0.1 ymetrica1.com
 127.0.0.1 yoggrt.com
 127.0.0.1 z5x.net
 127.0.0.1 zangocash.com
