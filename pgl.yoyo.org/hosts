@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 16 Aug 2018 11:50:05 GMT
-# entries:        2628
+# entries:        2627
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2535,7 +2535,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 videoegg.com
 127.0.0.1 vidora.com
 127.0.0.1 view4cash.de
-127.0.0.1 viewpoint.com
 127.0.0.1 visiblemeasures.com
 127.0.0.1 visistat.com
 127.0.0.1 visit.webhosting.yahoo.com
