@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 16 Aug 2018 11:50:05 GMT
-# entries:        2627
+# entries:        2623
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1783,7 +1783,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mediaarea.eu
 127.0.0.1 mediabridge.cc
 127.0.0.1 mediacharger.com
-127.0.0.1 mediadvertising.ro
 127.0.0.1 mediageneral.com
 127.0.0.1 mediaiqdigital.com
 127.0.0.1 mediamath.com
@@ -2021,7 +2020,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 pixel.sojern.com
 127.0.0.1 pixel.watch
 127.0.0.1 play4traffic.com
-127.0.0.1 playhaven.com
 127.0.0.1 playmobileads.com
 127.0.0.1 plista.com
 127.0.0.1 plugrush.com
@@ -2066,7 +2064,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 promos.bwin.it
 127.0.0.1 promos.fling.com
 127.0.0.1 promote.pair.com
-127.0.0.1 promotion-campaigns.com
 127.0.0.1 pronetadvertising.com
 127.0.0.1 propellerads.com
 127.0.0.1 props.id
@@ -2350,7 +2347,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 switchadhub.com
 127.0.0.1 switchads.com
 127.0.0.1 swordfishdc.com
-127.0.0.1 sx.trhnt.com
 127.0.0.1 t.insigit.com
 127.0.0.1 t.pusk.ru
 127.0.0.1 taboola.com
@@ -2386,6 +2382,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 theadex.com
 127.0.0.1 theadhost.com
 127.0.0.1 theads.me
+127.0.0.1 thebugs.ws
 127.0.0.1 therapistla.com
 127.0.0.1 therichkids.com
 127.0.0.1 thirdrespect.com
@@ -2479,7 +2476,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 trekdata.com
 127.0.0.1 trendcounter.com
 127.0.0.1 trendmd.com
-127.0.0.1 trhunt.com
 127.0.0.1 tribalfusion.com
 127.0.0.1 trickycelery.com
 127.0.0.1 tritetongue.com
