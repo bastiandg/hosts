@@ -2195,7 +2195,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.all-free-download.com
 0.0.0.0 ads.allaccess.com.ph
 0.0.0.0 ads.allsites.com
-0.0.0.0 ads.allvatar.com
 0.0.0.0 ads.allvertical.com
 0.0.0.0 ads.almasdarnews.com
 0.0.0.0 ads.alphaporno.com
@@ -4359,7 +4358,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adsrc.bankrate.com
 0.0.0.0 adsremote.scripps.com
 0.0.0.0 adsremote.scrippsnetwork.com
-0.0.0.0 adsremote.scrippsnetworks.com
 0.0.0.0 adsrevenue.net
 0.0.0.0 adsrich.qq.com
 0.0.0.0 adsrv.adplus.co.id
@@ -17586,7 +17584,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pg2.solution.weborama.fr
 0.0.0.0 pg308-zmbra.ads.tremorhub.com
 0.0.0.0 pgalvaoteles.pt
-0.0.0.0 pgl.example
+0.0.0.0 pgl.example0101
 0.0.0.0 pgmediaserve.com
 0.0.0.0 pgpartner.com
 0.0.0.0 pgssl.com
@@ -17893,6 +17891,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 play.traffpartners.com
 0.0.0.0 play4traffic.com
 0.0.0.0 playfuls.uk.intellitxt.com
+0.0.0.0 playhaven.com
 0.0.0.0 playinvaders.com
 0.0.0.0 playlink.pl
 0.0.0.0 playmobileads.com
@@ -18133,7 +18132,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 prm.europacash.com
 0.0.0.0 prmtracking.com
 0.0.0.0 prnewswire.122.2o7.net
-0.0.0.0 pro-advertising.com
 0.0.0.0 pro-networks.us.intellitxt.com
 0.0.0.0 pro.hit.gemius.pl
 0.0.0.0 pro.hit.stat24.com
@@ -23788,7 +23786,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 vungle.com
 0.0.0.0 vuokraovi.spring-tns.net
 0.0.0.0 vural-electronic.com
-0.0.0.0 vutzmxahqio.co
 0.0.0.0 vvps.ws
 0.0.0.0 vw.netmng.com
 0.0.0.0 vwr1.hitbox.com

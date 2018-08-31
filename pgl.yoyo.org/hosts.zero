@@ -344,7 +344,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.affiliates-spinit.com
 0.0.0.0 ads.affiliates.match.com
 0.0.0.0 ads.ak.facebook.com.edgesuite.net
-0.0.0.0 ads.allvatar.com
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.amdmb.com
 0.0.0.0 ads.amigos.com
@@ -779,7 +778,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adspeed.net
 0.0.0.0 adspirit.de
 0.0.0.0 adsponse.de
-0.0.0.0 adsremote.scrippsnetworks.com
 0.0.0.0 adsrevenue.net
 0.0.0.0 adsrv.deviantart.com
 0.0.0.0 adsrv.eacdn.com
@@ -1991,7 +1989,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 performancing.com
 0.0.0.0 permutive.com
 0.0.0.0 personagraph.com
-0.0.0.0 pgl.example
+0.0.0.0 pgl.example0101
 0.0.0.0 pgmediaserve.com
 0.0.0.0 pgpartner.com
 0.0.0.0 pheedo.com
@@ -2013,6 +2011,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pixel.sojern.com
 0.0.0.0 pixel.watch
 0.0.0.0 play4traffic.com
+0.0.0.0 playhaven.com
 0.0.0.0 playmobileads.com
 0.0.0.0 plista.com
 0.0.0.0 plugrush.com
@@ -2046,7 +2045,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 privatecash.com
 0.0.0.0 privy.com
 0.0.0.0 prmtracking.com
-0.0.0.0 pro-advertising.com
 0.0.0.0 proext.com
 0.0.0.0 profero.com
 0.0.0.0 profitrumour.com
@@ -2539,7 +2537,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 vrs.cz
 0.0.0.0 vs.tucows.com
 0.0.0.0 vungle.com
-0.0.0.0 vutzmxahqio.co
 0.0.0.0 wa.and.co.uk
 0.0.0.0 wantmobi.bid
 0.0.0.0 warlog.ru

@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 31 Aug 2018 07:40:19 GMT
-# entries:        2644
+# last updated:   Fri, 31 Aug 2018 12:19:05 GMT
+# entries:        2641
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -370,7 +370,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.affiliates-spinit.com
 127.0.0.1 ads.affiliates.match.com
 127.0.0.1 ads.ak.facebook.com.edgesuite.net
-127.0.0.1 ads.allvatar.com
 127.0.0.1 ads.alt.com
 127.0.0.1 ads.amdmb.com
 127.0.0.1 ads.amigos.com
@@ -805,7 +804,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adspeed.net
 127.0.0.1 adspirit.de
 127.0.0.1 adsponse.de
-127.0.0.1 adsremote.scrippsnetworks.com
 127.0.0.1 adsrevenue.net
 127.0.0.1 adsrv.deviantart.com
 127.0.0.1 adsrv.eacdn.com
@@ -2017,7 +2015,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 performancing.com
 127.0.0.1 permutive.com
 127.0.0.1 personagraph.com
-127.0.0.1 pgl.example
+127.0.0.1 pgl.example0101
 127.0.0.1 pgmediaserve.com
 127.0.0.1 pgpartner.com
 127.0.0.1 pheedo.com
@@ -2039,6 +2037,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 pixel.sojern.com
 127.0.0.1 pixel.watch
 127.0.0.1 play4traffic.com
+127.0.0.1 playhaven.com
 127.0.0.1 playmobileads.com
 127.0.0.1 plista.com
 127.0.0.1 plugrush.com
@@ -2072,7 +2071,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 privatecash.com
 127.0.0.1 privy.com
 127.0.0.1 prmtracking.com
-127.0.0.1 pro-advertising.com
 127.0.0.1 proext.com
 127.0.0.1 profero.com
 127.0.0.1 profitrumour.com
@@ -2565,7 +2563,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 vrs.cz
 127.0.0.1 vs.tucows.com
 127.0.0.1 vungle.com
-127.0.0.1 vutzmxahqio.co
 127.0.0.1 wa.and.co.uk
 127.0.0.1 wantmobi.bid
 127.0.0.1 warlog.ru
