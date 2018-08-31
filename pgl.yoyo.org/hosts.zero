@@ -2043,7 +2043,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 primaryads.com
 0.0.0.0 primetime.net
 0.0.0.0 privatecash.com
-0.0.0.0 privy.com
 0.0.0.0 prmtracking.com
 0.0.0.0 proext.com
 0.0.0.0 profero.com
@@ -2579,6 +2578,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 wholesaletraffic.info
 0.0.0.0 widdit.com
 0.0.0.0 widespace.com
+0.0.0.0 widget.privy.com
 0.0.0.0 widgetbucks.com
 0.0.0.0 wikia-ads.wikia.com
 0.0.0.0 window.nixnet.cz
