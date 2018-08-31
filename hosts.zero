@@ -2153,6 +2153,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.adsrvmedia.com
 0.0.0.0 ads.adsrvmedia.net
 0.0.0.0 ads.adsrvr.org
+0.0.0.0 ads.adstream.com.ro
 0.0.0.0 ads.adsurve.com
 0.0.0.0 ads.adtegrity.net
 0.0.0.0 ads.adthrive.com
@@ -2409,6 +2410,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.collegclub.com
 0.0.0.0 ads.collegehumor.com
 0.0.0.0 ads.collegemix.com
+0.0.0.0 ads.colombiaonline.com
 0.0.0.0 ads.com.com
 0.0.0.0 ads.comediagroup.hu
 0.0.0.0 ads.comeon.com
@@ -2518,6 +2520,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.ehealthcaresolutions.com
 0.0.0.0 ads.einmedia.com
 0.0.0.0 ads.eircom.net
+0.0.0.0 ads.elcarado.com
 0.0.0.0 ads.electrocelt.com
 0.0.0.0 ads.elitetrader.com
 0.0.0.0 ads.elmaz.com
@@ -2673,6 +2676,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.happyidiots.nl
 0.0.0.0 ads.hardwarezone.com
 0.0.0.0 ads.harpers.org
+0.0.0.0 ads.harvard.edu
 0.0.0.0 ads.haskovo.net
 0.0.0.0 ads.havenhomemedia.com
 0.0.0.0 ads.hbv.de
@@ -2828,6 +2832,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.kurir-info.rs
 0.0.0.0 ads.kyalon.net
 0.0.0.0 ads.lanistaads.com
+0.0.0.0 ads.lapalingo.com
 0.0.0.0 ads.laptop.bg
 0.0.0.0 ads.larryaffiliates.com
 0.0.0.0 ads.layer-ad.org
@@ -2858,6 +2863,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.lnkworld.com
 0.0.0.0 ads.localnow.com
 0.0.0.0 ads.localyokelmedia.com
+0.0.0.0 ads.lordlucky.com
 0.0.0.0 ads.lovercash.com
 0.0.0.0 ads.loveshack.org
 0.0.0.0 ads.lubbockonline.com
@@ -2920,6 +2926,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.mobclix.com
 0.0.0.0 ads.mobgold.com
 0.0.0.0 ads.mobilautomaten.com
+0.0.0.0 ads.mobilebet.com
 0.0.0.0 ads.mobiledia.com
 0.0.0.0 ads.mobilemarketer.com
 0.0.0.0 ads.mobilityware.com
@@ -3139,6 +3146,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.purefuck.com
 0.0.0.0 ads.pushplay.com
 0.0.0.0 ads.q1media.com
+0.0.0.0 ads.quasaraffiliates.com
 0.0.0.0 ads.queendom.com
 0.0.0.0 ads.quicken.com
 0.0.0.0 ads.quoka.de
@@ -3352,6 +3360,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.top-banners.com
 0.0.0.0 ads.top.bg
 0.0.0.0 ads.top500.org
+0.0.0.0 ads.toplayaffiliates.com
 0.0.0.0 ads.topnovini.bg
 0.0.0.0 ads.topwam.com
 0.0.0.0 ads.toronto.com
@@ -3439,6 +3448,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.videosz.com
 0.0.0.0 ads.vidsense.com
 0.0.0.0 ads.viewlondon.co.uk
+0.0.0.0 ads.viksaffiliates.com
 0.0.0.0 ads.vimg.net
 0.0.0.0 ads.vipcams.com
 0.0.0.0 ads.virginislandsdailynews.com
@@ -3463,6 +3473,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.warcry.com
 0.0.0.0 ads.watchmygf.net
 0.0.0.0 ads.watershed-publishing.com
+0.0.0.0 ads.watson.ch
 0.0.0.0 ads.wave.si
 0.0.0.0 ads.weather.ca
 0.0.0.0 ads.weather.com
@@ -3526,6 +3537,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.xtra.ca
 0.0.0.0 ads.xtra.co.nz
 0.0.0.0 ads.xtramsn.co.nz
+0.0.0.0 ads.xtribeapp.com
 0.0.0.0 ads.xxxad.net
 0.0.0.0 ads.xxxbunker.com
 0.0.0.0 ads.y-0.net

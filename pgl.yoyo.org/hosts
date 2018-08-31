@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 29 Aug 2018 16:49:59 GMT
-# entries:        2629
+# last updated:   Fri, 31 Aug 2018 07:40:19 GMT
+# entries:        2644
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -362,6 +362,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.adfox.ru
 127.0.0.1 ads.administrator.de
 127.0.0.1 ads.adshareware.net
+127.0.0.1 ads.adstream.com.ro
 127.0.0.1 ads.adultfriendfinder.com
 127.0.0.1 ads.adultswim.com
 127.0.0.1 ads.advance.net
@@ -407,6 +408,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.canalblog.com
 127.0.0.1 ads.canoe.ca
 127.0.0.1 ads.casinocity.com
+127.0.0.1 ads.casumoaffiliates.com
 127.0.0.1 ads.cbc.ca
 127.0.0.1 ads.cc
 127.0.0.1 ads.cc-dt.com
@@ -415,7 +417,9 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.channel4.com
 127.0.0.1 ads.clearchannel.com
 127.0.0.1 ads.co.com
+127.0.0.1 ads.colombiaonline.com
 127.0.0.1 ads.com.com
+127.0.0.1 ads.comeon.com
 127.0.0.1 ads.contactmusic.com
 127.0.0.1 ads.contentabc.com
 127.0.0.1 ads.contextweb.com
@@ -445,6 +449,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.economist.com
 127.0.0.1 ads.edbindex.dk
 127.0.0.1 ads.egrana.com.br
+127.0.0.1 ads.elcarado.com
 127.0.0.1 ads.electrocelt.com
 127.0.0.1 ads.elitetrader.com
 127.0.0.1 ads.emirates.net.ae
@@ -493,6 +498,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.guardianunlimited.co.uk
 127.0.0.1 ads.guru3d.com
 127.0.0.1 ads.harpers.org
+127.0.0.1 ads.harvard.edu
 127.0.0.1 ads.hbv.de
 127.0.0.1 ads.hearstmags.com
 127.0.0.1 ads.heartlight.org
@@ -529,6 +535,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.kinxxx.com
 127.0.0.1 ads.kompass.com
 127.0.0.1 ads.krawall.de
+127.0.0.1 ads.lapalingo.com
 127.0.0.1 ads.larryaffiliates.com
 127.0.0.1 ads.leovegas.com
 127.0.0.1 ads.lesbianpersonals.com
@@ -536,6 +543,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.linuxfoundation.org
 127.0.0.1 ads.linuxsecurity.com
 127.0.0.1 ads.livenation.com
+127.0.0.1 ads.lordlucky.com
 127.0.0.1 ads.mariuana.it
 127.0.0.1 ads.massinfra.nl
 127.0.0.1 ads.mcafee.com
@@ -545,6 +553,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.miarroba.com
 127.0.0.1 ads.mmania.com
 127.0.0.1 ads.mobilautomaten.com
+127.0.0.1 ads.mobilebet.com
 127.0.0.1 ads.motor-forum.nl
 127.0.0.1 ads.motormedia.nl
 127.0.0.1 ads.msn.com
@@ -590,6 +599,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.programattik.com
 127.0.0.1 ads.psd2html.com
 127.0.0.1 ads.pushplay.com
+127.0.0.1 ads.quasaraffiliates.com
 127.0.0.1 ads.quoka.de
 127.0.0.1 ads.rcs.it
 127.0.0.1 ads.recoletos.es
@@ -611,6 +621,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.silverdisc.co.uk
 127.0.0.1 ads.slim.com
 127.0.0.1 ads.smartclick.com
+127.0.0.1 ads.socialtheater.com
 127.0.0.1 ads.soft32.com
 127.0.0.1 ads.space.com
 127.0.0.1 ads.sptimes.com
@@ -624,6 +635,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.thestar.com
 127.0.0.1 ads.thrillsaffiliates.com
 127.0.0.1 ads.tmcs.net
+127.0.0.1 ads.toplayaffiliates.com
 127.0.0.1 ads.totallyfreestuff.com
 127.0.0.1 ads.townhall.com
 127.0.0.1 ads.trinitymirror.co.uk
@@ -645,11 +657,13 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.verticalresponse.com
 127.0.0.1 ads.vgchartz.com
 127.0.0.1 ads.videosz.com
+127.0.0.1 ads.viksaffiliates.com
 127.0.0.1 ads.virtual-nights.com
 127.0.0.1 ads.virtualcountries.com
 127.0.0.1 ads.vnumedia.com
 127.0.0.1 ads.waps.cn
 127.0.0.1 ads.wapx.cn
+127.0.0.1 ads.watson.ch
 127.0.0.1 ads.weather.ca
 127.0.0.1 ads.web.aol.com
 127.0.0.1 ads.web.cs.com
@@ -663,6 +677,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.wwe.biz
 127.0.0.1 ads.xhamster.com
 127.0.0.1 ads.xtra.co.nz
+127.0.0.1 ads.xtribeapp.com
 127.0.0.1 ads.y-0.net
 127.0.0.1 ads.yahoo.com
 127.0.0.1 ads.yap.yahoo.com

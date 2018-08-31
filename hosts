@@ -2153,6 +2153,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.adsrvmedia.com
 127.0.0.1 ads.adsrvmedia.net
 127.0.0.1 ads.adsrvr.org
+127.0.0.1 ads.adstream.com.ro
 127.0.0.1 ads.adsurve.com
 127.0.0.1 ads.adtegrity.net
 127.0.0.1 ads.adthrive.com
@@ -2409,6 +2410,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.collegclub.com
 127.0.0.1 ads.collegehumor.com
 127.0.0.1 ads.collegemix.com
+127.0.0.1 ads.colombiaonline.com
 127.0.0.1 ads.com.com
 127.0.0.1 ads.comediagroup.hu
 127.0.0.1 ads.comeon.com
@@ -2518,6 +2520,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.ehealthcaresolutions.com
 127.0.0.1 ads.einmedia.com
 127.0.0.1 ads.eircom.net
+127.0.0.1 ads.elcarado.com
 127.0.0.1 ads.electrocelt.com
 127.0.0.1 ads.elitetrader.com
 127.0.0.1 ads.elmaz.com
@@ -2673,6 +2676,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.happyidiots.nl
 127.0.0.1 ads.hardwarezone.com
 127.0.0.1 ads.harpers.org
+127.0.0.1 ads.harvard.edu
 127.0.0.1 ads.haskovo.net
 127.0.0.1 ads.havenhomemedia.com
 127.0.0.1 ads.hbv.de
@@ -2828,6 +2832,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.kurir-info.rs
 127.0.0.1 ads.kyalon.net
 127.0.0.1 ads.lanistaads.com
+127.0.0.1 ads.lapalingo.com
 127.0.0.1 ads.laptop.bg
 127.0.0.1 ads.larryaffiliates.com
 127.0.0.1 ads.layer-ad.org
@@ -2858,6 +2863,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.lnkworld.com
 127.0.0.1 ads.localnow.com
 127.0.0.1 ads.localyokelmedia.com
+127.0.0.1 ads.lordlucky.com
 127.0.0.1 ads.lovercash.com
 127.0.0.1 ads.loveshack.org
 127.0.0.1 ads.lubbockonline.com
@@ -2920,6 +2926,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.mobclix.com
 127.0.0.1 ads.mobgold.com
 127.0.0.1 ads.mobilautomaten.com
+127.0.0.1 ads.mobilebet.com
 127.0.0.1 ads.mobiledia.com
 127.0.0.1 ads.mobilemarketer.com
 127.0.0.1 ads.mobilityware.com
@@ -3139,6 +3146,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.purefuck.com
 127.0.0.1 ads.pushplay.com
 127.0.0.1 ads.q1media.com
+127.0.0.1 ads.quasaraffiliates.com
 127.0.0.1 ads.queendom.com
 127.0.0.1 ads.quicken.com
 127.0.0.1 ads.quoka.de
@@ -3352,6 +3360,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.top-banners.com
 127.0.0.1 ads.top.bg
 127.0.0.1 ads.top500.org
+127.0.0.1 ads.toplayaffiliates.com
 127.0.0.1 ads.topnovini.bg
 127.0.0.1 ads.topwam.com
 127.0.0.1 ads.toronto.com
@@ -3439,6 +3448,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.videosz.com
 127.0.0.1 ads.vidsense.com
 127.0.0.1 ads.viewlondon.co.uk
+127.0.0.1 ads.viksaffiliates.com
 127.0.0.1 ads.vimg.net
 127.0.0.1 ads.vipcams.com
 127.0.0.1 ads.virginislandsdailynews.com
@@ -3463,6 +3473,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.warcry.com
 127.0.0.1 ads.watchmygf.net
 127.0.0.1 ads.watershed-publishing.com
+127.0.0.1 ads.watson.ch
 127.0.0.1 ads.wave.si
 127.0.0.1 ads.weather.ca
 127.0.0.1 ads.weather.com
@@ -3526,6 +3537,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.xtra.ca
 127.0.0.1 ads.xtra.co.nz
 127.0.0.1 ads.xtramsn.co.nz
+127.0.0.1 ads.xtribeapp.com
 127.0.0.1 ads.xxxad.net
 127.0.0.1 ads.xxxbunker.com
 127.0.0.1 ads.y-0.net
