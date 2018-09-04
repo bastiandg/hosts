@@ -1784,6 +1784,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.verkata.com
 0.0.0.0 ads.vesperexchange.com
 0.0.0.0 ads.vg.basefarm.net
+0.0.0.0 ads.viber.com
 0.0.0.0 ads.viddler.com
 0.0.0.0 ads.videoadvertising.com
 0.0.0.0 ads.viewlondon.co.uk
@@ -10143,7 +10144,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 stat3.888.ku6.com
 0.0.0.0 stat3.cybermonitor.com
 0.0.0.0 statcounter.com
-0.0.0.0 static-eu-cdn.eporner.com
 0.0.0.0 static-ssl.exoclick.com
 0.0.0.0 static.2mdn.net
 0.0.0.0 static.admaximize.com
