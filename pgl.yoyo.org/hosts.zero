@@ -344,6 +344,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.affiliates-spinit.com
 0.0.0.0 ads.affiliates.match.com
 0.0.0.0 ads.ak.facebook.com.edgesuite.net
+0.0.0.0 ads.allvatar.com
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.amdmb.com
 0.0.0.0 ads.amigos.com
@@ -1019,7 +1020,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 banners.adultfriendfinder.com
 0.0.0.0 banners.amigos.com
 0.0.0.0 banners.asiafriendfinder.com
-0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.bol.com.br
 0.0.0.0 banners.cams.com
 0.0.0.0 banners.clubseventeen.com
@@ -1120,7 +1120,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 budsinc.com
 0.0.0.0 bullseye.backbeatmedia.com
 0.0.0.0 bumpberam.pro
-0.0.0.0 buyhitscheap.com
 0.0.0.0 buysellads.com
 0.0.0.0 buzzonclick.com
 0.0.0.0 bwp.download.com
@@ -1180,7 +1179,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cjlog.com
 0.0.0.0 claria.com
 0.0.0.0 class-act-clicks.com
-0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
@@ -1518,6 +1516,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 globe7.com
 0.0.0.0 globus-inter.com
 0.0.0.0 gmads.net
+0.0.0.0 go-clicks.de
 0.0.0.0 go-rank.de
 0.0.0.0 goingplatinum.com
 0.0.0.0 goldstats.com
@@ -1740,6 +1739,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 m.trb.com
 0.0.0.0 m1.webstats4u.com
 0.0.0.0 m32.media
+0.0.0.0 m4n.nl
 0.0.0.0 mackeeperapp.mackeeper.com
 0.0.0.0 madclient.uimserv.net
 0.0.0.0 madisonavenue.com
@@ -1772,6 +1772,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mediaarea.eu
 0.0.0.0 mediabridge.cc
 0.0.0.0 mediacharger.com
+0.0.0.0 mediadvertising.ro
 0.0.0.0 mediageneral.com
 0.0.0.0 mediaiqdigital.com
 0.0.0.0 mediamath.com
@@ -2213,7 +2214,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sexinyourcity.com
 0.0.0.0 sexlist.com
 0.0.0.0 sextracker.com
-0.0.0.0 sexystat.com
 0.0.0.0 shakesea.com
 0.0.0.0 shakytaste.com
 0.0.0.0 shareadspace.com
