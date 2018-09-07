@@ -12752,6 +12752,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 img.alibaba.com
 0.0.0.0 img.atdmt.com
 0.0.0.0 img.avatraffic.com
+0.0.0.0 img.awr.im
 0.0.0.0 img.bet-at-home.com
 0.0.0.0 img.blogads.com
 0.0.0.0 img.casalemedia.com
@@ -21571,6 +21572,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 t.frtyg.com
 0.0.0.0 t.goadservices.com
 0.0.0.0 t.grtyb.com
+0.0.0.0 t.info.rezbine.com
 0.0.0.0 t.insigit.com
 0.0.0.0 t.invitemedia.com
 0.0.0.0 t.mdn2015x1.com
@@ -22611,6 +22613,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 trackedlink.net
 0.0.0.0 trackedweb.net
 0.0.0.0 tracker-pm2.spilleren.com
+0.0.0.0 tracker.awr.im
 0.0.0.0 tracker.azet.sk
 0.0.0.0 tracker.baidu.com
 0.0.0.0 tracker.bang.com

@@ -6255,6 +6255,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 img-a2.ak.imagevz.net
 0.0.0.0 img-cdn.mediaplex.com
 0.0.0.0 img.alibaba.com
+0.0.0.0 img.awr.im
 0.0.0.0 img.blogads.com
 0.0.0.0 img.directtrack.com
 0.0.0.0 img.layer-ads.de
@@ -10452,6 +10453,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 t.dynad.net
 0.0.0.0 t.extreme-dm.com
 0.0.0.0 t.frtyg.com
+0.0.0.0 t.info.rezbine.com
 0.0.0.0 t.mdn2015x1.com
 0.0.0.0 t.mdn2015x3.com
 0.0.0.0 t.senaldos.com
@@ -10969,6 +10971,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 track3.your-picks.com
 0.0.0.0 tracka.businessleadbuilder.com
 0.0.0.0 trackadvertising.net
+0.0.0.0 tracker.awr.im
 0.0.0.0 tracker.baidu.com
 0.0.0.0 tracker.blueprintinteractivetest.com
 0.0.0.0 tracker.bonnint.net
