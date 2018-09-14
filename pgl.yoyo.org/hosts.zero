@@ -1020,6 +1020,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 banners.adultfriendfinder.com
 0.0.0.0 banners.amigos.com
 0.0.0.0 banners.asiafriendfinder.com
+0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.bol.com.br
 0.0.0.0 banners.cams.com
 0.0.0.0 banners.clubseventeen.com
@@ -1178,6 +1179,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cjlog.com
 0.0.0.0 claria.com
 0.0.0.0 class-act-clicks.com
+0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
@@ -1476,7 +1478,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 fpctraffic.com
 0.0.0.0 fpctraffic2.com
 0.0.0.0 fqtag.com
-0.0.0.0 fragmentserv.iac-online.de
 0.0.0.0 free-banners.com
 0.0.0.0 freebanner.com
 0.0.0.0 freelogs.com
@@ -1745,7 +1746,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mads.cnet.com
 0.0.0.0 madvertise.de
 0.0.0.0 marchex.com
-0.0.0.0 market-buster.com
 0.0.0.0 marketing.888.com
 0.0.0.0 marketing.hearstmagazines.nl
 0.0.0.0 marketing.nyi.net
@@ -1771,7 +1771,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mediaarea.eu
 0.0.0.0 mediabridge.cc
 0.0.0.0 mediacharger.com
-0.0.0.0 mediadvertising.ro
 0.0.0.0 mediageneral.com
 0.0.0.0 mediaiqdigital.com
 0.0.0.0 mediamath.com
@@ -2434,7 +2433,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracker-pm2.spilleren.com
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 tracker.marinsm.com
-0.0.0.0 tracker.trackerfix.com
 0.0.0.0 tracking.crunchiemedia.com
 0.0.0.0 tracking.gajmp.com
 0.0.0.0 tracking.internetstores.de

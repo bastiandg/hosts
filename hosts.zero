@@ -6083,6 +6083,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 banners.asiafriendfinder.com
 0.0.0.0 banners.askmecca.com
 0.0.0.0 banners.audioholics.com
+0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.betcris.com
 0.0.0.0 banners.bghelp.co.uk
 0.0.0.0 banners.bgmaps.com
@@ -7976,6 +7977,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 click-see-save.com
 0.0.0.0 click-west.acuityplatform.com
 0.0.0.0 click.a-ads.com
+0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.adpile.net
 0.0.0.0 click.adpremium.org
 0.0.0.0 click.adv.livedoor.com
@@ -11037,7 +11039,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 fr.slidein.clickintext.net
 0.0.0.0 fra-photobox-tracking.adalyser.com
 0.0.0.0 fra1-ib.adnxs.com
-0.0.0.0 fragmentserv.iac-online.de
 0.0.0.0 fratz.oewabox.at
 0.0.0.0 freakads.com
 0.0.0.0 free-banners.com
@@ -14652,7 +14653,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 marchofdimes.d2.sc.omtrdc.net
 0.0.0.0 marialorena.com.br
 0.0.0.0 marinermarketing.112.2o7.net
-0.0.0.0 market-buster.com
 0.0.0.0 market2.the-adult-company.com
 0.0.0.0 marketaff.com
 0.0.0.0 marketgid.com
@@ -14995,7 +14995,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mediabridge.cc
 0.0.0.0 mediacharger.com
 0.0.0.0 mediadc-d.openx.net
-0.0.0.0 mediadvertising.ro
 0.0.0.0 mediafaze.com
 0.0.0.0 mediafr.247realmedia.com
 0.0.0.0 mediageneral.com
@@ -22663,7 +22662,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracker.squidanalytics.com
 0.0.0.0 tracker.stats.in.th
 0.0.0.0 tracker.svcoffer.com
-0.0.0.0 tracker.trackerfix.com
 0.0.0.0 tracker.tradedoubler.com
 0.0.0.0 tracker.truehits.in.th
 0.0.0.0 tracker.truehits.net
