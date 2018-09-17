@@ -7714,6 +7714,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mobileanalytics.us-east-2.amazonaws.com
 0.0.0.0 mobileanalytics.us-west-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-west-2.amazonaws.com
+0.0.0.0 mobileleads.msn.com
 0.0.0.0 mobpushup.com
 0.0.0.0 mobrevflwms.com
 0.0.0.0 mobscan.info
