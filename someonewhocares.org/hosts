@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 18 Sep 2018 at 00:38:02 GMT
+# Last updated: Tue, 18 Sep 2018 at 04:39:11 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9305,6 +9305,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 o0.winfuture.de
 127.0.0.1 o1.qnsr.com
 127.0.0.1 o2.eyereturn.com
+127.0.0.1 o-2-s-f.win
 127.0.0.1 o.admob.com
 127.0.0.1 oads.cracked.com
 127.0.0.1 oamsrhads.us.publicus.com
@@ -9387,6 +9388,8 @@ ff02::3		ip6-allhosts
 127.0.0.1 onet.hit.gemius.pl
 127.0.0.1 onlinadverts.com
 127.0.0.1 online1.webcams.com
+127.0.0.1 online2018codeopen.win
+127.0.0.1 online2018softwarefree.win
 127.0.0.1 onlineads.magicvalley.com
 127.0.0.1 onlinebestoffers.net
 127.0.0.1 only2date.com
