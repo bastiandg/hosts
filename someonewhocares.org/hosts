@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 17 Sep 2018 at 07:02:08 GMT
+# Last updated: Tue, 18 Sep 2018 at 00:38:02 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2865,6 +2865,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.1tracksource.online
 127.0.0.1 www21.counsellor.gov.cn
 127.0.0.1 www2.fasterupconcreteflash.icu
+127.0.0.1 www.3tsdaq8viz.us
 127.0.0.1 www4.gy7k.net
 127.0.0.1 www.a2uu36g43l.download
 127.0.0.1 www.abetterinternet.com
