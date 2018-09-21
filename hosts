@@ -5370,6 +5370,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.sagent.io
 127.0.0.1 api.segment.io
 127.0.0.1 api.shoppingminds.net
+127.0.0.1 api.simpleanalytics.io
 127.0.0.1 api.stathat.com
 127.0.0.1 api.taboola.com
 127.0.0.1 api.tns-cs.net
@@ -7662,6 +7663,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.segment.io
 127.0.0.1 cdn.shoppingminds.net
 127.0.0.1 cdn.siftscience.com
+127.0.0.1 cdn.simpleanalytics.io
 127.0.0.1 cdn.spectate.com
 127.0.0.1 cdn.spoutable.com
 127.0.0.1 cdn.springboard.gorillanation.com
@@ -16107,6 +16109,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 newcarnet.uk.intellitxt.com
 127.0.0.1 newclk.com
 127.0.0.1 newcom.122.2o7.net
+127.0.0.1 neweggstats.com
 127.0.0.1 newip427.changeip.net
 127.0.0.1 newjobs.d1.sc.omtrdc.net
 127.0.0.1 newjunk4u.com
