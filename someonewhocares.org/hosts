@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 21 Sep 2018 at 02:19:30 GMT
+# Last updated: Mon, 24 Sep 2018 at 06:38:00 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2913,6 +2913,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.flexibleadmin.com
 127.0.0.1 www.freecontent.bid
 127.0.0.1 www.freedailydownload.com
+127.0.0.1 www.frequencyscheduler.com
 127.0.0.1 www.froling.bee.pl
 127.0.0.1 www.gacatl.com
 127.0.0.1 www.gezinti.com
