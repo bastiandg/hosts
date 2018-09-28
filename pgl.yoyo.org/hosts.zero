@@ -344,7 +344,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.affiliates-spinit.com
 0.0.0.0 ads.affiliates.match.com
 0.0.0.0 ads.ak.facebook.com.edgesuite.net
-0.0.0.0 ads.allvatar.com
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.amdmb.com
 0.0.0.0 ads.amigos.com
@@ -1175,6 +1174,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cjlog.com
 0.0.0.0 claria.com
 0.0.0.0 class-act-clicks.com
+0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
@@ -1602,7 +1602,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 img.prohardver.hu
 0.0.0.0 imgpromo.easyrencontre.com
 0.0.0.0 imonitor.nethost.cz
-0.0.0.0 imprese.cz
 0.0.0.0 impressionmedia.cz
 0.0.0.0 impressionz.co.uk
 0.0.0.0 imrworldwide.com
@@ -2382,7 +2381,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 top.proext.com
 0.0.0.0 top100-images.rambler.ru
 0.0.0.0 top100.mafia.ru
-0.0.0.0 top123.ro
 0.0.0.0 top20free.com
 0.0.0.0 top90.ro
 0.0.0.0 topacity.info
