@@ -1543,6 +1543,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 adapi.ragapa.com
 0.0.0.0 adapt.tv
 0.0.0.0 adaptv.pixel.invitemedia.com
+0.0.0.0 adashx.ut.taobao.com
+0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 adb.fling.com
 0.0.0.0 adb.wp.pl
 0.0.0.0 adbanner.adxcore.com
@@ -6352,6 +6354,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 beacon.walmart.ca
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.wikia-services.com
+0.0.0.0 beaconin2.notinote.me
 0.0.0.0 beacons.helium.com
 0.0.0.0 beacons.hottraffic.nl
 0.0.0.0 beads.sx.atl.publicus.com
@@ -6703,6 +6706,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 bowlingle.com
 0.0.0.0 box.anchorfree.net
 0.0.0.0 boxingscene.us.intellitxt.com
+0.0.0.0 bp.adkmob.com
 0.0.0.0 bp.specificclick.net
 0.0.0.0 bpath.com
 0.0.0.0 bps.beweb.com
@@ -11946,6 +11950,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 gyboo.cruisingsmallship.com
 0.0.0.0 gylra.cruisingsmallship.com
 0.0.0.0 gyros.es
+0.0.0.0 h-adashx.ut.taobao.com
+0.0.0.0 h-adashx4ae.ut.taobao.com
 0.0.0.0 h-afnetwww.adshuffle.com
 0.0.0.0 h.admob.com
 0.0.0.0 h.atdmt.com
@@ -12051,6 +12057,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 help.adtech.fr
 0.0.0.0 help.adtech.us
 0.0.0.0 help.mysearch.com
+0.0.0.0 helpbatteryov1.ksmobile.com
 0.0.0.0 helpdesk.marketbill.com
 0.0.0.0 helper-stats.wondershare.com
 0.0.0.0 helpingtrk.com
@@ -12765,6 +12772,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 img.en25.com
 0.0.0.0 img.jizzads.com
 0.0.0.0 img.layer-ads.de
+0.0.0.0 img.liczniki.org
 0.0.0.0 img.linkstorm.net
 0.0.0.0 img.marketgid.com
 0.0.0.0 img.metaffiliation.com
@@ -13531,6 +13539,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 kazaa.adserver.co.il
 0.0.0.0 kazaa.com
 0.0.0.0 kbbmain.112.2o7.net
+0.0.0.0 kbd1.kpns.ijinshan.com
+0.0.0.0 kbd2.kpns.ijinshan.com
 0.0.0.0 kc.mv.bidsystem.com
 0.0.0.0 kc.search.need2find.com
 0.0.0.0 kczambians.com
@@ -13837,6 +13847,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 liberty.gedads.com
 0.0.0.0 libs.de.coremetrics.com
 0.0.0.0 licasd.com
+0.0.0.0 liczniki.org
 0.0.0.0 lidlretargeting.adspirit.de
 0.0.0.0 lie2anyone.com
 0.0.0.0 lifemediahouse1.onlinewelten.com
@@ -21341,6 +21352,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 straightresults.com
 0.0.0.0 straighttangerine.cz.cc
 0.0.0.0 strangeduckfilms.com
+0.0.0.0 strategy.lmobi.net
 0.0.0.0 strawpoii.me
 0.0.0.0 stream-direct.co
 0.0.0.0 stream1.livefyre.com
@@ -23185,6 +23197,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 uchyz.cruisingsmallship.com
 0.0.0.0 ucounter.ucoz.net
 0.0.0.0 ucstat.baidu.com
+0.0.0.0 ud.adkmob.com
 0.0.0.0 udarem.com
 0.0.0.0 udc.msn.com
 0.0.0.0 udm.ia6.scorecardresearch.com
@@ -23385,6 +23398,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 usatravel-specials.net
 0.0.0.0 usc.adserver.snapads.com
 0.0.0.0 usd.sierra-boa.com
+0.0.0.0 usdk.batmobi.net
 0.0.0.0 usdm.122.2o7.net
 0.0.0.0 use-tor.adsrvr.org
 0.0.0.0 use.convertglobal.com
