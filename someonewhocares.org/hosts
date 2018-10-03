@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 03 Oct 2018 at 01:24:18 GMT
+# Last updated: Wed, 03 Oct 2018 at 02:11:06 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6775,6 +6775,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 apps5.oingo.com
 127.0.0.1 apps9039.super-your-prize33.loan
 127.0.0.1 app.scanscout.com
+127.0.0.1 apps-cloud.xyz
 127.0.0.1 appsrv1.madserving.cn
 127.0.0.1 ap.read.mediation.pns.ap.orangeads.fr
 127.0.0.1 a.prisacom.com
@@ -7139,9 +7140,11 @@ ff02::3		ip6-allhosts
 127.0.0.1 broadent.vo.llnwd.net
 127.0.0.1 brokertraffic.com
 127.0.0.1 browserbreckalarm.info
+127.0.0.1 browser-notifications.bid
 127.0.0.1 browserprotecter.com
 127.0.0.1 browser-tools.systems
 127.0.0.1 browsesafemac.com
+127.0.0.1 brwser-message.pw
 127.0.0.1 brxfinance.com
 127.0.0.1 bsads.looksmart.com
 127.0.0.1 bs.israelinfo.ru
@@ -8674,6 +8677,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 j.adlooxtracking.com
 127.0.0.1 j.admob.com
 127.0.0.1 jadserve.postrelease.com
+127.0.0.1 jahisope45.bid
 127.0.0.1 jambocast.com
 127.0.0.1 jb9clfifs6.s.ad6media.fr
 127.0.0.1 jcarter.spinbox.net
@@ -9208,6 +9212,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 mymediarecommendations.com
 127.0.0.1 my.mystreamdelivery.xyz
 127.0.0.1 myoffertracking.com
+127.0.0.1 myonline2018softwarefree.win
 127.0.0.1 myperiod.club
 127.0.0.1 my.putlocker.to
 127.0.0.1 my-reward-channel.com
@@ -9254,6 +9259,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 netshelter.adtrix.com
 127.0.0.1 netspiderads2.indiatimes.com
 127.0.0.1 netsponsors.com
+127.0.0.1 net-web-techie-software.win
 127.0.0.1 networkad.net
 127.0.0.1 network.adsmarket.com
 127.0.0.1 networkads.net
@@ -9302,6 +9308,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 nospartenaires.com
 127.0.0.1 nothing-but-value.com
 127.0.0.1 noticiasftpsrv.com
+127.0.0.1 notification-browser.com
 127.0.0.1 notifyday.com
 127.0.0.1 novafinanza.com
 127.0.0.1 novem.onet.pl
@@ -10168,6 +10175,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 securerunner.com
 127.0.0.1 secure.webconnect.net
 127.0.0.1 security60-e.com
+127.0.0.1 security-alert.kej8i8i69v.top
 127.0.0.1 seduction-zone.com
 127.0.0.1 seemlessfixing.tech
 127.0.0.1 seks-partner.com
@@ -10270,6 +10278,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 share-server.com
 127.0.0.1 shc-rebates.com
 127.0.0.1 shdfsdf.info
+127.0.0.1 shellstore.info
 127.0.0.1 sherkatkonandeh.com
 127.0.0.1 sherkhundi.com
 127.0.0.1 shinystat.shiny.it
@@ -10961,6 +10970,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 viralture.com
 127.0.0.1 viralvideos.tips
 127.0.0.1 vistawebs-top-shop-soft.site
+127.0.0.1 vistawebs-web-techie-app.win
 127.0.0.1 vk.18sexporn.ru
 127.0.0.1 vmcsatellite.com
 127.0.0.1 vmix.adbureau.net
@@ -11137,6 +11147,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 webnavegador.com
 127.0.0.1 web.nyc.ads.juno.co
 127.0.0.1 webservices-rewardpath.com
+127.0.0.1 websnettechieapp.win
 127.0.0.1 webstats1.com
 127.0.0.1 websurvey.spa-mr.com
 127.0.0.1 webtrekk.net
