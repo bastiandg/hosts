@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 01 Oct 2018 at 15:04:04 GMT
+# Last updated: Wed, 03 Oct 2018 at 01:24:18 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2800,6 +2800,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 twitter.secure.bzpharma.net
 127.0.0.1 tx.micro.net.pk
 127.0.0.1 uawj.moqhixoz.cn
+127.0.0.1 ufpcdn.com
 127.0.0.1 ughmvqf.spitt.ru
 127.0.0.1 ui.oix.net
 127.0.0.1 ultra2.tsinghua.edu.cn
@@ -2932,6 +2933,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.hallaert.online
 127.0.0.1 www.haoyunlaid.com
 127.0.0.1 www.hashing.win
+127.0.0.1 www.hyvf65qiht.us
 127.0.0.1 www.icecars.com
 127.0.0.1 www.indesignstudioinfo.com
 127.0.0.1 www.indexerflash.com
