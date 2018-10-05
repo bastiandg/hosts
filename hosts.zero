@@ -18536,6 +18536,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 r.chitika.net
 0.0.0.0 r.clickdensity.com
 0.0.0.0 r.dir.bg
+0.0.0.0 r.dlx.addthis.com
 0.0.0.0 r.domob.cn
 0.0.0.0 r.edge.inmobicdn.net
 0.0.0.0 r.ibg.bg
@@ -20411,6 +20412,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 smetrics.freecreditreport.com
 0.0.0.0 smetrics.tesco.com
 0.0.0.0 smetrics.walgreens.com
+0.0.0.0 smetrics.washingtonpost.com
 0.0.0.0 smetrics.yellowbook.com
 0.0.0.0 smibs.112.2o7.net
 0.0.0.0 smile-angel.com
