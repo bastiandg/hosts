@@ -81,7 +81,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 123count.com
 127.0.0.1 123counter.mycomputer.com
 127.0.0.1 123counter.superstats.com
-127.0.0.1 123found.com
 127.0.0.1 123freeavatars.com
 127.0.0.1 123go.com
 127.0.0.1 123greetings.com
@@ -1122,7 +1121,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad.nwt.cz
 127.0.0.1 ad.nz.doubleclick.net
 127.0.0.1 ad.ohmynews.com
-127.0.0.1 ad.onad.eu
 127.0.0.1 ad.orbitel.bg
 127.0.0.1 ad.oret.jp
 127.0.0.1 ad.ourgame.com
@@ -2190,6 +2188,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.all-free-download.com
 127.0.0.1 ads.allaccess.com.ph
 127.0.0.1 ads.allsites.com
+127.0.0.1 ads.allvatar.com
 127.0.0.1 ads.allvertical.com
 127.0.0.1 ads.almasdarnews.com
 127.0.0.1 ads.alphaporno.com
