@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 31 Aug 2018 16:35:56 GMT
-# entries:        2625
+# entries:        2619
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1162,7 +1162,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cashcrate.com
 127.0.0.1 cashengines.com
 127.0.0.1 cashfiesta.com
-127.0.0.1 cashlayer.com
 127.0.0.1 cashpartner.com
 127.0.0.1 casinogames.com
 127.0.0.1 casinopays.com
@@ -1277,7 +1276,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 copycarpenter.com
 127.0.0.1 copyrightaccesscontrols.com
 127.0.0.1 coremetrics.com
-127.0.0.1 cottawa.info
 127.0.0.1 count.rbc.ru
 127.0.0.1 count.rin.ru
 127.0.0.1 count.west263.com
@@ -1819,7 +1817,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 mgid.com
 127.0.0.1 microstatic.pl
 127.0.0.1 microticker.com
-127.0.0.1 midnightclicking.com
 127.0.0.1 misstrends.com
 127.0.0.1 mixedreading.com
 127.0.0.1 mixpanel.com
@@ -1925,7 +1922,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 oascentral.register.com
 127.0.0.1 oclasrv.com
 127.0.0.1 oewa.at
-127.0.0.1 oewabox.at
 127.0.0.1 offerforge.com
 127.0.0.1 offermatica.com
 127.0.0.1 olivebrandresponse.com
@@ -2289,7 +2285,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 spykemediatrack.com
 127.0.0.1 spylog.com
 127.0.0.1 spywarelabs.com
-127.0.0.1 spywarenuker.com
 127.0.0.1 spywords.com
 127.0.0.1 squeamishscarecrow.com
 127.0.0.1 srwww1.com
@@ -2354,7 +2349,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 taboola.com
 127.0.0.1 tacoda.net
 127.0.0.1 tagular.com
-127.0.0.1 tailsweep.co.uk
 127.0.0.1 tailsweep.com
 127.0.0.1 tailsweep.se
 127.0.0.1 takru.com
