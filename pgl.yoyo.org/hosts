@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 31 Aug 2018 16:35:56 GMT
-# entries:        2626
+# entries:        2625
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -382,7 +382,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.ask.com
 127.0.0.1 ads.aspalliance.com
 127.0.0.1 ads.avazu.net
-127.0.0.1 ads.batpmturner.com
 127.0.0.1 ads.belointeractive.com
 127.0.0.1 ads.berlinonline.de
 127.0.0.1 ads.betanews.com
