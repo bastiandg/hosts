@@ -2846,6 +2846,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.sagent.io
 0.0.0.0 api.shoppingminds.net
 0.0.0.0 api.simpleanalytics.io
+0.0.0.0 api.taboola.com
 0.0.0.0 api.tumra.com
 0.0.0.0 api.viglink.com
 0.0.0.0 api2.murdoog.com
@@ -2991,6 +2992,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 asg11.casalemedia.com
 0.0.0.0 asg12.casalemedia.com
 0.0.0.0 asg13.casalemedia.com
+0.0.0.0 ash.creativecdn.com
 0.0.0.0 ashow.pcpop.com
 0.0.0.0 asianread.com
 0.0.0.0 ask-coder.com
@@ -3132,6 +3134,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 banner.affactive.com
 0.0.0.0 banner.betroyalaffiliates.com
 0.0.0.0 banner.betwwts.com
+0.0.0.0 banner.boostbox.com.br
 0.0.0.0 banner.cdpoker.com
 0.0.0.0 banner.clubdicecasino.com
 0.0.0.0 banner.coza.com
@@ -3429,6 +3432,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 brapolice.com
 0.0.0.0 bravo.israelinfo.ru
 0.0.0.0 bravospots.com
+0.0.0.0 breakthroughtrend.com
 0.0.0.0 brightcove.112.2o7.net
 0.0.0.0 brightonclick.com
 0.0.0.0 brightroll.com
@@ -6844,6 +6848,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 link.masterstats.com
 0.0.0.0 link2me.ru
 0.0.0.0 link4ads.com
+0.0.0.0 link4win.net
 0.0.0.0 linkcounter.com
 0.0.0.0 linkcounter.pornosite.com
 0.0.0.0 linknotification.com
@@ -6877,6 +6882,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 loadus.exelator.com
 0.0.0.0 loan.aol.msk.su
 0.0.0.0 loan.maybachexelero.org
+0.0.0.0 loboclick.com
 0.0.0.0 loc1.hitsprocessor.com
 0.0.0.0 local
 0.0.0.0 local.promoisland.net
@@ -9938,11 +9944,13 @@ ff02::2 ip6-allrouters
 0.0.0.0 sinera.org
 0.0.0.0 single-online.petrovka.info
 0.0.0.0 site.adform.com
+0.0.0.0 siteadvisor.com-br.site
 0.0.0.0 siteimproveanalytics.com
 0.0.0.0 siteonline.stream
 0.0.0.0 sitesearch.hitbox.com
 0.0.0.0 sitestat.com
 0.0.0.0 sitestats.tiscali.co.uk
+0.0.0.0 sitionne.pro
 0.0.0.0 sixapart.adbureau.net
 0.0.0.0 sizzle-savings.com
 0.0.0.0 sjguild.com
@@ -9983,6 +9991,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 smartclip.net
 0.0.0.0 smartcontext.pl
 0.0.0.0 smartinit.webads.nl
+0.0.0.0 smartlifeguides.com
 0.0.0.0 smartshare.lgtvsdp.com
 0.0.0.0 smartstats.com
 0.0.0.0 smedizin.oewabox.at
@@ -12853,6 +12862,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.littledevildoubt.com
 0.0.0.0 www.liveadexchanger.com
 0.0.0.0 www.lldiettracker.com
+0.0.0.0 www.loboclick.com
 0.0.0.0 www.lolhello.com
 0.0.0.0 www.lolshock.com
 0.0.0.0 www.loltrain.com
@@ -13672,6 +13682,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 xml.yepmedia.com
 0.0.0.0 xmlheads.com
 0.0.0.0 xn--lt-68s.com
+0.0.0.0 xn--oogle-wmc.com
 0.0.0.0 xoomer.alice.it
 0.0.0.0 xpantivirus.com
 0.0.0.0 xpcs.ads.yahoo.com
