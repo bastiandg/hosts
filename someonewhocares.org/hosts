@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 24 Oct 2018 at 08:00:54 GMT
+# Last updated: Wed, 24 Oct 2018 at 09:05:14 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7784,6 +7784,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 de.ads.justpremium.com
 127.0.0.1 dealitright.click
 127.0.0.1 dearerfonder.info
+127.0.0.1 decide.mixpanel.com
 127.0.0.1 decouvre.la
 127.0.0.1 defpush.com
 127.0.0.1 del1.phillyburbs.com
@@ -9184,6 +9185,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 m.pl.pornzone.tv
 127.0.0.1 mp.tscapeplay.com
 127.0.0.1 mpv.sandai.net
+127.0.0.1 m.quantcount.com
 127.0.0.1 mr4evmd0r1.s.ad6media.fr
 127.0.0.1 msn.allyes.com
 127.0.0.1 msnbe-hp.metriweb.be
