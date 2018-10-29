@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 29 Oct 2018 at 01:28:19 GMT
+# Last updated: Mon, 29 Oct 2018 at 05:33:53 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -11630,6 +11630,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.datingadvertising.com
 127.0.0.1 www.dctracking.com
 127.0.0.1 www.defaultinternet.com
+127.0.0.1 www.delton.com
 127.0.0.1 www.depravedwhores.com
 127.0.0.1 www.designbloxlive.com
 127.0.0.1 www.destinationurl.com
