@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 30 Oct 2018 at 00:37:55 GMT
+# Last updated: Tue, 30 Oct 2018 at 01:10:48 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2885,6 +2885,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www2.gettypegoldflash.club
 127.0.0.1 www2.savedealoriginalaflash.icu
 127.0.0.1 www2.setdealoriginalaflash.icu
+127.0.0.1 www2.setoriginalgreataflash.icu
 127.0.0.1 www2.settypesoftaflash.icu
 127.0.0.1 www2.smallconcretetypeflash.world
 127.0.0.1 www2.smalltypeconcreteflash.rocks
