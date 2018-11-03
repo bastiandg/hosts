@@ -21,8 +21,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 02 Nov 2018 01:40:19 GMT
-# entries:        2925
+# last updated:   Sat, 03 Nov 2018 13:46:53 GMT
+# entries:        2927
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1461,6 +1461,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 doubleclick.net
 127.0.0.1 doublepimp.com
 127.0.0.1 doubtfulrainstorm.com
+127.0.0.1 downloadr.xyz
 127.0.0.1 dq95d35.com
 127.0.0.1 drabsize.com
 127.0.0.1 dragzebra.com
@@ -2955,6 +2956,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 zm232.com
 127.0.0.1 zmedia.com
 127.0.0.1 zqtk.net
+127.0.0.1 zy16eoat1w.com
 </pre>
 
 </body>
