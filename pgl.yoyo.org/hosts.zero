@@ -6,6 +6,7 @@ ff02::2 ip6-allrouters
 
 0.0.0.0 101com.com
 0.0.0.0 101order.com
+0.0.0.0 123found.com
 0.0.0.0 123freeavatars.com
 0.0.0.0 180hits.de
 0.0.0.0 180searchassistant.com

@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sat, 03 Nov 2018 13:46:53 GMT
-# entries:        2927
+# entries:        2928
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -32,6 +32,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # start date:    Sat, 14 Nov 1998 00:00:00
 127.0.0.1 101com.com
 127.0.0.1 101order.com
+127.0.0.1 123found.com
 127.0.0.1 123freeavatars.com
 127.0.0.1 180hits.de
 127.0.0.1 180searchassistant.com
