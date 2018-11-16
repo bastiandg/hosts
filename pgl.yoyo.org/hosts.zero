@@ -369,6 +369,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.ask.com
 0.0.0.0 ads.aspalliance.com
 0.0.0.0 ads.avazu.net
+0.0.0.0 ads.batpmturner.com
 0.0.0.0 ads.belointeractive.com
 0.0.0.0 ads.berlinonline.de
 0.0.0.0 ads.betanews.com
@@ -456,7 +457,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.fortunecity.com
 0.0.0.0 ads.fotosidan.se
 0.0.0.0 ads.foxnetworks.com
-0.0.0.0 ads.foxnews.com
 0.0.0.0 ads.freecity.de
 0.0.0.0 ads.friendfinder.com
 0.0.0.0 ads.ft.com
@@ -489,7 +489,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.hollywood.com
 0.0.0.0 ads.horsehero.com
 0.0.0.0 ads.horyzon-media.com
-0.0.0.0 ads.iafrica.com
 0.0.0.0 ads.ibest.com.br
 0.0.0.0 ads.ibryte.com
 0.0.0.0 ads.icq.com
@@ -1228,7 +1227,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
-0.0.0.0 click2paid.com
 0.0.0.0 clickability.com
 0.0.0.0 clickadz.com
 0.0.0.0 clickagents.com
@@ -1510,7 +1508,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 eusta.de
 0.0.0.0 eventbeacon.ca
 0.0.0.0 evergage.com
-0.0.0.0 evidencecleanergold.com
 0.0.0.0 ewebcounter.com
 0.0.0.0 exchange-it.com
 0.0.0.0 exchange.bg
@@ -1528,7 +1525,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 exponea.com
 0.0.0.0 exponential.com
 0.0.0.0 express-submit.de
-0.0.0.0 extractorandburner.com
 0.0.0.0 extreme-dm.com
 0.0.0.0 extremetracking.com
 0.0.0.0 eyeblaster.com
@@ -2645,7 +2641,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 thirdrespect.com
 0.0.0.0 thirstytwig.com
 0.0.0.0 threechurch.com
-0.0.0.0 thrnt.com
 0.0.0.0 throattrees.com
 0.0.0.0 thruport.com
 0.0.0.0 tia.timeinc.net
@@ -2677,6 +2672,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 toplist.pornhost.com
 0.0.0.0 toplista.mw.hu
 0.0.0.0 toplistcity.com
+0.0.0.0 topping.com.ua
 0.0.0.0 toprebates.com
 0.0.0.0 topsafelist.net
 0.0.0.0 topsir.com
