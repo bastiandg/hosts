@@ -483,7 +483,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.hearstmags.com
 0.0.0.0 ads.heartlight.org
 0.0.0.0 ads.heias.com
-0.0.0.0 ads.hideyourarms.com
 0.0.0.0 ads.hollywood.com
 0.0.0.0 ads.horsehero.com
 0.0.0.0 ads.horyzon-media.com
@@ -709,7 +708,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adsend.de
 0.0.0.0 adsensecustomsearchads.com
 0.0.0.0 adserv.gamezone.de
-0.0.0.0 adserv.iafrica.com
 0.0.0.0 adserve.ams.rhythmxchange.com
 0.0.0.0 adserver.43plc.com
 0.0.0.0 adserver.71i.de
@@ -919,6 +917,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 alladvantage.com
 0.0.0.0 allosponsor.com
 0.0.0.0 alphonso.tv
+0.0.0.0 amazingcounters.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 ambiguousquilt.com
 0.0.0.0 ambitiousagreement.com
@@ -2661,6 +2660,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 top123.ro
 0.0.0.0 top20free.com
 0.0.0.0 top90.ro
+0.0.0.0 topacity.info
 0.0.0.0 topbarh.box.sk
 0.0.0.0 topbucks.com
 0.0.0.0 topforall.com
@@ -2876,7 +2876,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 wtlive.com
 0.0.0.0 www-banner.chat.ru
 0.0.0.0 www-google-analytics.l.google.com
-0.0.0.0 www.banner-link.com.br
 0.0.0.0 www.dnps.com
 0.0.0.0 www.kaplanindex.com
 0.0.0.0 www.money4exit.de
