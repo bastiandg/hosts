@@ -22,7 +22,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 12 Nov 2018 13:30:40 GMT
-# entries:        2927
+# entries:        2925
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1025,7 +1025,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 banner.easyspace.com
 127.0.0.1 banner.elisa.net
 127.0.0.1 banner.eurogrand.com
-127.0.0.1 banner.getgo.de
 127.0.0.1 banner.goldenpalace.com
 127.0.0.1 banner.img.co.za
 127.0.0.1 banner.inyourpocket.com
@@ -1357,7 +1356,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 cp.abbp1.pw
 127.0.0.1 cpalead.com
 127.0.0.1 cpays.com
-127.0.0.1 cpmaffiliation.com
 127.0.0.1 cpmstar.com
 127.0.0.1 cpx.to
 127.0.0.1 cpxinteractive.com
@@ -1815,6 +1813,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 itfarm.com
 127.0.0.1 itop.cz
 127.0.0.1 its-that-easy.com
+127.0.0.1 itsptp.com
 127.0.0.1 ivwbox.de
 127.0.0.1 ivykiosk.com
 127.0.0.1 j93557g.com
@@ -2198,7 +2197,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 picadmedia.com
 127.0.0.1 piet2eix3l.com
 127.0.0.1 pietexture.com
-127.0.0.1 pillscash.com
 127.0.0.1 pimproll.com
 127.0.0.1 ping.ublock.org
 127.0.0.1 pippio.com

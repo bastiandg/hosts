@@ -999,7 +999,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 banner.easyspace.com
 0.0.0.0 banner.elisa.net
 0.0.0.0 banner.eurogrand.com
-0.0.0.0 banner.getgo.de
 0.0.0.0 banner.goldenpalace.com
 0.0.0.0 banner.img.co.za
 0.0.0.0 banner.inyourpocket.com
@@ -1331,7 +1330,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cp.abbp1.pw
 0.0.0.0 cpalead.com
 0.0.0.0 cpays.com
-0.0.0.0 cpmaffiliation.com
 0.0.0.0 cpmstar.com
 0.0.0.0 cpx.to
 0.0.0.0 cpxinteractive.com
@@ -1789,6 +1787,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 itfarm.com
 0.0.0.0 itop.cz
 0.0.0.0 its-that-easy.com
+0.0.0.0 itsptp.com
 0.0.0.0 ivwbox.de
 0.0.0.0 ivykiosk.com
 0.0.0.0 j93557g.com
@@ -2172,7 +2171,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 picadmedia.com
 0.0.0.0 piet2eix3l.com
 0.0.0.0 pietexture.com
-0.0.0.0 pillscash.com
 0.0.0.0 pimproll.com
 0.0.0.0 ping.ublock.org
 0.0.0.0 pippio.com
