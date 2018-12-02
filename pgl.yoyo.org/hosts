@@ -2,13 +2,13 @@
 
 <head>
 <meta name="author" value="Peter Lowe; pgl@yoyo.org">
-<meta name="description" value="Ad server hostnames for blocking ads (format: hosts -- in hosts file format)">
-<meta name="keywords" value="ad blocking, blocking ads, ad servers, ads, banners, hosts file, privacy">
+<meta name="description" value="Blocklist of hostnames and domains for blocking ads, trackers and others (format: hosts -- in hosts file format)">
+<meta name="keywords" value="ad blocking, blocking ads, ad servers, trackers, ads, banners, hosts file, privacy">
 
-<link rel=alternate type="application/rss+xml" title="Ad server hostnames for blocking ads (format: hosts -- in hosts file format) (RSS - last 50 added)" href="rss/1.0/adservers.rss">
+<link rel=alternate type="application/rss+xml" title="Blocklist of hostnames and domains for blocking ads, trackers and others (format: hosts -- in hosts file format) (RSS - last 50 added)" href="rss/1.0/adservers.rss">
 
 <title>
-Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</title>
+Blocklist of hostnames and domains for blocking ads, trackers and others (format: hosts -- in hosts file format)</title>
 
 <link rel='stylesheet' href='/css/pgl.css' type='text/css'></head>
 
@@ -17,7 +17,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 
 
 <p><pre>
-# Ad server list for use with hosts files to block ads
+# Blocklist for use with hosts files to block ads
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
