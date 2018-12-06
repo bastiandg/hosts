@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 05 Dec 2018 15:00:59 GMT
-# entries:        2926
+# entries:        2925
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1206,7 +1206,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 cashengines.com
 127.0.0.1 cashfiesta.com
 127.0.0.1 cashpartner.com
-127.0.0.1 casinogames.com
 127.0.0.1 casinopays.com
 127.0.0.1 casinorewards.com
 127.0.0.1 casinotraffic.com
