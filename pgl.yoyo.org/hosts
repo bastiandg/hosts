@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 06 Dec 2018 21:11:56 GMT
-# entries:        2926
+# entries:        2925
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -375,7 +375,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.adshareware.net
 127.0.0.1 ads.adstream.com.ro
 127.0.0.1 ads.adultfriendfinder.com
-127.0.0.1 ads.adultswim.com
 127.0.0.1 ads.advance.net
 127.0.0.1 ads.adverline.com
 127.0.0.1 ads.affiliates-spinit.com
