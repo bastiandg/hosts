@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 06 Dec 2018 21:11:56 GMT
-# entries:        2914
+# last updated:   Sun, 09 Dec 2018 15:00:09 GMT
+# entries:        2918
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1161,7 +1161,9 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 box.anchorfree.net
 127.0.0.1 bpath.com
 127.0.0.1 braincash.com
+127.0.0.1 branch.io
 127.0.0.1 brandreachsys.com
+127.0.0.1 brid.tv
 127.0.0.1 bridgetrack.com
 127.0.0.1 brightinfo.com
 127.0.0.1 british-banners.com
@@ -1313,11 +1315,13 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 connextra.com
 127.0.0.1 consciouscabbage.com
 127.0.0.1 consciouschairs.com
+127.0.0.1 consensu.org
 127.0.0.1 contadores.miarroba.com
 127.0.0.1 contaxe.de
 127.0.0.1 content.acc-hd.de
 127.0.0.1 content.ad
 127.0.0.1 contextweb.com
+127.0.0.1 converge-digital.com
 127.0.0.1 conversantmedia.com
 127.0.0.1 conversionruler.com
 127.0.0.1 convrse.media
