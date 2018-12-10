@@ -230,7 +230,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 aan.amazon.com
 0.0.0.0 aaukqiooaseseuke.org
 0.0.0.0 aax-cpm.amazon-adsystem.com
-0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
@@ -9489,7 +9488,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 s.ad131m.com
 0.0.0.0 s.admob.com
 0.0.0.0 s.admulti.com
-0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 s.arclk.net
 0.0.0.0 s.as-us.falkag.net
 0.0.0.0 s.atemda.com
