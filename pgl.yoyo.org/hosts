@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 12 Dec 2018 08:48:43 GMT
-# entries:        2924
+# last updated:   Wed, 12 Dec 2018 14:20:11 GMT
+# entries:        2934
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -50,6 +50,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 3lift.com
 127.0.0.1 4affiliate.net
 127.0.0.1 4d5.net
+127.0.0.1 4info.com
 127.0.0.1 4jnzhl0d0.com
 127.0.0.1 50websads.com
 127.0.0.1 518ad.com
@@ -261,6 +262,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adformdsp.net
 127.0.0.1 adgardener.com
 127.0.0.1 adgoto.com
+127.0.0.1 adhaven.com
 127.0.0.1 adhese.be
 127.0.0.1 adhese.com
 127.0.0.1 adhoc4.net
@@ -961,6 +963,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 anxiousapples.com
 127.0.0.1 apathetictheory.com
 127.0.0.1 api.intensifier.de
+127.0.0.1 apolloprogram.io
 127.0.0.1 app-analytics.snapchat.com
 127.0.0.1 app.pendo.io
 127.0.0.1 appsflyer.com
@@ -1296,6 +1299,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 cnt.spbland.ru
 127.0.0.1 cnt1.pocitadlo.cz
 127.0.0.1 code-server.biz
+127.0.0.1 cognitiv.ai
 127.0.0.1 coin-hive.com
 127.0.0.1 coinhive.com
 127.0.0.1 cointraffic.io
@@ -1466,6 +1470,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 drumcash.com
 127.0.0.1 drydrum.com
 127.0.0.1 dsp.io
+127.0.0.1 dstillery.com
 127.0.0.1 dynamic.fmpub.net
 127.0.0.1 dyntrk.com
 127.0.0.1 e-adimages.scrippsnetworks.com
@@ -1810,6 +1815,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ip193.cn
 127.0.0.1 iperceptions.com
 127.0.0.1 ipro.com
+127.0.0.1 iqm.com
 127.0.0.1 ireklama.cz
 127.0.0.1 itfarm.com
 127.0.0.1 itop.cz
@@ -1927,6 +1933,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 marketing.nyi.net
 127.0.0.1 marketing.osijek031.com
 127.0.0.1 marketingsolutions.yahoo.com
+127.0.0.1 marketo.com
 127.0.0.1 mas.sector.sk
 127.0.0.1 matchcraft.com
 127.0.0.1 matheranalytics.com
@@ -2665,6 +2672,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 thirstytwig.com
 127.0.0.1 threechurch.com
 127.0.0.1 throattrees.com
+127.0.0.1 throtle.io
 127.0.0.1 thruport.com
 127.0.0.1 tia.timeinc.net
 127.0.0.1 ticklesign.com
@@ -2809,6 +2817,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 verblife-3.co
 127.0.0.1 vericlick.com
 127.0.0.1 vertadnet.com
+127.0.0.1 verticalmass.com
 127.0.0.1 veruta.com
 127.0.0.1 vervewireless.com
 127.0.0.1 vibrantmedia.com
@@ -2851,6 +2860,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 webmaster-partnerprogramme24.de
 127.0.0.1 webmasterplan.com
 127.0.0.1 webmasterplan.de
+127.0.0.1 weborama.com
 127.0.0.1 weborama.fr
 127.0.0.1 webpower.com
 127.0.0.1 webreseau.com
