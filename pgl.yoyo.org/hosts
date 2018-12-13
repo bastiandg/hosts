@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 12 Dec 2018 14:20:11 GMT
-# entries:        2934
+# entries:        2933
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1320,7 +1320,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 connextra.com
 127.0.0.1 consciouscabbage.com
 127.0.0.1 consciouschairs.com
-127.0.0.1 consensu.org
 127.0.0.1 contadores.miarroba.com
 127.0.0.1 contaxe.de
 127.0.0.1 content.acc-hd.de
