@@ -1194,7 +1194,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ceskydomov.alias.ngs.modry.cz
 0.0.0.0 cetrk.com
 0.0.0.0 cgicounter.puretec.de
-0.0.0.0 ch.questionmarket.com
 0.0.0.0 chairscrack.com
 0.0.0.0 chameleon.ad
 0.0.0.0 channel1vids.com
@@ -1220,7 +1219,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 claria.com
 0.0.0.0 class-act-clicks.com
 0.0.0.0 clearcomb.com
-0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
@@ -1502,7 +1500,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 eu-adcenter.net
 0.0.0.0 eu1.madsone.com
 0.0.0.0 eurekster.com
-0.0.0.0 euroclick.com
 0.0.0.0 euros4click.de
 0.0.0.0 eusta.de
 0.0.0.0 eventbeacon.ca
@@ -2130,7 +2127,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pagefair.net
 0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank-submitter.de
-0.0.0.0 pagerank-united.de
 0.0.0.0 pagerank4you.com
 0.0.0.0 pageranktop.com
 0.0.0.0 paleleaf.com
@@ -2185,7 +2181,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.digitru.st
-0.0.0.0 pixel.redditmedia.com
 0.0.0.0 pixel.sojern.com
 0.0.0.0 pixel.watch
 0.0.0.0 play4traffic.com
@@ -2286,7 +2281,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 railwayrainstorm.com
 0.0.0.0 rampidads.com
 0.0.0.0 rank-master.com
-0.0.0.0 rank-master.de
 0.0.0.0 rankchamp.de
 0.0.0.0 ranking-charts.de
 0.0.0.0 ranking-hits.de
@@ -2589,8 +2583,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 surfmusik-adserver.de
 0.0.0.0 swan-swan-goose.com
 0.0.0.0 swimslope.com
-0.0.0.0 switchadhub.com
-0.0.0.0 switchads.com
 0.0.0.0 swordfishdc.com
 0.0.0.0 swordgoose.com
 0.0.0.0 t.insigit.com
@@ -2730,6 +2722,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 traktrafficflow.com
 0.0.0.0 tranquilside.com
 0.0.0.0 travis.bosscasinos.com
+0.0.0.0 trekdata.com
 0.0.0.0 tremendoustime.com
 0.0.0.0 trendcounter.com
 0.0.0.0 trendmd.com
