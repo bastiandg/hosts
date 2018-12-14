@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 14 Dec 2018 18:22:19 GMT
-# entries:        2925
+# last updated:   Fri, 14 Dec 2018 19:53:50 GMT
+# entries:        2926
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2487,6 +2487,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 sixscissors.com
 127.0.0.1 sixsigmatraffic.com
 127.0.0.1 sizesidewalk.com
+127.0.0.1 sizmek.com
 127.0.0.1 skimresources.com
 127.0.0.1 skylink.vn
 127.0.0.1 sleepcartoon.com
