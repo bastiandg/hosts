@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 17 Dec 2018 20:59:51 GMT
-# entries:        2944
+# last updated:   Mon, 17 Dec 2018 21:01:45 GMT
+# entries:        2946
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -100,6 +100,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad-balancer.at
 127.0.0.1 ad-balancer.net
 127.0.0.1 ad-center.com
+127.0.0.1 ad-delivery.net
 127.0.0.1 ad-miner.com
 127.0.0.1 ad-pay.de
 127.0.0.1 ad-rotator.com
@@ -2849,6 +2850,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 vpon.com
 127.0.0.1 vrs.cz
 127.0.0.1 vs.tucows.com
+127.0.0.1 vtracy.de
 127.0.0.1 vungle.com
 127.0.0.1 wa.and.co.uk
 127.0.0.1 wantmobi.bid

@@ -73,6 +73,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad-balancer.at
 0.0.0.0 ad-balancer.net
 0.0.0.0 ad-center.com
+0.0.0.0 ad-delivery.net
 0.0.0.0 ad-miner.com
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-rotator.com
@@ -2822,6 +2823,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 vpon.com
 0.0.0.0 vrs.cz
 0.0.0.0 vs.tucows.com
+0.0.0.0 vtracy.de
 0.0.0.0 vungle.com
 0.0.0.0 wa.and.co.uk
 0.0.0.0 wantmobi.bid
