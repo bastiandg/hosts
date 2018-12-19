@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 19 Dec 2018 at 04:27:55 GMT
+# Last updated: Wed, 19 Dec 2018 at 16:04:25 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -11966,7 +11966,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.mpression.net
 127.0.0.1 www.myadsl.co.za
 127.0.0.1 www.myaffiliateprogram.com
-127.0.0.1 www.myairbridge.com
 127.0.0.1 www.mycashback.co.uk
 127.0.0.1 www.mycelloffer.com
 127.0.0.1 www.mychoicerewards.com
