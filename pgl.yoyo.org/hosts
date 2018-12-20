@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 17 Dec 2018 21:01:45 GMT
-# entries:        2946
+# last updated:   Thu, 20 Dec 2018 14:54:24 GMT
+# entries:        2948
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -963,6 +963,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 anm.intelli-direct.com
 127.0.0.1 annonser.dagbladet.no
+127.0.0.1 anrdoezrs.net
 127.0.0.1 anxiousapples.com
 127.0.0.1 apathetictheory.com
 127.0.0.1 api.intensifier.de
@@ -2157,6 +2158,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 optimost.com
 127.0.0.1 optmd.com
 127.0.0.1 optmstr.com
+127.0.0.1 optnmstr.com
 127.0.0.1 ordingly.com
 127.0.0.1 ota.cartrawler.com
 127.0.0.1 otto-images.developershed.com
