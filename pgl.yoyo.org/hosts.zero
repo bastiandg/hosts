@@ -74,7 +74,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad-balancer.net
 0.0.0.0 ad-center.com
 0.0.0.0 ad-delivery.net
-0.0.0.0 ad-miner.com
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-rotator.com
 0.0.0.0 ad-server.gulasidorna.se
@@ -323,7 +322,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adplus.co.id
 0.0.0.0 adplxmd.com
 0.0.0.0 adprofile.net
-0.0.0.0 adq.nextag.com
 0.0.0.0 adrazzi.com
 0.0.0.0 adreactor.com
 0.0.0.0 adreclaim.com
@@ -357,6 +355,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.affiliates.match.com
 0.0.0.0 ads.ak.facebook.com.edgesuite.net
 0.0.0.0 ads.allvatar.com
+0.0.0.0 ads.alt.com
 0.0.0.0 ads.amdmb.com
 0.0.0.0 ads.amigos.com
 0.0.0.0 ads.aol.co.uk
