@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 20 Dec 2018 14:54:24 GMT
-# entries:        2948
+# last updated:   Fri, 21 Dec 2018 08:03:24 GMT
+# entries:        2949
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2950,6 +2950,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 yab-adimages.s3.amazonaws.com
 127.0.0.1 yabuka.com
 127.0.0.1 yadro.ru
+127.0.0.1 yepads.com
 127.0.0.1 yesads.com
 127.0.0.1 yesadvertising.com
 127.0.0.1 yieldads.com
