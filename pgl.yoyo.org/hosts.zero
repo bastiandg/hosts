@@ -837,7 +837,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 advertmedia.de
 0.0.0.0 advertpro.sitepoint.com
 0.0.0.0 advertpro.ya.com
-0.0.0.0 adverts.carltononline.com
 0.0.0.0 advertserve.com
 0.0.0.0 advertstream.com
 0.0.0.0 advertwizard.com
@@ -1118,7 +1117,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 blogads.com
 0.0.0.0 blogcounter.de
 0.0.0.0 blogherads.com
-0.0.0.0 blogrush.com
 0.0.0.0 blogtoplist.se
 0.0.0.0 blogtopsites.com
 0.0.0.0 blueadvertise.com
@@ -1225,6 +1223,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 claria.com
 0.0.0.0 class-act-clicks.com
 0.0.0.0 clearcomb.com
+0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
@@ -1365,7 +1364,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 crownclam.com
 0.0.0.0 crtv.mate1.com
 0.0.0.0 crwdcntrl.net
-0.0.0.0 ctnet2.in
 0.0.0.0 ctnetwork.hu
 0.0.0.0 cubics.com
 0.0.0.0 cumbersomecloud.com
@@ -2083,7 +2081,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 oas.foxnews.com
 0.0.0.0 oas.repubblica.it
 0.0.0.0 oas.roanoke.com
-0.0.0.0 oas.salon.com
 0.0.0.0 oas.toronto.com
 0.0.0.0 oas.uniontrib.com
 0.0.0.0 oas.villagevoice.com
