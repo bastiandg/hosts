@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 21 Dec 2018 08:03:24 GMT
-# entries:        2945
+# entries:        2943
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1169,7 +1169,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 braincash.com
 127.0.0.1 branch.io
 127.0.0.1 brandreachsys.com
-127.0.0.1 brid.tv
 127.0.0.1 bridgetrack.com
 127.0.0.1 brightinfo.com
 127.0.0.1 british-banners.com
@@ -1258,7 +1257,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 clickadz.com
 127.0.0.1 clickagents.com
 127.0.0.1 clickbank.com
-127.0.0.1 clickbank.net
 127.0.0.1 clickbooth.com
 127.0.0.1 clickboothlnk.com
 127.0.0.1 clickbrokers.com
