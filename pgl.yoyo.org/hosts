@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 21 Dec 2018 08:03:24 GMT
-# entries:        2943
+# last updated:   Sun, 23 Dec 2018 07:53:03 GMT
+# entries:        2944
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1391,6 +1391,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 crwdcntrl.net
 127.0.0.1 ctnetwork.hu
 127.0.0.1 cubics.com
+127.0.0.1 culturedcrayon.com
 127.0.0.1 cumbersomecloud.com
 127.0.0.1 curtaincows.com
 127.0.0.1 customad.cnn.com
