@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 23 Dec 2018 07:53:03 GMT
-# entries:        2944
+# last updated:   Tue, 25 Dec 2018 14:56:12 GMT
+# entries:        2946
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2037,6 +2037,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mybuys.com
 127.0.0.1 mycounter.ua
 127.0.0.1 mydas.mobi
+127.0.0.1 mylink-today.com
 127.0.0.1 mymoneymakingapp.com
 127.0.0.1 mypagerank.net
 127.0.0.1 mypagerank.ru
@@ -2048,6 +2049,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mytrafficads.com
 127.0.0.1 mzbcdn.net
 127.0.0.1 n69.com
+127.0.0.1 naganoadigei.com
 127.0.0.1 naj.sk
 127.0.0.1 nastydollars.com
 127.0.0.1 nativeroll.tv
