@@ -915,6 +915,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 aktrack.pubmatic.com
 0.0.0.0 alclick.com
 0.0.0.0 alenty.com
+0.0.0.0 alert.com.mt
 0.0.0.0 alexa-sitestats.s3.amazonaws.com
 0.0.0.0 alexametrics.com
 0.0.0.0 alipromo.com
@@ -1226,6 +1227,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 claria.com
 0.0.0.0 class-act-clicks.com
 0.0.0.0 clearcomb.com
+0.0.0.0 clevernt.com
 0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
