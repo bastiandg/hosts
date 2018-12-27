@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 25 Dec 2018 14:56:12 GMT
-# entries:        2946
+# last updated:   Thu, 27 Dec 2018 09:54:28 GMT
+# entries:        2969
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -97,12 +97,14 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 actuallysheep.com
 127.0.0.1 actuallysnake.com
 127.0.0.1 acuityads.com
+127.0.0.1 acuityplatform.com
 127.0.0.1 ad-balancer.at
 127.0.0.1 ad-balancer.net
 127.0.0.1 ad-center.com
 127.0.0.1 ad-delivery.net
 127.0.0.1 ad-pay.de
 127.0.0.1 ad-rotator.com
+127.0.0.1 ad-score.com
 127.0.0.1 ad-server.gulasidorna.se
 127.0.0.1 ad-serverparc.nl
 127.0.0.1 ad-souk.com
@@ -926,6 +928,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 affrh2022.com
 127.0.0.1 afftracking.justanswer.com
 127.0.0.1 afterview.ru
+127.0.0.1 agkn.com
 127.0.0.1 agreeableprice.com
 127.0.0.1 agreeablestew.com
 127.0.0.1 agreemand.com
@@ -1168,6 +1171,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 bpath.com
 127.0.0.1 braincash.com
 127.0.0.1 branch.io
+127.0.0.1 brand-display.com
 127.0.0.1 brandreachsys.com
 127.0.0.1 bridgetrack.com
 127.0.0.1 brightinfo.com
@@ -1420,6 +1424,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 decisiveducks.com
 127.0.0.1 decknetwork.net
 127.0.0.1 decoycreation.com
+127.0.0.1 deepintent.com
 127.0.0.1 defectivesun.com
 127.0.0.1 delegatediscussion.com
 127.0.0.1 delightdriving.com
@@ -1530,6 +1535,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 entrecard.s3.amazonaws.com
 127.0.0.1 enviousthread.com
 127.0.0.1 eqads.com
+127.0.0.1 erne.co
 127.0.0.1 ero-advertising.com
 127.0.0.1 errortablet.com
 127.0.0.1 estat.com
@@ -1542,6 +1548,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 euros4click.de
 127.0.0.1 eusta.de
 127.0.0.1 eventbeacon.ca
+127.0.0.1 everesttech.net
 127.0.0.1 evergage.com
 127.0.0.1 ewebcounter.com
 127.0.0.1 exchange-it.com
@@ -1556,6 +1563,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 exoclick.com
 127.0.0.1 exogripper.com
 127.0.0.1 exosrv.com
+127.0.0.1 experianmarketingservices.digital
 127.0.0.1 experteerads.com
 127.0.0.1 exponea.com
 127.0.0.1 exponential.com
@@ -1821,6 +1829,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ip.ro
 127.0.0.1 ip193.cn
 127.0.0.1 iperceptions.com
+127.0.0.1 ipredictive.com
 127.0.0.1 ipro.com
 127.0.0.1 iqm.com
 127.0.0.1 ireklama.cz
@@ -1841,6 +1850,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 juicyads.com
 127.0.0.1 jumptap.com
 127.0.0.1 justicejudo.com
+127.0.0.1 justpremium.com
 127.0.0.1 justrelevant.com
 127.0.0.1 k.iinfo.cz
 127.0.0.1 kanoodle.com
@@ -1902,6 +1912,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 liveintent.com
 127.0.0.1 liverail.com
 127.0.0.1 lizardslaugh.com
+127.0.0.1 lkqd.com
 127.0.0.1 loading321.com
 127.0.0.1 log.btopenworld.com
 127.0.0.1 log.logrocket.io
@@ -1993,6 +2004,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 metrics.govexec.com
 127.0.0.1 metrics.windowsitpro.com
 127.0.0.1 metrilo.com
+127.0.0.1 mfadsrvr.com
 127.0.0.1 mg2connext.com
 127.0.0.1 mgid.com
 127.0.0.1 microstatic.pl
@@ -2010,6 +2022,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mmstat.com
 127.0.0.1 mmtro.com
 127.0.0.1 moatads.com
+127.0.0.1 moatpixel.com
 127.0.0.1 mobclix.com
 127.0.0.1 mobileiconnect.com
 127.0.0.1 modifyeyes.com
@@ -2031,6 +2044,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mtree.com
 127.0.0.1 musiccounter.ru
 127.0.0.1 muwmedia.com
+127.0.0.1 mxptint.net
 127.0.0.1 myaffiliateprogram.com
 127.0.0.1 mybestmv.com
 127.0.0.1 mybloglog.com
@@ -2057,6 +2071,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 navrcholu.cz
 127.0.0.1 nbjmp.com
 127.0.0.1 ncaudienceexchange.com
+127.0.0.1 ndnops.com
 127.0.0.1 ndparking.com
 127.0.0.1 nedstat.com
 127.0.0.1 nedstat.nl
@@ -2074,6 +2089,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 netcommunities.com
 127.0.0.1 netdirect.nl
 127.0.0.1 netincap.com
+127.0.0.1 netmng.com
 127.0.0.1 netpool.netbookia.net
 127.0.0.1 netshelter.net
 127.0.0.1 neudesicmediagroup.com
@@ -2126,6 +2142,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 omniscientspark.com
 127.0.0.1 omniture.com
 127.0.0.1 omtrdc.net
+127.0.0.1 onaudience.com
 127.0.0.1 onclasrv.com
 127.0.0.1 onclickads.net
 127.0.0.1 oneandonlynetwork.com
@@ -2269,6 +2286,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 proext.com
 127.0.0.1 profero.com
 127.0.0.1 profitrumour.com
+127.0.0.1 programattik.com
 127.0.0.1 projectwonderful.com
 127.0.0.1 promo.badoink.com
 127.0.0.1 promo.ulust.com
@@ -2805,6 +2823,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 untidyquestion.com
 127.0.0.1 unusualtitle.com
 127.0.0.1 unwrittenspot.com
+127.0.0.1 urbanairship.com
 127.0.0.1 urlcash.net
 127.0.0.1 us.a1.yimg.com
 127.0.0.1 usapromotravel.com
@@ -2833,6 +2852,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 vibrantmedia.com
 127.0.0.1 video-stats.video.google.com
 127.0.0.1 videoadex.com
+127.0.0.1 videoamp.com
 127.0.0.1 videoegg.com
 127.0.0.1 vidora.com
 127.0.0.1 view4cash.de
@@ -2846,11 +2866,13 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 vmmpxl.com
 127.0.0.1 voicefive.com
 127.0.0.1 voicevegetable.com
+127.0.0.1 volvelle.tech
 127.0.0.1 vpon.com
 127.0.0.1 vrs.cz
 127.0.0.1 vs.tucows.com
 127.0.0.1 vtracy.de
 127.0.0.1 vungle.com
+127.0.0.1 w55c.net
 127.0.0.1 wa.and.co.uk
 127.0.0.1 wantmobi.bid
 127.0.0.1 warlog.ru
@@ -2967,6 +2989,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 zbwp6ghm.com
 127.0.0.1 zealousfield.com
 127.0.0.1 zedo.com
+127.0.0.1 zemanta.com
 127.0.0.1 zencudo.co.uk
 127.0.0.1 zenkreka.com
 127.0.0.1 zenzuu.com
