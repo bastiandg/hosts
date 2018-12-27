@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 27 Dec 2018 10:36:54 GMT
-# entries:        2971
+# last updated:   Thu, 27 Dec 2018 12:56:49 GMT
+# entries:        2979
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1221,6 +1221,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 casinotreasure.com
 127.0.0.1 casterist.info
 127.0.0.1 cbanners.virtuagirlhd.com
+127.0.0.1 cbsi.com
 127.0.0.1 cdn.freefarcy.com
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.segment.com
@@ -1889,6 +1890,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 lettucelimit.com
 127.0.0.1 levelrate.de
 127.0.0.1 lfstmedia.com
+127.0.0.1 liadm.com
 127.0.0.1 liftdna.com
 127.0.0.1 ligatus.com
 127.0.0.1 ligatus.de
@@ -1938,6 +1940,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 m1.webstats4u.com
 127.0.0.1 m32.media
 127.0.0.1 m4n.nl
+127.0.0.1 m6r.eu
 127.0.0.1 mackeeperapp.mackeeper.com
 127.0.0.1 madclient.uimserv.net
 127.0.0.1 madisonavenue.com
@@ -2063,6 +2066,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mysteriousmonth.com
 127.0.0.1 mytop-in.net
 127.0.0.1 mytrafficads.com
+127.0.0.1 myvisualiq.net
 127.0.0.1 mzbcdn.net
 127.0.0.1 n69.com
 127.0.0.1 naganoadigei.com
@@ -2340,6 +2344,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 quinst.com
 127.0.0.1 quisma.com
 127.0.0.1 quizzicalzephyr.com
+127.0.0.1 r.scoota.co
 127.0.0.1 radar.cedexis.com
 127.0.0.1 radarurl.com
 127.0.0.1 radiate.com
@@ -2581,6 +2586,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 squeamishscarecrow.com
 127.0.0.1 squirrelhands.com
 127.0.0.1 srwww1.com
+127.0.0.1 stackadapt.com
 127.0.0.1 stakingscrew.com
 127.0.0.1 stakingslope.com
 127.0.0.1 standingnest.com
@@ -2625,6 +2631,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 storesurprise.com
 127.0.0.1 stormyachiever.com
 127.0.0.1 stormysponge.com
+127.0.0.1 storygize.net
 127.0.0.1 stoveseashore.com
 127.0.0.1 straightnest.com
 127.0.0.1 straightschool.com
@@ -2675,6 +2682,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tdxio.com
 127.0.0.1 teads.tv
 127.0.0.1 tealeaf.com
+127.0.0.1 tealiumiq.com
 127.0.0.1 techclicks.net
 127.0.0.1 tedioustooth.com
 127.0.0.1 teenrevenue.com

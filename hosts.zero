@@ -7453,6 +7453,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cbs.112.2o7.net
 0.0.0.0 cbscom.112.2o7.net
 0.0.0.0 cbsdigitalmedia.112.2o7.net
+0.0.0.0 cbsi.com
 0.0.0.0 cbsi.demdex.net
 0.0.0.0 cbsncaasports.112.2o7.net
 0.0.0.0 cbsnfl.112.2o7.net
@@ -13995,6 +13996,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 lg1.brandreachsys.com
 0.0.0.0 lhs-mhs.org
 0.0.0.0 li.pxl.ace.advertising.com
+0.0.0.0 liadm.com
 0.0.0.0 liapentruromania.ro
 0.0.0.0 lib4.libstat.com
 0.0.0.0 lib6.libstat.com
@@ -14593,6 +14595,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 m6.ve.2mdn.net
 0.0.0.0 m6.za.2mdn.net
 0.0.0.0 m6dqx-ad3hl.ads.tremorhub.com
+0.0.0.0 m6r.eu
 0.0.0.0 m7.ae.2mdn.net
 0.0.0.0 m7.au.2mdn.net
 0.0.0.0 m7.be.2mdn.net
@@ -16052,6 +16055,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mytraf.ru
 0.0.0.0 mytrafficads.com
 0.0.0.0 myusersonline.com
+0.0.0.0 myvisualiq.net
 0.0.0.0 myvksaver.ru
 0.0.0.0 mywebsearch.com
 0.0.0.0 myyearbookdigital.checkm8.com
@@ -18802,6 +18806,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 r.refinedads.com
 0.0.0.0 r.reklama.biz
 0.0.0.0 r.remarketingpixel.com
+0.0.0.0 r.scoota.co
 0.0.0.0 r.skimresources.com
 0.0.0.0 r.turn.com
 0.0.0.0 r.turn.com.akadns.net
@@ -21081,6 +21086,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 stabx.net
 0.0.0.0 stack7.collect.igodigital.com
 0.0.0.0 stack9.collect.igodigital.com
+0.0.0.0 stackadapt.com
 0.0.0.0 stackoverflow.dluat.com
 0.0.0.0 stackoverflow.hex1.ru
 0.0.0.0 stackoverflow.xyz
@@ -21592,6 +21598,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 storknet.us.intellitxt.com
 0.0.0.0 stormyachiever.com
 0.0.0.0 stormysponge.com
+0.0.0.0 storygize.net
 0.0.0.0 stoveseashore.com
 0.0.0.0 stpetersburgtimes.122.2o7.net
 0.0.0.0 str.hit.gemius.pl
@@ -22096,6 +22103,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 teads.tv
 0.0.0.0 tealeaf.com
 0.0.0.0 tealium.hs.llnwd.net
+0.0.0.0 tealiumiq.com
 0.0.0.0 team4heat.net
 0.0.0.0 teamdzsn.beget.tech
 0.0.0.0 teameda.comcastbiz.net
