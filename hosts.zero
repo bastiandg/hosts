@@ -15336,6 +15336,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 metrics.cleveland.com
 0.0.0.0 metrics.cnn.com
 0.0.0.0 metrics.compactappliance.com
+0.0.0.0 metrics.consumerreports.org
 0.0.0.0 metrics.corus.ca
 0.0.0.0 metrics.cosmopolitan.co.uk
 0.0.0.0 metrics.crystalcruises.com
