@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 02 Jan 2019 09:20:12 GMT
-# entries:        2977
+# last updated:   Wed, 02 Jan 2019 10:06:17 GMT
+# entries:        2978
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1552,6 +1552,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 eventbeacon.ca
 127.0.0.1 everesttech.net
 127.0.0.1 evergage.com
+127.0.0.1 evyy.net
 127.0.0.1 ewebcounter.com
 127.0.0.1 exchange-it.com
 127.0.0.1 exchangead.com
