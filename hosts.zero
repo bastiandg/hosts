@@ -3188,7 +3188,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.reklamlar.net
 0.0.0.0 ads.resoom.de
 0.0.0.0 ads.retirementjobs.com
-0.0.0.0 ads.returnpath.net
 0.0.0.0 ads.revenews.com
 0.0.0.0 ads.revenue.net
 0.0.0.0 ads.revsci.net
@@ -8027,6 +8026,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 click-see-save.com
 0.0.0.0 click-west.acuityplatform.com
 0.0.0.0 click.a-ads.com
+0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.adpile.net
 0.0.0.0 click.adpremium.org
 0.0.0.0 click.adv.livedoor.com
@@ -19418,7 +19418,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 rts.sparkstudios.com
 0.0.0.0 rtst.122.2o7.net
 0.0.0.0 rtve.d1.sc.omtrdc.net
-0.0.0.0 ru-traffic.com
 0.0.0.0 ru.bbelements.com
 0.0.0.0 ru.redtram.com
 0.0.0.0 ru.theswiftones.com
@@ -26435,7 +26434,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.mnetads.com
 0.0.0.0 www.mochibot.com
 0.0.0.0 www.mondoperaio.net
-0.0.0.0 www.money4exit.de
 0.0.0.0 www.mongoosemetrics.com
 0.0.0.0 www.monkeyball.osa.pl
 0.0.0.0 www.monsonis.net
