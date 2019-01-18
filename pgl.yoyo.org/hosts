@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 02 Jan 2019 10:06:17 GMT
-# entries:        2975
+# entries:        2974
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -426,7 +426,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.cc
 127.0.0.1 ads.cc-dt.com
 127.0.0.1 ads.centraliprom.com
-127.0.0.1 ads.cgnetworks.com
 127.0.0.1 ads.channel4.com
 127.0.0.1 ads.clearchannel.com
 127.0.0.1 ads.co.com
