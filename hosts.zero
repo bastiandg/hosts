@@ -5923,6 +5923,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 bagslap.com
 0.0.0.0 baiduccdn1.com
 0.0.0.0 baidutv.baidu.com
+0.0.0.0 bakkecske.net
 0.0.0.0 balab.portx.net
 0.0.0.0 balabass.peerserver.com
 0.0.0.0 balakin.popunder.ru
@@ -10819,7 +10820,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 fabryka-nagrod.com
 0.0.0.0 face-nemzedek.com
 0.0.0.0 facebook-repto1040s2.ahlamountada.com
-0.0.0.0 facebook.com
 0.0.0.0 facebookinc.122.2o7.net
 0.0.0.0 faceboook-replyei0ki.montadalitihad.com
 0.0.0.0 facemail.com
@@ -23219,6 +23219,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracking.hostgator.com
 0.0.0.0 tracking.hubspot.com
 0.0.0.0 tracking.ibexnetwork.com
+0.0.0.0 tracking.ibxlink.com
 0.0.0.0 tracking.ilinkmd.com
 0.0.0.0 tracking.imagewebdesign.fr
 0.0.0.0 tracking.immobilienscout24.de

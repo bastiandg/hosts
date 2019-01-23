@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 02 Jan 2019 10:06:17 GMT
-# entries:        2975
+# last updated:   Wed, 23 Jan 2019 15:34:01 GMT
+# entries:        2976
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2769,6 +2769,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tracker.trackerfix.com
 127.0.0.1 tracking.crunchiemedia.com
 127.0.0.1 tracking.gajmp.com
+127.0.0.1 tracking.ibxlink.com
 127.0.0.1 tracking.internetstores.de
 127.0.0.1 tracking101.com
 127.0.0.1 trackingsoft.com
