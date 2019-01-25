@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 23 Jan 2019 at 15:50:14 GMT
+# Last updated: Fri, 25 Jan 2019 at 03:12:05 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2352,6 +2352,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 hotchix.servepics.com
 127.0.0.1 howtobuildsoftware.com
 127.0.0.1 how-tosolve.com
+127.0.0.1 howupdateworks.beststubcontentsfrees.xyz
 127.0.0.1 hsb-canada.com	# phishing site for hsbc.ca
 127.0.0.1 hsbconline.ca 	# phishing site for hsbc.ca
 127.0.0.1 humption.info
@@ -8896,6 +8897,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 jyknnhll.yearbrazil.com
 127.0.0.1 jzclick.soso.com
 127.0.0.1 jzigsobgsmxdmr.bid
+127.0.0.1 k1.mobileadsserver.com
 127.0.0.1 k5ads.osdn.com
 127.0.0.1 kaartenhuis.nl.site-id.nl
 127.0.0.1 k.admob.com
