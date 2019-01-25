@@ -1225,6 +1225,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 class-act-clicks.com
 0.0.0.0 clearcomb.com
 0.0.0.0 clevernt.com
+0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
@@ -2229,12 +2230,10 @@ ff02::2 ip6-allrouters
 0.0.0.0 plista.com
 0.0.0.0 plugrush.com
 0.0.0.0 pointroll.com
-0.0.0.0 pop-under.ru
 0.0.0.0 popads.net
 0.0.0.0 popflawlessads.com
 0.0.0.0 popmyads.com
 0.0.0.0 popub.com
-0.0.0.0 popunder.ru
 0.0.0.0 popup.msn.com
 0.0.0.0 popupmoney.com
 0.0.0.0 popupnation.com
@@ -2468,7 +2467,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 shakesea.com
 0.0.0.0 shakesuggestion.com
 0.0.0.0 shakytaste.com
-0.0.0.0 shallowschool.com
 0.0.0.0 shallowsmile.com
 0.0.0.0 shareadspace.com
 0.0.0.0 shareasale.com

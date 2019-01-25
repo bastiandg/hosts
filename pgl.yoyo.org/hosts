@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 23 Jan 2019 15:34:01 GMT
-# entries:        2975
+# entries:        2973
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1252,6 +1252,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 class-act-clicks.com
 127.0.0.1 clearcomb.com
 127.0.0.1 clevernt.com
+127.0.0.1 click.absoluteagency.com
 127.0.0.1 click.fool.com
 127.0.0.1 click.kmindex.ru
 127.0.0.1 click2freemoney.com
@@ -2256,12 +2257,10 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 plista.com
 127.0.0.1 plugrush.com
 127.0.0.1 pointroll.com
-127.0.0.1 pop-under.ru
 127.0.0.1 popads.net
 127.0.0.1 popflawlessads.com
 127.0.0.1 popmyads.com
 127.0.0.1 popub.com
-127.0.0.1 popunder.ru
 127.0.0.1 popup.msn.com
 127.0.0.1 popupmoney.com
 127.0.0.1 popupnation.com
@@ -2495,7 +2494,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 shakesea.com
 127.0.0.1 shakesuggestion.com
 127.0.0.1 shakytaste.com
-127.0.0.1 shallowschool.com
 127.0.0.1 shallowsmile.com
 127.0.0.1 shareadspace.com
 127.0.0.1 shareasale.com
