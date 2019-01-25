@@ -5850,6 +5850,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 b.as-us.falkag.net
 0.0.0.0 b.casalemedia.com
 0.0.0.0 b.codeonclick.com
+0.0.0.0 b.company-target.com
 0.0.0.0 b.computerworlduk.com
 0.0.0.0 b.detetoigrae.com
 0.0.0.0 b.digitalartsonline.co.uk
@@ -7031,6 +7032,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 c.cnstats.ru
 0.0.0.0 c.cnzz.com
 0.0.0.0 c.codeonclick.com
+0.0.0.0 c.company-target.com
 0.0.0.0 c.de.msn.com
 0.0.0.0 c.dk.msn.com
 0.0.0.0 c.dynad.net
@@ -9203,6 +9205,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 d.audienceiq.com
 0.0.0.0 d.chango.com
 0.0.0.0 d.cntv.cn
+0.0.0.0 d.company-target.com
 0.0.0.0 d.dc121677.com
 0.0.0.0 d.getaccss.com
 0.0.0.0 d.liadm.com
@@ -10006,6 +10009,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 e.adpower.bg
 0.0.0.0 e.as-eu.falkag.net
 0.0.0.0 e.baidu.com
+0.0.0.0 e.company-target.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 e.dtscout.com
 0.0.0.0 e.freewebhostingarea.com

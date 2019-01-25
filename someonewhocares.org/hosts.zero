@@ -184,6 +184,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 a.cctv.com
 0.0.0.0 a.cntv.cn
 0.0.0.0 a.collective-media.net
+0.0.0.0 a.company-target.com
 0.0.0.0 a.dynad.net
 0.0.0.0 a.karmatrail.club
 0.0.0.0 a.kaytri.com
@@ -3102,6 +3103,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 b.am15.net
 0.0.0.0 b.as-us.falkag.net
 0.0.0.0 b.codeonclick.com
+0.0.0.0 b.company-target.com
 0.0.0.0 b.getprizenow.top
 0.0.0.0 b.grabo.bg
 0.0.0.0 b.liquidustv.com
@@ -3622,6 +3624,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 c.casalemedia.com
 0.0.0.0 c.cl.msn.com
 0.0.0.0 c.codeonclick.com
+0.0.0.0 c.company-target.com
 0.0.0.0 c.de.msn.com
 0.0.0.0 c.dk.msn.com
 0.0.0.0 c.dynad.net
@@ -4610,6 +4613,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 d.adxcore.com
 0.0.0.0 d.agkn.com
 0.0.0.0 d.cntv.cn
+0.0.0.0 d.company-target.com
 0.0.0.0 d.getaccss.com
 0.0.0.0 d.oix.com
 0.0.0.0 d.phormlabs.com
@@ -4957,6 +4961,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 e.admob.com
 0.0.0.0 e.as-eu.falkag.net
 0.0.0.0 e.baidu.com
+0.0.0.0 e.company-target.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 e0.extreme-dm.com
 0.0.0.0 e1.addthis.com
