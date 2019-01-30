@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 23 Jan 2019 15:34:01 GMT
-# entries:        2973
+# entries:        2972
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -339,7 +339,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adnxs.com
 127.0.0.1 adocean.pl
 127.0.0.1 adonspot.com
-127.0.0.1 adoperator.com
 127.0.0.1 adorigin.com
 127.0.0.1 adotmob.com
 127.0.0.1 adpenguin.biz
