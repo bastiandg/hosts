@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 23 Jan 2019 15:34:01 GMT
-# entries:        2972
+# entries:        2971
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -61,7 +61,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 777partner.com
 127.0.0.1 77tracking.com
 127.0.0.1 7bpeople.com
-127.0.0.1 7f1au20glg.com
 127.0.0.1 7search.com
 127.0.0.1 82o9v830.com
 127.0.0.1 99count.com
