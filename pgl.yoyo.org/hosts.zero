@@ -518,7 +518,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.lesbianpersonals.com
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.linuxfoundation.org
-0.0.0.0 ads.linuxsecurity.com
 0.0.0.0 ads.livenation.com
 0.0.0.0 ads.lordlucky.com
 0.0.0.0 ads.mariuana.it
@@ -1042,7 +1041,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 banners.dine.com
 0.0.0.0 banners.direction-x.com
 0.0.0.0 banners.directnic.com
-0.0.0.0 banners.easydns.com
 0.0.0.0 banners.freett.com
 0.0.0.0 banners.friendfinder.com
 0.0.0.0 banners.getiton.com
@@ -1905,7 +1903,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 lytics.io
 0.0.0.0 lzjl.com
 0.0.0.0 m.trb.com
-0.0.0.0 m1.webstats4u.com
 0.0.0.0 m32.media
 0.0.0.0 m4n.nl
 0.0.0.0 m6r.eu
@@ -2408,6 +2405,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rtbpop.com
 0.0.0.0 rtbpopd.com
 0.0.0.0 rtmark.net
+0.0.0.0 ru-traffic.com
 0.0.0.0 ru4.com
 0.0.0.0 rubiconproject.com
 0.0.0.0 rulerabbit.com
@@ -2457,6 +2455,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 services.hearstmags.com
 0.0.0.0 serving-sys.com
 0.0.0.0 sessioncam.com
+0.0.0.0 sexcounter.com
 0.0.0.0 sexinyourcity.com
 0.0.0.0 sexlist.com
 0.0.0.0 sextracker.com
@@ -2464,7 +2463,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 shakesuggestion.com
 0.0.0.0 shakytaste.com
 0.0.0.0 shallowsmile.com
-0.0.0.0 shareadspace.com
 0.0.0.0 shareasale.com
 0.0.0.0 sharepointads.com
 0.0.0.0 sharethrough.com
@@ -2545,6 +2543,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 springaftermath.com
 0.0.0.0 spurioussteam.com
 0.0.0.0 spykemediatrack.com
+0.0.0.0 spylog.com
 0.0.0.0 spywarelabs.com
 0.0.0.0 spywords.com
 0.0.0.0 squeamishscarecrow.com
@@ -2876,7 +2875,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 webstat.channel4.com
 0.0.0.0 webstat.com
 0.0.0.0 webstat.net
-0.0.0.0 webstats4u.com
 0.0.0.0 webtrackerplus.com
 0.0.0.0 webtracky.com
 0.0.0.0 webtraffic.se

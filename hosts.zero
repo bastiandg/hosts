@@ -19474,6 +19474,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rts.sparkstudios.com
 0.0.0.0 rtst.122.2o7.net
 0.0.0.0 rtve.d1.sc.omtrdc.net
+0.0.0.0 ru-traffic.com
 0.0.0.0 ru.bbelements.com
 0.0.0.0 ru.redtram.com
 0.0.0.0 ru.theswiftones.com
@@ -20443,7 +20444,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 shanding.ucoz.es
 0.0.0.0 shapado.com
 0.0.0.0 share-server.com
-0.0.0.0 shareadspace.com
 0.0.0.0 shareaholic.com
 0.0.0.0 shareasale.com
 0.0.0.0 sharebar.addthiscdn.com
@@ -24603,7 +24603,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 webstats.volvo.com
 0.0.0.0 webstats.web.rcn.net
 0.0.0.0 webstats1.com
-0.0.0.0 webstats4u.com
 0.0.0.0 websurvey.spa-mr.com
 0.0.0.0 websystem24.nuggad.net
 0.0.0.0 webtracker.apicasystem.com
