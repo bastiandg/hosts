@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 09 Feb 2019 at 02:13:57 GMT
+# Last updated: Sat, 16 Feb 2019 at 09:44:21 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7594,12 +7594,14 @@ ff02::3		ip6-allhosts
 127.0.0.1 clk.atdmt.com
 127.0.0.1 clk.cloudyisland.com
 127.0.0.1 clk.tradedoubler.com
+127.0.0.1 clktrk.com
 127.0.0.1 clkuk.tradedoubler.com
 127.0.0.1 c.lomadee.com
 127.0.0.1 closeoutproductsreview.com
 127.0.0.1 cloudadservers.com
 127.0.0.1 cloudcrown.com
 127.0.0.1 c.l.qq.com
+127.0.0.1 cltrkr.com
 127.0.0.1 clubwinnerz.com
 127.0.0.1 cluster3.adultadworld.com
 127.0.0.1 cluster.adultadworld.com
