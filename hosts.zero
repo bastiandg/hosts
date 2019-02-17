@@ -491,6 +491,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.ads99.cn
 0.0.0.0 a.adstome.com
+0.0.0.0 a.adtng.com
 0.0.0.0 a.adtpix.com
 0.0.0.0 a.advanstar.com
 0.0.0.0 a.amd.com
@@ -5366,6 +5367,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.trackuity.com
 0.0.0.0 api.treasuredata.com
 0.0.0.0 api.tumra.com
+0.0.0.0 api.uprivaladserver.net
 0.0.0.0 api.viglink.com
 0.0.0.0 api.wipmania.com
 0.0.0.0 api.wundercounter.com
@@ -9600,6 +9602,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 directads.mcafee.com
 0.0.0.0 directivepub.com
 0.0.0.0 directleads.com
+0.0.0.0 directoffers.go2cloud.org
 0.0.0.0 directorym.com
 0.0.0.0 directpowerrewards.com
 0.0.0.0 directrev.cloudapp.net
@@ -14170,6 +14173,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 lkqd.com
 0.0.0.0 ll.atdmt.com
 0.0.0.0 lladinserts.us.publicus.com
+0.0.0.0 lmadvertising.engine.adglare.net
 0.0.0.0 lmcd.us.intellitxt.com
 0.0.0.0 lmqh.ecoencomputer.com
 0.0.0.0 ln.doubleclick.net
@@ -23130,6 +23134,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracking.trackmobistore.com
 0.0.0.0 tracking.trafficjunky.net
 0.0.0.0 tracking.trksrv.com
+0.0.0.0 tracking.truthfinder.com
 0.0.0.0 tracking.trutv.com
 0.0.0.0 tracking.ukwm.co.uk
 0.0.0.0 tracking.vacationsmadeeasy.com

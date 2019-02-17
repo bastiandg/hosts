@@ -175,6 +175,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.adstome.com
+0.0.0.0 a.adtng.com
 0.0.0.0 a.applvn.com
 0.0.0.0 a.as-eu.falkag.net
 0.0.0.0 a.as-us.falkag.net
@@ -2861,6 +2862,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.simpleanalytics.io
 0.0.0.0 api.taboola.com
 0.0.0.0 api.tumra.com
+0.0.0.0 api.uprivaladserver.net
 0.0.0.0 api.viglink.com
 0.0.0.0 api2.murdoog.com
 0.0.0.0 apis.murdoog.com
@@ -4781,6 +4783,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 dir.opank.com
 0.0.0.0 directads.mcafee.com
 0.0.0.0 directleads.com
+0.0.0.0 directoffers.go2cloud.org
 0.0.0.0 directpowerrewards.com
 0.0.0.0 directrev.cloudapp.net
 0.0.0.0 dirtyrhino.com
@@ -7025,6 +7028,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 liveupdate.feednowforbrandnewcontestdistributor.win
 0.0.0.0 livingnet.adtech.de
 0.0.0.0 ll.atdmt.com
+0.0.0.0 lmadvertising.engine.adglare.net
 0.0.0.0 lmqh.ecoencomputer.com
 0.0.0.0 ln.doubleclick.net
 0.0.0.0 lnads.osdn.com
@@ -11369,6 +11373,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracking.trackmobistore.com
 0.0.0.0 tracking.trafficjunky.net
 0.0.0.0 tracking.trksrv.com
+0.0.0.0 tracking.truthfinder.com
 0.0.0.0 tracking.trutv.com
 0.0.0.0 tracking.veoxa.com
 0.0.0.0 tracking.vindicosuite.com
