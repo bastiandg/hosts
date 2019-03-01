@@ -192,8 +192,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adbard.net
 0.0.0.0 adblade.com
 0.0.0.0 adblockanalytics.com
-0.0.0.0 adboost.de.vu
-0.0.0.0 adboost.net
 0.0.0.0 adbooth.net
 0.0.0.0 adbot.com
 0.0.0.0 adbrite.com
@@ -353,7 +351,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.adverline.com
 0.0.0.0 ads.affiliates-spinit.com
 0.0.0.0 ads.affiliates.match.com
-0.0.0.0 ads.ak.facebook.com.edgesuite.net
 0.0.0.0 ads.allvatar.com
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.amdmb.com
@@ -752,6 +749,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver2.mindshare.de
 0.0.0.0 adserverplus.com
 0.0.0.0 adserverpub.com
+0.0.0.0 adserversolutions.com
 0.0.0.0 adserving.unibet.com
 0.0.0.0 adservinginternational.com
 0.0.0.0 adsfac.eu
@@ -910,7 +908,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 alexametrics.com
 0.0.0.0 alipromo.com
 0.0.0.0 all4spy.com
-0.0.0.0 alladvantage.com
 0.0.0.0 allosponsor.com
 0.0.0.0 alphonso.tv
 0.0.0.0 amazingcounters.com
@@ -1218,7 +1215,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 class-act-clicks.com
 0.0.0.0 clearcomb.com
 0.0.0.0 clevernt.com
-0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
@@ -1333,7 +1329,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 counting.kmindex.ru
 0.0.0.0 counts.tucows.com
 0.0.0.0 coupling-media.de
-0.0.0.0 cowledges.com
 0.0.0.0 cp.abbp1.pw
 0.0.0.0 cpalead.com
 0.0.0.0 cpays.com
@@ -1492,7 +1487,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 endurableshop.com
 0.0.0.0 engine.espace.netavenir.com
 0.0.0.0 enginenetwork.com
-0.0.0.0 enlarget.com
 0.0.0.0 enoratraffic.com
 0.0.0.0 enquisite.com
 0.0.0.0 ensighten.com
@@ -2672,7 +2666,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ticklesign.com
 0.0.0.0 tidaltv.com
 0.0.0.0 tinybar.com
-0.0.0.0 tizers.net
 0.0.0.0 tlvmedia.com
 0.0.0.0 tnkexchange.com
 0.0.0.0 tns-counter.ru
@@ -2736,7 +2729,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tradedoubler.com
 0.0.0.0 traffic-exchange.com
 0.0.0.0 traffic.focuusing.com
-0.0.0.0 trafficadept.com
 0.0.0.0 trafficfactory.biz
 0.0.0.0 trafficholder.com
 0.0.0.0 traffichunt.com
