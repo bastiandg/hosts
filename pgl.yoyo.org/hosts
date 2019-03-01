@@ -75,6 +75,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 a.ucoz.ru
 127.0.0.1 a.xanga.com
 127.0.0.1 a135.wftv.com
+127.0.0.1 aaddzz.com
 127.0.0.1 abacho.net
 127.0.0.1 abackchain.com
 127.0.0.1 abandonedaction.com
@@ -200,7 +201,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad1.kde.cz
 127.0.0.1 ad1.pamedia.com.au
 127.0.0.1 ad2.iinfo.cz
-127.0.0.1 ad2.linxcz.cz
 127.0.0.1 ad2.lupa.cz
 127.0.0.1 ad2.xrea.com
 127.0.0.1 ad2flash.com
