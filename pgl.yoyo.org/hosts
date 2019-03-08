@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 06 Mar 2019 08:11:59 GMT
-# entries:        2954
+# entries:        2953
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -85,7 +85,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 aboardlevel.com
 127.0.0.1 abruptroad.com
 127.0.0.1 absentstream.com
-127.0.0.1 absoluteclickscom.com
 127.0.0.1 absorbingband.com
 127.0.0.1 absurdwater.com
 127.0.0.1 abz.com
