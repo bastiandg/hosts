@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 12 Mar 2019 16:13:41 GMT
-# entries:        2952
+# last updated:   Thu, 14 Mar 2019 10:12:20 GMT
+# entries:        2953
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1804,6 +1804,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 intentmedia.com
 127.0.0.1 intentmedia.net
 127.0.0.1 interactive.forthnet.gr
+127.0.0.1 intercom.io
 127.0.0.1 intergi.com
 127.0.0.1 internetfuel.com
 127.0.0.1 interreklame.de
