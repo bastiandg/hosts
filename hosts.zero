@@ -17508,6 +17508,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 p.raasnet.com
 0.0.0.0 p.reuters.com
 0.0.0.0 p.rfihub.com
+0.0.0.0 p.ttwitter.com
 0.0.0.0 p.twitter.com
 0.0.0.0 p.vibrant.co
 0.0.0.0 p0.raasnet.com
@@ -19858,6 +19859,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 screen-mates.com
 0.0.0.0 screenaddict.thewhizproducts.com
 0.0.0.0 screensavers.us.intellitxt.com
+0.0.0.0 scribe.ttwitter.com
 0.0.0.0 scribe.twitter.com
 0.0.0.0 scripps.demdex.net
 0.0.0.0 scrippsbathvert.112.2o7.net

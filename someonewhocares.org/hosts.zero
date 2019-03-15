@@ -8849,6 +8849,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 p.profistats.net
 0.0.0.0 p.publico.es
 0.0.0.0 p.reuters.com
+0.0.0.0 p.ttwitter.com
 0.0.0.0 p.twitter.com
 0.0.0.0 p0rnuha.com
 0.0.0.0 p1.adhitzads.com
@@ -9871,6 +9872,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 scr.kliksaya.com
 0.0.0.0 screen-mates.com
 0.0.0.0 screenaddict.thewhizproducts.com
+0.0.0.0 scribe.ttwitter.com
 0.0.0.0 scribe.twitter.com
 0.0.0.0 scrippsbathvert.112.2o7.net
 0.0.0.0 scrippsfoodnet.112.2o7.net
