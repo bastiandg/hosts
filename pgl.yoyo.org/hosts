@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 14 Mar 2019 10:12:20 GMT
-# entries:        2951
+# entries:        2949
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -356,6 +356,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adriver.ru
 127.0.0.1 adrolays.de
 127.0.0.1 adrotate.de
+127.0.0.1 adrotator.se
 127.0.0.1 adrotic.girlonthenet.com
 127.0.0.1 adrta.com
 127.0.0.1 ads-click.com
@@ -431,7 +432,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.cricbuzz.com
 127.0.0.1 ads.cybersales.cz
 127.0.0.1 ads.dada.it
-127.0.0.1 ads.datinggold.com
 127.0.0.1 ads.datingyes.com
 127.0.0.1 ads.dazoot.ro
 127.0.0.1 ads.deltha.hu
@@ -1107,7 +1107,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 belstat.com
 127.0.0.1 belstat.nl
 127.0.0.1 berp.com
-127.0.0.1 best-pr.info
 127.0.0.1 best-top.ro
 127.0.0.1 bestboundary.com
 127.0.0.1 bestsearch.net
@@ -1171,7 +1170,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 bucketbean.com
 127.0.0.1 budsinc.com
 127.0.0.1 bullseye.backbeatmedia.com
-127.0.0.1 bumpberam.pro
 127.0.0.1 businessbells.com
 127.0.0.1 bustlinganimal.com
 127.0.0.1 buysellads.com
@@ -1239,7 +1237,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 class-act-clicks.com
 127.0.0.1 clearcomb.com
 127.0.0.1 clevernt.com
-127.0.0.1 click.absoluteagency.com
 127.0.0.1 click.fool.com
 127.0.0.1 click.kmindex.ru
 127.0.0.1 click2freemoney.com
@@ -1512,7 +1509,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 endurableshop.com
 127.0.0.1 engine.espace.netavenir.com
 127.0.0.1 enginenetwork.com
-127.0.0.1 enoratraffic.com
 127.0.0.1 enquisite.com
 127.0.0.1 ensighten.com
 127.0.0.1 entercasino.com
@@ -1919,6 +1915,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 lytics.io
 127.0.0.1 lzjl.com
 127.0.0.1 m.trb.com
+127.0.0.1 m1.webstats4u.com
 127.0.0.1 m32.media
 127.0.0.1 m4n.nl
 127.0.0.1 m6r.eu
@@ -2047,7 +2044,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mystat.pl
 127.0.0.1 mysteriousmonth.com
 127.0.0.1 mytop-in.net
-127.0.0.1 mytrafficads.com
 127.0.0.1 myvisualiq.net
 127.0.0.1 mzbcdn.net
 127.0.0.1 n69.com
@@ -2480,6 +2476,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 shakesuggestion.com
 127.0.0.1 shakytaste.com
 127.0.0.1 shallowsmile.com
+127.0.0.1 shareadspace.com
 127.0.0.1 shareasale.com
 127.0.0.1 sharepointads.com
 127.0.0.1 sharethrough.com
@@ -2886,6 +2883,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 webstat.channel4.com
 127.0.0.1 webstat.com
 127.0.0.1 webstat.net
+127.0.0.1 webstats4u.com
 127.0.0.1 webtrackerplus.com
 127.0.0.1 webtracky.com
 127.0.0.1 webtraffic.se

@@ -329,6 +329,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adriver.ru
 0.0.0.0 adrolays.de
 0.0.0.0 adrotate.de
+0.0.0.0 adrotator.se
 0.0.0.0 adrotic.girlonthenet.com
 0.0.0.0 adrta.com
 0.0.0.0 ads-click.com
@@ -404,7 +405,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.cricbuzz.com
 0.0.0.0 ads.cybersales.cz
 0.0.0.0 ads.dada.it
-0.0.0.0 ads.datinggold.com
 0.0.0.0 ads.datingyes.com
 0.0.0.0 ads.dazoot.ro
 0.0.0.0 ads.deltha.hu
@@ -1080,7 +1080,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 belstat.com
 0.0.0.0 belstat.nl
 0.0.0.0 berp.com
-0.0.0.0 best-pr.info
 0.0.0.0 best-top.ro
 0.0.0.0 bestboundary.com
 0.0.0.0 bestsearch.net
@@ -1144,7 +1143,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bucketbean.com
 0.0.0.0 budsinc.com
 0.0.0.0 bullseye.backbeatmedia.com
-0.0.0.0 bumpberam.pro
 0.0.0.0 businessbells.com
 0.0.0.0 bustlinganimal.com
 0.0.0.0 buysellads.com
@@ -1212,7 +1210,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 class-act-clicks.com
 0.0.0.0 clearcomb.com
 0.0.0.0 clevernt.com
-0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
@@ -1485,7 +1482,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 endurableshop.com
 0.0.0.0 engine.espace.netavenir.com
 0.0.0.0 enginenetwork.com
-0.0.0.0 enoratraffic.com
 0.0.0.0 enquisite.com
 0.0.0.0 ensighten.com
 0.0.0.0 entercasino.com
@@ -1892,6 +1888,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 lytics.io
 0.0.0.0 lzjl.com
 0.0.0.0 m.trb.com
+0.0.0.0 m1.webstats4u.com
 0.0.0.0 m32.media
 0.0.0.0 m4n.nl
 0.0.0.0 m6r.eu
@@ -2020,7 +2017,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mystat.pl
 0.0.0.0 mysteriousmonth.com
 0.0.0.0 mytop-in.net
-0.0.0.0 mytrafficads.com
 0.0.0.0 myvisualiq.net
 0.0.0.0 mzbcdn.net
 0.0.0.0 n69.com
@@ -2453,6 +2449,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 shakesuggestion.com
 0.0.0.0 shakytaste.com
 0.0.0.0 shallowsmile.com
+0.0.0.0 shareadspace.com
 0.0.0.0 shareasale.com
 0.0.0.0 sharepointads.com
 0.0.0.0 sharethrough.com
@@ -2859,6 +2856,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 webstat.channel4.com
 0.0.0.0 webstat.com
 0.0.0.0 webstat.net
+0.0.0.0 webstats4u.com
 0.0.0.0 webtrackerplus.com
 0.0.0.0 webtracky.com
 0.0.0.0 webtraffic.se
