@@ -8125,7 +8125,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clients.bluecava.com
 0.0.0.0 clients.pointroll.com
-0.0.0.0 clients.tbo.com
 0.0.0.0 clik2008.popunder.ru
 0.0.0.0 clikerz.net
 0.0.0.0 cliksolution.com
@@ -12327,7 +12326,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 hits.webstat.com
 0.0.0.0 hits3.truehits.net
 0.0.0.0 hits4me.com
-0.0.0.0 hits4pay.com
 0.0.0.0 hitslap.com
 0.0.0.0 hitslink.com
 0.0.0.0 hitslog.com
@@ -12618,6 +12616,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 iad-login.dotomi.com
 0.0.0.0 iad.anm.co.uk
 0.0.0.0 iadc.qwapi.com
+0.0.0.0 iadnet.com
 0.0.0.0 ialaddin.genieesspv.jp
 0.0.0.0 iamagameaddict.com
 0.0.0.0 iamnotageek.us.intellitxt.com
@@ -12648,7 +12647,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 icon.clickthru.net
 0.0.0.0 icon.cnzz.com
 0.0.0.0 icon.cubics.com
-0.0.0.0 iconadserver.com
 0.0.0.0 icorpadro.hit.gemius.pl
 0.0.0.0 icptrack.com
 0.0.0.0 ics.hitbox.com
@@ -24326,7 +24324,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 wam-ads.sitescout.com
 0.0.0.0 wangluoruanjian.com
 0.0.0.0 wangmeng.baidu.com
-0.0.0.0 wantmobi.bid
 0.0.0.0 wap.casee.cn
 0.0.0.0 warco.pl
 0.0.0.0 warcry.us.intellitxt.com
@@ -24465,7 +24462,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 webpoll.sparklit.com
 0.0.0.0 webpower.com
 0.0.0.0 webprog.oewabox.at
-0.0.0.0 webreseau.com
 0.0.0.0 webroot.112.2o7.net
 0.0.0.0 websalesusa.com
 0.0.0.0 webseoanalytics.com

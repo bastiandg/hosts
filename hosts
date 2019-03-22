@@ -8125,7 +8125,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 clientmetrics-pa.googleapis.com
 127.0.0.1 clients.bluecava.com
 127.0.0.1 clients.pointroll.com
-127.0.0.1 clients.tbo.com
 127.0.0.1 clik2008.popunder.ru
 127.0.0.1 clikerz.net
 127.0.0.1 cliksolution.com
@@ -12327,7 +12326,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 hits.webstat.com
 127.0.0.1 hits3.truehits.net
 127.0.0.1 hits4me.com
-127.0.0.1 hits4pay.com
 127.0.0.1 hitslap.com
 127.0.0.1 hitslink.com
 127.0.0.1 hitslog.com
@@ -12618,6 +12616,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 iad-login.dotomi.com
 127.0.0.1 iad.anm.co.uk
 127.0.0.1 iadc.qwapi.com
+127.0.0.1 iadnet.com
 127.0.0.1 ialaddin.genieesspv.jp
 127.0.0.1 iamagameaddict.com
 127.0.0.1 iamnotageek.us.intellitxt.com
@@ -12648,7 +12647,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 icon.clickthru.net
 127.0.0.1 icon.cnzz.com
 127.0.0.1 icon.cubics.com
-127.0.0.1 iconadserver.com
 127.0.0.1 icorpadro.hit.gemius.pl
 127.0.0.1 icptrack.com
 127.0.0.1 ics.hitbox.com
@@ -24326,7 +24324,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 wam-ads.sitescout.com
 127.0.0.1 wangluoruanjian.com
 127.0.0.1 wangmeng.baidu.com
-127.0.0.1 wantmobi.bid
 127.0.0.1 wap.casee.cn
 127.0.0.1 warco.pl
 127.0.0.1 warcry.us.intellitxt.com
@@ -24465,7 +24462,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 webpoll.sparklit.com
 127.0.0.1 webpower.com
 127.0.0.1 webprog.oewabox.at
-127.0.0.1 webreseau.com
 127.0.0.1 webroot.112.2o7.net
 127.0.0.1 websalesusa.com
 127.0.0.1 webseoanalytics.com
