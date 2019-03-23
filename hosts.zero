@@ -14229,7 +14229,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 logs.eresmas.com
 0.0.0.0 logs.eresmas.net
 0.0.0.0 logs.loggly.com
-0.0.0.0 logs.logrocket.com
 0.0.0.0 logs.roku.com
 0.0.0.0 logs.sexy-parade.com
 0.0.0.0 logs.spilgames.com
@@ -18338,6 +18337,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 prod-e.sprtad.com
 0.0.0.0 prod-js.aws.y-track.com
 0.0.0.0 prod-services.interactiveone.com
+0.0.0.0 producer.getwisdom.io
 0.0.0.0 product-reviews.uk.intellitxt.com
 0.0.0.0 productopinionpanel.com
 0.0.0.0 productresearchpanel.com

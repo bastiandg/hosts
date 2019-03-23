@@ -1868,7 +1868,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 log.btopenworld.com
 0.0.0.0 log.logrocket.io
 0.0.0.0 logger.snackly.co
-0.0.0.0 logs.logrocket.com
 0.0.0.0 logs.roku.com
 0.0.0.0 logua.com
 0.0.0.0 longinglettuce.com
@@ -2236,6 +2235,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 privatecash.com
 0.0.0.0 prmtracking.com
 0.0.0.0 pro-advertising.com
+0.0.0.0 producer.getwisdom.io
 0.0.0.0 proext.com
 0.0.0.0 profero.com
 0.0.0.0 profitrumour.com

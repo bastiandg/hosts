@@ -21,7 +21,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 18 Mar 2019 11:08:35 GMT
+# last updated:   Sat, 23 Mar 2019 09:36:09 GMT
 # entries:        2945
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -1895,7 +1895,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 log.btopenworld.com
 127.0.0.1 log.logrocket.io
 127.0.0.1 logger.snackly.co
-127.0.0.1 logs.logrocket.com
 127.0.0.1 logs.roku.com
 127.0.0.1 logua.com
 127.0.0.1 longinglettuce.com
@@ -2263,6 +2262,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 privatecash.com
 127.0.0.1 prmtracking.com
 127.0.0.1 pro-advertising.com
+127.0.0.1 producer.getwisdom.io
 127.0.0.1 proext.com
 127.0.0.1 profero.com
 127.0.0.1 profitrumour.com
