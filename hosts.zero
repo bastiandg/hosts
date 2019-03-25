@@ -2073,6 +2073,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads-stream.com
 0.0.0.0 ads-t.ru
 0.0.0.0 ads-trk.vidible.tv
+0.0.0.0 ads-twitter.com
 0.0.0.0 ads-us.pictela.net
 0.0.0.0 ads-v-darwin.hulu.com
 0.0.0.0 ads-web.mail.com
@@ -10851,7 +10852,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 feeds.weselltraffic.com
 0.0.0.0 feeds.wise-click.com
 0.0.0.0 feedsweep.us.intellitxt.com
-0.0.0.0 feefo.com
 0.0.0.0 fei.pro-market.net
 0.0.0.0 fejezet.com
 0.0.0.0 felix.data.tm-awx.com
