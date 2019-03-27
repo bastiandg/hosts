@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 27 Mar 2019 12:53:33 GMT
-# entries:        2947
+# last updated:   Wed, 27 Mar 2019 13:58:12 GMT
+# entries:        2948
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2152,6 +2152,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 optimizely.com
 127.0.0.1 optimost.com
 127.0.0.1 optmd.com
+127.0.0.1 optmnstr.com
 127.0.0.1 optmstr.com
 127.0.0.1 optnmstr.com
 127.0.0.1 ordingly.com
