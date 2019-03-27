@@ -4,6 +4,7 @@
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 
+0.0.0.0 0.nextyourcontent.com
 0.0.0.0 006.free-counter.co.uk
 0.0.0.0 006.freecounters.co.uk
 0.0.0.0 0101011.com
@@ -5270,6 +5271,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 error-warning-alert-critical-5x.com
 0.0.0.0 errorfixing.space
 0.0.0.0 errorfixing.tech
+0.0.0.0 errx049.icu
 0.0.0.0 es.adserver.yahoo.com
 0.0.0.0 es.optimost.com
 0.0.0.0 escape.insites.eu

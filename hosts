@@ -4,6 +4,7 @@
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 
+127.0.0.1 0.nextyourcontent.com
 127.0.0.1 0.r.msn.com
 127.0.0.1 005.free-counter.co.uk
 127.0.0.1 006.free-counter.co.uk
@@ -10412,6 +10413,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 errorfixing.tech
 127.0.0.1 errors.perfectgonzo.com
 127.0.0.1 errortablet.com
+127.0.0.1 errx049.icu
 127.0.0.1 ertya.com
 127.0.0.1 erupt.fernetmoretti.com.ar
 127.0.0.1 es.adserver.yahoo.com
