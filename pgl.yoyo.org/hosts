@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 28 Mar 2019 10:47:18 GMT
-# entries:        2951
+# last updated:   Thu, 28 Mar 2019 12:54:34 GMT
+# entries:        2952
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1501,6 +1501,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 elitetoplist.com
 127.0.0.1 elthamely.com
 127.0.0.1 emarketer.com
+127.0.0.1 emebo.com
 127.0.0.1 emediate.dk
 127.0.0.1 emediate.eu
 127.0.0.1 emerse.com
