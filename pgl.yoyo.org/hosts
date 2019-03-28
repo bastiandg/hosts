@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 27 Mar 2019 13:58:12 GMT
-# entries:        2948
+# last updated:   Thu, 28 Mar 2019 09:29:11 GMT
+# entries:        2950
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1968,6 +1968,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 medleyads.com
 127.0.0.1 medyanetads.com
 127.0.0.1 megacash.de
+127.0.0.1 megapu.sh
 127.0.0.1 megastats.com
 127.0.0.1 megawerbung.de
 127.0.0.1 mellowads.com
@@ -2417,6 +2418,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 rtbpop.com
 127.0.0.1 rtbpopd.com
 127.0.0.1 rtmark.net
+127.0.0.1 rtxplatform.com
 127.0.0.1 ru-traffic.com
 127.0.0.1 ru4.com
 127.0.0.1 rubiconproject.com
