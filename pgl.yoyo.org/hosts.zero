@@ -698,7 +698,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adsensecustomsearchads.com
 0.0.0.0 adserv.gamezone.de
 0.0.0.0 adserve.ams.rhythmxchange.com
-0.0.0.0 adserver.43plc.com
 0.0.0.0 adserver.71i.de
 0.0.0.0 adserver.adultfriendfinder.com
 0.0.0.0 adserver.aidameter.com
@@ -767,7 +766,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adspeed.net
 0.0.0.0 adspirit.de
 0.0.0.0 adsponse.de
-0.0.0.0 adsrevenue.net
 0.0.0.0 adsrv.deviantart.com
 0.0.0.0 adsrv.eacdn.com
 0.0.0.0 adsrv.iol.co.za
@@ -919,7 +917,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.live.com
-0.0.0.0 analytics.newsinc.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 anm.intelli-direct.com
 0.0.0.0 annonser.dagbladet.no
@@ -1175,6 +1172,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 casinopays.com
 0.0.0.0 casinorewards.com
 0.0.0.0 casinotraffic.com
+0.0.0.0 casterist.info
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cbsi.com
 0.0.0.0 cdn.freefarcy.com
@@ -1549,6 +1547,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 feebleshock.com
 0.0.0.0 feedbackresearch.com
+0.0.0.0 feedjit.com
 0.0.0.0 ffxcam.fairfax.com.au
 0.0.0.0 fimserve.com
 0.0.0.0 findcommerce.com
@@ -1773,7 +1772,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 intergi.com
 0.0.0.0 internetfuel.com
 0.0.0.0 interreklame.de
-0.0.0.0 interstat.hu
 0.0.0.0 inventionpassenger.com
 0.0.0.0 inviterabbits.com
 0.0.0.0 invitesugar.com
@@ -2027,7 +2025,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 navrcholu.cz
 0.0.0.0 nbjmp.com
 0.0.0.0 ncaudienceexchange.com
-0.0.0.0 ndnops.com
 0.0.0.0 ndparking.com
 0.0.0.0 nedstat.com
 0.0.0.0 nedstat.nl
@@ -2806,7 +2803,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 vericlick.com
 0.0.0.0 vertadnet.com
 0.0.0.0 verticalmass.com
-0.0.0.0 veruta.com
 0.0.0.0 vervewireless.com
 0.0.0.0 vibrantmedia.com
 0.0.0.0 video-stats.video.google.com

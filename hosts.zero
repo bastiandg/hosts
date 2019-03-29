@@ -3894,7 +3894,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.163.com
 0.0.0.0 adserver.2618.com
 0.0.0.0 adserver.3digit.de
-0.0.0.0 adserver.43plc.com
 0.0.0.0 adserver.4clicks.org
 0.0.0.0 adserver.71i.de
 0.0.0.0 adserver.a.in.monster.com
@@ -7367,6 +7366,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 casinorewards.com
 0.0.0.0 casinotraffic.com
 0.0.0.0 caslemedia.com
+0.0.0.0 casterist.info
 0.0.0.0 casting.openv.com
 0.0.0.0 castingshow-news.de.intellitxt.com
 0.0.0.0 cat.onlinepeople.net
@@ -13171,7 +13171,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 internetretailer.d2.sc.omtrdc.net
 0.0.0.0 internetsecurity.com
 0.0.0.0 interreklame.de
-0.0.0.0 interstat.hu
 0.0.0.0 interyield.jmp9.com
 0.0.0.0 interyield.td553.com
 0.0.0.0 interyield.td563.com
@@ -16197,7 +16196,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ndl1mx1-a-fixed.sancharnet.in
 0.0.0.0 ndl1pp1-a-fixed.sancharnet.in
 0.0.0.0 ndn.cdn.auditude.com
-0.0.0.0 ndnops.com
 0.0.0.0 ndparking.com
 0.0.0.0 ne.5.p2l.info
 0.0.0.0 nearbyad.com
@@ -23811,7 +23809,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 vertadnet.com
 0.0.0.0 vertical-stats.huffpost.com
 0.0.0.0 verticalmass.com
-0.0.0.0 veruta.com
 0.0.0.0 vervewireless.com
 0.0.0.0 vette-porno.nl
 0.0.0.0 veuhub-d.openx.net
