@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 29 Mar 2019 10:29:46 GMT
-# entries:        2949
+# last updated:   Fri, 29 Mar 2019 14:12:07 GMT
+# entries:        2950
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2221,6 +2221,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ping.ublock.org
 127.0.0.1 pippio.com
 127.0.0.1 piquantpigs.com
+127.0.0.1 pix.spot.im
 127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 pixel.condenastdigital.com
 127.0.0.1 pixel.digitru.st
