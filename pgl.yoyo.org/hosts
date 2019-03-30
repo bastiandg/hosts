@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 29 Mar 2019 14:12:07 GMT
-# entries:        2950
+# last updated:   Sat, 30 Mar 2019 15:17:59 GMT
+# entries:        2951
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1328,6 +1328,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 copycarpenter.com
 127.0.0.1 copyrightaccesscontrols.com
 127.0.0.1 coremetrics.com
+127.0.0.1 cost2buy.net
 127.0.0.1 count.rbc.ru
 127.0.0.1 count.rin.ru
 127.0.0.1 count.west263.com
