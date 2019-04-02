@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 01 Apr 2019 19:42:18 GMT
-# entries:        2954
+# last updated:   Tue, 02 Apr 2019 11:46:29 GMT
+# entries:        2955
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2567,6 +2567,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 spywords.com
 127.0.0.1 squeamishscarecrow.com
 127.0.0.1 squirrelhands.com
+127.0.0.1 srvmath.com
 127.0.0.1 srwww1.com
 127.0.0.1 stackadapt.com
 127.0.0.1 stakingscrew.com
