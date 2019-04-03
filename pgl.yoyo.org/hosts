@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 03 Apr 2019 07:47:23 GMT
-# entries:        2957
+# last updated:   Wed, 03 Apr 2019 08:32:41 GMT
+# entries:        2958
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -552,6 +552,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.mmania.com
 127.0.0.1 ads.mobilautomaten.com
 127.0.0.1 ads.mobilebet.com
+127.0.0.1 ads.mopub.com
 127.0.0.1 ads.motor-forum.nl
 127.0.0.1 ads.motormedia.nl
 127.0.0.1 ads.msn.com
