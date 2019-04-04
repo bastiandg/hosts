@@ -15368,6 +15368,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 metrics.foxnews.com
 127.0.0.1 metrics.gap.com
 127.0.0.1 metrics.gcimetrics.com
+127.0.0.1 metrics.gfycat.com
 127.0.0.1 metrics.gnc.com
 127.0.0.1 metrics.govexec.com
 127.0.0.1 metrics.harley-davidson.com
@@ -18674,6 +18675,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 px.ads.linkedin.com
 127.0.0.1 px.cdn.creative.medialytics.com
 127.0.0.1 px.dynamicyield.com
+127.0.0.1 px.gfycat.com
 127.0.0.1 px.moatads.com
 127.0.0.1 px.owneriq.net
 127.0.0.1 px.splittag.com

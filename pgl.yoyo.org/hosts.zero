@@ -1960,6 +1960,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 metrics.consumerreports.org
 0.0.0.0 metrics.ctv.ca
 0.0.0.0 metrics.foxnews.com
+0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.govexec.com
 0.0.0.0 metrics.windowsitpro.com
 0.0.0.0 metrilo.com
@@ -2282,6 +2283,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 puzzlingfall.com
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 px.dynamicyield.com
+0.0.0.0 px.gfycat.com
 0.0.0.0 q.azcentral.com
 0.0.0.0 qctop.com
 0.0.0.0 qnsr.com

@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 04 Apr 2019 07:37:47 GMT
-# entries:        2958
+# last updated:   Thu, 04 Apr 2019 13:26:17 GMT
+# entries:        2960
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1987,6 +1987,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 metrics.consumerreports.org
 127.0.0.1 metrics.ctv.ca
 127.0.0.1 metrics.foxnews.com
+127.0.0.1 metrics.gfycat.com
 127.0.0.1 metrics.govexec.com
 127.0.0.1 metrics.windowsitpro.com
 127.0.0.1 metrilo.com
@@ -2309,6 +2310,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 puzzlingfall.com
 127.0.0.1 px.ads.linkedin.com
 127.0.0.1 px.dynamicyield.com
+127.0.0.1 px.gfycat.com
 127.0.0.1 q.azcentral.com
 127.0.0.1 qctop.com
 127.0.0.1 qnsr.com
