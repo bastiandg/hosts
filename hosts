@@ -15303,6 +15303,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 metrics.amd.com
 127.0.0.1 metrics.americancityandcounty.com
 127.0.0.1 metrics.apartmentfinder.com
+127.0.0.1 metrics.api.drift.com
 127.0.0.1 metrics.ariba.com
 127.0.0.1 metrics.att.com
 127.0.0.1 metrics.autobytel.com
