@@ -1211,6 +1211,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 class-act-clicks.com
 0.0.0.0 clearcomb.com
 0.0.0.0 clevernt.com
+0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
@@ -2013,7 +2014,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mycounter.ua
 0.0.0.0 mydas.mobi
 0.0.0.0 mylink-today.com
-0.0.0.0 mymoneymakingapp.com
 0.0.0.0 mypagerank.net
 0.0.0.0 mypagerank.ru
 0.0.0.0 mypowermall.com
@@ -2676,6 +2676,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ticklesign.com
 0.0.0.0 tidaltv.com
 0.0.0.0 tinybar.com
+0.0.0.0 tizers.net
 0.0.0.0 tlvmedia.com
 0.0.0.0 tnkexchange.com
 0.0.0.0 tns-counter.ru
@@ -2863,6 +2864,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 weborama.com
 0.0.0.0 weborama.fr
 0.0.0.0 webpower.com
+0.0.0.0 webreseau.com
 0.0.0.0 webseoanalytics.com
 0.0.0.0 websponsors.com
 0.0.0.0 webstat.channel4.com

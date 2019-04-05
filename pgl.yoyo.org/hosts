@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 04 Apr 2019 15:18:42 GMT
-# entries:        2962
+# entries:        2964
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1238,6 +1238,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 class-act-clicks.com
 127.0.0.1 clearcomb.com
 127.0.0.1 clevernt.com
+127.0.0.1 click.absoluteagency.com
 127.0.0.1 click.fool.com
 127.0.0.1 click.kmindex.ru
 127.0.0.1 click2freemoney.com
@@ -2040,7 +2041,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mycounter.ua
 127.0.0.1 mydas.mobi
 127.0.0.1 mylink-today.com
-127.0.0.1 mymoneymakingapp.com
 127.0.0.1 mypagerank.net
 127.0.0.1 mypagerank.ru
 127.0.0.1 mypowermall.com
@@ -2703,6 +2703,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ticklesign.com
 127.0.0.1 tidaltv.com
 127.0.0.1 tinybar.com
+127.0.0.1 tizers.net
 127.0.0.1 tlvmedia.com
 127.0.0.1 tnkexchange.com
 127.0.0.1 tns-counter.ru
@@ -2890,6 +2891,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 weborama.com
 127.0.0.1 weborama.fr
 127.0.0.1 webpower.com
+127.0.0.1 webreseau.com
 127.0.0.1 webseoanalytics.com
 127.0.0.1 websponsors.com
 127.0.0.1 webstat.channel4.com
