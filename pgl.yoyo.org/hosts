@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 04 Apr 2019 15:18:42 GMT
-# entries:        2964
+# last updated:   Fri, 05 Apr 2019 15:40:13 GMT
+# entries:        2965
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2031,6 +2031,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mstrlytcs.com
 127.0.0.1 mtrcs.samba.tv
 127.0.0.1 mtree.com
+127.0.0.1 munchkin.marketo.net
 127.0.0.1 musiccounter.ru
 127.0.0.1 muwmedia.com
 127.0.0.1 mxptint.net
