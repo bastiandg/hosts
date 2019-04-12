@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 10 Apr 2019 14:09:21 GMT
-# entries:        2966
+# entries:        2964
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -56,7 +56,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 518ad.com
 127.0.0.1 51yes.com
 127.0.0.1 5mcwl.pw
-127.0.0.1 600z.com
 127.0.0.1 6ldu6qa.com
 127.0.0.1 777partner.com
 127.0.0.1 77tracking.com
@@ -78,12 +77,12 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 abacho.net
 127.0.0.1 abackchain.com
 127.0.0.1 abandonedaction.com
-127.0.0.1 abandonedclover.com
 127.0.0.1 abashedangle.com
 127.0.0.1 abc-ads.com
 127.0.0.1 aboardlevel.com
 127.0.0.1 abruptroad.com
 127.0.0.1 absentstream.com
+127.0.0.1 absoluteclickscom.com
 127.0.0.1 absorbingband.com
 127.0.0.1 absurdwater.com
 127.0.0.1 abz.com
@@ -355,7 +354,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adrevolver.com
 127.0.0.1 adriver.ru
 127.0.0.1 adrolays.de
-127.0.0.1 adrotate.de
 127.0.0.1 adrotator.se
 127.0.0.1 adrotic.girlonthenet.com
 127.0.0.1 adrta.com
