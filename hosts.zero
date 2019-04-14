@@ -10924,7 +10924,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 flowgo.com
 0.0.0.0 fls-eu.amazon-adsystem.com
 0.0.0.0 fls-na.amazon-adsystem.com
-0.0.0.0 fls-na.amazon.com
 0.0.0.0 fls.au.doubleclick.net
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 fls.uk.doubleclick.net
@@ -22061,6 +22060,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 testpc24.profitableads.online
 0.0.0.0 testpconly12.prepare2upvideosafesystem4setnow.online
 0.0.0.0 testtralala.xorg.pl
+0.0.0.0 testupgrade.yourforcontentsplaysystems.icu
 0.0.0.0 tetra.hitbox.com
 0.0.0.0 tex-sync.rockyou.net
 0.0.0.0 texas-hold-em.e-online-poker-4u.net
