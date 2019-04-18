@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 17 Apr 2019 08:50:09 GMT
-# entries:        2962
+# last updated:   Thu, 18 Apr 2019 07:57:32 GMT
+# entries:        2963
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2530,6 +2530,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 smetrics.ctv.ca
 127.0.0.1 smetrics.foxnews.com
 127.0.0.1 smetrics.walgreens.com
+127.0.0.1 smetrics.washingtonpost.com
 127.0.0.1 smilingwaves.com
 127.0.0.1 snakesort.com
 127.0.0.1 snapads.com
