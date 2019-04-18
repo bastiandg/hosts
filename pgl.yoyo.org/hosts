@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 18 Apr 2019 07:57:32 GMT
-# entries:        2963
+# last updated:   Thu, 18 Apr 2019 08:31:42 GMT
+# entries:        2965
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1660,6 +1660,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 gorgeousground.com
 127.0.0.1 gossipmiser.com
 127.0.0.1 gostats.com
+127.0.0.1 gotraffic.net
 127.0.0.1 gp.dejanews.com
 127.0.0.1 gracefulsock.com
 127.0.0.1 grandioseguide.com
@@ -2563,6 +2564,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 sponsors.thoughtsmedia.com
 127.0.0.1 spot.fitness.com
 127.0.0.1 spottysense.com
+127.0.0.1 spotx.tv
 127.0.0.1 spotxchange.com
 127.0.0.1 springaftermath.com
 127.0.0.1 spurioussteam.com
