@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 18 Apr 2019 13:20:47 GMT
-# entries:        2970
+# entries:        2969
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -171,7 +171,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad.sensismediasmart.com.au
 127.0.0.1 ad.seznam.cz
 127.0.0.1 ad.simgames.net
-127.0.0.1 ad.slutload.com
 127.0.0.1 ad.smartclip.net
 127.0.0.1 ad.tbn.ru
 127.0.0.1 ad.technoratimedia.com
