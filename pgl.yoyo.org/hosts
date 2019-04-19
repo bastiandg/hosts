@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 18 Apr 2019 13:20:47 GMT
-# entries:        2969
+# entries:        2970
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1040,7 +1040,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 bannercommunity.de
 127.0.0.1 bannerconnect.com
 127.0.0.1 bannerconnect.net
-127.0.0.1 bannerexchange.cjb.net
 127.0.0.1 bannerflow.com
 127.0.0.1 bannergrabber.internet.gr
 127.0.0.1 bannerhost.com
@@ -1105,6 +1104,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 belstat.com
 127.0.0.1 belstat.nl
 127.0.0.1 berp.com
+127.0.0.1 best-pr.info
 127.0.0.1 best-top.ro
 127.0.0.1 bestboundary.com
 127.0.0.1 bestsearch.net
@@ -2053,6 +2053,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mystat.pl
 127.0.0.1 mysteriousmonth.com
 127.0.0.1 mytop-in.net
+127.0.0.1 mytrafficads.com
 127.0.0.1 myvisualiq.net
 127.0.0.1 mzbcdn.net
 127.0.0.1 n69.com

@@ -5990,7 +5990,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bannerconnect.com
 127.0.0.1 bannerconnect.net
 127.0.0.1 bannerdriven.ru
-127.0.0.1 bannerexchange.cjb.net
 127.0.0.1 bannerexchange.troglod.com
 127.0.0.1 bannerfarm.ace.advertising.com
 127.0.0.1 bannerflow.com
@@ -6325,6 +6324,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bertelwissenprod.122.2o7.net
 127.0.0.1 beseenad.looksmart.com
 127.0.0.1 best-hir.com
+127.0.0.1 best-pr.info
 127.0.0.1 best-search.cc
 127.0.0.1 best-top.ro
 127.0.0.1 best100catfights.com
@@ -15982,6 +15982,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mytop-in.net
 127.0.0.1 mytraf.info
 127.0.0.1 mytraf.ru
+127.0.0.1 mytrafficads.com
 127.0.0.1 myusersonline.com
 127.0.0.1 myvisualiq.net
 127.0.0.1 myvksaver.ru
