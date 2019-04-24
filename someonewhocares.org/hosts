@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 14 Apr 2019 at 09:27:42 GMT
+# Last updated: Wed, 24 Apr 2019 at 01:24:55 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2169,6 +2169,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 badmactogoodmac.space
 127.0.0.1 badmactogoodmac.tech
 127.0.0.1 beloysoff.ru
+127.0.0.1 best.aliexpress.com
 127.0.0.1 bestreview.site
 127.0.0.1 bgl1dr1-a-fixed.sancharnet.in
 127.0.0.1 bgl1pp1-a-fixed.sancharnet.in
@@ -2347,6 +2348,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 gyros.es
 127.0.0.1 h1317070.stratoserver.net
 127.0.0.1 hackerz.ir
+127.0.0.1 hajoopteg.com
 127.0.0.1 hakerzy.net
 127.0.0.1 hakuba.janis.or.jp
 127.0.0.1 hallaert.online
@@ -2372,6 +2374,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 imms1.macau.ctm.net
 127.0.0.1 indy.fjmu.edu.cn
 127.0.0.1 infopaypal.com
+127.0.0.1 informereng.com
 127.0.0.1 installmac.com
 127.0.0.1 install.myvideotab.com
 127.0.0.1 interac.refund-canada.com
@@ -2973,6 +2976,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.goggle.com
 127.0.0.1 www.gozatar.com
 127.0.0.1 www.grouphappy.com
+127.0.0.1 www.hajoopteg.com
 127.0.0.1 www.hakerzy.net
 127.0.0.1 www.hallaert.online
 127.0.0.1 www.haoyunlaid.com
@@ -2982,6 +2986,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.indesignstudioinfo.com
 127.0.0.1 www.indexerflash.com
 127.0.0.1 www.infopaypal.com
+127.0.0.1 www.informereng.com
 127.0.0.1 www.irony.world
 127.0.0.1 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 127.0.0.1 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
@@ -3549,7 +3554,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 secure-jp.imrworldwide.com
 127.0.0.1 secure-nz.imrworldwide.com
 127.0.0.1 secure-uk.imrworldwide.com
-127.0.0.1 secure-us.imrworldwide.com
 127.0.0.1 secure-za.imrworldwide.com
 127.0.0.1 server-au.imrworldwide.com
 127.0.0.1 server-br.imrworldwide.com
@@ -9104,6 +9108,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 louisvil.ur.gcion.com
 127.0.0.1 lp1.linkpulse.com
 127.0.0.1 lp4.linkpulse.com
+127.0.0.1 lp4.onlinecasinoreports.com
 127.0.0.1 lpcloudsvr405.com
 127.0.0.1 lp.empire.goodgamestudios.com
 127.0.0.1 lpg02.com
