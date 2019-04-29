@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 18 Apr 2019 13:20:47 GMT
-# entries:        2967
+# last updated:   Mon, 29 Apr 2019 07:31:56 GMT
+# entries:        2970
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -814,6 +814,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adthis.com
 127.0.0.1 adthrive.com
 127.0.0.1 adtiger.de
+127.0.0.1 adtilt.com
 127.0.0.1 adtng.com
 127.0.0.1 adtoll.com
 127.0.0.1 adtology.com
@@ -2002,6 +2003,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 militaryverse.com
 127.0.0.1 minewhat.com
 127.0.0.1 minormeeting.com
+127.0.0.1 mintegral.com
 127.0.0.1 misstrends.com
 127.0.0.1 mixedreading.com
 127.0.0.1 mixpanel.com
@@ -2355,6 +2357,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 raresummer.com
 127.0.0.1 rate.ru
 127.0.0.1 ratings.lycos.com
+127.0.0.1 rayjump.com
 127.0.0.1 rb1.design.ru
 127.0.0.1 re-directme.com
 127.0.0.1 reachjunction.com
