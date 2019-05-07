@@ -21,7 +21,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 06 May 2019 14:44:57 GMT
+# last updated:   Tue, 07 May 2019 07:10:14 GMT
 # entries:        2965
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -2319,7 +2319,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 qnsr.com
 127.0.0.1 quacksquirrel.com
 127.0.0.1 quaintcan.com
-127.0.0.1 qualtrics.com
 127.0.0.1 quantcast.com
 127.0.0.1 quantcast.mgr.consensu.org
 127.0.0.1 quantserve.com
@@ -2515,6 +2514,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 sinoa.com
 127.0.0.1 sitedataprocessing.com
 127.0.0.1 siteimproveanalytics.com
+127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 sitemeter.com
 127.0.0.1 sitestat.com
 127.0.0.1 sixscissors.com

@@ -2292,7 +2292,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 qnsr.com
 0.0.0.0 quacksquirrel.com
 0.0.0.0 quaintcan.com
-0.0.0.0 qualtrics.com
 0.0.0.0 quantcast.com
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 quantserve.com
@@ -2488,6 +2487,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 sinoa.com
 0.0.0.0 sitedataprocessing.com
 0.0.0.0 siteimproveanalytics.com
+0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 sitemeter.com
 0.0.0.0 sitestat.com
 0.0.0.0 sixscissors.com
