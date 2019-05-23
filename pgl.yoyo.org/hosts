@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 21 May 2019 11:38:10 GMT
-# entries:        2952
+# last updated:   Thu, 23 May 2019 11:40:21 GMT
+# entries:        2953
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2559,6 +2559,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 spotx.tv
 127.0.0.1 spotxchange.com
 127.0.0.1 springaftermath.com
+127.0.0.1 spulse.net
 127.0.0.1 spurioussteam.com
 127.0.0.1 spykemediatrack.com
 127.0.0.1 spylog.com
