@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 15 May 2019 at 05:14:45 GMT
+# Last updated: Mon, 27 May 2019 at 06:53:59 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7894,7 +7894,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 d14.zedo.com
 127.0.0.1 d1.openx.org
 127.0.0.1 d1.zedo.com
+127.0.0.1 d2.sina.com.cn
 127.0.0.1 d2.zedo.com
+127.0.0.1 d3.sina.com.cn
 127.0.0.1 d3.zedo.com
 127.0.0.1 d4q8zgf756.com
 127.0.0.1 d4.zedo.com
@@ -8583,6 +8585,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 gwallet.com
 127.0.0.1 gw.youmi.net
 127.0.0.1 gx-in-f109.1e100.net
+127.0.0.1 gzqroju.cinci.rr.com
 127.0.0.1 h-adashx4ae.ut.taobao.com
 127.0.0.1 h-adashx.ut.taobao.com
 127.0.0.1 hadik.info
@@ -9482,6 +9485,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 mpv.sandai.net
 127.0.0.1 m.quantcount.com
 127.0.0.1 mr4evmd0r1.s.ad6media.fr
+127.0.0.1 msblhtsh.cinci.rr.com
 127.0.0.1 msn.allyes.com
 127.0.0.1 msnbe-hp.metriweb.be
 127.0.0.1 msn-cdn.effectivemeasure.net
@@ -9637,6 +9641,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 nkcache.brandreachsys.com
 127.0.0.1 nl.adserver.yahoo.com
 127.0.0.1 nl.ads.justpremium.com
+127.0.0.1 nlccrunsemmvbbv.cinci.rr.com
 127.0.0.1 no.adserver.yahoo.com
 127.0.0.1 nofreezingmac.space
 127.0.0.1 nofreezingmac.work
@@ -10043,6 +10048,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 pp.free.fr
 127.0.0.1 p.profistats.net
 127.0.0.1 p.publico.es
+127.0.0.1 pqqyhbff.cinci.rr.com
 127.0.0.1 pq.stat.ku6.com
 127.0.0.1 prefersurvey.net
 127.0.0.1 preland.softmonetize.com
@@ -10430,6 +10436,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 RUSpolice.net
 127.0.0.1 russ-shalavy.ru
 127.0.0.1 rv.adcpx.v1.de.eusem.adaos-ads.net
+127.0.0.1 ryadqsgyfwx.cinci.rr.com
 127.0.0.1 rya.rockyou.com
 127.0.0.1 s0b.bluestreak.com
 127.0.0.1 s1.2mdn.net
@@ -10440,6 +10447,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 s2.buysellads.com
 127.0.0.1 s3.adbers.com
 127.0.0.1 s3.buysellads.com
+127.0.0.1 s3.pfp.sina.net
 127.0.0.1 s5.addthis.com
 127.0.0.1 s7.addthis.com
 127.0.0.1 s7clean.com
@@ -10988,6 +10996,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 tc.tradetracker.net
 127.0.0.1 tdameritrade.tt.omtrdc.net
 127.0.0.1 tdc.advertorials.dk
+127.0.0.1 tdethzebgufhuqt.cinci.rr.com
 127.0.0.1 tdkads.ads.dk
 127.0.0.1 t.dynad.net
 127.0.0.1 team4heat.net
@@ -11399,6 +11408,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 vq91811.com
 127.0.0.1 vu.veoxa.com
 127.0.0.1 v.vomedia.tv
+127.0.0.1 vxluvrwzs.cinci.rr.com
 127.0.0.1 vzarabotke.ru
 127.0.0.1 w100.am15.net
 127.0.0.1 w101.am15.net
@@ -11596,6 +11606,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 work-offer.com
 127.0.0.1 worry-free-savings.com
 127.0.0.1 wowanalytics.co.uk
+127.0.0.1 wpad.cinci.rr.com
 127.0.0.1 wpadx.com
 127.0.0.1 wppluginspro.com
 127.0.0.1 w.prize44.com
@@ -12698,6 +12709,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 xsztfrlkphqy.com
 127.0.0.1 y.admob.com
 127.0.0.1 yadro.ru
+127.0.0.1 ybhssnaemxyer.cinci.rr.com
 127.0.0.1 y.cdn.adblade.com
 127.0.0.1 yepdigital.adk2x.com
 127.0.0.1 yhit.press
@@ -12790,7 +12802,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 ar.hao123.com
 127.0.0.1 irs01.net
 127.0.0.1 kiks.yandex.ru
-127.0.0.1 simg.sinajs.cn
 127.0.0.1 tv.sohu.com
 127.0.0.1 y3.ifengimg.com
 #</evercookies-sites>
