@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 23 May 2019 11:40:21 GMT
-# entries:        2943
+# last updated:   Tue, 28 May 2019 15:17:54 GMT
+# entries:        2944
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -74,6 +74,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 a.xanga.com
 127.0.0.1 a135.wftv.com
 127.0.0.1 aaddzz.com
+127.0.0.1 aaxads.com
 127.0.0.1 abacho.net
 127.0.0.1 abackchain.com
 127.0.0.1 abandonedaction.com
