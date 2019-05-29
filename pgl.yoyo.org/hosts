@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 28 May 2019 15:17:54 GMT
-# entries:        2944
+# last updated:   Wed, 29 May 2019 09:12:31 GMT
+# entries:        2945
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1943,6 +1943,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 media.ftv-publicite.fr
 127.0.0.1 media.funpic.de
 127.0.0.1 media.net
+127.0.0.1 media01.eu
 127.0.0.1 media6degrees.com
 127.0.0.1 mediaarea.eu
 127.0.0.1 mediabridge.cc
