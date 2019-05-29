@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 29 May 2019 09:12:31 GMT
-# entries:        2945
+# last updated:   Wed, 29 May 2019 14:39:19 GMT
+# entries:        2946
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1120,6 +1120,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 bitads.net
 127.0.0.1 bitmedianetwork.com
 127.0.0.1 bizad.nikkeibp.co.jp
+127.0.0.1 bizible.com
 127.0.0.1 bizographics.com
 127.0.0.1 bizrate.com
 127.0.0.1 blast4traffic.com
