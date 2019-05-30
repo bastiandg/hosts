@@ -14023,6 +14023,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 log.optimizely.com
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.pinion.gg
+0.0.0.0 log.pinterest.com
 0.0.0.0 log.pladform.ru
 0.0.0.0 log.quora.com
 0.0.0.0 log.statistici.ro
@@ -14334,6 +14335,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 m1.webstats4u.com
 0.0.0.0 m1.za.2mdn.net
 0.0.0.0 m2.ae.2mdn.net
+0.0.0.0 m2.ai
 0.0.0.0 m2.au.2mdn.net
 0.0.0.0 m2.be.2mdn.net
 0.0.0.0 m2.br.2mdn.net
@@ -24251,6 +24253,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 webcom-software.ws
 0.0.0.0 webcompteur.com
 0.0.0.0 webconnect.net
+0.0.0.0 webcontentassessor.com
 0.0.0.0 webcounter.be
 0.0.0.0 webcounter.com
 0.0.0.0 webcounter.cz

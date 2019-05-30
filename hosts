@@ -14023,6 +14023,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 log.optimizely.com
 127.0.0.1 log.outbrain.com
 127.0.0.1 log.pinion.gg
+127.0.0.1 log.pinterest.com
 127.0.0.1 log.pladform.ru
 127.0.0.1 log.quora.com
 127.0.0.1 log.statistici.ro
@@ -14334,6 +14335,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 m1.webstats4u.com
 127.0.0.1 m1.za.2mdn.net
 127.0.0.1 m2.ae.2mdn.net
+127.0.0.1 m2.ai
 127.0.0.1 m2.au.2mdn.net
 127.0.0.1 m2.be.2mdn.net
 127.0.0.1 m2.br.2mdn.net
@@ -24251,6 +24253,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 webcom-software.ws
 127.0.0.1 webcompteur.com
 127.0.0.1 webconnect.net
+127.0.0.1 webcontentassessor.com
 127.0.0.1 webcounter.be
 127.0.0.1 webcounter.com
 127.0.0.1 webcounter.cz

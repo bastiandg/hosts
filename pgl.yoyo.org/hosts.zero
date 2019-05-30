@@ -1863,6 +1863,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 loading321.com
 0.0.0.0 log.btopenworld.com
 0.0.0.0 log.logrocket.io
+0.0.0.0 log.pinterest.com
 0.0.0.0 logger.snackly.co
 0.0.0.0 logs.roku.com
 0.0.0.0 logua.com
@@ -1879,6 +1880,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 lzjl.com
 0.0.0.0 m.trb.com
 0.0.0.0 m1.webstats4u.com
+0.0.0.0 m2.ai
 0.0.0.0 m32.media
 0.0.0.0 m4n.nl
 0.0.0.0 m6r.eu
@@ -2838,6 +2840,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 webads.nl
 0.0.0.0 webangel.ru
 0.0.0.0 webcash.nl
+0.0.0.0 webcontentassessor.com
 0.0.0.0 webcounter.cz
 0.0.0.0 webcounter.goweb.de
 0.0.0.0 webgains.com

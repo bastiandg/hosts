@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 29 May 2019 14:39:19 GMT
-# entries:        2946
+# last updated:   Thu, 30 May 2019 07:57:12 GMT
+# entries:        2949
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1890,6 +1890,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 loading321.com
 127.0.0.1 log.btopenworld.com
 127.0.0.1 log.logrocket.io
+127.0.0.1 log.pinterest.com
 127.0.0.1 logger.snackly.co
 127.0.0.1 logs.roku.com
 127.0.0.1 logua.com
@@ -1906,6 +1907,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 lzjl.com
 127.0.0.1 m.trb.com
 127.0.0.1 m1.webstats4u.com
+127.0.0.1 m2.ai
 127.0.0.1 m32.media
 127.0.0.1 m4n.nl
 127.0.0.1 m6r.eu
@@ -2865,6 +2867,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 webads.nl
 127.0.0.1 webangel.ru
 127.0.0.1 webcash.nl
+127.0.0.1 webcontentassessor.com
 127.0.0.1 webcounter.cz
 127.0.0.1 webcounter.goweb.de
 127.0.0.1 webgains.com
