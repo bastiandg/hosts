@@ -2265,6 +2265,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pub.chez.com
 0.0.0.0 pub.club-internet.fr
 0.0.0.0 pub.hardware.fr
+0.0.0.0 pub.network
 0.0.0.0 pub.realmedia.fr
 0.0.0.0 pubdirecte.com
 0.0.0.0 publicidad.elmundo.es

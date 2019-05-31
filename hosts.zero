@@ -18444,6 +18444,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pub.clicksor.net
 0.0.0.0 pub.club-internet.fr
 0.0.0.0 pub.hardware.fr
+0.0.0.0 pub.network
 0.0.0.0 pub.oxado.com
 0.0.0.0 pub.pgssl.com
 0.0.0.0 pub.realmedia.fr
