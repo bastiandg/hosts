@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 31 May 2019 09:02:20 GMT
-# entries:        2952
+# entries:        2949
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1068,7 +1068,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 banners.linkbuddies.com
 127.0.0.1 banners.passion.com
 127.0.0.1 banners.resultonline.com
-127.0.0.1 banners.sexsearch.com
 127.0.0.1 banners.sys-con.com
 127.0.0.1 banners.thomsonlocal.com
 127.0.0.1 banners.videosz.com
@@ -1237,7 +1236,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 class-act-clicks.com
 127.0.0.1 clearcomb.com
 127.0.0.1 clevernt.com
-127.0.0.1 click.absoluteagency.com
 127.0.0.1 click.fool.com
 127.0.0.1 click.kmindex.ru
 127.0.0.1 click2freemoney.com
@@ -1260,6 +1258,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 clicks.mods.de
 127.0.0.1 clickserve.cc-dt.com
 127.0.0.1 clicksor.com
+127.0.0.1 clicktag.de
 127.0.0.1 clickthruserver.com
 127.0.0.1 clickthrutraffic.com
 127.0.0.1 clicktrace.info
@@ -2679,7 +2678,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tfag.de
 127.0.0.1 theadex.com
 127.0.0.1 theadhost.com
-127.0.0.1 theads.me
 127.0.0.1 thebugs.ws
 127.0.0.1 therapistla.com
 127.0.0.1 thinkablerice.com
@@ -2943,7 +2941,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 xovq5nemr.com
 127.0.0.1 xplusone.com
 127.0.0.1 xponsor.com
-127.0.0.1 xq1.net
 127.0.0.1 xtendmedia.com
 127.0.0.1 xtremetop100.com
 127.0.0.1 xxxcounter.com
