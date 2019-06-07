@@ -1236,8 +1236,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 class-act-clicks.com
 127.0.0.1 clearcomb.com
 127.0.0.1 clevernt.com
+127.0.0.1 click.absoluteagency.com
 127.0.0.1 click.fool.com
-127.0.0.1 click.kmindex.ru
 127.0.0.1 click2freemoney.com
 127.0.0.1 clickability.com
 127.0.0.1 clickadz.com
@@ -1344,7 +1344,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 counter.sparklit.com
 127.0.0.1 counter.yadro.ru
 127.0.0.1 counters.honesty.com
-127.0.0.1 counting.kmindex.ru
 127.0.0.1 counts.tucows.com
 127.0.0.1 coupling-media.de
 127.0.0.1 cp.abbp1.pw
@@ -2943,6 +2942,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 xovq5nemr.com
 127.0.0.1 xplusone.com
 127.0.0.1 xponsor.com
+127.0.0.1 xq1.net
 127.0.0.1 xtendmedia.com
 127.0.0.1 xtremetop100.com
 127.0.0.1 xxxcounter.com
