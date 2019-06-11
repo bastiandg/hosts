@@ -11455,6 +11455,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 geoloc17.geovisite.com
 0.0.0.0 geoloc2.geovisite.com
 0.0.0.0 geoloc4.geovisite.com
+0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geolocation.t-online.de
 0.0.0.0 geopolice.com
 0.0.0.0 georgewbush.112.2o7.net
@@ -17305,7 +17306,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 outlets-online.pl
 0.0.0.0 outofsightmedia.us.intellitxt.com
 0.0.0.0 outporn.com
-0.0.0.0 outwar.com
 0.0.0.0 outweb.nudt.edu.cn
 0.0.0.0 overclockersonline.us.intellitxt.com
 0.0.0.0 overflow.adsoftware.com
@@ -18840,6 +18840,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 redir.juicyads.com
 0.0.0.0 redirect.click2net.com
 0.0.0.0 redirect.clickshield.net
+0.0.0.0 redirect.com
 0.0.0.0 redirect.hotkeys.com
 0.0.0.0 redirect.todayreward.net
 0.0.0.0 redirect.xmlheads.com
@@ -20286,7 +20287,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sifomedia.aftonbladet.se
 0.0.0.0 sifomedia.citypaketet.se
 0.0.0.0 sifomedia.idg.se
-0.0.0.0 sigil.outwar.com
 0.0.0.0 signin-ebay-com-ws-ebayisapi-dll-signin-webscr.ocom.pl
 0.0.0.0 signoredom.com
 0.0.0.0 signup.advance.net
@@ -22355,7 +22355,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 toptenreviews.us.intellitxt.com
 0.0.0.0 toptypeonlinetheclicks.icu
 0.0.0.0 tor.redlightcenter.com
-0.0.0.0 torax.outwar.com
 0.0.0.0 torjackan.info
 0.0.0.0 toro-tags.com
 0.0.0.0 toroadvertisingmedia.com
@@ -23718,9 +23717,13 @@ ff02::2 ip6-allrouters
 0.0.0.0 vicodin.t-amo.net
 0.0.0.0 victor.connectcloud.ch
 0.0.0.0 victoriaadvocate.112.2o7.net
+0.0.0.0 vid-io-dub.springserve.com
+0.0.0.0 vid-io.springserve.net
 0.0.0.0 vid.atdmt.com
 0.0.0.0 vid.atm.youku.com
+0.0.0.0 vid.springserve.com
 0.0.0.0 vidamsag.postr.hu
+0.0.0.0 videe.tv
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 video-adserver.ibillboard.com
 0.0.0.0 video-bazis.com
@@ -26372,7 +26375,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.otsserver.com
 0.0.0.0 www.ourfuckbook.com
 0.0.0.0 www.outlinearray.com
-0.0.0.0 www.outwar.com
 0.0.0.0 www.over50datingservices.com
 0.0.0.0 www.oxiads.fr
 0.0.0.0 www.pagerank10.co.uk

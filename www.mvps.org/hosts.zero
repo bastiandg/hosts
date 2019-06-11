@@ -5001,6 +5001,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 geoloc17.geovisite.com
 0.0.0.0 geoloc2.geovisite.com
 0.0.0.0 geoloc4.geovisite.com
+0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geolocation.t-online.de
 0.0.0.0 geoservice.curse.com
 0.0.0.0 geosign.112.2o7.net
@@ -7467,7 +7468,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 outcome.supersonicads.com
 0.0.0.0 outils.yes-messenger.com
 0.0.0.0 outofsightmedia.us.intellitxt.com
-0.0.0.0 outwar.com
 0.0.0.0 overclockersonline.us.intellitxt.com
 0.0.0.0 overlay.ringtonematcher.com
 0.0.0.0 overstockcom.112.2o7.net
@@ -8139,6 +8139,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 redir.adap.tv
 0.0.0.0 redir.juicyads.com
 0.0.0.0 redirect.clickshield.net
+0.0.0.0 redirect.com
 0.0.0.0 redirect.todayreward.net
 0.0.0.0 redirectcpv.com
 0.0.0.0 redirectingat.com
@@ -8853,7 +8854,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 siemens.d1.sc.omtrdc.net
 0.0.0.0 sifomedia.aftonbladet.se
 0.0.0.0 sifomedia.idg.se
-0.0.0.0 sigil.outwar.com
 0.0.0.0 siliconera.us.intellitxt.com
 0.0.0.0 silveragesoftware.com
 0.0.0.0 simg.zedo.com
@@ -9796,7 +9796,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 toptechreviews.us.intellitxt.com
 0.0.0.0 toptenreviews.us.intellitxt.com
 0.0.0.0 tor.redlightcenter.com
-0.0.0.0 torax.outwar.com
 0.0.0.0 torontostar.demdex.net
 0.0.0.0 tororango.com
 0.0.0.0 torquenews.us.intellitxt.com
@@ -10302,7 +10301,11 @@ ff02::2 ip6-allrouters
 0.0.0.0 vice-ads-cdn.vice.com
 0.0.0.0 vice-d.openx.net
 0.0.0.0 victoriaadvocate.112.2o7.net
+0.0.0.0 vid-io-dub.springserve.com
+0.0.0.0 vid-io.springserve.net
 0.0.0.0 vid.atdmt.com
+0.0.0.0 vid.springserve.com
+0.0.0.0 videe.tv
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 video-adserver.ibillboard.com
 0.0.0.0 video-pomp.com
@@ -11229,7 +11232,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.oreware.com
 0.0.0.0 www.os-downloads.com
 0.0.0.0 www.otherossettlement.com
-0.0.0.0 www.outwar.com
 0.0.0.0 www.oxiads.fr
 0.0.0.0 www.pagerank10.co.uk
 0.0.0.0 www.pantanalvip.com.br

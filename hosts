@@ -11455,6 +11455,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 geoloc17.geovisite.com
 127.0.0.1 geoloc2.geovisite.com
 127.0.0.1 geoloc4.geovisite.com
+127.0.0.1 geolocation.onetrust.com
 127.0.0.1 geolocation.t-online.de
 127.0.0.1 geopolice.com
 127.0.0.1 georgewbush.112.2o7.net
@@ -17305,7 +17306,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 outlets-online.pl
 127.0.0.1 outofsightmedia.us.intellitxt.com
 127.0.0.1 outporn.com
-127.0.0.1 outwar.com
 127.0.0.1 outweb.nudt.edu.cn
 127.0.0.1 overclockersonline.us.intellitxt.com
 127.0.0.1 overflow.adsoftware.com
@@ -18840,6 +18840,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 redir.juicyads.com
 127.0.0.1 redirect.click2net.com
 127.0.0.1 redirect.clickshield.net
+127.0.0.1 redirect.com
 127.0.0.1 redirect.hotkeys.com
 127.0.0.1 redirect.todayreward.net
 127.0.0.1 redirect.xmlheads.com
@@ -20286,7 +20287,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sifomedia.aftonbladet.se
 127.0.0.1 sifomedia.citypaketet.se
 127.0.0.1 sifomedia.idg.se
-127.0.0.1 sigil.outwar.com
 127.0.0.1 signin-ebay-com-ws-ebayisapi-dll-signin-webscr.ocom.pl
 127.0.0.1 signoredom.com
 127.0.0.1 signup.advance.net
@@ -22355,7 +22355,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 toptenreviews.us.intellitxt.com
 127.0.0.1 toptypeonlinetheclicks.icu
 127.0.0.1 tor.redlightcenter.com
-127.0.0.1 torax.outwar.com
 127.0.0.1 torjackan.info
 127.0.0.1 toro-tags.com
 127.0.0.1 toroadvertisingmedia.com
@@ -23718,9 +23717,13 @@ ff02::2 ip6-allrouters
 127.0.0.1 vicodin.t-amo.net
 127.0.0.1 victor.connectcloud.ch
 127.0.0.1 victoriaadvocate.112.2o7.net
+127.0.0.1 vid-io-dub.springserve.com
+127.0.0.1 vid-io.springserve.net
 127.0.0.1 vid.atdmt.com
 127.0.0.1 vid.atm.youku.com
+127.0.0.1 vid.springserve.com
 127.0.0.1 vidamsag.postr.hu
+127.0.0.1 videe.tv
 127.0.0.1 video-ad-stats.googlesyndication.com
 127.0.0.1 video-adserver.ibillboard.com
 127.0.0.1 video-bazis.com
@@ -26372,7 +26375,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.otsserver.com
 127.0.0.1 www.ourfuckbook.com
 127.0.0.1 www.outlinearray.com
-127.0.0.1 www.outwar.com
 127.0.0.1 www.over50datingservices.com
 127.0.0.1 www.oxiads.fr
 127.0.0.1 www.pagerank10.co.uk
