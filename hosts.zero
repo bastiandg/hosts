@@ -2094,6 +2094,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.adagent.chacha.com
 0.0.0.0 ads.adamoads.com
 0.0.0.0 ads.adap.tv
+0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads.adbrite.com
 0.0.0.0 ads.adbroker.de
 0.0.0.0 ads.adcorps.com
@@ -7388,6 +7389,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn-v3.conductrics.com
 0.0.0.0 cdn.8digits.com
 0.0.0.0 cdn.accelerator.arsdev.net
+0.0.0.0 cdn.ad.plus
 0.0.0.0 cdn.ad4game.com
 0.0.0.0 cdn.adbooth.net
 0.0.0.0 cdn.adengage.com
@@ -7594,6 +7596,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.spectate.com
 0.0.0.0 cdn.spoutable.com
 0.0.0.0 cdn.springboard.gorillanation.com
+0.0.0.0 cdn.stat-rock.com
 0.0.0.0 cdn.stat.easydate.biz
 0.0.0.0 cdn.static-cnt.bid
 0.0.0.0 cdn.static.zdbb.net
@@ -20167,6 +20170,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 serving.plexop.net
 0.0.0.0 serving.xxxwebtraffic.com
 0.0.0.0 servserv.generals.ea.com
+0.0.0.0 servt.playbuzz.co
 0.0.0.0 servustv.oewabox.at
 0.0.0.0 serw.clicksor.com
 0.0.0.0 serw.myroitracking.com

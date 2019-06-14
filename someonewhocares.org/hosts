@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 27 May 2019 at 06:53:59 GMT
+# Last updated: Fri, 14 Jun 2019 at 15:20:56 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1341,6 +1341,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 service.bfast.com
 127.0.0.1 service.maxymiser.net
 #127.0.0.1 services.krxd.net
+127.0.0.1 servt.playbuzz.co
 127.0.0.1 se.sitestat.com
 127.0.0.1 sexcounter.com
 127.0.0.1 seznam.hit.gemius.pl
@@ -5299,6 +5300,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ads.ad4game.com
 127.0.0.1 ads.adamoads.com
 127.0.0.1 ads.adap.tv
+127.0.0.1 ads.adaptv.advertising.com
 127.0.0.1 ads.adbrite.com
 127.0.0.1 ads.adbroker.de
 127.0.0.1 ads.ad-center.com
@@ -7454,6 +7456,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 cdn.adikteev.com
 127.0.0.1 cdn.adk2.com
 127.0.0.1 cdn.adnxs.com
+127.0.0.1 cdn.ad.plus
 127.0.0.1 cdn.adplxmd.com
 127.0.0.1 cdnads.cam4.com
 127.0.0.1 cdn.adservingsolutionsinc.com
@@ -7528,6 +7531,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 cdns.mydirtyhobby.com
 127.0.0.1 cdns.privatamateure.com
 127.0.0.1 cdn.stat.easydate.biz
+127.0.0.1 cdn.stat-rock.com
 127.0.0.1 cdn.stickyadstv.com
 127.0.0.1 cdn.syn.verticalacuity.com
 127.0.0.1 cdn.taboola.com
@@ -11729,6 +11733,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.961.com
 127.0.0.1 www9.ad.tomshardware.com
 127.0.0.1 www9.paypopup.com
+127.0.0.1 www9.smartadserver.com
 127.0.0.1 www.abrogatesdv.info
 127.0.0.1 www.actiondesk.com
 127.0.0.1 www.action.ientry.net

@@ -1062,6 +1062,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.ad4game.com
 0.0.0.0 ads.adamoads.com
 0.0.0.0 ads.adap.tv
+0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads.adbrite.com
 0.0.0.0 ads.adbroker.de
 0.0.0.0 ads.adcorps.com
@@ -3841,6 +3842,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdm.unnoticeablegangrene.com
 0.0.0.0 cdn-social.janrain.com
 0.0.0.0 cdn.8digits.com
+0.0.0.0 cdn.ad.plus
 0.0.0.0 cdn.adigniter.org
 0.0.0.0 cdn.adikteev.com
 0.0.0.0 cdn.adk2.com
@@ -3921,6 +3923,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.sagent.io
 0.0.0.0 cdn.shoppingminds.net
 0.0.0.0 cdn.simpleanalytics.io
+0.0.0.0 cdn.stat-rock.com
 0.0.0.0 cdn.stat.easydate.biz
 0.0.0.0 cdn.static-cnt.bid
 0.0.0.0 cdn.stickyadstv.com
@@ -10143,6 +10146,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 serving-sys.com
 0.0.0.0 serving.plexop.net
 0.0.0.0 servserv.generals.ea.com
+0.0.0.0 servt.playbuzz.co
 0.0.0.0 servustv.oewabox.at
 0.0.0.0 serwisy.gremimedia.pl
 0.0.0.0 settings-win.data.microsoft.com
@@ -14011,6 +14015,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www9.counter.bloke.com
 0.0.0.0 www9.paypopup.com
 0.0.0.0 www9.servequake.com
+0.0.0.0 www9.smartadserver.com
 0.0.0.0 www9.trickip.org
 0.0.0.0 www99.bounceme.net
 0.0.0.0 www99.fdns.net
