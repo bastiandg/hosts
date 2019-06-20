@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 20 Jun 2019 at 01:58:59 GMT
+# Last updated: Thu, 20 Jun 2019 at 02:50:27 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6649,7 +6649,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 advertising.aol.com
 127.0.0.1 advertisingbay.com
 127.0.0.1 advertising.bbcworldwide.com
-127.0.0.1 advertising.com
 127.0.0.1 advertising.gfxartist.com
 127.0.0.1 advertising.hiasys.com
 127.0.0.1 advertising.illinimedia.com
