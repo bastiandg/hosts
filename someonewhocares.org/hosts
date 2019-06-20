@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 14 Jun 2019 at 15:20:56 GMT
+# Last updated: Thu, 20 Jun 2019 at 01:58:59 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -927,6 +927,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 hst.tradedoubler.com
 127.0.0.1 htm.freelogs.com
 127.0.0.1 http300.edge.ru4.com
+127.0.0.1 hud8mxdt.computerhelpmirror.top
 127.0.0.1 iccee.com
 127.0.0.1 ic.tynt.com
 127.0.0.1 idm.hit.gemius.pl
@@ -1781,6 +1782,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 track.msadcenter.zzv.com
 127.0.0.1 track.mybloglog.com
 127.0.0.1 track.nifty.com
+127.0.0.1 track.nuxues.com
 127.0.0.1 track.offermarket.net
 127.0.0.1 track.omg2.com
 127.0.0.1 track.optinstar.com
@@ -3742,6 +3744,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 americanbaby.112.2o7.net
 127.0.0.1 ancestrymsn.112.2o7.net
 127.0.0.1 ancestryuki.112.2o7.net
+127.0.0.1 and.co.uk.102.122.2o7.net
 127.0.0.1 angiba.112.2o7.net
 127.0.0.1 angmar.112.2o7.net
 127.0.0.1 angtr.112.2o7.net
@@ -4016,6 +4019,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 mediamatters.112.2o7.net
 127.0.0.1 meetupcom.112.2o7.net
 127.0.0.1 metacafe.122.2o7.net
+127.0.0.1 metro.co.uk.102.122.2o7.net
 127.0.0.1 mgjournalnow.112.2o7.net
 127.0.0.1 mgtbo.112.2o7.net
 127.0.0.1 mgtimesdispatch.112.2o7.net
@@ -10934,6 +10938,8 @@ ff02::3		ip6-allhosts
 127.0.0.1 sview.avenuea.com
 127.0.0.1 s.visilabs.com
 127.0.0.1 s.visilabs.net
+127.0.0.1 swa.and.co.uk
+127.0.0.1 swa.metro.co.uk
 127.0.0.1 sweetsforfree.com
 127.0.0.1 swfhostltd.com
 127.0.0.1 swinon.site
