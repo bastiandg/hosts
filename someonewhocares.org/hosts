@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 20 Jun 2019 at 14:21:56 GMT
+# Last updated: Fri, 21 Jun 2019 at 05:47:39 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8079,6 +8079,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 e1.addthis.com
 127.0.0.1 e2.cdn.qnsr.com
 127.0.0.1 e2.emediate.se
+127.0.0.1 e.8p30k.cn
 127.0.0.1 e.admob.com
 127.0.0.1 eads-adserving.com
 127.0.0.1 ead.sharethis.com
@@ -8459,6 +8460,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 gdyn.trutv.com
 127.0.0.1 ge-0-0-1-edge1.sc9.admob.com
 127.0.0.1 ge-0-0-43-crs1.sc9.admob.com
+127.0.0.1 gejroom.net
 127.0.0.1 gemius.pl
 127.0.0.1 gem.pl
 127.0.0.1 geniusdisplay.com
@@ -9089,6 +9091,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 lamiflor.xyz
 127.0.0.1 land.purifier.cc
 127.0.0.1 lanzar.publicidadweb.com
+127.0.0.1 lap-click.tr.line.me
 127.0.0.1 laptopreportcard.com
 127.0.0.1 laptoprewards.com
 127.0.0.1 laptoprewardsgroup.com
@@ -9554,6 +9557,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 my.trgino.com
 127.0.0.1 myusersonline.com
 127.0.0.1 myyearbookdigital.checkm8.com
+127.0.0.1 m.yyfymj.com
 127.0.0.1 n01d05.cumulus-cloud.com
 127.0.0.1 n1internet.com
 127.0.0.1 n339.asp-cc.com
@@ -10635,6 +10639,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 setupdate24.updateworkfreshandnew.space
 127.0.0.1 setupdate24.updateworkfreshandnew.website
 127.0.0.1 setupnow.amazinglysafeistallsforeveryonethisweek.review
+127.0.0.1 sexmonitor.net
 127.0.0.1 sex-now5.com
 127.0.0.1 sexpartnerx.com
 127.0.0.1 sex-sex-sex5.com
@@ -10785,6 +10790,8 @@ ff02::3		ip6-allhosts
 127.0.0.1 ssads.osdn.com
 127.0.0.1 s.skimresources.com
 127.0.0.1 ssl4anyone5.com
+127.0.0.1 ssl.bezpieczne-platnosci.pl
+127.0.0.1 ssl.full-secure-payments.online
 127.0.0.1 sso.canada.com
 127.0.0.1 ssp.adplus.co.id
 127.0.0.1 ssp.anyclip-media.com
@@ -11396,6 +11403,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 viralvideos.tips
 127.0.0.1 vistawebs-top-shop-soft.site
 127.0.0.1 vistawebs-web-techie-app.win
+127.0.0.1 vj.quanjingpay.com
 127.0.0.1 vk.18sexporn.ru
 127.0.0.1 vmcsatellite.com
 127.0.0.1 vmix.adbureau.net
