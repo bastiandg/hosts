@@ -203,6 +203,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 a.prisacom.com
 0.0.0.0 a.rad.live.com
 0.0.0.0 a.rad.msn.com
+0.0.0.0 a.spolecznosci.net
 0.0.0.0 a.ss34.on9mail.com
 0.0.0.0 a.tadd.react2media.com
 0.0.0.0 a.total-media.net
@@ -1275,6 +1276,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.deviantart.com
 0.0.0.0 ads.digital-digest.com
 0.0.0.0 ads.digitalacre.com
+0.0.0.0 ads.digitalcaramel.com
 0.0.0.0 ads.digitalhealthcare.com
 0.0.0.0 ads.digitalmedianet.com
 0.0.0.0 ads.digitalpoint.com
@@ -3863,6 +3865,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.augur.io
 0.0.0.0 cdn.banners.scubl.com
 0.0.0.0 cdn.bestssaker.com
+0.0.0.0 cdn.braun634.com
 0.0.0.0 cdn.carbonads.com
 0.0.0.0 cdn.classicdanube.info
 0.0.0.0 cdn.constafun.com
@@ -4890,6 +4893,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 dra.iesnare.com
 0.0.0.0 drc-group.net
 0.0.0.0 dreammates.112.2o7.net
+0.0.0.0 drecentreshu.info
 0.0.0.0 drei.oewabox.at
 0.0.0.0 drewbarrymore.ca.tt
 0.0.0.0 drizzydrake.us.intellitxt.com
@@ -5037,6 +5041,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ectestlampsplus1.112.2o7.net
 0.0.0.0 ed.at.is13.de
 0.0.0.0 ed.at.thamaster.de
+0.0.0.0 edchargina.pro
 0.0.0.0 eddamedia.linkpulse.com
 0.0.0.0 edge.bnmla.com
 0.0.0.0 edge.quantserve.com
@@ -8927,6 +8932,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 paperg.com
 0.0.0.0 paques-2016.offre-exceptionnelle.xyz
 0.0.0.0 parent.oewabox.at
+0.0.0.0 parronnotandone.com
+0.0.0.0 parronnotandone.info
 0.0.0.0 parserworld.info
 0.0.0.0 parskabab.com
 0.0.0.0 partner-ts.groupon.be
@@ -9784,6 +9791,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 s.pubmine.com
 0.0.0.0 s.rev2pub.com
 0.0.0.0 s.skimresources.com
+0.0.0.0 s.spolecznosci.net
 0.0.0.0 s.spoutable.com
 0.0.0.0 s.statistici.ro
 0.0.0.0 s.stats.wordpress.com
@@ -10396,6 +10404,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 spinbox.versiontracker.com
 0.0.0.0 spklds.com
 0.0.0.0 splashnews.uk.intellitxt.com
+0.0.0.0 spolecznosci.mgr.consensu.org
+0.0.0.0 spolecznosci.net
 0.0.0.0 sponsor1.com
 0.0.0.0 sponsors.behance.com
 0.0.0.0 sponsors.ezgreen.com
@@ -11804,6 +11814,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 vedoriska.com
 0.0.0.0 veirregnant.club
 0.0.0.0 velocecdn.com
+0.0.0.0 vendorlist.consensu.org
 0.0.0.0 venetia.iad.appboy.com
 0.0.0.0 venturead.com
 0.0.0.0 venus.goclick.com
@@ -11865,6 +11876,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 videos.video-loader.com
 0.0.0.0 videoslots.888.com
 0.0.0.0 vidnline.com
+0.0.0.0 vidroll.ru
 0.0.0.0 vidstat.taboola.com
 0.0.0.0 vidstatb.taboola.com
 0.0.0.0 view.atdmt.com
@@ -13773,6 +13785,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.vibrantmedia.com
 0.0.0.0 www.video-game-rewards-central.com
 0.0.0.0 www.video-perc.net
+0.0.0.0 www.videoconverterhd.com
 0.0.0.0 www.videogamerewardscentral.com
 0.0.0.0 www.videohube.eu
 0.0.0.0 www.videolove.clanteam.com

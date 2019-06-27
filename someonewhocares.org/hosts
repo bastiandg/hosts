@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 21 Jun 2019 at 05:47:39 GMT
+# Last updated: Thu, 27 Jun 2019 at 07:18:52 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5535,6 +5535,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ads.deviantart.com
 127.0.0.1 ads-dev.youporn.com
 127.0.0.1 ads.digitalacre.com
+127.0.0.1 ads.digitalcaramel.com
 127.0.0.1 ads.digital-digest.com
 127.0.0.1 ads.digitalhealthcare.com
 127.0.0.1 ads.digitalmedianet.com
@@ -6986,6 +6987,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 asn.advolution.de
 127.0.0.1 asn.cunda.advolution.biz
 127.0.0.1 aspesa.info
+127.0.0.1 a.spolecznosci.net
 127.0.0.1 a.ss34.on9mail.com
 127.0.0.1 assets.applovin.com
 127.0.0.1 assets.igapi.com
@@ -7478,6 +7480,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 cdnaws.mobidea.com
 127.0.0.1 cdn.banners.scubl.com
 127.0.0.1 cdn.bestssaker.com
+127.0.0.1 cdn.braun634.com
 127.0.0.1 cdn.carbonads.com
 127.0.0.1 cdn.classicdanube.info
 127.0.0.1 cdn.constafun.com
@@ -8059,6 +8062,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 dqs001.adtech.fr
 127.0.0.1 dqs001.adtech.us
 127.0.0.1 dra.amazon-adsystem.com
+127.0.0.1 drecentreshu.info
 127.0.0.1 drmcmm.baidu.com
 127.0.0.1 drowle.com
 127.0.0.1 dr.soso.com
@@ -8107,6 +8111,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 e.company-target.com
 127.0.0.1 e.crashlytics.com
 127.0.0.1 ecs1.engageya.com
+127.0.0.1 edchargina.pro
 127.0.0.1 eddamedia.linkpulse.com
 127.0.0.1 edge.bnmla.com
 127.0.0.1 edge.quantserve.com
@@ -8382,6 +8387,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 games-toys-bonuspath.com
 127.0.0.1 games-toys-free.com
 127.0.0.1 games-toys-rewardpath.com
+127.0.0.1 gapl.hit.gemius.pl
 127.0.0.1 gar-tech.com
 127.0.0.1 gasurvey.gemius.com
 127.0.0.1 gate.hyperpaysys.com
@@ -9874,6 +9880,8 @@ ff02::3		ip6-allhosts
 127.0.0.1 panel.adtify.pl
 127.0.0.1 paperg.com
 127.0.0.1 paques-2016.offre-exceptionnelle.xyz
+127.0.0.1 parronnotandone.com
+127.0.0.1 parronnotandone.info
 127.0.0.1 parserworld.info
 127.0.0.1 parskabab.com
 127.0.0.1 partner01.oingo.com
@@ -10769,6 +10777,8 @@ ff02::3		ip6-allhosts
 127.0.0.1 spinbox.macworld.com
 127.0.0.1 spinbox.techtracker.com
 127.0.0.1 spin.spinbox.net
+127.0.0.1 spolecznosci.mgr.consensu.org
+127.0.0.1 spolecznosci.net
 127.0.0.1 sponsor1.com
 127.0.0.1 sponsors.behance.com
 127.0.0.1 sponsors.ezgreen.com
@@ -10796,6 +10806,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ssp.adplus.co.id
 127.0.0.1 ssp.anyclip-media.com
 127.0.0.1 sspcash.adxcore.com
+127.0.0.1 s.spolecznosci.net
 127.0.0.1 s.spoutable.com
 127.0.0.1 ssp.streamrail.net
 127.0.0.1 staging.snip.answers.com
@@ -10882,6 +10893,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 stats.buzzparadise.com
 127.0.0.1 stats.defense.gov
 127.0.0.1 stats.fd.nl
+127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 statsie.com
 127.0.0.1 stats.ipinyou.com
 127.0.0.1 stats.jtvnw.net
@@ -11351,6 +11363,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 vcdn.adnxs.com
 127.0.0.1 vclick.adbrite.com
 127.0.0.1 veirregnant.club
+127.0.0.1 vendorlist.consensu.org
 127.0.0.1 venetia.iad.appboy.com
 127.0.0.1 venus.goclick.com
 127.0.0.1 versionsupport.set2updatenowsafesystemset4now.info
@@ -11381,6 +11394,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 videos.video-loader.com
 127.0.0.1 video.theparentingvillage.com
 127.0.0.1 vidnline.com
+127.0.0.1 vidroll.ru
 127.0.0.1 view.atdmt.com	
 127.0.0.1 view.avenuea.com
 127.0.0.1 view.binlayer.com
@@ -12622,6 +12636,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.verypositiveus.com
 127.0.0.1 www.via22.net
 127.0.0.1 www.vibrantmedia.com
+127.0.0.1 www.videoconverterhd.com
 127.0.0.1 www.video-game-rewards-central.com
 127.0.0.1 www.videogamerewardscentral.com
 127.0.0.1 www.videohube.eu
