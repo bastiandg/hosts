@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 03 Jul 2019 08:50:59 GMT
-# entries:        2958
+# last updated:   Wed, 03 Jul 2019 09:37:19 GMT
+# entries:        2974
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1844,6 +1844,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 kompasads.com
 127.0.0.1 kontera.com
 127.0.0.1 ktu.sv2.biz
+127.0.0.1 l1.britannica.com
 127.0.0.1 lakequincy.com
 127.0.0.1 laughablecopper.com
 127.0.0.1 laughcloth.com
@@ -1861,6 +1862,21 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 lettucelimit.com
 127.0.0.1 levelrate.de
 127.0.0.1 lfstmedia.com
+127.0.0.1 li.alibris.com
+127.0.0.1 li.azstarnet.com
+127.0.0.1 li.dailycaller.com
+127.0.0.1 li.gatehousemedia.com
+127.0.0.1 li.gq.com
+127.0.0.1 li.hearstmags.com
+127.0.0.1 li.livingsocial.com
+127.0.0.1 li.mw.drhinternet.net
+127.0.0.1 li.onetravel.com
+127.0.0.1 li.patheos.com
+127.0.0.1 li.pmc.com
+127.0.0.1 li.purch.com
+127.0.0.1 li.realtor.com
+127.0.0.1 li.walmart.com
+127.0.0.1 li.ziffimages.com
 127.0.0.1 liadm.com
 127.0.0.1 liftdna.com
 127.0.0.1 ligatus.com
