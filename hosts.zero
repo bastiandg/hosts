@@ -19964,6 +19964,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 secureads.ft.com
 0.0.0.0 securecontactinfo.com
 0.0.0.0 securedliveuploads.com
+0.0.0.0 securedopen-bp.com
 0.0.0.0 securemacfix.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 secureredirect101.com
@@ -22905,6 +22906,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracking.websitealive.com
 0.0.0.0 tracking.whattoexpect.com
 0.0.0.0 tracking.wisepops.com
+0.0.0.0 tracking01.walmart.com
 0.0.0.0 tracking101.com
 0.0.0.0 tracking2.channeladvisor.com
 0.0.0.0 tracking2.hittail.com
