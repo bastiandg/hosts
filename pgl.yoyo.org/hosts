@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 03 Jul 2019 07:53:25 GMT
-# entries:        2949
+# last updated:   Wed, 03 Jul 2019 08:50:59 GMT
+# entries:        2958
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1496,6 +1496,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 emediate.eu
 127.0.0.1 emerse.com
 127.0.0.1 emetriq.de
+127.0.0.1 emltrk.com
+127.0.0.1 en25.com
 127.0.0.1 encouragingwilderness.com
 127.0.0.1 endurableshop.com
 127.0.0.1 engine.espace.netavenir.com
@@ -1632,6 +1634,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 globus-inter.com
 127.0.0.1 glossysense.com
 127.0.0.1 gmads.net
+127.0.0.1 gml.email
 127.0.0.1 go-clicks.de
 127.0.0.1 go-mpulse.net
 127.0.0.1 go-rank.de
@@ -1772,6 +1775,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 innovid.com
 127.0.0.1 inquisitiveinvention.com
 127.0.0.1 inringtone.com
+127.0.0.1 insgly.net
 127.0.0.1 insightexpress.com
 127.0.0.1 insightexpressai.com
 127.0.0.1 inspectlet.com
@@ -1785,6 +1789,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 intentmedia.com
 127.0.0.1 intentmedia.net
 127.0.0.1 interactive.forthnet.gr
+127.0.0.1 intercom-mail.com
 127.0.0.1 intergi.com
 127.0.0.1 internetfuel.com
 127.0.0.1 interreklame.de
@@ -1799,6 +1804,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ipro.com
 127.0.0.1 iqm.com
 127.0.0.1 ireklama.cz
+127.0.0.1 is-tracking-pixel-api-prod.appspot.com
 127.0.0.1 itfarm.com
 127.0.0.1 itop.cz
 127.0.0.1 its-that-easy.com
@@ -1998,6 +2004,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mjxads.internet.com
 127.0.0.1 ml314.com
 127.0.0.1 mlm.de
+127.0.0.1 mltrk.io
 127.0.0.1 mmismm.com
 127.0.0.1 mmstat.com
 127.0.0.1 mmtro.com
@@ -2414,6 +2421,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 rotabanner.com
 127.0.0.1 roughroll.com
 127.0.0.1 roxr.net
+127.0.0.1 rs6.net
 127.0.0.1 rta.dailymail.co.uk
 127.0.0.1 rtbpop.com
 127.0.0.1 rtbpopd.com
@@ -2634,6 +2642,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 swimslope.com
 127.0.0.1 swordfishdc.com
 127.0.0.1 swordgoose.com
+127.0.0.1 t.eloqua.com
 127.0.0.1 t.insigit.com
 127.0.0.1 taboola.com
 127.0.0.1 tagular.com
