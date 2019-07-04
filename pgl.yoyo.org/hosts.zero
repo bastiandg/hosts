@@ -1176,6 +1176,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cbsi.com
 0.0.0.0 cdn.freefarcy.com
+0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.segment.com
 0.0.0.0 cecash.com
@@ -1645,7 +1646,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 havamedia.net
 0.0.0.0 hdscout.com
 0.0.0.0 heap.com
-0.0.0.0 heapanalytics.com
 0.0.0.0 heias.com
 0.0.0.0 hellobar.com
 0.0.0.0 hentaicounter.com

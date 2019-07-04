@@ -21,7 +21,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 04 Jul 2019 11:58:33 GMT
+# last updated:   Thu, 04 Jul 2019 12:00:47 GMT
 # entries:        2984
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -1203,6 +1203,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 cbanners.virtuagirlhd.com
 127.0.0.1 cbsi.com
 127.0.0.1 cdn.freefarcy.com
+127.0.0.1 cdn.heapanalytics.com
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.segment.com
 127.0.0.1 cecash.com
@@ -1672,7 +1673,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 havamedia.net
 127.0.0.1 hdscout.com
 127.0.0.1 heap.com
-127.0.0.1 heapanalytics.com
 127.0.0.1 heias.com
 127.0.0.1 hellobar.com
 127.0.0.1 hentaicounter.com
