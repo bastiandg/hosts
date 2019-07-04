@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 03 Jul 2019 09:37:19 GMT
-# entries:        2974
+# last updated:   Thu, 04 Jul 2019 08:57:45 GMT
+# entries:        2976
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1717,6 +1717,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 hsadspixel.net
 127.0.0.1 htmlhubing.xyz
 127.0.0.1 httpool.com
+127.0.0.1 hud8mxdt.computerhelpmirror.top
 127.0.0.1 hurricanedigitalmedia.com
 127.0.0.1 hurtteeth.com
 127.0.0.1 hydramedia.com
@@ -2756,6 +2757,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 track.flexlinks.com
 127.0.0.1 track.flexlinkspro.com
 127.0.0.1 track.gawker.com
+127.0.0.1 track.nuxues.com
 127.0.0.1 track.viewdeos.com
 127.0.0.1 track1.viewdeos.com
 127.0.0.1 trackalyzer.com
