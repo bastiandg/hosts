@@ -104,7 +104,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.choiceradio.com
 0.0.0.0 ad.clix.pt
 0.0.0.0 ad.cooks.com
-0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ad.digitallook.com
 0.0.0.0 ad.doctissimo.fr
 0.0.0.0 ad.domainfactory.de
@@ -267,7 +266,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adland.ru
 0.0.0.0 adledge.com
 0.0.0.0 adlegend.com
-0.0.0.0 adlightning.com
 0.0.0.0 adlog.com.com
 0.0.0.0 adloox.com
 0.0.0.0 adlooxtracking.com
@@ -335,6 +333,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adrotic.girlonthenet.com
 0.0.0.0 adrta.com
 0.0.0.0 ads-click.com
+0.0.0.0 ads-game-187f4.firebaseapp.com
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads.4tube.com
@@ -1069,6 +1068,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 beamincrease.com
 0.0.0.0 bebi.com
 0.0.0.0 bedsbreath.com
+0.0.0.0 beemray.com
 0.0.0.0 begun.ru
 0.0.0.0 behavioralengine.com
 0.0.0.0 belstat.com
@@ -1153,6 +1153,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 calculatorcamera.com
 0.0.0.0 callousbrake.com
 0.0.0.0 callrail.com
+0.0.0.0 callstats.io
 0.0.0.0 campaign.bharatmatrimony.com
 0.0.0.0 caniamedia.com
 0.0.0.0 capablecows.com
@@ -1262,6 +1263,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 coinhive.com
 0.0.0.0 cointraffic.io
 0.0.0.0 colonize.com
+0.0.0.0 colpirio.com
 0.0.0.0 comclick.com
 0.0.0.0 comfortablecheese.com
 0.0.0.0 commindo-media-ressourcen.de
@@ -1404,6 +1406,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 dist.belnk.com
 0.0.0.0 distillery.wistia.com
 0.0.0.0 dk4ywix.com
+0.0.0.0 dmp.mall.tv
 0.0.0.0 dmtracker.com
 0.0.0.0 dmtracking.alibaba.com
 0.0.0.0 dmtracking2.alibaba.com
@@ -1618,6 +1621,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 google-analytics.com
 0.0.0.0 googleadservices.com
 0.0.0.0 googlesyndication.com
+0.0.0.0 googletagservices.com
 0.0.0.0 gorgeousground.com
 0.0.0.0 gossipmiser.com
 0.0.0.0 gostats.com
@@ -1817,6 +1821,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 komoona.com
 0.0.0.0 kompasads.com
 0.0.0.0 kontera.com
+0.0.0.0 krxd.net
 0.0.0.0 ktu.sv2.biz
 0.0.0.0 l1.britannica.com
 0.0.0.0 lakequincy.com
@@ -2579,6 +2584,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.itrack.it
 0.0.0.0 staticads.btopenworld.com
+0.0.0.0 statistic.ads24h.net
 0.0.0.0 statistik-gallup.net
 0.0.0.0 statm.the-adult-company.com
 0.0.0.0 stats.blogger.com
@@ -2635,6 +2641,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 t.eloqua.com
 0.0.0.0 t.insigit.com
 0.0.0.0 taboola.com
+0.0.0.0 tagan.adlightning.com
 0.0.0.0 tagular.com
 0.0.0.0 tailsweep.com
 0.0.0.0 tailsweep.se
@@ -2921,6 +2928,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 wpnrtnmrewunrtok.xyz
 0.0.0.0 wryfinger.com
 0.0.0.0 wt-eu02.net
+0.0.0.0 wt.bankmillennium.pl
 0.0.0.0 wtlive.com
 0.0.0.0 www-banner.chat.ru
 0.0.0.0 www-google-analytics.l.google.com

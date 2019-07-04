@@ -1841,7 +1841,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adledge.com
 0.0.0.0 adlegend.com
 0.0.0.0 adlev.neodatagroup.com
-0.0.0.0 adlightning.com
 0.0.0.0 adlik.akavita.com
 0.0.0.0 adlik2.akavita.com
 0.0.0.0 adlock.in
@@ -2051,6 +2050,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads-de.spray.net
 0.0.0.0 ads-dev.youporn.com
 0.0.0.0 ads-direct.prodigy.net
+0.0.0.0 ads-game-187f4.firebaseapp.com
 0.0.0.0 ads-hl.noktamedya.com.tr
 0.0.0.0 ads-kurir.providus.rs
 0.0.0.0 ads-local.sixapart.com
@@ -6284,6 +6284,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 becomegorgeous.us.intellitxt.com
 0.0.0.0 bedach.stream
 0.0.0.0 bedsbreath.com
+0.0.0.0 beemray.com
 0.0.0.0 beespace.com.ua
 0.0.0.0 begun.ru
 0.0.0.0 behavioralengine.com
@@ -7224,6 +7225,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 callmd5map.com
 0.0.0.0 callousbrake.com
 0.0.0.0 callrail.com
+0.0.0.0 callstats.io
 0.0.0.0 cam.demdex.net
 0.0.0.0 cam2cam.xlovecam.com
 0.0.0.0 cambonanza.com
@@ -8326,6 +8328,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 collector.savvyads.com
 0.0.0.0 collegefootballnews.us.intellitxt.com
 0.0.0.0 colonize.com
+0.0.0.0 colpirio.com
 0.0.0.0 com-cdiscount.netmng.com
 0.0.0.0 com-kia.netmng.com
 0.0.0.0 com-kodak.netmng.com
@@ -9523,6 +9526,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 dmn2.bjpeu.edu.cn
 0.0.0.0 dmp.adform.net
 0.0.0.0 dmp.gravity4.com
+0.0.0.0 dmp.mall.tv
 0.0.0.0 dmp.theadex.com
 0.0.0.0 dmp.vihub.ru
 0.0.0.0 dms.netmng.com
@@ -13689,6 +13693,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 krsa2gno.internet-security-alert.com
 0.0.0.0 krsa2gno.todays-sweepstakes-winner.com
 0.0.0.0 krsa2gno.youre-todays-lucky-sweeps-winner.com
+0.0.0.0 krxd.net
 0.0.0.0 ks.5.p2l.info
 0.0.0.0 kserv.krldysh.ru
 0.0.0.0 kt.tns-gallup.dk
@@ -21187,6 +21192,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 staticd.cdn.industrybrains.com
 0.0.0.0 statik.topica.com
 0.0.0.0 statique.secureguards.eu
+0.0.0.0 statistic.ads24h.net
 0.0.0.0 statistics.dynamicsitestats.com
 0.0.0.0 statistics.elsevier.nl
 0.0.0.0 statistics.reedbusiness.nl
@@ -21786,6 +21792,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tag.webcompteur.com
 0.0.0.0 tag.yieldoptimizer.com
 0.0.0.0 tag1.webabacus.com
+0.0.0.0 tagan.adlightning.com
 0.0.0.0 tagging.outrider.com
 0.0.0.0 tagpress.oewabox.at
 0.0.0.0 tags-cdn.deployads.com
