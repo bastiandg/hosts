@@ -8170,7 +8170,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cmhtml.overture.com
 0.0.0.0 cmi.netseer.com
 0.0.0.0 cmicapui.ce.gov.br
-0.0.0.0 cml.sad.ukrd.com
 0.0.0.0 cmn1lsm2.beliefnet.com
 0.0.0.0 cmp.112.2o7.net
 0.0.0.0 cmp.us.intellitxt.com
@@ -20348,6 +20347,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 similarsabine.com
 0.0.0.0 simpi.tourstogo.us
 0.0.0.0 simpleads.net
+0.0.0.0 simpleanalytics.io
 0.0.0.0 simplehitcounter.com
 0.0.0.0 simpletrck.com
 0.0.0.0 simpli.fi

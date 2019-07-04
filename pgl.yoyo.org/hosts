@@ -21,7 +21,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 04 Jul 2019 10:51:15 GMT
+# last updated:   Thu, 04 Jul 2019 11:58:33 GMT
 # entries:        2984
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -1280,7 +1280,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 clrstm.com
 127.0.0.1 cluster.adultworld.com
 127.0.0.1 clustrmaps.com
-127.0.0.1 cml.sad.ukrd.com
 127.0.0.1 cnomy.com
 127.0.0.1 cnt.spbland.ru
 127.0.0.1 cnt1.pocitadlo.cz
@@ -2522,6 +2521,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 silkysquirrel.com
 127.0.0.1 sillyscrew.com
 127.0.0.1 similarsabine.com
+127.0.0.1 simpleanalytics.io
 127.0.0.1 simpli.fi
 127.0.0.1 sincerebuffalo.com
 127.0.0.1 sincerespy.com
