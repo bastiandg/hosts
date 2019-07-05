@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 04 Jul 2019 12:00:47 GMT
-# entries:        2984
+# entries:        2981
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1235,6 +1235,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 class-act-clicks.com
 127.0.0.1 clearcomb.com
 127.0.0.1 clevernt.com
+127.0.0.1 click.absoluteagency.com
 127.0.0.1 click.fool.com
 127.0.0.1 click.kmindex.ru
 127.0.0.1 click2freemoney.com
@@ -1302,7 +1303,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 comprabanner.it
 127.0.0.1 concernedcondition.com
 127.0.0.1 concernrain.com
-127.0.0.1 confirmed-profits.com
 127.0.0.1 connatix.com
 127.0.0.1 connextra.com
 127.0.0.1 consciouschairs.com
@@ -1413,7 +1413,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 detailedglue.com
 127.0.0.1 detailedgovernment.com
 127.0.0.1 detectdiscovery.com
-127.0.0.1 di1.shopping.com
 127.0.0.1 dialerporn.com
 127.0.0.1 dianomi.com
 127.0.0.1 didtheyreadit.com
@@ -2209,14 +2208,12 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 partnercash.de
 127.0.0.1 partners.priceline.com
 127.0.0.1 passion-4.net
-127.0.0.1 pay-ads.com
 127.0.0.1 paycounter.com
 127.0.0.1 paypopup.com
 127.0.0.1 payserve.com
 127.0.0.1 pbnet.ru
 127.0.0.1 pbterra.com
 127.0.0.1 pcash.imlive.com
-127.0.0.1 peacepowder.com
 127.0.0.1 peep-auktion.de
 127.0.0.1 peer39.com
 127.0.0.1 pennyweb.com
