@@ -670,6 +670,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads2.virtual-nights.com
 0.0.0.0 ads2.xnet.cz
 0.0.0.0 ads2004.treiberupdate.de
+0.0.0.0 ads24h.net
 0.0.0.0 ads3.contentabc.com
 0.0.0.0 ads3.gamecity.net
 0.0.0.0 ads3.virtual-nights.com
@@ -2581,7 +2582,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.itrack.it
 0.0.0.0 staticads.btopenworld.com
-0.0.0.0 statistic.ads24h.net
 0.0.0.0 statistik-gallup.net
 0.0.0.0 statm.the-adult-company.com
 0.0.0.0 stats.blogger.com

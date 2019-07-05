@@ -21,7 +21,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 04 Jul 2019 12:00:47 GMT
+# last updated:   Fri, 05 Jul 2019 21:24:54 GMT
 # entries:        2981
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -697,6 +697,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads2.virtual-nights.com
 127.0.0.1 ads2.xnet.cz
 127.0.0.1 ads2004.treiberupdate.de
+127.0.0.1 ads24h.net
 127.0.0.1 ads3.contentabc.com
 127.0.0.1 ads3.gamecity.net
 127.0.0.1 ads3.virtual-nights.com
@@ -2608,7 +2609,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 static.fmpub.net
 127.0.0.1 static.itrack.it
 127.0.0.1 staticads.btopenworld.com
-127.0.0.1 statistic.ads24h.net
 127.0.0.1 statistik-gallup.net
 127.0.0.1 statm.the-adult-company.com
 127.0.0.1 stats.blogger.com
