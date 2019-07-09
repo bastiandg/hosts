@@ -7530,6 +7530,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.imgtty.com
 127.0.0.1 cdn.innity.net
 127.0.0.1 cdn.innovid.com
+127.0.0.1 cdn.inskinad.com
 127.0.0.1 cdn.installationsafe.net.s3.amazonaws.com
 127.0.0.1 cdn.interactivemedia.net
 127.0.0.1 cdn.intermarkets.net
@@ -17696,6 +17697,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 pg308-zmbra.ads.tremorhub.com
 127.0.0.1 pgalvaoteles.pt
 127.0.0.1 pgl.example0101
+127.0.0.1 pgltestinghere
 127.0.0.1 pgmediaserve.com
 127.0.0.1 pgpartner.com
 127.0.0.1 pgssl.com

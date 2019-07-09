@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 03 Jul 2019 at 14:12:58 GMT
+# Last updated: Tue, 09 Jul 2019 at 15:42:03 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7520,6 +7520,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 cdn.holdlads.com
 127.0.0.1 cdn.imgtty.com
 127.0.0.1 cdn.innovid.com
+127.0.0.1 cdn.inskinad.com
 127.0.0.1 cdn.komoona.com
 127.0.0.1 cdn.lazymem.com
 127.0.0.1 cdn.lazymic.com
