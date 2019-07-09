@@ -1013,7 +1013,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bannercommunity.de
 0.0.0.0 bannerconnect.com
 0.0.0.0 bannerconnect.net
-0.0.0.0 bannerflow.com
 0.0.0.0 bannergrabber.internet.gr
 0.0.0.0 bannerhost.com
 0.0.0.0 bannerimage.com
@@ -1176,6 +1175,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 casterist.info
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cbsi.com
+0.0.0.0 cdn.bannerflow.com
 0.0.0.0 cdn.freefarcy.com
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn.onesignal.com
@@ -2741,6 +2741,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 trackedlink.net
 0.0.0.0 trackedweb.net
 0.0.0.0 tracker-pm2.spilleren.com
+0.0.0.0 tracker.bannerflow.com
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 tracker.marinsm.com
 0.0.0.0 tracker.trackerfix.com

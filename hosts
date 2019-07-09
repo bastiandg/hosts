@@ -5980,7 +5980,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bannerdriven.ru
 127.0.0.1 bannerexchange.troglod.com
 127.0.0.1 bannerfarm.ace.advertising.com
-127.0.0.1 bannerflow.com
 127.0.0.1 bannergrabber.internet.gr
 127.0.0.1 bannerhost.com
 127.0.0.1 bannerhost.egamingonline.com
@@ -7440,6 +7439,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.augur.io
 127.0.0.1 cdn.avmws.com
 127.0.0.1 cdn.banner.thumbplay.com
+127.0.0.1 cdn.bannerflow.com
 127.0.0.1 cdn.banners.scubl.com
 127.0.0.1 cdn.beaconads.com
 127.0.0.1 cdn.beaconpush.com
