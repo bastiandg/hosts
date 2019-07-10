@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 09 Jul 2019 at 15:42:03 GMT
+# Last updated: Wed, 10 Jul 2019 at 19:31:59 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7507,7 +7507,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 cdn.freejlo.com
 127.0.0.1 cdn.freelac.com
 127.0.0.1 cdn.freelev.com
-127.0.0.1 cdn.geni.us
 127.0.0.1 cdn.getsmartcontent.com
 127.0.0.1 cdn.go.arbo.bbelements.com
 127.0.0.1 cdn.go.arbopl.bbelements.com
