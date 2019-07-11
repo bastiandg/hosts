@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 09 Jul 2019 16:12:45 GMT
-# entries:        2984
+# last updated:   Thu, 11 Jul 2019 08:59:37 GMT
+# entries:        2985
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2347,6 +2347,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 quinst.com
 127.0.0.1 quisma.com
 127.0.0.1 quizzicalzephyr.com
+127.0.0.1 r.logrocket.io
 127.0.0.1 r.scoota.co
 127.0.0.1 radar.cedexis.com
 127.0.0.1 radarurl.com
