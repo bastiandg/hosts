@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 11 Jul 2019 08:59:37 GMT
-# entries:        2985
+# entries:        2984
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -606,7 +606,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.redlightcenter.com
 127.0.0.1 ads.redtube.com
 127.0.0.1 ads.resoom.de
-127.0.0.1 ads.satyamonline.com
 127.0.0.1 ads.saymedia.com
 127.0.0.1 ads.scifi.com
 127.0.0.1 ads.seniorfriendfinder.com
@@ -2064,6 +2063,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mylink-today.com
 127.0.0.1 mymoneymakingapp.com
 127.0.0.1 mypagerank.net
+127.0.0.1 mypagerank.ru
 127.0.0.1 mypowermall.com
 127.0.0.1 mystat-in.net
 127.0.0.1 mystat.pl
@@ -2600,7 +2600,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 starffa.com
 127.0.0.1 start.freeze.com
 127.0.0.1 stat.cliche.se
-127.0.0.1 stat.dealtime.com
 127.0.0.1 stat.dyna.ultraweb.hu
 127.0.0.1 stat.pl
 127.0.0.1 stat.webmedia.pl

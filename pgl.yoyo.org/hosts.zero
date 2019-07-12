@@ -579,7 +579,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.redlightcenter.com
 0.0.0.0 ads.redtube.com
 0.0.0.0 ads.resoom.de
-0.0.0.0 ads.satyamonline.com
 0.0.0.0 ads.saymedia.com
 0.0.0.0 ads.scifi.com
 0.0.0.0 ads.seniorfriendfinder.com
@@ -2037,6 +2036,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mylink-today.com
 0.0.0.0 mymoneymakingapp.com
 0.0.0.0 mypagerank.net
+0.0.0.0 mypagerank.ru
 0.0.0.0 mypowermall.com
 0.0.0.0 mystat-in.net
 0.0.0.0 mystat.pl
@@ -2573,7 +2573,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 starffa.com
 0.0.0.0 start.freeze.com
 0.0.0.0 stat.cliche.se
-0.0.0.0 stat.dealtime.com
 0.0.0.0 stat.dyna.ultraweb.hu
 0.0.0.0 stat.pl
 0.0.0.0 stat.webmedia.pl
