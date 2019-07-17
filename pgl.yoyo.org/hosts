@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 11 Jul 2019 08:59:37 GMT
-# entries:        2984
+# entries:        2983
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1139,7 +1139,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 boersego-ads.de
 127.0.0.1 boilingbeetle.com
 127.0.0.1 boilingumbrella.com
-127.0.0.1 bombora.com
 127.0.0.1 boomads.com
 127.0.0.1 boost-my-pr.de
 127.0.0.1 boredcrown.com
