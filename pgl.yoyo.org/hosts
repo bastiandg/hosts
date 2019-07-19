@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 17 Jul 2019 19:47:44 GMT
-# entries:        2984
+# entries:        2982
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -606,6 +606,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.redlightcenter.com
 127.0.0.1 ads.redtube.com
 127.0.0.1 ads.resoom.de
+127.0.0.1 ads.satyamonline.com
 127.0.0.1 ads.saymedia.com
 127.0.0.1 ads.scifi.com
 127.0.0.1 ads.seniorfriendfinder.com
@@ -1234,7 +1235,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 class-act-clicks.com
 127.0.0.1 clearcomb.com
 127.0.0.1 clevernt.com
-127.0.0.1 click.absoluteagency.com
 127.0.0.1 click.fool.com
 127.0.0.1 click.kmindex.ru
 127.0.0.1 click2freemoney.com
@@ -1402,7 +1402,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 deepintent.com
 127.0.0.1 defectivesun.com
 127.0.0.1 delegatediscussion.com
-127.0.0.1 deloo.de
 127.0.0.1 deloton.com
 127.0.0.1 demandbase.com
 127.0.0.1 demdex.net
@@ -1706,7 +1705,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 hittail.com
 127.0.0.1 hollandbusinessadvertising.nl
 127.0.0.1 hollowshake.com
-127.0.0.1 homepageking.de
 127.0.0.1 honeygoldfish.com
 127.0.0.1 hostedads.realitykings.com
 127.0.0.1 hotjar.com
