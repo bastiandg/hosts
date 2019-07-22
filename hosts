@@ -13149,7 +13149,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 iq001.adtech.de
 127.0.0.1 iq001.adtech.fr
 127.0.0.1 iq001.adtech.us
-127.0.0.1 iqm.com
 127.0.0.1 ir-de.amazon-adsystem.com
 127.0.0.1 ir-na.amazon-adsystem.com
 127.0.0.1 ir-uk.amazon-adsystem.com
@@ -18142,6 +18141,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 post.netchina.com.cn
 127.0.0.1 post.rmbn.ru
 127.0.0.1 post.securestudies.com
+127.0.0.1 postback.iqm.com
 127.0.0.1 postbox.mos.ru
 127.0.0.1 postchronicle.us.intellitxt.com
 127.0.0.1 postclick.adcentriconline.com
@@ -18597,6 +18597,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 px10.net
 127.0.0.1 pxc.otto.de
 127.0.0.1 pxl.ibpxl.com
+127.0.0.1 pxl.iqm.com
 127.0.0.1 pxl.pmsrvr.com
 127.0.0.1 pybul.bestfrozenporn.nl
 127.0.0.1 pyilgdamion.city
@@ -24523,6 +24524,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 williamhill.es
 127.0.0.1 willysy.com
 127.0.0.1 win-spy.com
+127.0.0.1 win.iqm.com
 127.0.0.1 winappcenter.total-secure.info
 127.0.0.1 wincert.us.intellitxt.com
 127.0.0.1 window.nixnet.cz

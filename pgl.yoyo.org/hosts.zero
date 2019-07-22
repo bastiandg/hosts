@@ -1775,7 +1775,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 iperceptions.com
 0.0.0.0 ipredictive.com
 0.0.0.0 ipro.com
-0.0.0.0 iqm.com
 0.0.0.0 ireklama.cz
 0.0.0.0 is-tracking-pixel-api-prod.appspot.com
 0.0.0.0 itfarm.com
@@ -2242,6 +2241,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 porntrack.com
 0.0.0.0 possessivebucket.com
 0.0.0.0 possibleboats.com
+0.0.0.0 postback.iqm.com
 0.0.0.0 postrelease.com
 0.0.0.0 potenza.cz
 0.0.0.0 pr-star.de
@@ -2299,6 +2299,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 px.gfycat.com
+0.0.0.0 pxl.iqm.com
 0.0.0.0 q.azcentral.com
 0.0.0.0 qctop.com
 0.0.0.0 qnsr.com
@@ -2909,6 +2910,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 widget.privy.com
 0.0.0.0 widgetbucks.com
 0.0.0.0 wikia-ads.wikia.com
+0.0.0.0 win.iqm.com
 0.0.0.0 window.nixnet.cz
 0.0.0.0 wintricksbanner.googlepages.com
 0.0.0.0 wirecomic.com

@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 17 Jul 2019 19:47:44 GMT
-# entries:        2981
+# last updated:   Mon, 22 Jul 2019 13:36:19 GMT
+# entries:        2983
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1802,7 +1802,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 iperceptions.com
 127.0.0.1 ipredictive.com
 127.0.0.1 ipro.com
-127.0.0.1 iqm.com
 127.0.0.1 ireklama.cz
 127.0.0.1 is-tracking-pixel-api-prod.appspot.com
 127.0.0.1 itfarm.com
@@ -2269,6 +2268,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 porntrack.com
 127.0.0.1 possessivebucket.com
 127.0.0.1 possibleboats.com
+127.0.0.1 postback.iqm.com
 127.0.0.1 postrelease.com
 127.0.0.1 potenza.cz
 127.0.0.1 pr-star.de
@@ -2326,6 +2326,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 px.ads.linkedin.com
 127.0.0.1 px.dynamicyield.com
 127.0.0.1 px.gfycat.com
+127.0.0.1 pxl.iqm.com
 127.0.0.1 q.azcentral.com
 127.0.0.1 qctop.com
 127.0.0.1 qnsr.com
@@ -2936,6 +2937,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 widget.privy.com
 127.0.0.1 widgetbucks.com
 127.0.0.1 wikia-ads.wikia.com
+127.0.0.1 win.iqm.com
 127.0.0.1 window.nixnet.cz
 127.0.0.1 wintricksbanner.googlepages.com
 127.0.0.1 wirecomic.com
