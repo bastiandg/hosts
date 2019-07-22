@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 22 Jul 2019 13:36:19 GMT
-# entries:        2983
+# last updated:   Mon, 22 Jul 2019 14:41:08 GMT
+# entries:        2984
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2413,6 +2413,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 resonate.com
 127.0.0.1 retargeter.com
 127.0.0.1 revcontent.com
+127.0.0.1 reveal.clearbit.com
 127.0.0.1 revenue.net
 127.0.0.1 revenuedirect.com
 127.0.0.1 revenuehits.com
