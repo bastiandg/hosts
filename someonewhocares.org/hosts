@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 14 Jul 2019 at 01:04:59 GMT
+# Last updated: Tue, 23 Jul 2019 at 06:12:53 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -4387,6 +4387,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 2.marketbanker.com
 127.0.0.1 2perc.info
 127.0.0.1 2.speedknow.co
+127.0.0.1 2zdwtosi.pchelpbuddy.fun
 127.0.0.1 312.1d27c9b8fb.com
 127.0.0.1 321cba.com
 127.0.0.1 32red.it
@@ -5206,6 +5207,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ads22.focalink.com
 127.0.0.1 ads23.focalink.com
 127.0.0.1 ads24.focalink.com
+127.0.0.1 ads24.net
 127.0.0.1 ads25.focalink.com
 127.0.0.1 ads2.adbrite.com
 127.0.0.1 ads2.ad-flow.com
@@ -5966,6 +5968,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ads.ft.com
 127.0.0.1 ads.fuckingmachines.com
 127.0.0.1 ads.gamblinghit.com
+127.0.0.1 ads-game-187f4.firebaseapp.com
 127.0.0.1 ads.gamecity.net
 127.0.0.1 ads.gamecopyworld.no
 127.0.0.1 ads.gameinformer.com
@@ -7218,6 +7221,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 benrie.stream
 127.0.0.1 beseenad.looksmart.com
 127.0.0.1 best2017games.com
+127.0.0.1 best2019-games-web1.com
 127.0.0.1 bestadbid.com
 127.0.0.1 bestgift4you.cn
 127.0.0.1 best-hir.com
@@ -8641,6 +8645,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 heroesofrpg.com
 127.0.0.1 heti-naplo.com
 127.0.0.1 hetperc.com
+127.0.0.1 hfgfz.hunteraustin.pw
 127.0.0.1 hg8dc7bm.com
 127.0.0.1 hightrafficads.com
 127.0.0.1 hikesearch.net
@@ -10475,6 +10480,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 s5.addthis.com
 127.0.0.1 s7.addthis.com
 127.0.0.1 s7clean.com
+127.0.0.1 s8t.teads.tv
 127.0.0.1 s9kkremkr0.com
 127.0.0.1 s.ad121m.com
 127.0.0.1 s.ad131m.com
@@ -10889,6 +10895,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 static.williamhill.com
 127.0.0.1 static.wooboo.com.cn
 127.0.0.1 static.youmi.net
+127.0.0.1 statistic.ads24h.net
 127.0.0.1 statistik-gallup.dk
 127.0.0.1 stat.rolledwil.biz
 127.0.0.1 stats2.dooyoo.com
