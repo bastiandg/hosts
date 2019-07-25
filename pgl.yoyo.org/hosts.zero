@@ -1766,7 +1766,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 intentmedia.com
 0.0.0.0 intentmedia.net
 0.0.0.0 interactive.forthnet.gr
-0.0.0.0 intercom-mail.com
 0.0.0.0 intergi.com
 0.0.0.0 internetfuel.com
 0.0.0.0 interreklame.de
@@ -2622,6 +2621,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 stoveseashore.com
 0.0.0.0 straightnest.com
 0.0.0.0 straightschool.com
+0.0.0.0 stream.useriq.com
 0.0.0.0 stripedburst.com
 0.0.0.0 strivesidewalk.com
 0.0.0.0 structurerod.com
@@ -2827,7 +2827,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 urlcash.net
 0.0.0.0 us.a1.yimg.com
 0.0.0.0 usapromotravel.com
-0.0.0.0 useriq.com
 0.0.0.0 userreplay.com
 0.0.0.0 userreplay.net
 0.0.0.0 utils.mediageneral.net

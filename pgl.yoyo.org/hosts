@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 24 Jul 2019 08:09:49 GMT
-# entries:        2998
+# last updated:   Thu, 25 Jul 2019 08:12:25 GMT
+# entries:        2997
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1793,7 +1793,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 intentmedia.com
 127.0.0.1 intentmedia.net
 127.0.0.1 interactive.forthnet.gr
-127.0.0.1 intercom-mail.com
 127.0.0.1 intergi.com
 127.0.0.1 internetfuel.com
 127.0.0.1 interreklame.de
@@ -2649,6 +2648,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 stoveseashore.com
 127.0.0.1 straightnest.com
 127.0.0.1 straightschool.com
+127.0.0.1 stream.useriq.com
 127.0.0.1 stripedburst.com
 127.0.0.1 strivesidewalk.com
 127.0.0.1 structurerod.com
@@ -2854,7 +2854,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 urlcash.net
 127.0.0.1 us.a1.yimg.com
 127.0.0.1 usapromotravel.com
-127.0.0.1 useriq.com
 127.0.0.1 userreplay.com
 127.0.0.1 userreplay.net
 127.0.0.1 utils.mediageneral.net
