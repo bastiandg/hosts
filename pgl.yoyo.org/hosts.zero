@@ -578,7 +578,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.recoletos.es
 0.0.0.0 ads.rediff.com
 0.0.0.0 ads.redlightcenter.com
-0.0.0.0 ads.redtube.com
 0.0.0.0 ads.resoom.de
 0.0.0.0 ads.satyamonline.com
 0.0.0.0 ads.saymedia.com
@@ -653,7 +652,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads.zdnet.com
 0.0.0.0 ads.ztod.com
-0.0.0.0 ads03.redtube.com
 0.0.0.0 ads1.canoe.ca
 0.0.0.0 ads1.mediacapital.pt
 0.0.0.0 ads1.msn.com
@@ -851,7 +849,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adxpansion.com
 0.0.0.0 adxpose.com
 0.0.0.0 adxvalue.com
-0.0.0.0 adyea.com
 0.0.0.0 adz2you.com
 0.0.0.0 adzbazar.com
 0.0.0.0 adzerk.net
@@ -1212,6 +1209,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 class-act-clicks.com
 0.0.0.0 clearcomb.com
 0.0.0.0 clevernt.com
+0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
@@ -2349,7 +2347,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ratings.lycos.com
 0.0.0.0 rayjump.com
 0.0.0.0 rb1.design.ru
-0.0.0.0 re-directme.com
 0.0.0.0 reachjunction.com
 0.0.0.0 reactx.com
 0.0.0.0 readgoldfish.com

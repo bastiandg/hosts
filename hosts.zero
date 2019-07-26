@@ -3527,7 +3527,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads02.hyperbanner.net
 0.0.0.0 ads03.focalink.com
 0.0.0.0 ads03.hyperbanner.net
-0.0.0.0 ads03.redtube.com
 0.0.0.0 ads04.focalink.com
 0.0.0.0 ads04.hyperbanner.net
 0.0.0.0 ads05.focalink.com
@@ -4660,7 +4659,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adxpansion.com
 0.0.0.0 adxpose.com
 0.0.0.0 adxvalue.com
-0.0.0.0 adyea.com
 0.0.0.0 adyoulike.omnitagjs.com
 0.0.0.0 adz.afterdawn.net
 0.0.0.0 adz2you.com
@@ -7928,6 +7926,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 click-see-save.com
 0.0.0.0 click-west.acuityplatform.com
 0.0.0.0 click.a-ads.com
+0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.adpile.net
 0.0.0.0 click.adpremium.org
 0.0.0.0 click.adv.livedoor.com
@@ -18806,7 +18805,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 rd.revolvermaps.com
 0.0.0.0 rd1.hitbox.com
 0.0.0.0 rdsa2012.com
-0.0.0.0 re-directme.com
 0.0.0.0 re.directrev.com
 0.0.0.0 re.kontera.com
 0.0.0.0 re.revolvermaps.com
