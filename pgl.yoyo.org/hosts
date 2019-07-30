@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 29 Jul 2019 11:49:09 GMT
-# entries:        2997
+# last updated:   Tue, 30 Jul 2019 12:03:30 GMT
+# entries:        2998
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1113,6 +1113,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 bidr.io
 127.0.0.1 bidswitch.net
 127.0.0.1 bidvertiser.com
+127.0.0.1 big-bang-ads.com
 127.0.0.1 bigbangmedia.com
 127.0.0.1 bigclicks.com
 127.0.0.1 billboard.cz
