@@ -5008,6 +5008,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analyticcdn.globalmailer.com
 127.0.0.1 analytics-api-samples.googlecode.com
 127.0.0.1 analytics-eu.clickdimensions.com
+127.0.0.1 analytics-production.hapyak.com
 127.0.0.1 analytics-static.ugc.bazaarvoice.com
 127.0.0.1 analytics.admob.com
 127.0.0.1 analytics.adpost.org
@@ -5017,6 +5018,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analytics.atomiconline.com
 127.0.0.1 analytics.aweber.com
 127.0.0.1 analytics.bigcommerce.com
+127.0.0.1 analytics.bitrix.info
 127.0.0.1 analytics.bleacherreport.com
 127.0.0.1 analytics.bluekai.com
 127.0.0.1 analytics.breakingnews.com
@@ -5035,6 +5037,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 analytics.harpercollins.com
 127.0.0.1 analytics.hayneedle.com
 127.0.0.1 analytics.hgcdn.net
+127.0.0.1 analytics.htmedia.in
+127.0.0.1 analytics.icons8.com
 127.0.0.1 analytics.inform.com
 127.0.0.1 analytics.jabong.com
 127.0.0.1 analytics.kaltura.com
@@ -5047,6 +5051,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analytics.msn.com
 127.0.0.1 analytics.msnbc.com
 127.0.0.1 analytics.msnbc.msn.com
+127.0.0.1 analytics.myfinance.com
 127.0.0.1 analytics.myfinances.com
 127.0.0.1 analytics.mytvzion.pro
 127.0.0.1 analytics.newsinc.com
@@ -5068,6 +5073,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analytics.revee.com
 127.0.0.1 analytics.rogersmedia.com
 127.0.0.1 analytics.safelinking.net
+127.0.0.1 analytics.samdd.me
 127.0.0.1 analytics.sanoma.fi
 127.0.0.1 analytics.services.kirra.nl
 127.0.0.1 analytics.shareaholic.com
@@ -5081,6 +5087,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analytics.stg.springboardvideo.com
 127.0.0.1 analytics.strangeloopnetworks.com
 127.0.0.1 analytics.sutterhealth.org
+127.0.0.1 analytics.swiggy.com
 127.0.0.1 analytics.tbs.com
 127.0.0.1 analytics.theknot.com
 127.0.0.1 analytics.thenest.com
@@ -12578,6 +12585,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 icompass.insightexpressai.com
 127.0.0.1 icon.clickthru.net
 127.0.0.1 icon.cnzz.com
+127.0.0.1 iconadserver.com
 127.0.0.1 icorpadro.hit.gemius.pl
 127.0.0.1 icptrack.com
 127.0.0.1 ics.hitbox.com
@@ -20022,6 +20030,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 securedliveuploads.com
 127.0.0.1 securedopen-bp.com
 127.0.0.1 securemacfix.com
+127.0.0.1 securemetrics.apple.com
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 secureredirect101.com
 127.0.0.1 securerr.com
@@ -20602,6 +20611,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 smedizin.oewabox.at
 127.0.0.1 smetrics.aetn.com
 127.0.0.1 smetrics.att.com
+127.0.0.1 smetrics.bestbuy.com
 127.0.0.1 smetrics.creditreport.com
 127.0.0.1 smetrics.ctv.ca
 127.0.0.1 smetrics.foxnews.com

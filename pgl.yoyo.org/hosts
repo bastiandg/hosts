@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 31 Jul 2019 10:22:56 GMT
-# entries:        3010
+# last updated:   Wed, 31 Jul 2019 11:31:15 GMT
+# entries:        3020
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -944,18 +944,25 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 amplitude.com
 127.0.0.1 amung.us
 127.0.0.1 anahtars.com
+127.0.0.1 analytics-production.hapyak.com
 127.0.0.1 analytics.adpost.org
+127.0.0.1 analytics.bitrix.info
 127.0.0.1 analytics.cloudron.io
 127.0.0.1 analytics.google.com
+127.0.0.1 analytics.htmedia.in
+127.0.0.1 analytics.icons8.com
 127.0.0.1 analytics.jabong.com
 127.0.0.1 analytics.live.com
 127.0.0.1 analytics.mailmunch.co
+127.0.0.1 analytics.myfinance.com
 127.0.0.1 analytics.mytvzion.pro
 127.0.0.1 analytics.phando.com
 127.0.0.1 analytics.picsart.com
 127.0.0.1 analytics.poolshool.com
 127.0.0.1 analytics.posttv.com
+127.0.0.1 analytics.samdd.me
 127.0.0.1 analytics.siliconexpert.com
+127.0.0.1 analytics.swiggy.com
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 anm.intelli-direct.com
 127.0.0.1 annonser.dagbladet.no
@@ -1745,6 +1752,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 iad.anm.co.uk
 127.0.0.1 iadnet.com
 127.0.0.1 iasds01.com
+127.0.0.1 iconadserver.com
 127.0.0.1 icptrack.com
 127.0.0.1 identads.com
 127.0.0.1 idtargeting.com
@@ -2500,6 +2508,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 secretspiders.com
 127.0.0.1 secure.webconnect.net
 127.0.0.1 securedopen-bp.com
+127.0.0.1 securemetrics.apple.com
 127.0.0.1 sedoparking.com
 127.0.0.1 sedotracker.com
 127.0.0.1 selectionsugar.com
@@ -2563,6 +2572,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 smartadserver.com
 127.0.0.1 smartlook.com
 127.0.0.1 smashsurprise.com
+127.0.0.1 smetrics.bestbuy.com
 127.0.0.1 smetrics.ctv.ca
 127.0.0.1 smetrics.foxnews.com
 127.0.0.1 smetrics.walgreens.com
