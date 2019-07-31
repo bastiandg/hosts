@@ -159,6 +159,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.weatherbug.com
 0.0.0.0 ad.wsod.com
 0.0.0.0 ad.wz.cz
+0.0.0.0 ad.xiaomi.com
 0.0.0.0 ad.xrea.com
 0.0.0.0 ad.yadro.ru
 0.0.0.0 ad.yourmedia.com
@@ -917,8 +918,17 @@ ff02::2 ip6-allrouters
 0.0.0.0 amung.us
 0.0.0.0 anahtars.com
 0.0.0.0 analytics.adpost.org
+0.0.0.0 analytics.cloudron.io
 0.0.0.0 analytics.google.com
+0.0.0.0 analytics.jabong.com
 0.0.0.0 analytics.live.com
+0.0.0.0 analytics.mailmunch.co
+0.0.0.0 analytics.mytvzion.pro
+0.0.0.0 analytics.phando.com
+0.0.0.0 analytics.picsart.com
+0.0.0.0 analytics.poolshool.com
+0.0.0.0 analytics.posttv.com
+0.0.0.0 analytics.siliconexpert.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 anm.intelli-direct.com
 0.0.0.0 annonser.dagbladet.no
@@ -1886,6 +1896,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 log.pinterest.com
 0.0.0.0 logger.snackly.co
 0.0.0.0 logs.roku.com
+0.0.0.0 logsss.com
 0.0.0.0 logua.com
 0.0.0.0 longinglettuce.com
 0.0.0.0 lop.com
@@ -2987,6 +2998,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 zanox-affiliate.de
 0.0.0.0 zanox.com
 0.0.0.0 zantracker.com
+0.0.0.0 zarget.com
 0.0.0.0 zbwp6ghm.com
 0.0.0.0 zealousfield.com
 0.0.0.0 zedo.com

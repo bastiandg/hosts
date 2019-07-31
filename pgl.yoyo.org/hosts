@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 30 Jul 2019 12:03:30 GMT
-# entries:        2998
+# last updated:   Wed, 31 Jul 2019 10:22:56 GMT
+# entries:        3010
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -186,6 +186,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad.weatherbug.com
 127.0.0.1 ad.wsod.com
 127.0.0.1 ad.wz.cz
+127.0.0.1 ad.xiaomi.com
 127.0.0.1 ad.xrea.com
 127.0.0.1 ad.yadro.ru
 127.0.0.1 ad.yourmedia.com
@@ -944,8 +945,17 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 amung.us
 127.0.0.1 anahtars.com
 127.0.0.1 analytics.adpost.org
+127.0.0.1 analytics.cloudron.io
 127.0.0.1 analytics.google.com
+127.0.0.1 analytics.jabong.com
 127.0.0.1 analytics.live.com
+127.0.0.1 analytics.mailmunch.co
+127.0.0.1 analytics.mytvzion.pro
+127.0.0.1 analytics.phando.com
+127.0.0.1 analytics.picsart.com
+127.0.0.1 analytics.poolshool.com
+127.0.0.1 analytics.posttv.com
+127.0.0.1 analytics.siliconexpert.com
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 anm.intelli-direct.com
 127.0.0.1 annonser.dagbladet.no
@@ -1913,6 +1923,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 log.pinterest.com
 127.0.0.1 logger.snackly.co
 127.0.0.1 logs.roku.com
+127.0.0.1 logsss.com
 127.0.0.1 logua.com
 127.0.0.1 longinglettuce.com
 127.0.0.1 lop.com
@@ -3014,6 +3025,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 zanox-affiliate.de
 127.0.0.1 zanox.com
 127.0.0.1 zantracker.com
+127.0.0.1 zarget.com
 127.0.0.1 zbwp6ghm.com
 127.0.0.1 zealousfield.com
 127.0.0.1 zedo.com
