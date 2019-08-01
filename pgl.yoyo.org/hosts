@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 01 Aug 2019 12:02:18 GMT
-# entries:        3023
+# last updated:   Thu, 01 Aug 2019 13:55:12 GMT
+# entries:        3024
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1199,7 +1199,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 calculatorcamera.com
 127.0.0.1 callousbrake.com
 127.0.0.1 callrail.com
-127.0.0.1 callstats.io
 127.0.0.1 campaign.bharatmatrimony.com
 127.0.0.1 caniamedia.com
 127.0.0.1 capablecows.com
@@ -2808,6 +2807,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tracker.marinsm.com
 127.0.0.1 tracker.samplicio.us
 127.0.0.1 tracker.trackerfix.com
+127.0.0.1 tracker.vgame.us
 127.0.0.1 tracking.crunchiemedia.com
 127.0.0.1 tracking.discounts-promo.ga
 127.0.0.1 tracking.gajmp.com
@@ -2954,6 +2954,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 webstat.com
 127.0.0.1 webstat.net
 127.0.0.1 webstats4u.com
+127.0.0.1 webtracker.jp
 127.0.0.1 webtrackerplus.com
 127.0.0.1 webtracky.com
 127.0.0.1 webtraffic.se

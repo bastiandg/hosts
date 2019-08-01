@@ -1172,7 +1172,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 calculatorcamera.com
 0.0.0.0 callousbrake.com
 0.0.0.0 callrail.com
-0.0.0.0 callstats.io
 0.0.0.0 campaign.bharatmatrimony.com
 0.0.0.0 caniamedia.com
 0.0.0.0 capablecows.com
@@ -2781,6 +2780,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracker.marinsm.com
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 tracker.trackerfix.com
+0.0.0.0 tracker.vgame.us
 0.0.0.0 tracking.crunchiemedia.com
 0.0.0.0 tracking.discounts-promo.ga
 0.0.0.0 tracking.gajmp.com
@@ -2927,6 +2927,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 webstat.com
 0.0.0.0 webstat.net
 0.0.0.0 webstats4u.com
+0.0.0.0 webtracker.jp
 0.0.0.0 webtrackerplus.com
 0.0.0.0 webtracky.com
 0.0.0.0 webtraffic.se

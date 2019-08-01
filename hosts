@@ -7250,7 +7250,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 callmd5map.com
 127.0.0.1 callousbrake.com
 127.0.0.1 callrail.com
-127.0.0.1 callstats.io
 127.0.0.1 cam.demdex.net
 127.0.0.1 cam2cam.xlovecam.com
 127.0.0.1 cambonanza.com
@@ -22844,6 +22843,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracker.truehits.in.th
 127.0.0.1 tracker.truehits.net
 127.0.0.1 tracker.twenga.nl
+127.0.0.1 tracker.vgame.us
 127.0.0.1 tracker.vinsight.de
 127.0.0.1 tracker.wordstream.com
 127.0.0.1 tracker1.leadiya.com
@@ -24448,6 +24448,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 websurvey.spa-mr.com
 127.0.0.1 websystem24.nuggad.net
 127.0.0.1 webtracker.apicasystem.com
+127.0.0.1 webtracker.jp
 127.0.0.1 webtrackerplus.com
 127.0.0.1 webtracky.com
 127.0.0.1 webtraffic.se
