@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 31 Jul 2019 13:16:29 GMT
-# entries:        3021
+# last updated:   Thu, 01 Aug 2019 12:02:18 GMT
+# entries:        3023
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -967,6 +967,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 anm.intelli-direct.com
 127.0.0.1 annonser.dagbladet.no
 127.0.0.1 anrdoezrs.net
+127.0.0.1 anstrex.com
 127.0.0.1 anxiousapples.com
 127.0.0.1 apathetictheory.com
 127.0.0.1 api.intensifier.de
@@ -1596,6 +1597,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 findyourcasino.com
 127.0.0.1 first.nova.cz
 127.0.0.1 firstlightera.com
+127.0.0.1 firstpromoter.com
 127.0.0.1 flakyfeast.com
 127.0.0.1 flashtalking.com
 127.0.0.1 flavordecision.com
