@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 05 Aug 2019 14:27:00 GMT
-# entries:        3026
+# entries:        3022
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -656,7 +656,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.wapx.cn
 127.0.0.1 ads.watson.ch
 127.0.0.1 ads.weather.ca
-127.0.0.1 ads.web.cs.com
 127.0.0.1 ads.web.de
 127.0.0.1 ads.webmasterpoint.org
 127.0.0.1 ads.websiteservices.com
@@ -735,7 +734,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver.break-even.it
 127.0.0.1 adserver.cams.com
 127.0.0.1 adserver.com
-127.0.0.1 adserver.flossiemediagroup.com
+127.0.0.1 adserver.digitoday.com
 127.0.0.1 adserver.freecity.de
 127.0.0.1 adserver.friendfinder.com
 127.0.0.1 adserver.hardsextube.com
@@ -1247,7 +1246,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 cjbmanagement.com
 127.0.0.1 cjlog.com
 127.0.0.1 claria.com
-127.0.0.1 class-act-clicks.com
 127.0.0.1 clearcomb.com
 127.0.0.1 clevernt.com
 127.0.0.1 click.absoluteagency.com
@@ -1473,7 +1471,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 dynamic.fmpub.net
 127.0.0.1 dyntrk.com
 127.0.0.1 e-adimages.scrippsnetworks.com
-127.0.0.1 e-bannerx.com
 127.0.0.1 e-debtconsolidation.com
 127.0.0.1 e-m.fr
 127.0.0.1 e-n-t-e-r-n-e-x.com
@@ -1942,7 +1939,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 lucidmedia.com
 127.0.0.1 lucklayed.info
 127.0.0.1 lumpyleaf.com
-127.0.0.1 lwfjd.today
 127.0.0.1 lytics.io
 127.0.0.1 lzjl.com
 127.0.0.1 m.trb.com

@@ -629,7 +629,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.wapx.cn
 0.0.0.0 ads.watson.ch
 0.0.0.0 ads.weather.ca
-0.0.0.0 ads.web.cs.com
 0.0.0.0 ads.web.de
 0.0.0.0 ads.webmasterpoint.org
 0.0.0.0 ads.websiteservices.com
@@ -708,7 +707,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.break-even.it
 0.0.0.0 adserver.cams.com
 0.0.0.0 adserver.com
-0.0.0.0 adserver.flossiemediagroup.com
+0.0.0.0 adserver.digitoday.com
 0.0.0.0 adserver.freecity.de
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 adserver.hardsextube.com
@@ -1220,7 +1219,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cjbmanagement.com
 0.0.0.0 cjlog.com
 0.0.0.0 claria.com
-0.0.0.0 class-act-clicks.com
 0.0.0.0 clearcomb.com
 0.0.0.0 clevernt.com
 0.0.0.0 click.absoluteagency.com
@@ -1446,7 +1444,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 dynamic.fmpub.net
 0.0.0.0 dyntrk.com
 0.0.0.0 e-adimages.scrippsnetworks.com
-0.0.0.0 e-bannerx.com
 0.0.0.0 e-debtconsolidation.com
 0.0.0.0 e-m.fr
 0.0.0.0 e-n-t-e-r-n-e-x.com
@@ -1915,7 +1912,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 lucidmedia.com
 0.0.0.0 lucklayed.info
 0.0.0.0 lumpyleaf.com
-0.0.0.0 lwfjd.today
 0.0.0.0 lytics.io
 0.0.0.0 lzjl.com
 0.0.0.0 m.trb.com
