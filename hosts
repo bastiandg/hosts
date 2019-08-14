@@ -5654,6 +5654,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 audienceinsights.com
 127.0.0.1 audio.de.intellitxt.com
 127.0.0.1 audit.median.hu
+127.0.0.1 audit.quantcast.mgr.consensu.org
 127.0.0.1 audit.webinform.hu
 127.0.0.1 augur.io
 127.0.0.1 aujourdhui.refr.adgtw.orangeads.fr
@@ -18669,7 +18670,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 qualifiedourspecialoffer.com
 127.0.0.1 qualityporn.biz
 127.0.0.1 quantcast.com
-127.0.0.1 quantcast.mgr.consensu.org
 127.0.0.1 quantcast584928381.s.moatpixel.com
 127.0.0.1 quantserve.com
 127.0.0.1 quantummetric.com

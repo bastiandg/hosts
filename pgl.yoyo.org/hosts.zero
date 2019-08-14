@@ -972,6 +972,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 audience2media.com
 0.0.0.0 audienceinsights.com
 0.0.0.0 audit.median.hu
+0.0.0.0 audit.quantcast.mgr.consensu.org
 0.0.0.0 audit.webinform.hu
 0.0.0.0 augur.io
 0.0.0.0 auto-bannertausch.de
@@ -2333,7 +2334,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 quacksquirrel.com
 0.0.0.0 quaintcan.com
 0.0.0.0 quantcast.com
-0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 quantserve.com
 0.0.0.0 quantummetric.com
 0.0.0.0 quarterbean.com
