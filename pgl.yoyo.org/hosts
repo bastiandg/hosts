@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 14 Aug 2019 10:13:56 GMT
-# entries:        3022
+# entries:        3018
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1130,7 +1130,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 bigclicks.com
 127.0.0.1 billboard.cz
 127.0.0.1 biosda.com
-127.0.0.1 bitads.net
 127.0.0.1 bitmedianetwork.com
 127.0.0.1 bizad.nikkeibp.co.jp
 127.0.0.1 bizible.com
@@ -1152,7 +1151,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 blushingboundary.com
 127.0.0.1 bm.annonce.cz
 127.0.0.1 bn.bfast.com
-127.0.0.1 boersego-ads.de
 127.0.0.1 boilingbeetle.com
 127.0.0.1 boilingumbrella.com
 127.0.0.1 boomads.com
@@ -2089,7 +2087,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mytop-in.net
 127.0.0.1 mytrafficads.com
 127.0.0.1 myvisualiq.net
-127.0.0.1 mzbcdn.net
 127.0.0.1 n69.com
 127.0.0.1 naj.sk
 127.0.0.1 nastydollars.com
@@ -2322,7 +2319,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 promos.bwin.it
 127.0.0.1 promos.fling.com
 127.0.0.1 promote.pair.com
-127.0.0.1 promotion-campaigns.com
 127.0.0.1 pronetadvertising.com
 127.0.0.1 propellerads.com
 127.0.0.1 proper.io
@@ -2394,6 +2390,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ratings.lycos.com
 127.0.0.1 rayjump.com
 127.0.0.1 rb1.design.ru
+127.0.0.1 re-directme.com
 127.0.0.1 reachjunction.com
 127.0.0.1 reactx.com
 127.0.0.1 readgoldfish.com
@@ -3048,7 +3045,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 zeus.developershed.com
 127.0.0.1 zeusclicks.com
 127.0.0.1 zlp6s.pw
-127.0.0.1 zm232.com
 127.0.0.1 zmedia.com
 127.0.0.1 zqtk.net
 127.0.0.1 zy16eoat1w.com
