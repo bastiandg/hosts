@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 29 Jul 2019 at 04:52:50 GMT
+# Last updated: Sun, 01 Sep 2019 at 11:25:08 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2417,6 +2417,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 jajajaj-thats-you-really.com
 127.0.0.1 janezk.50webs.co
 127.0.0.1 jat01.iwantyourightnow.info
+127.0.0.1 jbbwtetv.xyz
 127.0.0.1 jqueryscript.net
 127.0.0.1 jroqvbvw.info
 127.0.0.1 jujitsu-ostrava.info
