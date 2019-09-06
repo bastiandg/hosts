@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 03 Sep 2019 10:05:15 GMT
-# entries:        3021
+# last updated:   Fri, 06 Sep 2019 11:50:09 GMT
+# entries:        3024
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -64,7 +64,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 7search.com
 127.0.0.1 82o9v830.com
 127.0.0.1 99count.com
-127.0.0.1 a-ads.com
 127.0.0.1 a.aproductmsg.com
 127.0.0.1 a.consumer.net
 127.0.0.1 a.mktw.net
@@ -88,6 +87,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 absurdwater.com
 127.0.0.1 abz.com
 127.0.0.1 ac.rnm.ca
+127.0.0.1 acceptable.a-ads.com
 127.0.0.1 acridtwist.com
 127.0.0.1 actionsplash.com
 127.0.0.1 actualdeals.com
@@ -110,6 +110,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad-up.com
 127.0.0.1 ad.100.tbn.ru
 127.0.0.1 ad.71i.de
+127.0.0.1 ad.a-ads.com
 127.0.0.1 ad.a8.net
 127.0.0.1 ad.abcnews.com
 127.0.0.1 ad.abctv.com
@@ -1246,6 +1247,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 claria.com
 127.0.0.1 clearcomb.com
 127.0.0.1 clevernt.com
+127.0.0.1 click.a-ads.com
 127.0.0.1 click.absoluteagency.com
 127.0.0.1 click.fool.com
 127.0.0.1 click.kmindex.ru
@@ -2631,6 +2633,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 stat24.com
 127.0.0.1 stat24.meta.ua
 127.0.0.1 statcounter.com
+127.0.0.1 static.a-ads.com
 127.0.0.1 static.fmpub.net
 127.0.0.1 static.itrack.it
 127.0.0.1 staticads.btopenworld.com
