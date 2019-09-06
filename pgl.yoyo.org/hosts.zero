@@ -366,7 +366,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.batpmturner.com
 0.0.0.0 ads.belointeractive.com
 0.0.0.0 ads.berlinonline.de
-0.0.0.0 ads.betanews.com
 0.0.0.0 ads.betfair.com
 0.0.0.0 ads.bigchurch.com
 0.0.0.0 ads.bigfoot.com
@@ -1590,7 +1589,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 freepay.com
 0.0.0.0 freeskreen.com
 0.0.0.0 freestats.com
-0.0.0.0 freestats.tv
 0.0.0.0 freewebcounter.com
 0.0.0.0 freshmarketer.com
 0.0.0.0 frightenedpotato.com
@@ -2268,7 +2266,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 possibleboats.com
 0.0.0.0 postback.iqm.com
 0.0.0.0 postrelease.com
-0.0.0.0 potenza.cz
 0.0.0.0 pr-star.de
 0.0.0.0 praddpro.de
 0.0.0.0 prchecker.info
@@ -2884,6 +2881,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 visistat.com
 0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 visitbox.de
+0.0.0.0 visitpath.com
 0.0.0.0 visual-pagerank.fr
 0.0.0.0 visualrevenue.com
 0.0.0.0 vivtracking.com

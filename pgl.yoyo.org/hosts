@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 06 Sep 2019 11:50:09 GMT
-# entries:        3024
+# entries:        3022
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -393,7 +393,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.batpmturner.com
 127.0.0.1 ads.belointeractive.com
 127.0.0.1 ads.berlinonline.de
-127.0.0.1 ads.betanews.com
 127.0.0.1 ads.betfair.com
 127.0.0.1 ads.bigchurch.com
 127.0.0.1 ads.bigfoot.com
@@ -1617,7 +1616,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 freepay.com
 127.0.0.1 freeskreen.com
 127.0.0.1 freestats.com
-127.0.0.1 freestats.tv
 127.0.0.1 freewebcounter.com
 127.0.0.1 freshmarketer.com
 127.0.0.1 frightenedpotato.com
@@ -2295,7 +2293,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 possibleboats.com
 127.0.0.1 postback.iqm.com
 127.0.0.1 postrelease.com
-127.0.0.1 potenza.cz
 127.0.0.1 pr-star.de
 127.0.0.1 praddpro.de
 127.0.0.1 prchecker.info
@@ -2911,6 +2908,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 visistat.com
 127.0.0.1 visit.webhosting.yahoo.com
 127.0.0.1 visitbox.de
+127.0.0.1 visitpath.com
 127.0.0.1 visual-pagerank.fr
 127.0.0.1 visualrevenue.com
 127.0.0.1 vivtracking.com
