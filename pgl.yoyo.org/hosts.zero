@@ -1563,7 +1563,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 findyourcasino.com
 0.0.0.0 first.nova.cz
 0.0.0.0 firstlightera.com
-0.0.0.0 firstpromoter.com
 0.0.0.0 flakyfeast.com
 0.0.0.0 flashtalking.com
 0.0.0.0 flavordecision.com
@@ -2665,6 +2664,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 swordfishdc.com
 0.0.0.0 swordgoose.com
 0.0.0.0 t.eloqua.com
+0.0.0.0 t.firstpromoter.com
 0.0.0.0 t.insigit.com
 0.0.0.0 taboola.com
 0.0.0.0 tagan.adlightning.com

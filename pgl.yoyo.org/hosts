@@ -21,7 +21,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 11 Sep 2019 19:39:13 GMT
+# last updated:   Wed, 11 Sep 2019 22:17:33 GMT
 # entries:        3023
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -1590,7 +1590,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 findyourcasino.com
 127.0.0.1 first.nova.cz
 127.0.0.1 firstlightera.com
-127.0.0.1 firstpromoter.com
 127.0.0.1 flakyfeast.com
 127.0.0.1 flashtalking.com
 127.0.0.1 flavordecision.com
@@ -2692,6 +2691,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 swordfishdc.com
 127.0.0.1 swordgoose.com
 127.0.0.1 t.eloqua.com
+127.0.0.1 t.firstpromoter.com
 127.0.0.1 t.insigit.com
 127.0.0.1 taboola.com
 127.0.0.1 tagan.adlightning.com
