@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 11 Sep 2019 22:17:33 GMT
-# entries:        3023
+# last updated:   Thu, 12 Sep 2019 08:20:34 GMT
+# entries:        3024
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2054,6 +2054,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 moggattice.com
 127.0.0.1 moldyicicle.com
 127.0.0.1 monetate.net
+127.0.0.1 monetizer101.com
 127.0.0.1 moneyexpert.co.uk
 127.0.0.1 monsterpops.com
 127.0.0.1 mookie1.com
