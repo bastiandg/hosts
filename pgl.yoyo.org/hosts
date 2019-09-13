@@ -1472,6 +1472,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 dynamic.fmpub.net
 127.0.0.1 dyntrk.com
 127.0.0.1 e-adimages.scrippsnetworks.com
+127.0.0.1 e-bannerx.com
 127.0.0.1 e-debtconsolidation.com
 127.0.0.1 e-m.fr
 127.0.0.1 e-n-t-e-r-n-e-x.com
@@ -2125,7 +2126,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 newstarads.com
 127.0.0.1 newt1.adultadworld.com
 127.0.0.1 newt1.adultworld.com
-127.0.0.1 newtopsites.com
 127.0.0.1 nexage.com
 127.0.0.1 ng3.ads.warnerbros.com
 127.0.0.1 nitratory.com
@@ -2146,7 +2146,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 nzaza.com
 127.0.0.1 o0bc.com
 127.0.0.1 oas.benchmark.fr
-127.0.0.1 oas.foxnews.com
 127.0.0.1 oas.repubblica.it
 127.0.0.1 oas.roanoke.com
 127.0.0.1 oas.toronto.com
@@ -2322,6 +2321,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 promos.bwin.it
 127.0.0.1 promos.fling.com
 127.0.0.1 promote.pair.com
+127.0.0.1 promotion-campaigns.com
 127.0.0.1 pronetadvertising.com
 127.0.0.1 propellerads.com
 127.0.0.1 proper.io
