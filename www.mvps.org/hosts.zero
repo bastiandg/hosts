@@ -804,10 +804,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 adfoc.us
 0.0.0.0 adfocus.ru
 0.0.0.0 adforce.ru
+0.0.0.0 adform.net
 0.0.0.0 adfun.ru
 0.0.0.0 adg.bzgint.com
 0.0.0.0 adgebra.co.in
 0.0.0.0 adgeo.163.com
+0.0.0.0 adgrx.com
 0.0.0.0 adhall.com
 0.0.0.0 adhealers.com
 0.0.0.0 adhese.gva.be
@@ -874,6 +876,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adnetgalt.hit.gemius.pl
 0.0.0.0 adnetwork.buzzlogic.com
 0.0.0.0 adnext.fr
+0.0.0.0 adnxs.com
 0.0.0.0 ado.icorp.ro
 0.0.0.0 ado.pro-market.net
 0.0.0.0 adobe.demdex.net
@@ -1761,6 +1764,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adsrv2.ihlassondakika.com
 0.0.0.0 adsrvmedia.adk2.co
 0.0.0.0 adsrvmedia.adk2x.com
+0.0.0.0 adsrvr.org
 0.0.0.0 adssl-dc2.adtech.de
 0.0.0.0 adssrv.nationmultimedia.com
 0.0.0.0 adstat.4u.pl
@@ -1784,6 +1788,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adtactics.com
 0.0.0.0 adtag.sympatico.ca
 0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 adtdp.com
 0.0.0.0 adtech.de
 0.0.0.0 adtegrity.com
 0.0.0.0 adtegrity.spinbox.net
@@ -2800,6 +2805,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 blue.sexer.com
 0.0.0.0 blueadvertise.com
 0.0.0.0 bluehparking.com
+0.0.0.0 bluekai.com
 0.0.0.0 bluewin.wemfbox.ch
 0.0.0.0 bluhostedbanners.blucigs.com
 0.0.0.0 bm.met.vgwort.de
@@ -3343,6 +3349,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdna.runadtag.com
 0.0.0.0 cdna.tremormedia.com
 0.0.0.0 cdnads.cam4.com
+0.0.0.0 cdnegc.trafficfactory.biz
 0.0.0.0 cdnmedia.xyz
 0.0.0.0 cdns.amgdgt.com
 0.0.0.0 cdnssl.clicktale.net
@@ -4191,6 +4198,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 delivery1.topad.mobi
 0.0.0.0 dellinc.tt.omtrdc.net
 0.0.0.0 delta.rspcdn.com
+0.0.0.0 demdex.net
 0.0.0.0 demonews.us.intellitxt.com
 0.0.0.0 demoq.use-trade.com
 0.0.0.0 demr.myspace.com
@@ -7524,6 +7532,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 p.placemypixel.com
 0.0.0.0 p.raasnet.com
 0.0.0.0 p.rfihub.com
+0.0.0.0 p.tvpixel.com
 0.0.0.0 p.vibrant.co
 0.0.0.0 p0.raasnet.com
 0.0.0.0 p1.tcr21.tynt.com
@@ -8338,7 +8347,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 rumorfix.us.intellitxt.com
 0.0.0.0 run.admost.com
 0.0.0.0 run.adrizer.com
-0.0.0.0 runslin.com
 0.0.0.0 ruptly-d.openx.net
 0.0.0.0 rusads.toysrus.com
 0.0.0.0 rutrk.org
@@ -10644,6 +10652,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.3animalsex.com
 0.0.0.0 www.3bsoftware.com
 0.0.0.0 www.3dstats.com
+0.0.0.0 www.4shared.com
 0.0.0.0 www.777tool.com
 0.0.0.0 www.77tracking.com
 0.0.0.0 www.7metasearch.com
@@ -10990,6 +10999,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.favicon.com
 0.0.0.0 www.feyads.com
 0.0.0.0 www.fhserve.com
+0.0.0.0 www.fileconvertertab.com
 0.0.0.0 www.firebanner.com
 0.0.0.0 www.fishclix.com
 0.0.0.0 www.flashadtools.com
