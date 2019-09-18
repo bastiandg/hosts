@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 16 Sep 2019 11:42:40 GMT
-# entries:        3027
+# last updated:   Wed, 18 Sep 2019 18:47:36 GMT
+# entries:        3031
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1515,6 +1515,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 emediate.eu
 127.0.0.1 emerse.com
 127.0.0.1 emetriq.de
+127.0.0.1 emjcd.com
 127.0.0.1 emltrk.com
 127.0.0.1 en25.com
 127.0.0.1 encouragingwilderness.com
@@ -1542,6 +1543,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 eusta.de
 127.0.0.1 everesttech.net
 127.0.0.1 evergage.com
+127.0.0.1 eversales.space
 127.0.0.1 evyy.net
 127.0.0.1 ewebcounter.com
 127.0.0.1 exchange-it.com
@@ -2618,6 +2620,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 spywords.com
 127.0.0.1 squirrelhands.com
 127.0.0.1 srvmath.com
+127.0.0.1 srvtrck.com
 127.0.0.1 srwww1.com
 127.0.0.1 st.dynamicyield.com
 127.0.0.1 stack-sonar.com
@@ -2880,6 +2883,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 unusualtitle.com
 127.0.0.1 unwrittenspot.com
 127.0.0.1 urlcash.net
+127.0.0.1 urldata.net
 127.0.0.1 us.a1.yimg.com
 127.0.0.1 usapromotravel.com
 127.0.0.1 userreplay.com
