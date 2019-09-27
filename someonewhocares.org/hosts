@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 06 Sep 2019 at 08:53:53 GMT
+# Last updated: Fri, 27 Sep 2019 at 02:12:24 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2943,6 +2943,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ws49.crypto-loot.com
 127.0.0.1 ws50.crypto-loot.com
 127.0.0.1 ws.xjb.ac.cn
+127.0.0.1 wwnc.xyz
 127.0.0.1 www1.bmo.com.hotfrio.com.br
 127.0.0.1 www1.firesavez5.com
 127.0.0.1 www1.firesavez6.com
