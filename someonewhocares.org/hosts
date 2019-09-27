@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 27 Sep 2019 at 02:12:24 GMT
+# Last updated: Fri, 27 Sep 2019 at 04:46:08 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -12561,6 +12561,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.speedboink.com
 127.0.0.1 www.speedyclick.com
 127.0.0.1 www.spinbox.com
+127.0.0.1 www.spinia.com
 127.0.0.1 www.sponsorads.de
 127.0.0.1 www.sponsoradulto.com
 127.0.0.1 www.sports-bonuspath.com
