@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 18 Sep 2019 18:47:36 GMT
-# entries:        3018
+# last updated:   Sat, 28 Sep 2019 09:55:59 GMT
+# entries:        3019
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2722,6 +2722,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 teethfan.com
 127.0.0.1 temelio.com
 127.0.0.1 tendertest.com
+127.0.0.1 tercept.com
 127.0.0.1 terriblethumb.com
 127.0.0.1 text-link-ads.com
 127.0.0.1 textad.sexsearch.com
