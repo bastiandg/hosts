@@ -2268,6 +2268,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.bhmedianetwork.com
 127.0.0.1 ads.bianca.com
 127.0.0.1 ads.bidclix.com
+127.0.0.1 ads.bidstreamserver.com
 127.0.0.1 ads.bidvertiser.com
 127.0.0.1 ads.bigchurch.com
 127.0.0.1 ads.bigcitytools.com
@@ -4216,6 +4217,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserverus.info
 127.0.0.1 adservice.aliexpress.com
 127.0.0.1 adservice.google.ca
+127.0.0.1 adservice.google.co.za
 127.0.0.1 adservice.google.com
 127.0.0.1 adservice.google.com.au
 127.0.0.1 adservice.google.nl

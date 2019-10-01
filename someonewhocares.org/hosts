@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 27 Sep 2019 at 06:25:19 GMT
+# Last updated: Tue, 01 Oct 2019 at 06:52:42 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5436,6 +5436,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ads.bfm.valueclick.net
 127.0.0.1 ads.bianca.com
 127.0.0.1 ads.bidclix.com
+127.0.0.1 ads.bidstreamserver.com
 127.0.0.1 ads.bidvertiser.com
 127.0.0.1 ads.bigcitytools.com
 127.0.0.1 ads.biggerboat.com
@@ -5913,6 +5914,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 adservice.google.ca
 127.0.0.1 adservice.google.com
 127.0.0.1 adservice.google.com.au
+127.0.0.1 adservice.google.co.za
 127.0.0.1 adservice.google.nl
 127.0.0.1 adservices.google.com
 127.0.0.1 adservices.picadmedia.com
