@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 01 Oct 2019 at 06:52:42 GMT
+# Last updated: Thu, 03 Oct 2019 at 05:52:39 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2980,6 +2980,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.allhqpics.com			# Facebook trojan
 127.0.0.1 www.alrpost69.com
 127.0.0.1 www.anatol.com
+127.0.0.1 www.apple.com-shield-guard.live
 127.0.0.1 www.apple.com-speed-macbook.live
 127.0.0.1 www.articlefuns.cn
 127.0.0.1 www.articleidea.cn
