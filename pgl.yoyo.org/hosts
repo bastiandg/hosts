@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 04 Oct 2019 18:09:39 GMT
-# entries:        3039
+# last updated:   Fri, 11 Oct 2019 11:50:23 GMT
+# entries:        3041
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -294,6 +294,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adland.ru
 127.0.0.1 adledge.com
 127.0.0.1 adlegend.com
+127.0.0.1 adlightning.com
 127.0.0.1 adlog.com.com
 127.0.0.1 adloox.com
 127.0.0.1 adlooxtracking.com
@@ -1305,6 +1306,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 cointraffic.io
 127.0.0.1 colonize.com
 127.0.0.1 colpirio.com
+127.0.0.1 com-optimize-mac.live
 127.0.0.1 comclick.com
 127.0.0.1 comfortablecheese.com
 127.0.0.1 commindo-media-ressourcen.de
