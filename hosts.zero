@@ -3787,6 +3787,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adscience.nl
 0.0.0.0 adsclick.qq.com
 0.0.0.0 adsco.re
+0.0.0.0 adscpm.com
 0.0.0.0 adsdaq.com
 0.0.0.0 adsearch.adkontekst.pl
 0.0.0.0 adsearch.pl
@@ -10216,7 +10217,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 elmissouri.fr
 0.0.0.0 elocumjobs.com
 0.0.0.0 eloqua.122.2o7.net
-0.0.0.0 elthamely.com
 0.0.0.0 elv3-tslogging.touchcommerce.com
 0.0.0.0 email-reflex.com
 0.0.0.0 email.positionly.com
@@ -14909,7 +14909,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mdn3.phluantmobile.net
 0.0.0.0 mdn3origin.phluantmobile.net
 0.0.0.0 mdnhinc.com
-0.0.0.0 mdotm.com
 0.0.0.0 mdpparents.112.2o7.net
 0.0.0.0 mds.centrport.net
 0.0.0.0 mdstaugustine.112.2o7.net
