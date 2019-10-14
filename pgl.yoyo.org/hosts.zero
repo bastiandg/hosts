@@ -523,6 +523,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.medienhaus.de
 0.0.0.0 ads.mgnetwork.com
 0.0.0.0 ads.miarroba.com
+0.0.0.0 ads.mic.com
 0.0.0.0 ads.mmania.com
 0.0.0.0 ads.mobilautomaten.com
 0.0.0.0 ads.mobilebet.com
@@ -650,6 +651,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads.zdnet.com
 0.0.0.0 ads.ztod.com
+0.0.0.0 ads1-adnow.com
 0.0.0.0 ads1.canoe.ca
 0.0.0.0 ads1.mediacapital.pt
 0.0.0.0 ads1.msn.com
@@ -708,6 +710,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.break-even.it
 0.0.0.0 adserver.cams.com
 0.0.0.0 adserver.com
+0.0.0.0 adserver.dca13.com
 0.0.0.0 adserver.digitoday.com
 0.0.0.0 adserver.freecity.de
 0.0.0.0 adserver.friendfinder.com
@@ -1423,6 +1426,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 disqusads.com
 0.0.0.0 dist.belnk.com
 0.0.0.0 distillery.wistia.com
+0.0.0.0 districtm.ca
 0.0.0.0 dk4ywix.com
 0.0.0.0 dmp.mall.tv
 0.0.0.0 dmtracker.com
@@ -2428,6 +2432,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 revenuehits.com
 0.0.0.0 revsci.net
 0.0.0.0 revstats.com
+0.0.0.0 rhombusads.com
 0.0.0.0 richmails.com
 0.0.0.0 richmedia.yimg.com
 0.0.0.0 richstring.com

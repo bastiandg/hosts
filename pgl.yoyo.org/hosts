@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 11 Oct 2019 11:50:23 GMT
-# entries:        3040
+# last updated:   Mon, 14 Oct 2019 14:35:36 GMT
+# entries:        3045
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -550,6 +550,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.medienhaus.de
 127.0.0.1 ads.mgnetwork.com
 127.0.0.1 ads.miarroba.com
+127.0.0.1 ads.mic.com
 127.0.0.1 ads.mmania.com
 127.0.0.1 ads.mobilautomaten.com
 127.0.0.1 ads.mobilebet.com
@@ -677,6 +678,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.youtube.com
 127.0.0.1 ads.zdnet.com
 127.0.0.1 ads.ztod.com
+127.0.0.1 ads1-adnow.com
 127.0.0.1 ads1.canoe.ca
 127.0.0.1 ads1.mediacapital.pt
 127.0.0.1 ads1.msn.com
@@ -735,6 +737,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver.break-even.it
 127.0.0.1 adserver.cams.com
 127.0.0.1 adserver.com
+127.0.0.1 adserver.dca13.com
 127.0.0.1 adserver.digitoday.com
 127.0.0.1 adserver.freecity.de
 127.0.0.1 adserver.friendfinder.com
@@ -1450,6 +1453,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 disqusads.com
 127.0.0.1 dist.belnk.com
 127.0.0.1 distillery.wistia.com
+127.0.0.1 districtm.ca
 127.0.0.1 dk4ywix.com
 127.0.0.1 dmp.mall.tv
 127.0.0.1 dmtracker.com
@@ -2455,6 +2459,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 revenuehits.com
 127.0.0.1 revsci.net
 127.0.0.1 revstats.com
+127.0.0.1 rhombusads.com
 127.0.0.1 richmails.com
 127.0.0.1 richmedia.yimg.com
 127.0.0.1 richstring.com
