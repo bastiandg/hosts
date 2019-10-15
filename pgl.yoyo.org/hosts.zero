@@ -962,6 +962,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 assets1.exgfnetwork.com
 0.0.0.0 assoc-amazon.com
 0.0.0.0 aswpapius.com
+0.0.0.0 aswpsdkus.com
 0.0.0.0 at-adserver.alltop.com
 0.0.0.0 atdmt.com
 0.0.0.0 athena-ads.wikia.com
@@ -2339,6 +2340,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 px.gfycat.com
 0.0.0.0 pxl.iqm.com
+0.0.0.0 pymx5.com
 0.0.0.0 q.azcentral.com
 0.0.0.0 qctop.com
 0.0.0.0 qnsr.com
@@ -2890,6 +2892,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 vericlick.com
 0.0.0.0 verticalmass.com
 0.0.0.0 vervewireless.com
+0.0.0.0 viafoura.co
+0.0.0.0 viafoura.com
 0.0.0.0 vibrantmedia.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 videoadex.com

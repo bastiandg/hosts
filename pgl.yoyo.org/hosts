@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 14 Oct 2019 14:35:36 GMT
-# entries:        3045
+# last updated:   Tue, 15 Oct 2019 11:46:35 GMT
+# entries:        3049
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -989,6 +989,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 assets1.exgfnetwork.com
 127.0.0.1 assoc-amazon.com
 127.0.0.1 aswpapius.com
+127.0.0.1 aswpsdkus.com
 127.0.0.1 at-adserver.alltop.com
 127.0.0.1 atdmt.com
 127.0.0.1 athena-ads.wikia.com
@@ -2366,6 +2367,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 px.dynamicyield.com
 127.0.0.1 px.gfycat.com
 127.0.0.1 pxl.iqm.com
+127.0.0.1 pymx5.com
 127.0.0.1 q.azcentral.com
 127.0.0.1 qctop.com
 127.0.0.1 qnsr.com
@@ -2917,6 +2919,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 vericlick.com
 127.0.0.1 verticalmass.com
 127.0.0.1 vervewireless.com
+127.0.0.1 viafoura.co
+127.0.0.1 viafoura.com
 127.0.0.1 vibrantmedia.com
 127.0.0.1 video-stats.video.google.com
 127.0.0.1 videoadex.com
