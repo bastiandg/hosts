@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 15 Oct 2019 12:26:58 GMT
-# entries:        3050
+# entries:        3048
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2920,8 +2920,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 vericlick.com
 127.0.0.1 verticalmass.com
 127.0.0.1 vervewireless.com
-127.0.0.1 viafoura.co
-127.0.0.1 viafoura.com
 127.0.0.1 vibrantmedia.com
 127.0.0.1 video-stats.video.google.com
 127.0.0.1 videoadex.com
