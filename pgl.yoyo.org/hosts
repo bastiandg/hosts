@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 15 Oct 2019 12:26:58 GMT
-# entries:        3048
+# last updated:   Wed, 16 Oct 2019 22:28:50 GMT
+# entries:        3049
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2067,6 +2067,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 moatpixel.com
 127.0.0.1 mobclix.com
 127.0.0.1 mobileiconnect.com
+127.0.0.1 modernpricing.com
 127.0.0.1 modifyeyes.com
 127.0.0.1 moggattice.com
 127.0.0.1 moldyicicle.com
