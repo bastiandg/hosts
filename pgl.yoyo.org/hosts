@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 16 Oct 2019 22:28:50 GMT
-# entries:        3050
+# last updated:   Fri, 18 Oct 2019 19:31:37 GMT
+# entries:        3051
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2816,6 +2816,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 track.gawker.com
 127.0.0.1 track.mailerlite.com
 127.0.0.1 track.nuxues.com
+127.0.0.1 track.ultravpn.com
 127.0.0.1 track.viewdeos.com
 127.0.0.1 track1.viewdeos.com
 127.0.0.1 trackalyzer.com
