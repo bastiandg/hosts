@@ -8878,7 +8878,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 creativeby2.unicast.com
 0.0.0.0 creativecdn.com
 0.0.0.0 creatives.ancoraplatform.com
-0.0.0.0 creatives.as4x.tmcs.net
 0.0.0.0 creatives.doubleclick.net
 0.0.0.0 creatives.livejasmin.com
 0.0.0.0 creatives.rgadvert.com
@@ -12933,6 +12932,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 impossibleexpansion.com
 0.0.0.0 imppl.tradedoubler.com
 0.0.0.0 imprammp.taboola.com
+0.0.0.0 imprese.cz
 0.0.0.0 impressionaffiliate.com
 0.0.0.0 impressionaffiliate.mobi
 0.0.0.0 impressionlead.com

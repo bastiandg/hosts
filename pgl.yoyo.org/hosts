@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 16 Oct 2019 22:28:50 GMT
-# entries:        3049
+# entries:        3050
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -770,6 +770,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver1-images.backbeatmedia.com
 127.0.0.1 adserver1.backbeatmedia.com
 127.0.0.1 adserver1.mindshare.de
+127.0.0.1 adserver1.ogilvy-interactive.de
 127.0.0.1 adserver2.mindshare.de
 127.0.0.1 adserverplus.com
 127.0.0.1 adserverpub.com
@@ -1381,7 +1382,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 crazyegg.com
 127.0.0.1 crazypopups.com
 127.0.0.1 creafi-online-media.com
-127.0.0.1 creatives.as4x.tmcs.net
 127.0.0.1 creatives.livejasmin.com
 127.0.0.1 credishe.com
 127.0.0.1 creep.world
@@ -1788,6 +1788,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 imonitor.nethost.cz
 127.0.0.1 importedincrease.com
 127.0.0.1 impossibleexpansion.com
+127.0.0.1 imprese.cz
 127.0.0.1 impressionmedia.cz
 127.0.0.1 impressionz.co.uk
 127.0.0.1 impulsehands.com

@@ -743,6 +743,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver1-images.backbeatmedia.com
 0.0.0.0 adserver1.backbeatmedia.com
 0.0.0.0 adserver1.mindshare.de
+0.0.0.0 adserver1.ogilvy-interactive.de
 0.0.0.0 adserver2.mindshare.de
 0.0.0.0 adserverplus.com
 0.0.0.0 adserverpub.com
@@ -1354,7 +1355,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 crazyegg.com
 0.0.0.0 crazypopups.com
 0.0.0.0 creafi-online-media.com
-0.0.0.0 creatives.as4x.tmcs.net
 0.0.0.0 creatives.livejasmin.com
 0.0.0.0 credishe.com
 0.0.0.0 creep.world
@@ -1761,6 +1761,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 imonitor.nethost.cz
 0.0.0.0 importedincrease.com
 0.0.0.0 impossibleexpansion.com
+0.0.0.0 imprese.cz
 0.0.0.0 impressionmedia.cz
 0.0.0.0 impressionz.co.uk
 0.0.0.0 impulsehands.com
