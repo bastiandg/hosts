@@ -905,6 +905,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 all4spy.com
 0.0.0.0 allosponsor.com
 0.0.0.0 alphonso.tv
+0.0.0.0 als-svc.nytimes.com
 0.0.0.0 amazingcounters.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 ambiguousquilt.com
@@ -1515,6 +1516,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ero-advertising.com
 0.0.0.0 errortablet.com
 0.0.0.0 estat.com
+0.0.0.0 et.nytimes.com
 0.0.0.0 etahub.com
 0.0.0.0 etargetnet.com
 0.0.0.0 etracker.de
