@@ -2934,7 +2934,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.n-ws.org
 0.0.0.0 ads.naftemporiki.gr
 0.0.0.0 ads.nandomedia.com
-0.0.0.0 ads.nationalgeographic.com
 0.0.0.0 ads.nationalreview.com
 0.0.0.0 ads.nationchannel.com
 0.0.0.0 ads.nativeinstruments.de
@@ -4215,7 +4214,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserverb.conjelco.com
 0.0.0.0 adserverc.cliipa.com
 0.0.0.0 adserverplus.com
-0.0.0.0 adserverpub.com
 0.0.0.0 adserversolutions.com
 0.0.0.0 adserverus.info
 0.0.0.0 adservice.aliexpress.com
@@ -8372,7 +8370,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 com-kodak.netmng.com
 0.0.0.0 com-mitsubishi.netmng.com
 0.0.0.0 com-morningstar.netmng.com
-0.0.0.0 com-optimize-mac.live
 0.0.0.0 com-quidco.netmng.com
 0.0.0.0 com-vw.netmng.com
 0.0.0.0 com.adv.vz.ru
@@ -10223,6 +10220,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 elmissouri.fr
 0.0.0.0 elocumjobs.com
 0.0.0.0 eloqua.122.2o7.net
+0.0.0.0 elthamely.com
 0.0.0.0 elv3-tslogging.touchcommerce.com
 0.0.0.0 email-reflex.com
 0.0.0.0 email.positionly.com
@@ -19173,6 +19171,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 riptownmedia.122.2o7.net
 0.0.0.0 rise-media.ru
 0.0.0.0 ritzykey.com
+0.0.0.0 ritzysponge.com
 0.0.0.0 rivalo.network
 0.0.0.0 rivasearchpage.com
 0.0.0.0 riverdeep.112.2o7.net
