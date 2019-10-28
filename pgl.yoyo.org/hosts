@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 28 Oct 2019 03:02:46 GMT
-# entries:        3056
+# last updated:   Mon, 28 Oct 2019 11:12:42 GMT
+# entries:        3059
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1151,6 +1151,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 blogtoplist.se
 127.0.0.1 blogtopsites.com
 127.0.0.1 blueadvertise.com
+127.0.0.1 blueconic.com
+127.0.0.1 blueconic.net
 127.0.0.1 bluekai.com
 127.0.0.1 bluelithium.com
 127.0.0.1 bluewhaleweb.com
@@ -2157,6 +2159,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 nondescriptsmile.com
 127.0.0.1 nondescriptstocking.com
 127.0.0.1 novem.pl
+127.0.0.1 npttech.com
 127.0.0.1 ns1p.net
 127.0.0.1 ntv.io
 127.0.0.1 ntvk1.ru
