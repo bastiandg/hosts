@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 20 Oct 2019 07:40:27 GMT
-# entries:        3051
+# last updated:   Mon, 28 Oct 2019 03:02:46 GMT
+# entries:        3056
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -87,6 +87,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 absurdwater.com
 127.0.0.1 abz.com
 127.0.0.1 ac.rnm.ca
+127.0.0.1 acbsearch.com
 127.0.0.1 acceptable.a-ads.com
 127.0.0.1 acridtwist.com
 127.0.0.1 actionsplash.com
@@ -718,6 +719,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adscale.de
 127.0.0.1 adscholar.com
 127.0.0.1 adscience.nl
+127.0.0.1 adsco.re
 127.0.0.1 adscpm.com
 127.0.0.1 adsdaq.com
 127.0.0.1 adsend.de
@@ -1452,6 +1454,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 dist.belnk.com
 127.0.0.1 distillery.wistia.com
 127.0.0.1 districtm.ca
+127.0.0.1 djtfkakbufpwot.com
 127.0.0.1 dk4ywix.com
 127.0.0.1 dmp.mall.tv
 127.0.0.1 dmtracker.com
@@ -2146,6 +2149,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 newt1.adultworld.com
 127.0.0.1 nexage.com
 127.0.0.1 ng3.ads.warnerbros.com
+127.0.0.1 nhpfvdlbjg.com
 127.0.0.1 nitratory.com
 127.0.0.1 nitroclicks.com
 127.0.0.1 noiselessplough.com
@@ -2340,6 +2344,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 promotion-campaigns.com
 127.0.0.1 pronetadvertising.com
 127.0.0.1 propellerads.com
+127.0.0.1 propellerclick.com
 127.0.0.1 proper.io
 127.0.0.1 props.id
 127.0.0.1 proton-tm.com
