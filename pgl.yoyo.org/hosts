@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 28 Oct 2019 11:12:42 GMT
-# entries:        3059
+# last updated:   Tue, 29 Oct 2019 14:42:43 GMT
+# entries:        3061
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1474,6 +1474,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 doublepimp.com
 127.0.0.1 doubtfulrainstorm.com
 127.0.0.1 downloadr.xyz
+127.0.0.1 dpbolvw.net
 127.0.0.1 dpu.samsungelectronics.com
 127.0.0.1 dq95d35.com
 127.0.0.1 drabsize.com
@@ -1855,6 +1856,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 jadeitite.com
 127.0.0.1 jaizouji.com
 127.0.0.1 jcount.com
+127.0.0.1 jdoqocy.com
 127.0.0.1 jinkads.de
 127.0.0.1 joetec.net
 127.0.0.1 jquery-bin.com
