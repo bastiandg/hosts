@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 29 Oct 2019 14:42:43 GMT
-# entries:        3062
+# entries:        3060
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1457,7 +1457,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 dist.belnk.com
 127.0.0.1 distillery.wistia.com
 127.0.0.1 districtm.ca
-127.0.0.1 djtfkakbufpwot.com
 127.0.0.1 dk4ywix.com
 127.0.0.1 dmp.mall.tv
 127.0.0.1 dmtracker.com
@@ -2347,7 +2346,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 promos.bwin.it
 127.0.0.1 promos.fling.com
 127.0.0.1 promote.pair.com
-127.0.0.1 promotion-campaigns.com
 127.0.0.1 pronetadvertising.com
 127.0.0.1 propellerads.com
 127.0.0.1 propellerclick.com
