@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 29 Oct 2019 14:42:43 GMT
-# entries:        3060
+# last updated:   Sat, 02 Nov 2019 15:32:28 GMT
+# entries:        3061
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2119,6 +2119,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 myvisualiq.net
 127.0.0.1 n69.com
 127.0.0.1 naj.sk
+127.0.0.1 naradxb.com
 127.0.0.1 nastydollars.com
 127.0.0.1 nativeroll.tv
 127.0.0.1 navegg.com
