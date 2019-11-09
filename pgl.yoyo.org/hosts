@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 04 Nov 2019 22:38:58 GMT
-# entries:        3060
+# last updated:   Sat, 09 Nov 2019 11:44:20 GMT
+# entries:        3066
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1741,6 +1741,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 hits4me.com
 127.0.0.1 hitslink.com
 127.0.0.1 hittail.com
+127.0.0.1 hlok.qertewrt.com
 127.0.0.1 hollandbusinessadvertising.nl
 127.0.0.1 hollowshake.com
 127.0.0.1 homepageking.de
@@ -1958,6 +1959,11 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 logsss.com
 127.0.0.1 logua.com
 127.0.0.1 longinglettuce.com
+127.0.0.1 look.djfiln.com
+127.0.0.1 look.ichlnk.com
+127.0.0.1 look.opskln.com
+127.0.0.1 look.udncoeln.com
+127.0.0.1 look.ufinkln.com
 127.0.0.1 lop.com
 127.0.0.1 loudloss.com
 127.0.0.1 loudlunch.com
