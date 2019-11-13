@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 11 Nov 2019 14:53:51 GMT
-# entries:        3068
+# entries:        3067
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1313,7 +1313,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 coinhive.com
 127.0.0.1 cointraffic.io
 127.0.0.1 colonize.com
-127.0.0.1 colpirio.com
 127.0.0.1 comclick.com
 127.0.0.1 comfortablecheese.com
 127.0.0.1 commindo-media-ressourcen.de
