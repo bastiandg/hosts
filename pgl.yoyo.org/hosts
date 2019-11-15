@@ -1008,6 +1008,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 audit.webinform.hu
 127.0.0.1 augur.io
 127.0.0.1 auto-bannertausch.de
+127.0.0.1 autohits.dk
 127.0.0.1 automaticflock.com
 127.0.0.1 avenuea.com
 127.0.0.1 avocet.io
@@ -2593,7 +2594,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 simpli.fi
 127.0.0.1 sincerebuffalo.com
 127.0.0.1 sincerespy.com
-127.0.0.1 sinefight-skinesia.com
 127.0.0.1 sinoa.com
 127.0.0.1 sitedataprocessing.com
 127.0.0.1 siteimproveanalytics.com
