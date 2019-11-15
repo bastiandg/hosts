@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 15 Nov 2019 07:59:03 GMT
-# entries:        3073
+# last updated:   Fri, 15 Nov 2019 08:03:07 GMT
+# entries:        3075
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -774,6 +774,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserverplus.com
 127.0.0.1 adserversolutions.com
 127.0.0.1 adservice.google.com
+127.0.0.1 adservice.google.com.mt
 127.0.0.1 adserving.unibet.com
 127.0.0.1 adservinginternational.com
 127.0.0.1 adsfac.eu
@@ -1312,6 +1313,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 coin-hive.com
 127.0.0.1 coinhive.com
 127.0.0.1 cointraffic.io
+127.0.0.1 collector-medium.lightstep.com
 127.0.0.1 colonize.com
 127.0.0.1 comclick.com
 127.0.0.1 comfortablecheese.com

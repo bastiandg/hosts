@@ -4227,6 +4227,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adservice.google.co.za
 127.0.0.1 adservice.google.com
 127.0.0.1 adservice.google.com.au
+127.0.0.1 adservice.google.com.mt
 127.0.0.1 adservice.google.nl
 127.0.0.1 adservices.google.com
 127.0.0.1 adservices.picadmedia.com
@@ -8367,6 +8368,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 collector-195.tvsquared.com
 127.0.0.1 collector-2398.tvsquared.com
 127.0.0.1 collector-428.tvsquared.com
+127.0.0.1 collector-medium.lightstep.com
 127.0.0.1 collector-pxel3l4xih.perimeterx.net
 127.0.0.1 collector.deepmetrix.com
 127.0.0.1 collector.githubapp.com

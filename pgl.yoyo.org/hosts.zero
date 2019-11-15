@@ -747,6 +747,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserverplus.com
 0.0.0.0 adserversolutions.com
 0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.com.mt
 0.0.0.0 adserving.unibet.com
 0.0.0.0 adservinginternational.com
 0.0.0.0 adsfac.eu
@@ -1285,6 +1286,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com
 0.0.0.0 cointraffic.io
+0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 colonize.com
 0.0.0.0 comclick.com
 0.0.0.0 comfortablecheese.com
