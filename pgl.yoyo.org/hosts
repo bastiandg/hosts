@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 14 Nov 2019 07:46:30 GMT
-# entries:        3070
+# last updated:   Fri, 15 Nov 2019 07:59:03 GMT
+# entries:        3073
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1862,6 +1862,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 jinkads.de
 127.0.0.1 joetec.net
 127.0.0.1 jquery-bin.com
+127.0.0.1 js-agent.newrelic.com
 127.0.0.1 js.users.51.la
 127.0.0.1 jsecoin.com
 127.0.0.1 jsrdn.com
@@ -2627,6 +2628,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 somniture.stuff.co.nz
 127.0.0.1 sonobi.com
 127.0.0.1 sortable.com
+127.0.0.1 sourcepoint.vice.com
 127.0.0.1 spacash.com
 127.0.0.1 sparkstudios.com
 127.0.0.1 specially4u.net
@@ -2720,6 +2722,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 sugarcurtain.com
 127.0.0.1 sugoicounter.com
 127.0.0.1 sulkybutter.com
+127.0.0.1 summerhamster.com
 127.0.0.1 summerobject.com
 127.0.0.1 sumo.com
 127.0.0.1 sumome.com
