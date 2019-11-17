@@ -744,6 +744,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver1.mindshare.de
 0.0.0.0 adserver1.ogilvy-interactive.de
 0.0.0.0 adserver2.mindshare.de
+0.0.0.0 adservern2.host
 0.0.0.0 adserverplus.com
 0.0.0.0 adserversolutions.com
 0.0.0.0 adservice.google.com
@@ -1095,6 +1096,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 belstat.nl
 0.0.0.0 berp.com
 0.0.0.0 best-pr.info
+0.0.0.0 best-realgirl2.com
 0.0.0.0 best-top.ro
 0.0.0.0 bestboundary.com
 0.0.0.0 bestsearch.net
