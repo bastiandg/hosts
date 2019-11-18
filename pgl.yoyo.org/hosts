@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 17 Nov 2019 11:54:14 GMT
-# entries:        3079
+# last updated:   Mon, 18 Nov 2019 09:00:06 GMT
+# entries:        3099
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -246,6 +246,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adecn.com
 127.0.0.1 ademails.com
 127.0.0.1 adengage.com
+127.0.0.1 adetracking.com
 127.0.0.1 adexchangegate.com
 127.0.0.1 adexchangeprediction.com
 127.0.0.1 adexpose.com
@@ -546,6 +547,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.massinfra.nl
 127.0.0.1 ads.mcafee.com
 127.0.0.1 ads.mediaodyssey.com
+127.0.0.1 ads.mediasmart.es
 127.0.0.1 ads.medienhaus.de
 127.0.0.1 ads.mgnetwork.com
 127.0.0.1 ads.miarroba.com
@@ -777,11 +779,13 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adservice.google.com
 127.0.0.1 adservice.google.com.mt
 127.0.0.1 adserving.unibet.com
+127.0.0.1 adservingfront.com
 127.0.0.1 adservinginternational.com
 127.0.0.1 adsfac.eu
 127.0.0.1 adsfac.net
 127.0.0.1 adsfac.us
 127.0.0.1 adside.com
+127.0.0.1 adsiduous.com
 127.0.0.1 adskeeper.co.uk
 127.0.0.1 adsklick.de
 127.0.0.1 adsmarket.com
@@ -798,6 +802,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsrv.eacdn.com
 127.0.0.1 adsrv.iol.co.za
 127.0.0.1 adsrvr.org
+127.0.0.1 adsrvus.com
+127.0.0.1 adsrvx.com
 127.0.0.1 adsstat.com
 127.0.0.1 adstage.io
 127.0.0.1 adstat.4u.pl
@@ -1019,6 +1025,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 awin1.com
 127.0.0.1 awzbijw.com
 127.0.0.1 axiomaticalley.com
+127.0.0.1 aztracking.net
 127.0.0.1 b-1st.com
 127.0.0.1 ba.afl.rakuten.co.jp
 127.0.0.1 babs.tv2.dk
@@ -1276,6 +1283,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 clickcompare.co.uk
 127.0.0.1 clickdensity.com
 127.0.0.1 clickedyclick.com
+127.0.0.1 clickfuse.com
 127.0.0.1 clickhereforcellphones.com
 127.0.0.1 clickhouse.com
 127.0.0.1 clickhype.com
@@ -1424,6 +1432,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 dealdotcom.com
 127.0.0.1 debonairway.com
 127.0.0.1 debtbusterloans.com
+127.0.0.1 decenterads.com
 127.0.0.1 decisivedrawer.com
 127.0.0.1 decisiveducks.com
 127.0.0.1 decknetwork.net
@@ -1717,6 +1726,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 hellobar.com
 127.0.0.1 hentaicounter.com
 127.0.0.1 herbalaffiliateprogram.com
+127.0.0.1 hexcan.com
 127.0.0.1 hexusads.fluent.ltd.uk
 127.0.0.1 heyos.com
 127.0.0.1 hfc195b.com
@@ -2277,6 +2287,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 pbnet.ru
 127.0.0.1 pbterra.com
 127.0.0.1 pcash.imlive.com
+127.0.0.1 pctracking.net
 127.0.0.1 peep-auktion.de
 127.0.0.1 peer39.com
 127.0.0.1 pennyweb.com
@@ -2464,11 +2475,13 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 referrer.disqus.com
 127.0.0.1 reflectivereward.com
 127.0.0.1 regnow.com
+127.0.0.1 regularimptracker.xyz
 127.0.0.1 reinvigorate.net
 127.0.0.1 reklam.rfsl.se
 127.0.0.1 reklama.mironet.cz
 127.0.0.1 reklama.reflektor.cz
 127.0.0.1 reklamcsere.hu
+127.0.0.1 reklamdsp.com
 127.0.0.1 reklame.unwired-i.net
 127.0.0.1 reklamer.com.ua
 127.0.0.1 relevanz10.de
@@ -2736,6 +2749,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 superstats.com
 127.0.0.1 supertop.ru
 127.0.0.1 supertop100.com
+127.0.0.1 supertracking.net
 127.0.0.1 surfmusik-adserver.de
 127.0.0.1 swan-swan-goose.com
 127.0.0.1 swimslope.com
@@ -2843,6 +2857,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 track.flexlinks.com
 127.0.0.1 track.flexlinkspro.com
 127.0.0.1 track.gawker.com
+127.0.0.1 track.hexcan.com
 127.0.0.1 track.mailerlite.com
 127.0.0.1 track.nuxues.com
 127.0.0.1 track.ultravpn.com
@@ -2866,10 +2881,15 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tracking.publicidees.com
 127.0.0.1 tracking01.walmart.com
 127.0.0.1 tracking101.com
+127.0.0.1 tracking22.com
+127.0.0.1 tracking42.com
+127.0.0.1 trackingfestival.com
 127.0.0.1 trackingsoft.com
 127.0.0.1 trackmysales.com
+127.0.0.1 trackuhub.com
 127.0.0.1 tradeadexchange.com
 127.0.0.1 tradedoubler.com
+127.0.0.1 trading-rtbg.com
 127.0.0.1 traffic-exchange.com
 127.0.0.1 traffic.focuusing.com
 127.0.0.1 trafficfactory.biz
