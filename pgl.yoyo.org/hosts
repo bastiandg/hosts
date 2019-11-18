@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 18 Nov 2019 09:00:06 GMT
-# entries:        3099
+# last updated:   Mon, 18 Nov 2019 09:02:16 GMT
+# entries:        3102
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -264,6 +264,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adhese.be
 127.0.0.1 adhese.com
 127.0.0.1 adhoc4.net
+127.0.0.1 adhunter.media
 127.0.0.1 adimage.guardian.co.uk
 127.0.0.1 adimages.been.com
 127.0.0.1 adimages.carsoup.com
@@ -805,6 +806,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsrvus.com
 127.0.0.1 adsrvx.com
 127.0.0.1 adsstat.com
+127.0.0.1 adstacks.in
 127.0.0.1 adstage.io
 127.0.0.1 adstat.4u.pl
 127.0.0.1 adstest.weather.com
@@ -1638,6 +1640,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 foo.cosmocode.de
 127.0.0.1 foresee.com
 127.0.0.1 forex-affiliate.net
+127.0.0.1 forkcdn.com
 127.0.0.1 fourarithmetic.com
 127.0.0.1 fpctraffic.com
 127.0.0.1 fpctraffic2.com
