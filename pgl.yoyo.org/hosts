@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 18 Nov 2019 14:14:23 GMT
-# entries:        3141
+# last updated:   Tue, 19 Nov 2019 11:10:09 GMT
+# entries:        3142
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2366,6 +2366,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 plugrush.com
 127.0.0.1 pointroll.com
 127.0.0.1 popads.net
+127.0.0.1 popcash.net
 127.0.0.1 popflawlessads.com
 127.0.0.1 popmyads.com
 127.0.0.1 popub.com
