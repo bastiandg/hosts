@@ -212,6 +212,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adclick.com
 0.0.0.0 adclient.uimserv.net
 0.0.0.0 adclient1.tucows.com
+0.0.0.0 adcolony.com
 0.0.0.0 adcomplete.com
 0.0.0.0 adconion.com
 0.0.0.0 adcontent.gamespy.com
@@ -289,6 +290,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 admanagement.ch
 0.0.0.0 admanager.btopenworld.com
 0.0.0.0 admanager.carsoup.com
+0.0.0.0 admanmedia.com
 0.0.0.0 admantx.com
 0.0.0.0 admarketplace.net
 0.0.0.0 admarvel.com
@@ -302,6 +304,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 admidadsp.com
 0.0.0.0 adminder.com
 0.0.0.0 adminshop.com
+0.0.0.0 admix.in
+0.0.0.0 admixer.net
 0.0.0.0 admized.com
 0.0.0.0 admob.com
 0.0.0.0 admonitor.com
@@ -779,6 +783,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adsnative.com
 0.0.0.0 adsoftware.com
 0.0.0.0 adsoldier.com
+0.0.0.0 adsolut.in
 0.0.0.0 adspeed.net
 0.0.0.0 adspirit.de
 0.0.0.0 adsponse.de
@@ -799,6 +804,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adsynergy.com
 0.0.0.0 adsys.townnews.com
 0.0.0.0 adsystem.simplemachines.org
+0.0.0.0 adtech.com
 0.0.0.0 adtech.de
 0.0.0.0 adtechjp.com
 0.0.0.0 adtechus.com
@@ -826,6 +832,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adv.webmd.com
 0.0.0.0 adv.wp.pl
 0.0.0.0 adv.yo.cz
+0.0.0.0 advangelists.com
 0.0.0.0 advariant.com
 0.0.0.0 adventory.com
 0.0.0.0 advert.bayarea.com
@@ -838,6 +845,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 advertisementafterthought.com
 0.0.0.0 advertiserurl.com
 0.0.0.0 advertisespace.com
+0.0.0.0 advertising.com
 0.0.0.0 advertisingbanners.com
 0.0.0.0 advertisingbox.com
 0.0.0.0 advertisingtag.net
@@ -848,7 +856,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 advertserve.com
 0.0.0.0 advertstream.com
 0.0.0.0 advertwizard.com
+0.0.0.0 adverty.com
 0.0.0.0 advideo.uimserv.net
+0.0.0.0 adview.com
 0.0.0.0 adview.ppro.de
 0.0.0.0 advisormedia.cz
 0.0.0.0 adviva.net
@@ -865,12 +875,14 @@ ff02::2 ip6-allrouters
 0.0.0.0 adxpose.com
 0.0.0.0 adxvalue.com
 0.0.0.0 adyea.com
+0.0.0.0 adyoulike.com
 0.0.0.0 adz2you.com
 0.0.0.0 adzbazar.com
 0.0.0.0 adzerk.net
 0.0.0.0 adzerk.s3.amazonaws.com
 0.0.0.0 adzestocp.com
 0.0.0.0 adzones.com
+0.0.0.0 aerserv.com
 0.0.0.0 af-ad.co.uk
 0.0.0.0 affbuzzads.com
 0.0.0.0 affec.tv
@@ -912,6 +924,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 aheadday.com
 0.0.0.0 aidu-ads.de
 0.0.0.0 aim4media.com
+0.0.0.0 airpush.com
 0.0.0.0 aistat.net
 0.0.0.0 ak0gsh40.com
 0.0.0.0 aktrack.pubmatic.com
@@ -977,7 +990,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 archswimming.com
 0.0.0.0 ard.xxxblackbook.com
 0.0.0.0 are-ter.com
-0.0.0.0 area51-ts.com
 0.0.0.0 argyresthia.com
 0.0.0.0 aromamirror.com
 0.0.0.0 as.webmd.com
@@ -1128,6 +1140,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 bidclix.com
 0.0.0.0 bidclix.net
 0.0.0.0 bidr.io
+0.0.0.0 bidsopt.com
 0.0.0.0 bidswitch.net
 0.0.0.0 bidvertiser.com
 0.0.0.0 big-bang-ads.com
@@ -1310,6 +1323,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cnt.spbland.ru
 0.0.0.0 cnt1.pocitadlo.cz
 0.0.0.0 code-server.biz
+0.0.0.0 codeadnetwork.com
 0.0.0.0 cognitiv.ai
 0.0.0.0 cognitiveadscience.com
 0.0.0.0 coin-hive.com
@@ -1349,6 +1363,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 copycarpenter.com
 0.0.0.0 copyrightaccesscontrols.com
 0.0.0.0 coremetrics.com
+0.0.0.0 cormast.com
 0.0.0.0 cosmopolitads.com
 0.0.0.0 cost2buy.net
 0.0.0.0 count.rin.ru
@@ -1893,7 +1908,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 k.iinfo.cz
 0.0.0.0 kanoodle.com
 0.0.0.0 kargo.com
-0.0.0.0 karisimbi.net
 0.0.0.0 karonty.com
 0.0.0.0 keymedia.hu
 0.0.0.0 keywee.co
@@ -2154,6 +2168,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 naradxb.com
 0.0.0.0 nastydollars.com
 0.0.0.0 nativeroll.tv
+0.0.0.0 naturalbid.com
 0.0.0.0 navegg.com
 0.0.0.0 navigator.io
 0.0.0.0 navrcholu.cz
@@ -2535,9 +2550,14 @@ ff02::2 ip6-allrouters
 0.0.0.0 roxr.net
 0.0.0.0 rs6.net
 0.0.0.0 rta.dailymail.co.uk
+0.0.0.0 rtbadzesto.com
 0.0.0.0 rtbflairads.com
+0.0.0.0 rtbidhost.com
+0.0.0.0 rtbplatform.net
 0.0.0.0 rtbpop.com
 0.0.0.0 rtbpopd.com
+0.0.0.0 rtbsbengine.com
+0.0.0.0 rtbtradein.com
 0.0.0.0 rtmark.net
 0.0.0.0 rtxplatform.com
 0.0.0.0 ru-traffic.com
@@ -2742,7 +2762,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 storygize.net
 0.0.0.0 stoveseashore.com
 0.0.0.0 straightnest.com
-0.0.0.0 straightschool.com
 0.0.0.0 stream.useriq.com
 0.0.0.0 stripedburst.com
 0.0.0.0 strivesidewalk.com

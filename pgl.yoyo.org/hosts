@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 20 Nov 2019 13:55:12 GMT
-# entries:        3145
+# last updated:   Fri, 22 Nov 2019 12:25:36 GMT
+# entries:        3164
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -239,6 +239,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adclick.com
 127.0.0.1 adclient.uimserv.net
 127.0.0.1 adclient1.tucows.com
+127.0.0.1 adcolony.com
 127.0.0.1 adcomplete.com
 127.0.0.1 adconion.com
 127.0.0.1 adcontent.gamespy.com
@@ -316,6 +317,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 admanagement.ch
 127.0.0.1 admanager.btopenworld.com
 127.0.0.1 admanager.carsoup.com
+127.0.0.1 admanmedia.com
 127.0.0.1 admantx.com
 127.0.0.1 admarketplace.net
 127.0.0.1 admarvel.com
@@ -329,6 +331,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 admidadsp.com
 127.0.0.1 adminder.com
 127.0.0.1 adminshop.com
+127.0.0.1 admix.in
+127.0.0.1 admixer.net
 127.0.0.1 admized.com
 127.0.0.1 admob.com
 127.0.0.1 admonitor.com
@@ -806,6 +810,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsnative.com
 127.0.0.1 adsoftware.com
 127.0.0.1 adsoldier.com
+127.0.0.1 adsolut.in
 127.0.0.1 adspeed.net
 127.0.0.1 adspirit.de
 127.0.0.1 adsponse.de
@@ -826,6 +831,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsynergy.com
 127.0.0.1 adsys.townnews.com
 127.0.0.1 adsystem.simplemachines.org
+127.0.0.1 adtech.com
 127.0.0.1 adtech.de
 127.0.0.1 adtechjp.com
 127.0.0.1 adtechus.com
@@ -853,6 +859,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adv.webmd.com
 127.0.0.1 adv.wp.pl
 127.0.0.1 adv.yo.cz
+127.0.0.1 advangelists.com
 127.0.0.1 advariant.com
 127.0.0.1 adventory.com
 127.0.0.1 advert.bayarea.com
@@ -865,6 +872,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 advertisementafterthought.com
 127.0.0.1 advertiserurl.com
 127.0.0.1 advertisespace.com
+127.0.0.1 advertising.com
 127.0.0.1 advertisingbanners.com
 127.0.0.1 advertisingbox.com
 127.0.0.1 advertisingtag.net
@@ -875,7 +883,9 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 advertserve.com
 127.0.0.1 advertstream.com
 127.0.0.1 advertwizard.com
+127.0.0.1 adverty.com
 127.0.0.1 advideo.uimserv.net
+127.0.0.1 adview.com
 127.0.0.1 adview.ppro.de
 127.0.0.1 advisormedia.cz
 127.0.0.1 adviva.net
@@ -892,12 +902,14 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adxpose.com
 127.0.0.1 adxvalue.com
 127.0.0.1 adyea.com
+127.0.0.1 adyoulike.com
 127.0.0.1 adz2you.com
 127.0.0.1 adzbazar.com
 127.0.0.1 adzerk.net
 127.0.0.1 adzerk.s3.amazonaws.com
 127.0.0.1 adzestocp.com
 127.0.0.1 adzones.com
+127.0.0.1 aerserv.com
 127.0.0.1 af-ad.co.uk
 127.0.0.1 affbuzzads.com
 127.0.0.1 affec.tv
@@ -939,6 +951,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 aheadday.com
 127.0.0.1 aidu-ads.de
 127.0.0.1 aim4media.com
+127.0.0.1 airpush.com
 127.0.0.1 aistat.net
 127.0.0.1 ak0gsh40.com
 127.0.0.1 aktrack.pubmatic.com
@@ -1004,7 +1017,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 archswimming.com
 127.0.0.1 ard.xxxblackbook.com
 127.0.0.1 are-ter.com
-127.0.0.1 area51-ts.com
 127.0.0.1 argyresthia.com
 127.0.0.1 aromamirror.com
 127.0.0.1 as.webmd.com
@@ -1155,6 +1167,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 bidclix.com
 127.0.0.1 bidclix.net
 127.0.0.1 bidr.io
+127.0.0.1 bidsopt.com
 127.0.0.1 bidswitch.net
 127.0.0.1 bidvertiser.com
 127.0.0.1 big-bang-ads.com
@@ -1337,6 +1350,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 cnt.spbland.ru
 127.0.0.1 cnt1.pocitadlo.cz
 127.0.0.1 code-server.biz
+127.0.0.1 codeadnetwork.com
 127.0.0.1 cognitiv.ai
 127.0.0.1 cognitiveadscience.com
 127.0.0.1 coin-hive.com
@@ -1376,6 +1390,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 copycarpenter.com
 127.0.0.1 copyrightaccesscontrols.com
 127.0.0.1 coremetrics.com
+127.0.0.1 cormast.com
 127.0.0.1 cosmopolitads.com
 127.0.0.1 cost2buy.net
 127.0.0.1 count.rin.ru
@@ -1920,7 +1935,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 k.iinfo.cz
 127.0.0.1 kanoodle.com
 127.0.0.1 kargo.com
-127.0.0.1 karisimbi.net
 127.0.0.1 karonty.com
 127.0.0.1 keymedia.hu
 127.0.0.1 keywee.co
@@ -2181,6 +2195,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 naradxb.com
 127.0.0.1 nastydollars.com
 127.0.0.1 nativeroll.tv
+127.0.0.1 naturalbid.com
 127.0.0.1 navegg.com
 127.0.0.1 navigator.io
 127.0.0.1 navrcholu.cz
@@ -2562,9 +2577,14 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 roxr.net
 127.0.0.1 rs6.net
 127.0.0.1 rta.dailymail.co.uk
+127.0.0.1 rtbadzesto.com
 127.0.0.1 rtbflairads.com
+127.0.0.1 rtbidhost.com
+127.0.0.1 rtbplatform.net
 127.0.0.1 rtbpop.com
 127.0.0.1 rtbpopd.com
+127.0.0.1 rtbsbengine.com
+127.0.0.1 rtbtradein.com
 127.0.0.1 rtmark.net
 127.0.0.1 rtxplatform.com
 127.0.0.1 ru-traffic.com
@@ -2769,7 +2789,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 storygize.net
 127.0.0.1 stoveseashore.com
 127.0.0.1 straightnest.com
-127.0.0.1 straightschool.com
 127.0.0.1 stream.useriq.com
 127.0.0.1 stripedburst.com
 127.0.0.1 strivesidewalk.com
