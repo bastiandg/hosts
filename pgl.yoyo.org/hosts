@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 22 Nov 2019 13:51:36 GMT
-# entries:        3233
+# last updated:   Mon, 25 Nov 2019 15:48:19 GMT
+# entries:        3236
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1302,6 +1302,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 chinsnakes.com
 127.0.0.1 chitika.net
 127.0.0.1 christingel.com
+127.0.0.1 cision.com
 127.0.0.1 cityads.telus.net
 127.0.0.1 cj.com
 127.0.0.1 cjbmanagement.com
@@ -2467,6 +2468,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 promos.bwin.it
 127.0.0.1 promos.fling.com
 127.0.0.1 promote.pair.com
+127.0.0.1 promotions-884485.c.cdn77.org
 127.0.0.1 pronetadvertising.com
 127.0.0.1 propellerads.com
 127.0.0.1 propellerclick.com
@@ -3041,6 +3043,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 trendmd.com
 127.0.0.1 tribalfusion.com
 127.0.0.1 trickycelery.com
+127.0.0.1 triptease.io
 127.0.0.1 trix.net
 127.0.0.1 trk42.net
 127.0.0.1 trkn.us
