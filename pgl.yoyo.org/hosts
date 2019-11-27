@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 26 Nov 2019 22:23:56 GMT
-# entries:        3237
+# last updated:   Wed, 27 Nov 2019 16:52:55 GMT
+# entries:        3238
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2092,6 +2092,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 market-buster.com
 127.0.0.1 marketing.888.com
 127.0.0.1 marketing.hearstmagazines.nl
+127.0.0.1 marketing.net.brillen.de
 127.0.0.1 marketing.net.home24.de
 127.0.0.1 marketing.nyi.net
 127.0.0.1 marketing.osijek031.com
