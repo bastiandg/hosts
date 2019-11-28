@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 27 Nov 2019 16:52:55 GMT
-# entries:        3237
+# last updated:   Thu, 28 Nov 2019 07:52:38 GMT
+# entries:        3241
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1611,6 +1611,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 erne.co
 127.0.0.1 ero-advertising.com
 127.0.0.1 errortablet.com
+127.0.0.1 espn.com.ssl.sc.omtrdc.net
 127.0.0.1 estat.com
 127.0.0.1 et.nytimes.com
 127.0.0.1 etahub.com
@@ -2137,6 +2138,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mediaz.angloinfo.com
 127.0.0.1 medleyads.com
 127.0.0.1 medyanetads.com
+127.0.0.1 meetrics.net
 127.0.0.1 megacash.de
 127.0.0.1 megapu.sh
 127.0.0.1 megastats.com
@@ -2172,6 +2174,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mixpanel.com
 127.0.0.1 mixtraffic.com
 127.0.0.1 mjxads.internet.com
+127.0.0.1 mktoresp.com
 127.0.0.1 ml314.com
 127.0.0.1 mlm.de
 127.0.0.1 mltrk.io
@@ -2874,6 +2877,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 supertracking.net
 127.0.0.1 supply.colossusssp.com
 127.0.0.1 surfmusik-adserver.de
+127.0.0.1 sw88.espn.com
 127.0.0.1 swan-swan-goose.com
 127.0.0.1 swimslope.com
 127.0.0.1 swordfishdc.com
