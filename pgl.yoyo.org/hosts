@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 28 Nov 2019 07:52:38 GMT
-# entries:        3241
+# last updated:   Thu, 28 Nov 2019 09:13:58 GMT
+# entries:        3243
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1469,6 +1469,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 danban.com
 127.0.0.1 dancemistake.com
 127.0.0.1 dapper.net
+127.0.0.1 dashbida.com
 127.0.0.1 dashingdirt.com
 127.0.0.1 dashingsweater.com
 127.0.0.1 data.namesakeoscilloscopemarquis.com
@@ -2603,6 +2604,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 revenue.net
 127.0.0.1 revenuedirect.com
 127.0.0.1 revenuehits.com
+127.0.0.1 revjet.com
 127.0.0.1 revlift.io
 127.0.0.1 revsci.net
 127.0.0.1 revstats.com
