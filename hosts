@@ -11861,7 +11861,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 googleads2.g.doubleclick.net
 127.0.0.1 googleads4.g.doubleclick.net
 127.0.0.1 googleadservices.com
+127.0.0.1 googleanalytics.com
 127.0.0.1 googlesyndication.com
+127.0.0.1 googletagmanager.com
 127.0.0.1 googletagservices.com
 127.0.0.1 googlewordpad.info
 127.0.0.1 googlus.com
