@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 13 Nov 2019 at 03:35:54 GMT
+# Last updated: Fri, 29 Nov 2019 at 07:36:52 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2902,6 +2902,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 unetbootin.org
 127.0.0.1 unknown.counsellor.gov.cn
 127.0.0.1 unk.vver.kiae.rr
+127.0.0.1 update4now.yourfine2updatesgo.best
 127.0.0.1 updateauto.preparevideosafesystem4unow.site
 127.0.0.1 updateauto.preparevideosafesystem4unow.space
 127.0.0.1 update.theplacetoupdating.pw
