@@ -669,6 +669,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aax-us-west.amazon-adsystem.com
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aaxads.com
+127.0.0.1 aaxdetect.com
 127.0.0.1 ab-gb.mgid.com
 127.0.0.1 ab.5.p2l.info
 127.0.0.1 ab.adpro.com.ua
@@ -4316,6 +4317,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adsponse.de
 127.0.0.1 adspr.haber7.net
 127.0.0.1 adspserving.com
+127.0.0.1 adspsp.com
 127.0.0.1 adsqqclick.qq.com
 127.0.0.1 adsr3pg.com.br
 127.0.0.1 adsradios.adswizz.com
