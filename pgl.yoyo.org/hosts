@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 29 Nov 2019 09:22:55 GMT
-# entries:        3244
+# entries:        3238
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -195,7 +195,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad.zanox.com
 127.0.0.1 ad0.bigmir.net
 127.0.0.1 ad01.mediacorpsingapore.com
-127.0.0.1 ad1.emediate.dk
 127.0.0.1 ad1.emule-project.org
 127.0.0.1 ad1.kde.cz
 127.0.0.1 ad1.pamedia.com.au
@@ -443,7 +442,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.contextweb.com
 127.0.0.1 ads.crakmedia.com
 127.0.0.1 ads.creative-serving.com
-127.0.0.1 ads.creativematch.com
 127.0.0.1 ads.cricbuzz.com
 127.0.0.1 ads.cybersales.cz
 127.0.0.1 ads.dada.it
@@ -789,6 +787,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver2.mindshare.de
 127.0.0.1 adservern2.host
 127.0.0.1 adserverplus.com
+127.0.0.1 adserverpub.com
 127.0.0.1 adserversolutions.com
 127.0.0.1 adservice.google.com
 127.0.0.1 adservice.google.com.mt
@@ -1116,7 +1115,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 banners.czi.cz
 127.0.0.1 banners.dine.com
 127.0.0.1 banners.direction-x.com
-127.0.0.1 banners.directnic.com
 127.0.0.1 banners.freett.com
 127.0.0.1 banners.friendfinder.com
 127.0.0.1 banners.getiton.com
@@ -1523,7 +1521,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 dmtracker.com
 127.0.0.1 dmtracking.alibaba.com
 127.0.0.1 dmtracking2.alibaba.com
-127.0.0.1 dnads.directnic.com
 127.0.0.1 do-global.com
 127.0.0.1 docksalmon.com
 127.0.0.1 domaining.in
@@ -1587,7 +1584,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 emarketer.com
 127.0.0.1 emebo.com
 127.0.0.1 emebo.io
-127.0.0.1 emediate.dk
 127.0.0.1 emediate.eu
 127.0.0.1 emerse.com
 127.0.0.1 emetriq.de
@@ -1965,7 +1961,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 jungroup.com
 127.0.0.1 justicejudo.com
 127.0.0.1 justpremium.com
-127.0.0.1 justrelevant.com
 127.0.0.1 justuno.com
 127.0.0.1 k.iinfo.cz
 127.0.0.1 kanoodle.com
@@ -2830,7 +2825,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 statistik-gallup.net
 127.0.0.1 statm.the-adult-company.com
 127.0.0.1 stats.blogger.com
-127.0.0.1 stats.directnic.com
 127.0.0.1 stats.hyperinzerce.cz
 127.0.0.1 stats.merriam-webster.com
 127.0.0.1 stats.mirrorfootball.co.uk

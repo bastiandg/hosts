@@ -2427,7 +2427,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.crapville.com
 0.0.0.0 ads.crawler.com
 0.0.0.0 ads.creative-serving.com
-0.0.0.0 ads.creativematch.com
 0.0.0.0 ads.cricbuzz.com
 0.0.0.0 ads.crisppremium.com
 0.0.0.0 ads.crosscut.com
@@ -4237,6 +4236,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserverc.cliipa.com
 0.0.0.0 adservern2.host
 0.0.0.0 adserverplus.com
+0.0.0.0 adserverpub.com
 0.0.0.0 adserversolutions.com
 0.0.0.0 adserverus.info
 0.0.0.0 adservice.aliexpress.com
@@ -10311,7 +10311,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 emea.rel.msn.com
 0.0.0.0 emebo.com
 0.0.0.0 emebo.io
-0.0.0.0 emediate.dk
 0.0.0.0 emediate.eu
 0.0.0.0 emergingupdates.com
 0.0.0.0 emerse.com
@@ -13687,7 +13686,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 justmovietrailers.us.intellitxt.com
 0.0.0.0 justpremium.com
 0.0.0.0 justredirect24.com
-0.0.0.0 justrelevant.com
 0.0.0.0 justtrck.com
 0.0.0.0 justuno.com
 0.0.0.0 justwebads.com
