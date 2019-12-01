@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 01 Dec 2019 10:14:33 GMT
-# entries:        3242
+# last updated:   Sun, 01 Dec 2019 16:16:56 GMT
+# entries:        3243
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1617,6 +1617,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 etracker.de
 127.0.0.1 eu-adcenter.net
 127.0.0.1 eu1.madsone.com
+127.0.0.1 eule1.pmu.fr
 127.0.0.1 eulerian.net
 127.0.0.1 eurekster.com
 127.0.0.1 euros4click.de
