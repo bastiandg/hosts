@@ -4,6 +4,7 @@
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 
+0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
