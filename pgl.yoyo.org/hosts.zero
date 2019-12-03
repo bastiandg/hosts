@@ -73,7 +73,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 acuityplatform.com
 0.0.0.0 ad-balancer.at
 0.0.0.0 ad-balancer.net
-0.0.0.0 ad-center.com
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-rotator.com
@@ -357,6 +356,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.abovetopsecret.com
 0.0.0.0 ads.aceweb.net
 0.0.0.0 ads.activestate.com
+0.0.0.0 ads.ad-center.com
 0.0.0.0 ads.adfox.ru
 0.0.0.0 ads.administrator.de
 0.0.0.0 ads.adshareware.net
