@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 03 Dec 2019 22:38:11 GMT
-# entries:        3245
+# last updated:   Wed, 04 Dec 2019 18:54:35 GMT
+# entries:        3246
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -3074,6 +3074,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 uarating.com
 127.0.0.1 ucfunnel.com
 127.0.0.1 udncoeln.com
+127.0.0.1 uib.ff.avast.com
 127.0.0.1 ukbanners.com
 127.0.0.1 ultimateclixx.com
 127.0.0.1 ultramercial.com
