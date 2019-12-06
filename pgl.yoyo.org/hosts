@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 04 Dec 2019 18:54:35 GMT
-# entries:        3246
+# entries:        3241
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -822,7 +822,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsrvr.org
 127.0.0.1 adsrvus.com
 127.0.0.1 adsrvx.com
-127.0.0.1 adsstat.com
 127.0.0.1 adstacks.in
 127.0.0.1 adstage.io
 127.0.0.1 adstat.4u.pl
@@ -947,7 +946,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 afterview.ru
 127.0.0.1 agkn.com
 127.0.0.1 agreeablestew.com
-127.0.0.1 agreemand.com
 127.0.0.1 ah-ha.com
 127.0.0.1 ahalogy.com
 127.0.0.1 aheadday.com
@@ -1302,7 +1300,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 chickensstation.com
 127.0.0.1 chinsnakes.com
 127.0.0.1 chitika.net
-127.0.0.1 christingel.com
 127.0.0.1 cision.com
 127.0.0.1 cityads.telus.net
 127.0.0.1 cj.com
@@ -1693,7 +1690,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 floodprincipal.com
 127.0.0.1 flowgo.com
 127.0.0.1 flurry.com
-127.0.0.1 foamybox.com
 127.0.0.1 foo.cosmocode.de
 127.0.0.1 foresee.com
 127.0.0.1 forex-affiliate.net
@@ -2175,7 +2171,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mintegral.com
 127.0.0.1 mixedreading.com
 127.0.0.1 mixpanel.com
-127.0.0.1 mixtraffic.com
 127.0.0.1 mjxads.internet.com
 127.0.0.1 mktoresp.com
 127.0.0.1 ml314.com
