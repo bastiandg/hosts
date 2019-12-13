@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 11 Dec 2019 16:15:01 GMT
-# entries:        3241
+# entries:        3237
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -445,7 +445,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.contextweb.com
 127.0.0.1 ads.crakmedia.com
 127.0.0.1 ads.creative-serving.com
-127.0.0.1 ads.cricbuzz.com
 127.0.0.1 ads.cybersales.cz
 127.0.0.1 ads.dada.it
 127.0.0.1 ads.datingyes.com
@@ -741,7 +740,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsdaq.com
 127.0.0.1 adsend.de
 127.0.0.1 adsensecustomsearchads.com
-127.0.0.1 adserv.gamezone.de
 127.0.0.1 adserve.ams.rhythmxchange.com
 127.0.0.1 adserve.io
 127.0.0.1 adserver.71i.de
@@ -1155,7 +1153,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 beacon.gu-web.net
 127.0.0.1 beamincrease.com
 127.0.0.1 bebi.com
-127.0.0.1 bedsbreath.com
 127.0.0.1 beemray.com
 127.0.0.1 begun.ru
 127.0.0.1 behavioralengine.com
@@ -3148,7 +3145,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 web2.deja.com
 127.0.0.1 webads.co.nz
 127.0.0.1 webads.nl
-127.0.0.1 webangel.ru
 127.0.0.1 webcash.nl
 127.0.0.1 webcontentassessor.com
 127.0.0.1 webcounter.cz
