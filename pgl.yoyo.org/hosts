@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 15 Dec 2019 15:14:20 GMT
-# entries:        3239
+# last updated:   Mon, 16 Dec 2019 20:12:36 GMT
+# entries:        3241
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -198,6 +198,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad0.bigmir.net
 127.0.0.1 ad01.mediacorpsingapore.com
 127.0.0.1 ad1.emule-project.org
+127.0.0.1 ad1.eventmanager.co.kr
 127.0.0.1 ad1.kde.cz
 127.0.0.1 ad1.pamedia.com.au
 127.0.0.1 ad2.iinfo.cz
@@ -321,6 +322,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 admantx.com
 127.0.0.1 admarketplace.net
 127.0.0.1 admarvel.com
+127.0.0.1 admaster.com.cn
 127.0.0.1 admax.nexage.com
 127.0.0.1 admedia.com
 127.0.0.1 admeld.com
