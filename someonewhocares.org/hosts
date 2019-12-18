@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 02 Dec 2019 at 05:09:41 GMT
+# Last updated: Wed, 18 Dec 2019 at 02:10:05 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -11034,7 +11034,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 swfhostltd.com
 127.0.0.1 swinon.site
 127.0.0.1 sworkitads.herokuapp.com
-127.0.0.1 symbiosting.com
 127.0.0.1 synad2.nuffnang.com.cn
 127.0.0.1 synad.nuffnang.com.sg
 127.0.0.1 sync.1rx.io
@@ -12633,7 +12632,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.supremeadsonline.com
 127.0.0.1 www.surplus-suppliers.com
 127.0.0.1 www.sweetsforfree.com
-127.0.0.1 www.symbiosting.com
 127.0.0.1 www.syncaccess.net
 127.0.0.1 www.system-live-media.cz
 127.0.0.1 www.tao123.com
