@@ -7,7 +7,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
-0.0.0.0 123found.com
 0.0.0.0 123freeavatars.com
 0.0.0.0 180hits.de
 0.0.0.0 180searchassistant.com
@@ -177,7 +176,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad2.iinfo.cz
 0.0.0.0 ad2.lupa.cz
 0.0.0.0 ad2.xrea.com
-0.0.0.0 ad2flash.com
 0.0.0.0 ad3.iinfo.cz
 0.0.0.0 ad3.pamedia.com.au
 0.0.0.0 ad3.xrea.com

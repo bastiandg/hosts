@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 16 Dec 2019 20:12:36 GMT
-# entries:        3240
+# entries:        3238
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -34,7 +34,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 1-1ads.com
 127.0.0.1 101com.com
 127.0.0.1 101order.com
-127.0.0.1 123found.com
 127.0.0.1 123freeavatars.com
 127.0.0.1 180hits.de
 127.0.0.1 180searchassistant.com
@@ -204,7 +203,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad2.iinfo.cz
 127.0.0.1 ad2.lupa.cz
 127.0.0.1 ad2.xrea.com
-127.0.0.1 ad2flash.com
 127.0.0.1 ad3.iinfo.cz
 127.0.0.1 ad3.pamedia.com.au
 127.0.0.1 ad3.xrea.com
