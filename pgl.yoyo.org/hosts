@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 16 Dec 2019 20:12:36 GMT
-# entries:        3239
+# last updated:   Fri, 20 Dec 2019 19:51:15 GMT
+# entries:        3240
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1948,6 +1948,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 jaizouji.com
 127.0.0.1 jcount.com
 127.0.0.1 jdoqocy.com
+127.0.0.1 jetlore.com
 127.0.0.1 jinkads.de
 127.0.0.1 joetec.net
 127.0.0.1 jquery-bin.com
