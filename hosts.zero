@@ -2531,7 +2531,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.fooyoh.com
 0.0.0.0 ads.forbes.com
 0.0.0.0 ads.forbes.net
-0.0.0.0 ads.forium.de
 0.0.0.0 ads.fortunecity.com
 0.0.0.0 ads.fotosidan.se
 0.0.0.0 ads.fox.com
@@ -5384,6 +5383,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ardrone.swoop.com
 0.0.0.0 are-ter.com
 0.0.0.0 are.clevernt.com
+0.0.0.0 area51-ts.com
 0.0.0.0 areasnap.com
 0.0.0.0 arena.altitude-arena.com
 0.0.0.0 arena.altitudeplatform.com
@@ -13508,6 +13508,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 kapcotool.com
 0.0.0.0 kaprazatos.club
 0.0.0.0 kargo.com
+0.0.0.0 karisimbi.net
 0.0.0.0 karonty.com
 0.0.0.0 karriere.oewabox.at
 0.0.0.0 kaspersky.122.2o7.net
