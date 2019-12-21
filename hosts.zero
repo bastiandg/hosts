@@ -11101,7 +11101,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 fwg0b0sfig.s.ad6media.fr
 0.0.0.0 fxstyle.net
 0.0.0.0 fxyc0dwa.com
-0.0.0.0 fyber.com
 0.0.0.0 fynskemedieradmin.adservinginternational.com
 0.0.0.0 g-pixel.invitemedia.com
 0.0.0.0 g-wizzads.net
@@ -16933,6 +16932,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 offer-mediaservices.download
 0.0.0.0 offer.alibaba.com
 0.0.0.0 offer.camp
+0.0.0.0 offer.fyber.com
+0.0.0.0 offer.sponsorpay.com
 0.0.0.0 offerfactory.click
 0.0.0.0 offerforge.com
 0.0.0.0 offermatica.com
@@ -19223,6 +19224,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rtb-ads.avazu.net
 0.0.0.0 rtb-csync.smartadserver.com
 0.0.0.0 rtb-lb-event-sjc.tubemogul.com
+0.0.0.0 rtb.gumgum.com
 0.0.0.0 rtb.metrigo.com
 0.0.0.0 rtb.nativeads.com
 0.0.0.0 rtb.pclick.yahoo.com
