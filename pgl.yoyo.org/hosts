@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 21 Dec 2019 10:41:47 GMT
-# entries:        3242
+# last updated:   Sat, 21 Dec 2019 11:05:14 GMT
+# entries:        3244
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -210,6 +210,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad4mat.com
 127.0.0.1 ad4mat.de
 127.0.0.1 ad4mat.net
+127.0.0.1 ad4max.com
 127.0.0.1 adaction.de
 127.0.0.1 adadvisor.net
 127.0.0.1 adalliance.io
@@ -218,6 +219,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adback.co
 127.0.0.1 adbard.net
 127.0.0.1 adblade.com
+127.0.0.1 adblade.org
 127.0.0.1 adblockanalytics.com
 127.0.0.1 adbooth.net
 127.0.0.1 adbot.com
