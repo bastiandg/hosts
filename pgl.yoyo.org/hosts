@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 21 Dec 2019 11:05:14 GMT
-# entries:        3244
+# last updated:   Sat, 21 Dec 2019 17:17:55 GMT
+# entries:        3245
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1739,6 +1739,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 gemlix.com
 127.0.0.1 geo.digitalpoint.com
 127.0.0.1 geobanner.adultfriendfinder.com
+127.0.0.1 georiot.com
 127.0.0.1 geovisite.com
 127.0.0.1 getclicky.com
 127.0.0.1 giddycoat.com
