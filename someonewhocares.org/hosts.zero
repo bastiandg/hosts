@@ -3369,6 +3369,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 bhyuu.com
 0.0.0.0 bid.contextweb.com
 0.0.0.0 bid.openx.net
+0.0.0.0 bid.underdog.media
 0.0.0.0 bidclix.net
 0.0.0.0 bidentonrccom.122.2o7.net
 0.0.0.0 bidsystem.com
@@ -7498,6 +7499,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 mads.aol.com
 0.0.0.0 mads.cnet.com
+0.0.0.0 mads.dailymail.co.uk
 0.0.0.0 magento-analytics.com
 0.0.0.0 magyar-media.com
 0.0.0.0 magyarkozosseg.net
