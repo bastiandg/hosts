@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 22 Dec 2019 08:50:52 GMT
-# entries:        3246
+# entries:        3243
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -409,7 +409,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.ask.com
 127.0.0.1 ads.aspalliance.com
 127.0.0.1 ads.avazu.net
-127.0.0.1 ads.batpmturner.com
 127.0.0.1 ads.belointeractive.com
 127.0.0.1 ads.berlinonline.de
 127.0.0.1 ads.betfair.com
@@ -1630,7 +1629,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 evyy.net
 127.0.0.1 ewebcounter.com
 127.0.0.1 exchange-it.com
-127.0.0.1 exchange.bg
 127.0.0.1 exchangead.com
 127.0.0.1 exchangeclicksonline.com
 127.0.0.1 exclusivebrass.com
@@ -1673,7 +1671,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 feebleshock.com
 127.0.0.1 feedbackresearch.com
 127.0.0.1 feedjit.com
-127.0.0.1 feynmanhopeful.eu
 127.0.0.1 ffxcam.fairfax.com.au
 127.0.0.1 fimserve.com
 127.0.0.1 findcommerce.com
