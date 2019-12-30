@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 27 Dec 2019 at 00:06:52 GMT
+# Last updated: Mon, 30 Dec 2019 at 22:24:58 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -14618,12 +14618,10 @@ ff02::3		ip6-allhosts
 127.0.0.1 reports.wes.df.telemetry.microsoft.com
 127.0.0.1 schemas.microsoft.akadns.net
 127.0.0.1 secure.flashtalking.com
-127.0.0.1 settings-win.data.microsoft.com
 127.0.0.1 sO.2mdn.net
 127.0.0.1 statsfe2.ws.microsoft.com
 127.0.0.1 telemetry.appex.bing.net
 127.0.0.1 v10.vortex-win.data.microsoft.com
-127.0.0.1 vortex-win.data.microsoft.com
 127.0.0.1 wes.df.telemetry.microsoft.com
 #</Windows10>
 
