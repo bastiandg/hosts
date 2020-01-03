@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 03 Jan 2020 07:56:25 GMT
-# entries:        3249
+# entries:        3247
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -65,7 +65,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 7search.com
 127.0.0.1 82o9v830.com
 127.0.0.1 99count.com
-127.0.0.1 a.aproductmsg.com
 127.0.0.1 a.consumer.net
 127.0.0.1 a.mktw.net
 127.0.0.1 a.sakh.com
@@ -211,7 +210,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad4mat.com
 127.0.0.1 ad4mat.de
 127.0.0.1 ad4mat.net
-127.0.0.1 ad4max.com
 127.0.0.1 adaction.de
 127.0.0.1 adadvisor.net
 127.0.0.1 adalliance.io
