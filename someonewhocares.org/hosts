@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 03 Jan 2020 at 05:59:35 GMT
+# Last updated: Fri, 03 Jan 2020 at 06:05:43 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -358,6 +358,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 7zip.fr
 127.0.0.1 a796faee-7163-4757-a34f-e5b48cada4cb.statcamp.net
 127.0.0.1 abclnks.com
+127.0.0.1 aboardamusement.com
 127.0.0.1 abscbn.spinbox.net
 127.0.0.1 accountlock-demo.iovation.com
 127.0.0.1 activity.serving-sys.com	#eyeblaster.com
@@ -451,6 +452,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 beta.easy-hit-counter.com
 127.0.0.1 beta.easy-hit-counters.com
 127.0.0.1 beta.easyhitcounters.com
+127.0.0.1 bietthuvinhomesgialam.xyz
 127.0.0.1 bigdata.adfuture.cn
 127.0.0.1 bigdata.adsunflower.com
 127.0.0.1 bigdata.adups.com
@@ -535,6 +537,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 clckcloud.com
 127.0.0.1 click.atdmt.com
 127.0.0.1 clickauditor.net
+127.0.0.1 clickbankbreakstheinternet.com
 127.0.0.1 click.fivemtn.com
 127.0.0.1 click.icptrack.com
 127.0.0.1 click.investopedia.com
@@ -756,6 +759,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 data.coremetrics.com
 127.0.0.1 data.murdoog.com
 127.0.0.1 data.webads.co.nz
+127.0.0.1 datnentayhanoi.info
 127.0.0.1 dc43.s290.meetrics.net
 127.0.0.1 dclk.haaretz.co.il
 127.0.0.1 dclk.themarker.com
@@ -858,6 +862,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 e-n.y-1shz2prbmdj6wvny-1sez2pra2dj6wjmyepdzadpwudj6x9ny-1seq-2-2.stats.esomniture.com
 127.0.0.1 e-ny.a-1shz2prbmdj6wvny-1sez2pra2dj6wjny-1jcpgbowsdj6x9ny-1seq-2-2.stats.esomniture.com
 127.0.0.1 es.optimost.com
+127.0.0.1 eus.rubiconproject.com
 127.0.0.1 exch.quantserve.com
 127.0.0.1 extremereach.com
 127.0.0.1 eztrck.com
@@ -867,6 +872,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 fastcounter.linkexchange.net
 127.0.0.1 fastcounter.linkexchange.nl
 127.0.0.1 fastcounter.onlinehoster.net
+127.0.0.1 fastlane.rubiconproject.com
 127.0.0.1 fastwebcounter.com
 127.0.0.1 fcstats.bcentral.com
 127.0.0.1 fdbdo.com
@@ -912,6 +918,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 gslbeacon.lijit.com
 127.0.0.1 gtcc1.acecounter.com
 127.0.0.1 g-wizzads.net
+127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 hc2.humanclick.com
 127.0.0.1 highscanprotect.com
 127.0.0.1 hit10.hotlog.ru
@@ -1213,6 +1220,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 precisioncounter.com
 127.0.0.1 p.reuters.com
 127.0.0.1 printmail.biz
+127.0.0.1 privacy-policy.truste.com
 127.0.0.1 prof.estat.com
 #127.0.0.1 pro.hit.gemius.pl	# May interfere with some video sites
 127.0.0.1 proxycfg.marketscore.com
@@ -1238,6 +1246,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 rightmedia.net
 127.0.0.1 rightstats.com
 127.0.0.1 rm-admin-demo.iovation.com
+127.0.0.1 rmcentre.bigfilmproduction.com
 127.0.0.1 roskatrack.roskadirect.com
 127.0.0.1 rotator.trafficstars.com
 127.0.0.1 rr1.xxxcounter.com
@@ -1330,6 +1339,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 sdogiu.bestamazontips.com
 127.0.0.1 searchadv.com
 127.0.0.1 secure-gg.imrworldwide.com
+127.0.0.1 secure.quantserve.com
 127.0.0.1 sekel.ch
 127.0.0.1 servedby.valuead.com
 127.0.0.1 server10.opentracker.net
@@ -11370,6 +11380,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 unstat.baidu.com
 127.0.0.1 unwashedsound.com
 127.0.0.1 uole.ad.uol.com.br
+127.0.0.1 u.openx.net
 127.0.0.1 updatehere.ultimatesetnewfreeallsoftupgradesystems.pw
 127.0.0.1 updateplayer-flash.icu
 127.0.0.1 upgradenote.enterbestforupdating.bid
