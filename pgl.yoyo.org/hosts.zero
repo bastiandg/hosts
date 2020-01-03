@@ -726,7 +726,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.break-even.it
 0.0.0.0 adserver.cams.com
 0.0.0.0 adserver.com
-0.0.0.0 adserver.dca13.com
 0.0.0.0 adserver.digitoday.com
 0.0.0.0 adserver.freecity.de
 0.0.0.0 adserver.friendfinder.com
@@ -1115,7 +1114,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bannertesting.com
 0.0.0.0 bannery.cz
 0.0.0.0 bannieres.acces-contenu.com
-0.0.0.0 bans.adserver.co.il
 0.0.0.0 bans.bride.ru
 0.0.0.0 barbarousnerve.com
 0.0.0.0 barnesandnoble.bfast.com
@@ -1937,6 +1935,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 jungroup.com
 0.0.0.0 justicejudo.com
 0.0.0.0 justpremium.com
+0.0.0.0 justrelevant.com
 0.0.0.0 justuno.com
 0.0.0.0 k.iinfo.cz
 0.0.0.0 kanoodle.com
@@ -2259,7 +2258,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ns1p.net
 0.0.0.0 ntv.io
 0.0.0.0 ntvk1.ru
-0.0.0.0 nugg.ad
 0.0.0.0 nuggad.net
 0.0.0.0 numax.nu-1.com
 0.0.0.0 nuseek.com

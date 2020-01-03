@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 03 Jan 2020 07:56:25 GMT
-# entries:        3247
+# entries:        3245
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -753,7 +753,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver.break-even.it
 127.0.0.1 adserver.cams.com
 127.0.0.1 adserver.com
-127.0.0.1 adserver.dca13.com
 127.0.0.1 adserver.digitoday.com
 127.0.0.1 adserver.freecity.de
 127.0.0.1 adserver.friendfinder.com
@@ -1142,7 +1141,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 bannertesting.com
 127.0.0.1 bannery.cz
 127.0.0.1 bannieres.acces-contenu.com
-127.0.0.1 bans.adserver.co.il
 127.0.0.1 bans.bride.ru
 127.0.0.1 barbarousnerve.com
 127.0.0.1 barnesandnoble.bfast.com
@@ -1964,6 +1962,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 jungroup.com
 127.0.0.1 justicejudo.com
 127.0.0.1 justpremium.com
+127.0.0.1 justrelevant.com
 127.0.0.1 justuno.com
 127.0.0.1 k.iinfo.cz
 127.0.0.1 kanoodle.com
@@ -2286,7 +2285,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ns1p.net
 127.0.0.1 ntv.io
 127.0.0.1 ntvk1.ru
-127.0.0.1 nugg.ad
 127.0.0.1 nuggad.net
 127.0.0.1 numax.nu-1.com
 127.0.0.1 nuseek.com
