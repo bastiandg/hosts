@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 30 Dec 2019 at 22:24:58 GMT
+# Last updated: Fri, 03 Jan 2020 at 05:59:35 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -980,6 +980,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 iovation.co.uk
 127.0.0.1 iplogger.org
 127.0.0.1 iprocollect.realmedia.com
+127.0.0.1 istat.biz
 127.0.0.1 i.track112.site
 127.0.0.1 izarc.fr
 127.0.0.1 izitracking.izimailing.com
