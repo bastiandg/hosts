@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 03 Jan 2020 07:56:25 GMT
-# entries:        3245
+# entries:        3242
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -822,6 +822,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsrvr.org
 127.0.0.1 adsrvus.com
 127.0.0.1 adsrvx.com
+127.0.0.1 adsstat.com
 127.0.0.1 adstacks.in
 127.0.0.1 adstage.io
 127.0.0.1 adstat.4u.pl
@@ -1701,7 +1702,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 free-banners.com
 127.0.0.1 freebanner.com
 127.0.0.1 freelogs.com
-127.0.0.1 freemaineads.com
 127.0.0.1 freeonlineusers.com
 127.0.0.1 freepay.com
 127.0.0.1 freeskreen.com
@@ -2570,7 +2570,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 receptivereaction.com
 127.0.0.1 record.affiliates.karjalakasino.com
 127.0.0.1 record.bonniergaming.com
-127.0.0.1 record.mrwin.com
 127.0.0.1 redirectingat.com
 127.0.0.1 redirectvoluum.com
 127.0.0.1 redshell.io
@@ -2962,7 +2961,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 top123.ro
 127.0.0.1 top20free.com
 127.0.0.1 top90.ro
-127.0.0.1 topbarh.box.sk
 127.0.0.1 topbucks.com
 127.0.0.1 topforall.com
 127.0.0.1 topgamesites.net
@@ -3225,7 +3223,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 xad.com
 127.0.0.1 xapads.com
 127.0.0.1 xchange.ro
-127.0.0.1 xclicks.net
 127.0.0.1 xertive.com
 127.0.0.1 xg4ken.com
 127.0.0.1 xiti.com

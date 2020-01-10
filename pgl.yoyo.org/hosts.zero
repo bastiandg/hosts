@@ -795,6 +795,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adsrvr.org
 0.0.0.0 adsrvus.com
 0.0.0.0 adsrvx.com
+0.0.0.0 adsstat.com
 0.0.0.0 adstacks.in
 0.0.0.0 adstage.io
 0.0.0.0 adstat.4u.pl
@@ -1674,7 +1675,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 free-banners.com
 0.0.0.0 freebanner.com
 0.0.0.0 freelogs.com
-0.0.0.0 freemaineads.com
 0.0.0.0 freeonlineusers.com
 0.0.0.0 freepay.com
 0.0.0.0 freeskreen.com
@@ -2543,7 +2543,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 receptivereaction.com
 0.0.0.0 record.affiliates.karjalakasino.com
 0.0.0.0 record.bonniergaming.com
-0.0.0.0 record.mrwin.com
 0.0.0.0 redirectingat.com
 0.0.0.0 redirectvoluum.com
 0.0.0.0 redshell.io
@@ -2935,7 +2934,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 top123.ro
 0.0.0.0 top20free.com
 0.0.0.0 top90.ro
-0.0.0.0 topbarh.box.sk
 0.0.0.0 topbucks.com
 0.0.0.0 topforall.com
 0.0.0.0 topgamesites.net
@@ -3198,7 +3196,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 xad.com
 0.0.0.0 xapads.com
 0.0.0.0 xchange.ro
-0.0.0.0 xclicks.net
 0.0.0.0 xertive.com
 0.0.0.0 xg4ken.com
 0.0.0.0 xiti.com
