@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 03 Jan 2020 07:56:25 GMT
-# entries:        3242
+# last updated:   Fri, 10 Jan 2020 15:08:15 GMT
+# entries:        3243
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2568,6 +2568,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 rebelsubway.com
 127.0.0.1 receptiveink.com
 127.0.0.1 receptivereaction.com
+127.0.0.1 recoco.it
 127.0.0.1 record.affiliates.karjalakasino.com
 127.0.0.1 record.bonniergaming.com
 127.0.0.1 redirectingat.com
