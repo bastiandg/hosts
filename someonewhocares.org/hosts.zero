@@ -2753,6 +2753,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 americansingles.click-url.com
 0.0.0.0 amn.doubleclick.net
 0.0.0.0 amoxicillin.ourtablets.com
+0.0.0.0 amplify.outbrain.com
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 amrytt.adk2x.com
 0.0.0.0 ams1-ib.adnxs.com
@@ -6358,6 +6359,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 i.blogads.com
 0.0.0.0 i.casalemedia.com
 0.0.0.0 i.hotkeys.com
+0.0.0.0 i.imedia.cz
 0.0.0.0 i.interia.pl
 0.0.0.0 i.kissmetrics.com
 0.0.0.0 i.laih.com
@@ -6463,6 +6465,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 images.mbuyu.nl
 0.0.0.0 images.netcomvad.com
 0.0.0.0 images.newsx.cc
+0.0.0.0 images.outbrain.com
+0.0.0.0 images.outbrainimg.com
 0.0.0.0 images.people2people.com
 0.0.0.0 images.persgroepadvertising.be
 0.0.0.0 images.primaryads.com
@@ -7129,6 +7133,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 log.feedjit.com
 0.0.0.0 log.hankooki.com
 0.0.0.0 log.olark.com
+0.0.0.0 log.outbrain.com
 0.0.0.0 log.pladform.ru
 0.0.0.0 log.statistici.ro
 0.0.0.0 log.tagcade.com
@@ -8707,6 +8712,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ocdn.adsterra.com
 0.0.0.0 ocslab.com
 0.0.0.0 octopusgirl.com
+0.0.0.0 odb.outbrain.com
 0.0.0.0 oe24.oewabox.at
 0.0.0.0 oeamtc.oewabox.at
 0.0.0.0 oewa.oewabox.at
@@ -8914,6 +8920,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ourtoolbar.com
 0.0.0.0 out.popads.net
 0.0.0.0 out.true-counter.com
+0.0.0.0 outbrain.com
 0.0.0.0 outerinfo.com
 0.0.0.0 outils.yesmessenger.com
 0.0.0.0 outlets-online.pl
@@ -10524,6 +10531,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 sso.canada.com
 0.0.0.0 ssp.adplus.co.id
 0.0.0.0 ssp.anyclip-media.com
+0.0.0.0 ssp.imedia.cz
 0.0.0.0 ssp.streamrail.net
 0.0.0.0 sspcash.adxcore.com
 0.0.0.0 st.blogads.com
@@ -10872,6 +10880,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 sync.clickonometrics.pl
 0.0.0.0 sync.credebat.com
 0.0.0.0 sync.mathtag.com
+0.0.0.0 sync.outbrain.com
 0.0.0.0 sync.pulseradius.com
 0.0.0.0 sync.upravel.com
 0.0.0.0 syncaccess.net
@@ -11220,6 +11229,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tps31.doubleverify.com
 0.0.0.0 tr.adinterax.com
 0.0.0.0 tr.bigpoint.com
+0.0.0.0 tr.outbrain.com
 0.0.0.0 tr.tu.connect.wunderloop.net
 0.0.0.0 tr.wl.webads.nl
 0.0.0.0 traaaack.com
@@ -12014,6 +12024,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 voyager1.telesat.com.co
 0.0.0.0 vp.tscapeplay.com
 0.0.0.0 vq91811.com
+0.0.0.0 vra.outbrain.com
+0.0.0.0 vrp.outbrain.com
+0.0.0.0 vrt.outbrain.com
 0.0.0.0 vs.dmtracker.com
 0.0.0.0 vsii.spinbox.net
 0.0.0.0 vsii.spindox.net
@@ -13512,6 +13525,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.originscheduler.com
 0.0.0.0 www.otsserver.com
 0.0.0.0 www.ourfuckbook.com
+0.0.0.0 www.outbrain.com
 0.0.0.0 www.painolympics.info
 0.0.0.0 www.painolympics.org
 0.0.0.0 www.paintnet.es

@@ -12438,6 +12438,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 i.cdnpark.com
 0.0.0.0 i.ctnsnet.com
 0.0.0.0 i.hotkeys.com
+0.0.0.0 i.imedia.cz
 0.0.0.0 i.interia.pl
 0.0.0.0 i.jumptap.com
 0.0.0.0 i.kissmetrics.com
@@ -12672,6 +12673,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 images.netcomvad.com
 0.0.0.0 images.newsx.cc
 0.0.0.0 images.outbrain.com
+0.0.0.0 images.outbrainimg.com
 0.0.0.0 images.parked.com
 0.0.0.0 images.people2people.com
 0.0.0.0 images.persgroepadvertising.be
@@ -20919,6 +20921,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ssp.adplus.co.id
 0.0.0.0 ssp.adriver.ru
 0.0.0.0 ssp.anyclip-media.com
+0.0.0.0 ssp.imedia.cz
 0.0.0.0 ssp.lkqd.net
 0.0.0.0 ssp.streamrail.net
 0.0.0.0 ssp.videostat.com
@@ -21657,6 +21660,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 sync.go.sonobi.com
 0.0.0.0 sync.mathtag.com
 0.0.0.0 sync.monarchads.com
+0.0.0.0 sync.outbrain.com
 0.0.0.0 sync.pulseradius.com
 0.0.0.0 sync.rhythmxchange.com
 0.0.0.0 sync.richmetrics.com
@@ -23964,8 +23968,11 @@ ff02::2 ip6-allrouters
 0.0.0.0 vpon.com
 0.0.0.0 vq91811.com
 0.0.0.0 vq918450.com
+0.0.0.0 vra.outbrain.com
 0.0.0.0 vroll.net
+0.0.0.0 vrp.outbrain.com
 0.0.0.0 vrs.cz
+0.0.0.0 vrt.outbrain.com
 0.0.0.0 vrtzcontextualads.com
 0.0.0.0 vs.asianave.com
 0.0.0.0 vs.blackplanet.com
@@ -26457,6 +26464,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.otherossettlement.com
 0.0.0.0 www.otsserver.com
 0.0.0.0 www.ourfuckbook.com
+0.0.0.0 www.outbrain.com
 0.0.0.0 www.outlinearray.com
 0.0.0.0 www.over50datingservices.com
 0.0.0.0 www.pagerank10.co.uk

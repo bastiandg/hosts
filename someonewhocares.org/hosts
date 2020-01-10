@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 03 Jan 2020 at 06:05:43 GMT
+# Last updated: Fri, 10 Jan 2020 at 05:40:12 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6484,11 +6484,11 @@ ff02::3		ip6-allhosts
 127.0.0.1 ads.thecrimson.com
 127.0.0.1 ads.thefrisky.com
 127.0.0.1 ads.thegauntlet.com
-127.0.0.1 ads.theglobeandmail.com	
+127.0.0.1 ads.theglobeandmail.com
 127.0.0.1 ads.theindependent.com
 127.0.0.1 ads.theolympian.com
 127.0.0.1 ads.thesmokinggun.com
-127.0.0.1 ads.thestar.com		
+127.0.0.1 ads.thestar.com
 127.0.0.1 ads.thestranger.com
 127.0.0.1 ads.thewebfreaks.com
 127.0.0.1 adstil.indiatimes.com
@@ -6498,7 +6498,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ads.tnt.tv
 127.0.0.1 adstogo.com
 127.0.0.1 adstome.com
-127.0.0.1 ads.top500.org		
+127.0.0.1 ads.top500.org
 127.0.0.1 ads.top-banners.com
 127.0.0.1 ads.toronto.com
 127.0.0.1 ads.torrpedo.net
@@ -6864,6 +6864,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 amch.questionmarket.com
 127.0.0.1 americansingles.click-url.com
 127.0.0.1 a.mktw.net
+127.0.0.1 amplify.outbrain.com
 127.0.0.1 amplifypixel.outbrain.com
 127.0.0.1 amrytt.adk2x.com
 127.0.0.1 ams1-ib.adnxs.com
@@ -7353,7 +7354,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 brandsurveypanel.com
 127.0.0.1 BRApolice.com
 127.0.0.1 bravo.israelinfo.ru
-127.0.0.1 bravospots.com		
+127.0.0.1 bravospots.com
 127.0.0.1 breakthroughtrend.com
 127.0.0.1 b.recwwcc5.info
 127.0.0.1 brittlefilet.com
@@ -7373,7 +7374,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 bsads.looksmart.com
 127.0.0.1 bs.israelinfo.ru
 127.0.0.1 bsnj.eyeblaster.akadns.net
-127.0.0.1 bs.serving-sys.com	
+127.0.0.1 bs.serving-sys.com
 127.0.0.1 bt.linkpulse.com
 127.0.0.1 budapest1873.net
 127.0.0.1 bumerangshowsites.hurriyet.com.tr
@@ -8453,7 +8454,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 gbanners.hornymatches.com
 127.0.0.1 gbp.ebayadvertising.triadretail.net
 127.0.0.1 gcads.osdn.com
-127.0.0.1 gcdn.2mdn.net	
+127.0.0.1 gcdn.2mdn.net
 127.0.0.1 gc.gcl.ru
 127.0.0.1 gcir.gannett-tv.com
 127.0.0.1 gcirm2.indystar.com
@@ -8819,6 +8820,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ih2.gamecopyworld.com
 127.0.0.1 ih.adscale.de
 127.0.0.1 i.hotkeys.com
+127.0.0.1 i.imedia.cz
 127.0.0.1 i.interia.pl
 127.0.0.1 ikcode.baidu.com
 127.0.0.1 i.laih.com
@@ -8857,6 +8859,8 @@ ff02::3		ip6-allhosts
 127.0.0.1 images.mbuyu.nl
 127.0.0.1 images.netcomvad.com
 127.0.0.1 images.newsx.cc
+127.0.0.1 images.outbrain.com
+127.0.0.1 images.outbrainimg.com
 127.0.0.1 images.people2people.com
 127.0.0.1 images.persgroepadvertising.be
 127.0.0.1 images.primaryads.com
@@ -9247,6 +9251,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 logger.virgul.com
 127.0.0.1 login.linkpulse.com
 127.0.0.1 log.olark.com
+127.0.0.1 log.outbrain.com
 127.0.0.1 log.pladform.ru
 127.0.0.1 logs.spilgames.com
 127.0.0.1 log.tagcade.com
@@ -9810,6 +9815,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 obs.nnm2.ru
 127.0.0.1 ocdn.adsterra.com
 127.0.0.1 ocslab.com
+127.0.0.1 odb.outbrain.com
 127.0.0.1 offer.alibaba.com
 127.0.0.1 offer.camp
 127.0.0.1 offerfactory.click
@@ -9910,6 +9916,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 otletdivak.hu
 127.0.0.1 otpercpiheno.blogspot.com
 127.0.0.1 otpercpiheno.hu
+127.0.0.1 outbrain.com
 127.0.0.1 outils.yesmessenger.com
 127.0.0.1 out.popads.net
 127.0.0.1 overflow.adsoftware.com
@@ -10354,7 +10361,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 realgfsbucks.com
 127.0.0.1 realizemobicom.com
 127.0.0.1 realizmobi.com
-127.0.0.1 realmedia-a800.d4p.net	
+127.0.0.1 realmedia-a800.d4p.net
 127.0.0.1 realmedia.advance.net
 127.0.0.1 rebevengwas.com
 127.0.0.1 reboot.sitescout.com
@@ -10889,6 +10896,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ssp.adplus.co.id
 127.0.0.1 ssp.anyclip-media.com
 127.0.0.1 sspcash.adxcore.com
+127.0.0.1 ssp.imedia.cz
 127.0.0.1 s.spolecznosci.net
 127.0.0.1 s.spoutable.com
 127.0.0.1 ssp.streamrail.net
@@ -11055,6 +11063,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 sync.credebat.com
 127.0.0.1 sync-eu.exe.bid
 127.0.0.1 sync.mathtag.com
+127.0.0.1 sync.outbrain.com
 127.0.0.1 sync.pulseradius.com
 127.0.0.1 sync.upravel.com
 127.0.0.1 syndicated.mondominishows.com
@@ -11301,6 +11310,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 trk.yadomedia.com
 127.0.0.1 tropiccritics.com
 127.0.0.1 trourted.pro
+127.0.0.1 tr.outbrain.com
 127.0.0.1 tr.tu.connect.wunderloop.net
 127.0.0.1 trustaffs.com
 127.0.0.1 trustedmacleaner.click
@@ -11479,7 +11489,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 video.theparentingvillage.com
 127.0.0.1 vidnline.com
 127.0.0.1 vidroll.ru
-127.0.0.1 view.atdmt.com	
+127.0.0.1 view.atdmt.com
 127.0.0.1 view.avenuea.com
 127.0.0.1 view.binlayer.com
 127.0.0.1 view.iballs.a1.avenuea.com
@@ -11522,6 +11532,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 vox-static.liverail.com
 127.0.0.1 vp.tscapeplay.com
 127.0.0.1 vq91811.com
+127.0.0.1 vra.outbrain.com
+127.0.0.1 vrp.outbrain.com
+127.0.0.1 vrt.outbrain.com
 127.0.0.1 vu.veoxa.com
 127.0.0.1 v.vomedia.tv
 127.0.0.1 vxluvrwzs.cinci.rr.com
@@ -11982,7 +11995,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.avsads.com
 127.0.0.1 www.a.websponsors.com
 127.0.0.1 www.awesomevipoffers.com
-127.0.0.1 www.awltovhc.com	
+127.0.0.1 www.awltovhc.com
 127.0.0.1 www.backoffice.evobinary.com
 127.0.0.1 www.baiduccdn.org
 127.0.0.1 www.baiducdn.org
@@ -12256,7 +12269,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.frequencyaccess.com
 127.0.0.1 www.friendlyduck.com
 127.0.0.1 www.frontpagecash.com
-127.0.0.1 www.ftjcfx.com	
+127.0.0.1 www.ftjcfx.com
 127.0.0.1 www.fusionbanners.com
 127.0.0.1 www.gameconsolerewards.com
 127.0.0.1 www.games-toys-bonuspath.com
@@ -12347,7 +12360,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.incentive-scene.com
 127.0.0.1 www.inckamedia.com
 127.0.0.1 www.indiads.com
-127.0.0.1 www.infinite-ads.com		
+127.0.0.1 www.infinite-ads.com
 127.0.0.1 www.inpagevideo.nl
 127.0.0.1 www.ins-offer.com
 127.0.0.1 www.insurance-rewardpath.com
@@ -12397,7 +12410,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.laptoprewardszone.com
 127.0.0.1 www.larivieracasino.com
 127.0.0.1 www.lasthr.info
-127.0.0.1 www.lduhtrp.net	
+127.0.0.1 www.lduhtrp.net
 127.0.0.1 www.le1er.net
 127.0.0.1 www.leadgreed.com
 127.0.0.1 www.learning-offer.com
@@ -12508,6 +12521,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.opendownload.de
 127.0.0.1 www.openload.de
 127.0.0.1 www.optiad.net
+127.0.0.1 www.outbrain.com
 127.0.0.1 www.paperg.com
 127.0.0.1 www.parsads.com
 127.0.0.1 www.partner.googleadservices.com
@@ -12678,7 +12692,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.topreward.site
 127.0.0.1 www.toy-offer.com
 127.0.0.1 www.toy-offer.net
-127.0.0.1 www.tqlkg.com		
+127.0.0.1 www.tqlkg.com
 127.0.0.1 www.track2cash.com
 127.0.0.1 www.trackadvertising.net
 127.0.0.1 www.tracklead.net
@@ -12769,7 +12783,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 wwww.token.ad
 127.0.0.1 www.wtp101.com
 127.0.0.1 www.xaxis.com
-127.0.0.1 www.xbn.ru		
+127.0.0.1 www.xbn.ru
 127.0.0.1 www.xl-trk.com
 127.0.0.1 www.xn--turkishirlines-1p8g.com
 127.0.0.1 www.yceml.net

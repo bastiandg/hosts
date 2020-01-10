@@ -12438,6 +12438,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 i.cdnpark.com
 127.0.0.1 i.ctnsnet.com
 127.0.0.1 i.hotkeys.com
+127.0.0.1 i.imedia.cz
 127.0.0.1 i.interia.pl
 127.0.0.1 i.jumptap.com
 127.0.0.1 i.kissmetrics.com
@@ -12672,6 +12673,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 images.netcomvad.com
 127.0.0.1 images.newsx.cc
 127.0.0.1 images.outbrain.com
+127.0.0.1 images.outbrainimg.com
 127.0.0.1 images.parked.com
 127.0.0.1 images.people2people.com
 127.0.0.1 images.persgroepadvertising.be
@@ -20919,6 +20921,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ssp.adplus.co.id
 127.0.0.1 ssp.adriver.ru
 127.0.0.1 ssp.anyclip-media.com
+127.0.0.1 ssp.imedia.cz
 127.0.0.1 ssp.lkqd.net
 127.0.0.1 ssp.streamrail.net
 127.0.0.1 ssp.videostat.com
@@ -21657,6 +21660,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sync.go.sonobi.com
 127.0.0.1 sync.mathtag.com
 127.0.0.1 sync.monarchads.com
+127.0.0.1 sync.outbrain.com
 127.0.0.1 sync.pulseradius.com
 127.0.0.1 sync.rhythmxchange.com
 127.0.0.1 sync.richmetrics.com
@@ -23964,8 +23968,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 vpon.com
 127.0.0.1 vq91811.com
 127.0.0.1 vq918450.com
+127.0.0.1 vra.outbrain.com
 127.0.0.1 vroll.net
+127.0.0.1 vrp.outbrain.com
 127.0.0.1 vrs.cz
+127.0.0.1 vrt.outbrain.com
 127.0.0.1 vrtzcontextualads.com
 127.0.0.1 vs.asianave.com
 127.0.0.1 vs.blackplanet.com
@@ -26457,6 +26464,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.otherossettlement.com
 127.0.0.1 www.otsserver.com
 127.0.0.1 www.ourfuckbook.com
+127.0.0.1 www.outbrain.com
 127.0.0.1 www.outlinearray.com
 127.0.0.1 www.over50datingservices.com
 127.0.0.1 www.pagerank10.co.uk
