@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 13 Jan 2020 15:00:05 GMT
-# entries:        3250
+# last updated:   Mon, 13 Jan 2020 15:03:47 GMT
+# entries:        3253
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1360,6 +1360,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 clrstm.com
 127.0.0.1 cluster.adultworld.com
 127.0.0.1 clustrmaps.com
+127.0.0.1 cmp.dmgmediaprivacy.co.uk
 127.0.0.1 cnomy.com
 127.0.0.1 cnt.spbland.ru
 127.0.0.1 cnt1.pocitadlo.cz
@@ -1452,6 +1453,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 croissed.info
 127.0.0.1 crowdgravity.com
 127.0.0.1 crsspxl.com
+127.0.0.1 crta.dailymail.co.uk
 127.0.0.1 crtv.mate1.com
 127.0.0.1 crwdcntrl.net
 127.0.0.1 ctnetwork.hu
@@ -2362,6 +2364,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 oxado.com
 127.0.0.1 oxcash.com
 127.0.0.1 oxen.hillcountrytexas.com
+127.0.0.1 p-n.io
 127.0.0.1 p2r14.com
 127.0.0.1 pagead.l.google.com
 127.0.0.1 pagefair.com

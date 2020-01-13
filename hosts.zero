@@ -11538,6 +11538,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cmp-dev.advertising.com
 0.0.0.0 cmp.112.2o7.net
 0.0.0.0 cmp.advertising.com
+0.0.0.0 cmp.dmgmediaprivacy.co.uk
 0.0.0.0 cmp.us.intellitxt.com
 0.0.0.0 cmpdotnetjunkiescom.112.2o7.net
 0.0.0.0 cmpglobalvista.112.2o7.net
@@ -12604,6 +12605,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 crowdignite.com
 0.0.0.0 crs.baidu.com
 0.0.0.0 crsspxl.com
+0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 crtl.aimatch.com
 0.0.0.0 crtv.mate1.com
 0.0.0.0 cruisecritic.112.2o7.net
@@ -24672,6 +24674,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 p-behacdn.ksmobile.net
 0.0.0.0 p-jp-cci-dps.cinarra.com
 0.0.0.0 p-jp-elb-inmobi.cinarra.com
+0.0.0.0 p-n.io
 0.0.0.0 p-v2.presage.io
 0.0.0.0 p.ad.gt
 0.0.0.0 p.addthis.com
