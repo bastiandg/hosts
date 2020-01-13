@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 12 Jan 2020 12:17:27 GMT
-# entries:        3247
+# last updated:   Mon, 13 Jan 2020 15:00:05 GMT
+# entries:        3250
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1172,6 +1172,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 bewilderedblade.com
 127.0.0.1 bfmio.com
 127.0.0.1 bhcumsc.com
+127.0.0.1 bidbarrel.cbsnews.com
 127.0.0.1 bidclix.com
 127.0.0.1 bidclix.net
 127.0.0.1 bidr.io
@@ -1863,6 +1864,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 iconadserver.com
 127.0.0.1 iconpeak2trk.com
 127.0.0.1 icptrack.com
+127.0.0.1 id5-sync.com
 127.0.0.1 identads.com
 127.0.0.1 idtargeting.com
 127.0.0.1 ientrymail.com
@@ -1913,6 +1915,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 insgly.net
 127.0.0.1 insightexpress.com
 127.0.0.1 insightexpressai.com
+127.0.0.1 inskinad.com
 127.0.0.1 inspectlet.com
 127.0.0.1 inspectorclick.com
 127.0.0.1 install.365-stream.com
