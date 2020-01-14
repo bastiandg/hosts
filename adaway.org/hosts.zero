@@ -2590,7 +2590,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 app-adforce.jp
 0.0.0.0 app-c.net
 0.0.0.0 app-config.enhance.co
-0.0.0.0 app-de.onetrust.com
 0.0.0.0 app-e.marketo.com
 0.0.0.0 app-eu.clickdimensions.com
 0.0.0.0 app-icons.apptentive.com
@@ -2669,7 +2668,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 app.mopub.com
 0.0.0.0 app.netpark.us
 0.0.0.0 app.networkad.net
-0.0.0.0 app.onetrust.com
 0.0.0.0 app.openstreamapp.com
 0.0.0.0 app.optimizely.com
 0.0.0.0 app.optinmonster.com
@@ -4332,7 +4330,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 config.inmobi.com
 0.0.0.0 config.kuyun.com
 0.0.0.0 config.otherlevels.com
-0.0.0.0 config.outturner.com
 0.0.0.0 config.safedk.com
 0.0.0.0 config.samsungads.com
 0.0.0.0 config.sdk.scopely.io
@@ -5841,8 +5838,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 geoip.goforandroid.com
 0.0.0.0 geoip.ifunny.co
 0.0.0.0 geoip.propellerads.com
-0.0.0.0 geolocation-dev.onetrust.com
-0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geoplugin.net
 0.0.0.0 geopulse.factual.com
 0.0.0.0 geoworker.ayads.co
