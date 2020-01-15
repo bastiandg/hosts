@@ -10496,7 +10496,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.firstimpression.io
 0.0.0.0 cdn.firstlook.com
 0.0.0.0 cdn.flashtalking.com
-0.0.0.0 cdn.forter.com
 0.0.0.0 cdn.fotoable.com
 0.0.0.0 cdn.fqtag.com
 0.0.0.0 cdn.freefaits.com
@@ -10729,7 +10728,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.yottos.com
 0.0.0.0 cdn.zarget.com
 0.0.0.0 cdn.zeusclicks.com
-0.0.0.0 cdn0.forter.com
 0.0.0.0 cdn01.static.adfalcon.com
 0.0.0.0 cdn1-analytics.ladmedia.fr
 0.0.0.0 cdn1-creatives.adswizz.com
@@ -10782,20 +10780,16 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn3.appnext.com
 0.0.0.0 cdn3.doubleverify.com
 0.0.0.0 cdn3.emediate.eu
-0.0.0.0 cdn3.forter.com
 0.0.0.0 cdn3.optimizely.com
 0.0.0.0 cdn3.sponsorpay.com
 0.0.0.0 cdn3.telemetryverification.net
 0.0.0.0 cdn3nc.media.net
 0.0.0.0 cdn4.buysellads.net
 0.0.0.0 cdn4.crispadvertising.com
-0.0.0.0 cdn4.forter.com
 0.0.0.0 cdn4.mxpnl.com
 0.0.0.0 cdn4.sponsorpay.com
 0.0.0.0 cdn454.telemetryverification.net
-0.0.0.0 cdn46.forter.com
 0.0.0.0 cdn4s.steelhousemedia.com
-0.0.0.0 cdn5.forter.com
 0.0.0.0 cdn5.js.ad.dotandad.com
 0.0.0.0 cdn5.onthe.io
 0.0.0.0 cdn5.tribalfusion.com
@@ -10806,8 +10800,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn7.rocks
 0.0.0.0 cdn8.crispadvertising.com
 0.0.0.0 cdn8.emediate.eu
-0.0.0.0 cdn8.forter.com
-0.0.0.0 cdn9.forter.com
 0.0.0.0 cdna.runadtag.com
 0.0.0.0 cdna.tremormedia.com
 0.0.0.0 cdnads.cam4.com
@@ -15688,7 +15680,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 formula-api.adtech.de
 0.0.0.0 fornax.iad.appboy.com
 0.0.0.0 foroushi.net
-0.0.0.0 forter.com
 0.0.0.0 fortunecity.us.intellitxt.com
 0.0.0.0 forumcomm-d.openx.net
 0.0.0.0 forumediainc.us.intellitxt.com
@@ -16425,7 +16416,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 gfx.webmasterprofitcenter.com
 0.0.0.0 gg.adocean.pl
 0.0.0.0 gg.hit.gemius.pl
-0.0.0.0 gg.kp2.forter.com
 0.0.0.0 gg.meitu.com
 0.0.0.0 ggimg.tapas.net
 0.0.0.0 gglcash4u.info
@@ -19500,12 +19490,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 kos.interseek.si
 0.0.0.0 koszykrd.wp.pl
 0.0.0.0 kozszolgalat.com
-0.0.0.0 kp1.forter.com
-0.0.0.0 kp2.forter.com
 0.0.0.0 kplusd.far.ru
 0.0.0.0 kpopstarz.us.intellitxt.com
 0.0.0.0 kpremium.com
-0.0.0.0 kpstat.forter.com
 0.0.0.0 kpu.samsungelectronics.com
 0.0.0.0 kqzyfj.com
 0.0.0.0 kr-gmtdmp.mookie1.com
@@ -23558,7 +23545,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 nuggad.net
 0.0.0.0 nuggad.nuggad.net
 0.0.0.0 nugly.barginginfrance.net
-0.0.0.0 null.cdn4.forter.com
 0.0.0.0 null.iad.appboy.com
 0.0.0.0 numax.nu-1.com
 0.0.0.0 numbers.md

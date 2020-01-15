@@ -10496,7 +10496,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.firstimpression.io
 127.0.0.1 cdn.firstlook.com
 127.0.0.1 cdn.flashtalking.com
-127.0.0.1 cdn.forter.com
 127.0.0.1 cdn.fotoable.com
 127.0.0.1 cdn.fqtag.com
 127.0.0.1 cdn.freefaits.com
@@ -10729,7 +10728,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.yottos.com
 127.0.0.1 cdn.zarget.com
 127.0.0.1 cdn.zeusclicks.com
-127.0.0.1 cdn0.forter.com
 127.0.0.1 cdn01.static.adfalcon.com
 127.0.0.1 cdn1-analytics.ladmedia.fr
 127.0.0.1 cdn1-creatives.adswizz.com
@@ -10782,20 +10780,16 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn3.appnext.com
 127.0.0.1 cdn3.doubleverify.com
 127.0.0.1 cdn3.emediate.eu
-127.0.0.1 cdn3.forter.com
 127.0.0.1 cdn3.optimizely.com
 127.0.0.1 cdn3.sponsorpay.com
 127.0.0.1 cdn3.telemetryverification.net
 127.0.0.1 cdn3nc.media.net
 127.0.0.1 cdn4.buysellads.net
 127.0.0.1 cdn4.crispadvertising.com
-127.0.0.1 cdn4.forter.com
 127.0.0.1 cdn4.mxpnl.com
 127.0.0.1 cdn4.sponsorpay.com
 127.0.0.1 cdn454.telemetryverification.net
-127.0.0.1 cdn46.forter.com
 127.0.0.1 cdn4s.steelhousemedia.com
-127.0.0.1 cdn5.forter.com
 127.0.0.1 cdn5.js.ad.dotandad.com
 127.0.0.1 cdn5.onthe.io
 127.0.0.1 cdn5.tribalfusion.com
@@ -10806,8 +10800,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn7.rocks
 127.0.0.1 cdn8.crispadvertising.com
 127.0.0.1 cdn8.emediate.eu
-127.0.0.1 cdn8.forter.com
-127.0.0.1 cdn9.forter.com
 127.0.0.1 cdna.runadtag.com
 127.0.0.1 cdna.tremormedia.com
 127.0.0.1 cdnads.cam4.com
@@ -15688,7 +15680,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 formula-api.adtech.de
 127.0.0.1 fornax.iad.appboy.com
 127.0.0.1 foroushi.net
-127.0.0.1 forter.com
 127.0.0.1 fortunecity.us.intellitxt.com
 127.0.0.1 forumcomm-d.openx.net
 127.0.0.1 forumediainc.us.intellitxt.com
@@ -16425,7 +16416,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gfx.webmasterprofitcenter.com
 127.0.0.1 gg.adocean.pl
 127.0.0.1 gg.hit.gemius.pl
-127.0.0.1 gg.kp2.forter.com
 127.0.0.1 gg.meitu.com
 127.0.0.1 ggimg.tapas.net
 127.0.0.1 gglcash4u.info
@@ -19500,12 +19490,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 kos.interseek.si
 127.0.0.1 koszykrd.wp.pl
 127.0.0.1 kozszolgalat.com
-127.0.0.1 kp1.forter.com
-127.0.0.1 kp2.forter.com
 127.0.0.1 kplusd.far.ru
 127.0.0.1 kpopstarz.us.intellitxt.com
 127.0.0.1 kpremium.com
-127.0.0.1 kpstat.forter.com
 127.0.0.1 kpu.samsungelectronics.com
 127.0.0.1 kqzyfj.com
 127.0.0.1 kr-gmtdmp.mookie1.com
@@ -23558,7 +23545,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 nuggad.net
 127.0.0.1 nuggad.nuggad.net
 127.0.0.1 nugly.barginginfrance.net
-127.0.0.1 null.cdn4.forter.com
 127.0.0.1 null.iad.appboy.com
 127.0.0.1 numax.nu-1.com
 127.0.0.1 numbers.md

@@ -3704,7 +3704,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.earnify.com
 0.0.0.0 cdn.exelator.com
 0.0.0.0 cdn.feeds.ibt.com
-0.0.0.0 cdn.forter.com
 0.0.0.0 cdn.fotoable.com
 0.0.0.0 cdn.fqtag.com
 0.0.0.0 cdn.g5e.com
@@ -3811,7 +3810,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.wootric.com
 0.0.0.0 cdn.wpm.neustar.biz
 0.0.0.0 cdn.zarget.com
-0.0.0.0 cdn0.forter.com
 0.0.0.0 cdn01.static.adfalcon.com
 0.0.0.0 cdn1-analytics.ladmedia.fr
 0.0.0.0 cdn1-creatives.adswizz.com
@@ -3836,22 +3834,16 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn3-analytics.ladmedia.fr
 0.0.0.0 cdn3.appnext.com
 0.0.0.0 cdn3.doubleverify.com
-0.0.0.0 cdn3.forter.com
 0.0.0.0 cdn3.sponsorpay.com
 0.0.0.0 cdn3nc.media.net
 0.0.0.0 cdn4.buysellads.net
 0.0.0.0 cdn4.crispadvertising.com
-0.0.0.0 cdn4.forter.com
 0.0.0.0 cdn4.mxpnl.com
 0.0.0.0 cdn4.sponsorpay.com
-0.0.0.0 cdn46.forter.com
-0.0.0.0 cdn5.forter.com
 0.0.0.0 cdn5.onthe.io
 0.0.0.0 cdn7.crispadvertising.com
 0.0.0.0 cdn7.rocks
 0.0.0.0 cdn8.crispadvertising.com
-0.0.0.0 cdn8.forter.com
-0.0.0.0 cdn9.forter.com
 0.0.0.0 cdnaimg-ra.media.net
 0.0.0.0 cdnap.airpush.com
 0.0.0.0 cdnappicons.appsflyer.com
@@ -5649,7 +5641,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 format.prod.cloud.ogury.io
 0.0.0.0 formula-api.adtech.de
 0.0.0.0 fornax.iad.appboy.com
-0.0.0.0 forter.com
 0.0.0.0 fota.advmob.cn
 0.0.0.0 fota4.adfuture.cn
 0.0.0.0 fota4.adups.cn
@@ -5846,7 +5837,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 getexceptional.com
 0.0.0.0 getwisdom.io
 0.0.0.0 gf.umenglog.com
-0.0.0.0 gg.kp2.forter.com
 0.0.0.0 gg.meitu.com
 0.0.0.0 ggimg.tapas.net
 0.0.0.0 ghkbid.adview.cn
@@ -6896,9 +6886,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 knorex.com
 0.0.0.0 kochava.com
 0.0.0.0 korea.inmobi.com
-0.0.0.0 kp1.forter.com
-0.0.0.0 kp2.forter.com
-0.0.0.0 kpstat.forter.com
 0.0.0.0 kr-gmtdmp.mookie1.com
 0.0.0.0 kraken.production.ap-southeast-2.kops.kargo.com
 0.0.0.0 kraken.production.us-east-1.kops.kargo.com
@@ -8212,7 +8199,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 nt-es.imrworldwide.com
 0.0.0.0 ntrb.qc.coccoc.com
 0.0.0.0 nuffnang.com.my
-0.0.0.0 null.cdn4.forter.com
 0.0.0.0 null.iad.appboy.com
 0.0.0.0 numbers.md
 0.0.0.0 nv-sdk.jumio.com
