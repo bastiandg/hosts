@@ -240,6 +240,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 1bm.cqcounter.com
 127.0.0.1 1c6e2.v.fwmrm.net
 127.0.0.1 1ca.cqcounter.com
+127.0.0.1 1cef.playfabapi.com
 127.0.0.1 1cgi.hitbox.com
 127.0.0.1 1de.cqcounter.com
 127.0.0.1 1directory.ru
@@ -1432,7 +1433,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ac9d98.r.axf8.net
 127.0.0.1 acbsearch.com
 127.0.0.1 acc.magixite.com
-127.0.0.1 accelifyhelp.zendesk.com
 127.0.0.1 acceptable.a-ads.com
 127.0.0.1 acces.streaming-direct.co
 127.0.0.1 access.adblox.net
@@ -4293,6 +4293,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.seniorfriendfinder.com
 127.0.0.1 ads.seriouswheels.com
 127.0.0.1 ads.servebom.com
+127.0.0.1 ads.sessiongames.com
 127.0.0.1 ads.sexandsubmission.com
 127.0.0.1 ads.sexier.com
 127.0.0.1 ads.sexinyourcity.com
@@ -7169,6 +7170,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.layer.com
 127.0.0.1 api.leadbolt.net
 127.0.0.1 api.leadpages.io
+127.0.0.1 api.leanplum.com
 127.0.0.1 api.life.lovetapmobile.com
 127.0.0.1 api.lijit.com
 127.0.0.1 api.linkgist.com
@@ -7483,6 +7485,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 app-sn01.marketo.com
 127.0.0.1 app.activetrail.com
 127.0.0.1 app.adapt.io
+127.0.0.1 app.adjust.com
 127.0.0.1 app.adjust.io
 127.0.0.1 app.adroll.com
 127.0.0.1 app.adsbrook.com
@@ -10830,6 +10833,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdnw.ringtonepartner.com
 127.0.0.1 cdnwidget.com
 127.0.0.1 cdnx.tribalfusion.com
+127.0.0.1 cdp.cloud.unity3d.com
 127.0.0.1 cdreviews.us.intellitxt.com
 127.0.0.1 cdrinfo.us.intellitxt.com
 127.0.0.1 cdrom-guide.us.intellitxt.com
@@ -11971,6 +11975,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 config.sdk.wiman.io
 127.0.0.1 config.sensic.net
 127.0.0.1 config.tremorhub.com
+127.0.0.1 config.uca.cloud.unity3d.com
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 config.vip1.ams1.inmobi.com
 127.0.0.1 config1.veinteractive.com
@@ -14657,7 +14662,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 engageiq.pushcrew.com
 127.0.0.1 engagement-collector.mobify.net
 127.0.0.1 engagement.inmarket.com
-127.0.0.1 engagenysupport.zendesk.com
 127.0.0.1 engager.tmg.nl
 127.0.0.1 engageya.com
 127.0.0.1 engine-dsa.fyber.com
@@ -15805,6 +15809,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 freefuelcoupon.com
 127.0.0.1 freegasonus.com
 127.0.0.1 freegasprovider.com
+127.0.0.1 freegeoip.com
 127.0.0.1 freegeoip.net
 127.0.0.1 freegiftcardsource.com
 127.0.0.1 freegiftreward.com
@@ -18448,6 +18453,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 inaccused.com
 127.0.0.1 inapi.posst.co
 127.0.0.1 inapp.nixozz.com
+127.0.0.1 inapps.appsflyer.com
 127.0.0.1 inapps.moengage.com
 127.0.0.1 inari.iad-03.braze.com
 127.0.0.1 inbound-reply.s1.exacttarget.com
@@ -19662,6 +19668,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 launch.adserver.yahoo.com
 127.0.0.1 launch1.co
 127.0.0.1 launchbit.com
+127.0.0.1 launches.appsflyer.com
 127.0.0.1 laurel.rovicorp.com
 127.0.0.1 lavanetwork.net
 127.0.0.1 lax-1-apex.go.sonobi.com
@@ -21631,6 +21638,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 methodcash.com
 127.0.0.1 methodshop.us.intellitxt.com
 127.0.0.1 metric-agent.i10c.net
+127.0.0.1 metric-android-am.road404.com
 127.0.0.1 metric.10best.com
 127.0.0.1 metric.allrecipes.com
 127.0.0.1 metric.angieslist.com
@@ -30597,6 +30605,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stats.ultimate-webservices.com
 127.0.0.1 stats.unibiller.com
 127.0.0.1 stats.unionleader.com
+127.0.0.1 stats.unity3d.com
 127.0.0.1 stats.unrulymedia.com
 127.0.0.1 stats.unwired-i.net
 127.0.0.1 stats.ventivmedia.com
@@ -36753,6 +36762,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.leadingedgecash.com
 127.0.0.1 www.leadpub.com
 127.0.0.1 www.leadtrackgo.com
+127.0.0.1 www.leanplum.com
 127.0.0.1 www.learning-offer.com
 127.0.0.1 www.legal-rewardpath.com
 127.0.0.1 www.leisure-offer.com
