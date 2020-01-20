@@ -8891,7 +8891,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 beacon.riskified.com
 0.0.0.0 beacon.rubiconproject.com
 0.0.0.0 beacon.rum.dynapis.info
-0.0.0.0 beacon.schneidercorp.com
 0.0.0.0 beacon.scorecardresearch.com
 0.0.0.0 beacon.searchlinks.com
 0.0.0.0 beacon.securestudies.com
@@ -8916,7 +8915,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 beacon.zeroidtech.com
 0.0.0.0 beacon.ztgame.com
 0.0.0.0 beaconapi.helpscout.net
-0.0.0.0 beaconbeta.schneidercorp.com
 0.0.0.0 beaconhub.iadmob.com
 0.0.0.0 beaconin2.notinote.me
 0.0.0.0 beacons-production.elasticbeanstalk.com
