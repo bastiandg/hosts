@@ -7081,7 +7081,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.bugfender.com
 127.0.0.1 api.bugly.qq.com
 127.0.0.1 api.bugsee.com
-127.0.0.1 api.bugsnag.com
 127.0.0.1 api.c.avazunativeads.com
 127.0.0.1 api.championat.com
 127.0.0.1 api.chartbeat.com
@@ -7230,7 +7229,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.parrable.com
 127.0.0.1 api.parse.com
 127.0.0.1 api.parsely.com
-127.0.0.1 api.particle.io
 127.0.0.1 api.permutive.com
 127.0.0.1 api.personali.com
 127.0.0.1 api.perzonalization.com
@@ -7497,7 +7495,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 app.bm23.com
 127.0.0.1 app.bugfender.com
 127.0.0.1 app.bugreplay.com
-127.0.0.1 app.bugsnag.com
 127.0.0.1 app.cision.com
 127.0.0.1 app.clickdimensions.com
 127.0.0.1 app.clickyab.com
@@ -23417,7 +23414,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 notification.webengage.com
 127.0.0.1 notify.adleadevent.com
 127.0.0.1 notify.bugsnag.appstore.a2z.com
-127.0.0.1 notify.bugsnag.com
 127.0.0.1 notify.mgid.com
 127.0.0.1 notify.nuviad.com
 127.0.0.1 notify1.brucelead.com
@@ -28893,7 +28889,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 serwisy.gremimedia.pl
 127.0.0.1 sessioncam.com
 127.0.0.1 sessionm.com
-127.0.0.1 sessions.bugsnag.com
 127.0.0.1 sessions.mobileroadie.com
 127.0.0.1 sestat.baidu.com
 127.0.0.1 seth.avazutracking.net
