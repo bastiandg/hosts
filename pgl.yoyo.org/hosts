@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 22 Jan 2020 12:55:17 GMT
-# entries:        3254
+# last updated:   Wed, 22 Jan 2020 19:46:14 GMT
+# entries:        3261
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -823,6 +823,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsstat.com
 127.0.0.1 adstacks.in
 127.0.0.1 adstage.io
+127.0.0.1 adstanding.com
 127.0.0.1 adstat.4u.pl
 127.0.0.1 adstest.weather.com
 127.0.0.1 adsupply.com
@@ -1625,6 +1626,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 euros4click.de
 127.0.0.1 eusta.de
 127.0.0.1 evadav.com
+127.0.0.1 everestads.net
 127.0.0.1 everesttech.net
 127.0.0.1 evergage.com
 127.0.0.1 eversales.space
@@ -1990,6 +1992,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 kubient.com
 127.0.0.1 l1.britannica.com
 127.0.0.1 lakequincy.com
+127.0.0.1 lanistaads.com
 127.0.0.1 laughablecopper.com
 127.0.0.1 laughcloth.com
 127.0.0.1 launchbit.com
@@ -2152,6 +2155,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 memorizeneck.com
 127.0.0.1 memorycobweb.com
 127.0.0.1 messagenovice.com
+127.0.0.1 metadsp.co.uk
 127.0.0.1 metaffiliation.com
 127.0.0.1 metanetwork.com
 127.0.0.1 methodcash.com
@@ -2604,6 +2608,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 resolutekey.com
 127.0.0.1 resonantbrush.com
 127.0.0.1 resonate.com
+127.0.0.1 responsiveads.com
 127.0.0.1 retargeter.com
 127.0.0.1 revcontent.com
 127.0.0.1 reveal.clearbit.com
@@ -2880,6 +2885,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 sumo.com
 127.0.0.1 sumome.com
 127.0.0.1 superclix.de
+127.0.0.1 supersonicads.com
 127.0.0.1 superstats.com
 127.0.0.1 supertop.ru
 127.0.0.1 supertop100.com
@@ -3144,6 +3150,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 voluum.com
 127.0.0.1 voluumtrk2.com
 127.0.0.1 volvelle.tech
+127.0.0.1 voodoo-ads.io
 127.0.0.1 vpon.com
 127.0.0.1 vrs.cz
 127.0.0.1 vrtzcontextualads.com
