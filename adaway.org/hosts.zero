@@ -5110,7 +5110,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 e.deployads.com
 0.0.0.0 e.domob.cn
 0.0.0.0 e.eclick.vn
-0.0.0.0 e.glbimg.com
 0.0.0.0 e.imguol.com
 0.0.0.0 e.jp.miaozhen.com
 0.0.0.0 e.ligatus.com
@@ -6181,7 +6180,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 i.cdn.openx.com
 0.0.0.0 i.clickagy.com
 0.0.0.0 i.connectad.io
-0.0.0.0 i.glbimg.com
 0.0.0.0 i.goadservices.com
 0.0.0.0 i.gridsumdissector.com
 0.0.0.0 i.icomoon.io
@@ -8453,7 +8451,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 p.bokecc.com
 0.0.0.0 p.bong99.com
 0.0.0.0 p.boostads.co
-0.0.0.0 p.glbimg.com
 0.0.0.0 p.hiimps.com
 0.0.0.0 p.kuaidi100.com
 0.0.0.0 p.l.qq.com
@@ -11830,7 +11827,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 v.cf.ssacdn.com
 0.0.0.0 v.chartboost.com
 0.0.0.0 v.gdt.qq.com
-0.0.0.0 v.glbimg.com
 0.0.0.0 v.lkqd.net
 0.0.0.0 v.lvlt.crcdn.net
 0.0.0.0 v.ssacdn.com
