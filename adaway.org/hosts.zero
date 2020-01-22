@@ -10772,6 +10772,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tap2-cdn.rubiconproject.com
 0.0.0.0 tapas.net
 0.0.0.0 tapcore.airpush.com
+0.0.0.0 tapdaq-adverts.global.ssl.fastly.net
 0.0.0.0 tapestry.tapad.com
 0.0.0.0 tapfortap.com
 0.0.0.0 tapgen.com
