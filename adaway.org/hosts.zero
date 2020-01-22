@@ -279,7 +279,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 30912.content.swrve.com
 0.0.0.0 30913.api.swrve.com
 0.0.0.0 30913.content.swrve.com
-0.0.0.0 3100-app.mobilgov.com
 0.0.0.0 3188.engine.mobileapptracking.com
 0.0.0.0 3193.api.swrve.com
 0.0.0.0 3204.api.swrve.com
@@ -291,7 +290,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 3272.content.swrve.com
 0.0.0.0 3284.content.swrve.com
 0.0.0.0 3286.api.swrve.com
-0.0.0.0 3300-app.mobilgov.com
 0.0.0.0 3369.api.swrve.com
 0.0.0.0 3369.content.swrve.com
 0.0.0.0 3371.api.swrve.com
@@ -526,7 +524,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 5-9-2-android.appload.ingest.crittercism.com
 0.0.0.0 5726.bapi.adsafeprotected.com
 0.0.0.0 5788.engine.mobileapptracking.com
-0.0.0.0 5900-app.mobilgov.com
 0.0.0.0 6058.bapi.adsafeprotected.com
 0.0.0.0 6063.bapi.adsafeprotected.com
 0.0.0.0 6067.bapi.adsafeprotected.com
@@ -606,7 +603,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 8162.engine.mobileapptracking.com
 0.0.0.0 8328.bapi.adsafeprotected.com
 0.0.0.0 8430.engine.mobileapptracking.com
-0.0.0.0 8443-app.mobilgov.com
 0.0.0.0 854.api.swrve.com
 0.0.0.0 854.content.swrve.com
 0.0.0.0 8696.engine.mobileapptracking.com
@@ -2162,13 +2158,11 @@ ff02::2 ip6-allrouters
 0.0.0.0 api-gateway.us-west-2.elasticbeanstalk.com
 0.0.0.0 api-gdpr.voodoo-tech.io
 0.0.0.0 api-grpc.lightstep.com
-0.0.0.0 api-iam.intercom.io
 0.0.0.0 api-log-analytics.cloud.toast.com
 0.0.0.0 api-log.immomo.com
 0.0.0.0 api-logsink-prod.zedge.io
 0.0.0.0 api-master.netsparkmobile.com
 0.0.0.0 api-owr-bootstrap.metaps.net
-0.0.0.0 api-ping.intercom.io
 0.0.0.0 api-product.kameleoon.com
 0.0.0.0 api-production.dwell.com
 0.0.0.0 api-rackspace.bounceexchange.com
@@ -2335,7 +2329,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.instalatorhbogo.siroccomobile.com
 0.0.0.0 api.instartlogic.com
 0.0.0.0 api.intentiq.com
-0.0.0.0 api.intercom.io
 0.0.0.0 api.iperceptions.com
 0.0.0.0 api.ipstack.com
 0.0.0.0 api.itv.letv.com
@@ -2918,7 +2911,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 assets.dynatrace.com
 0.0.0.0 assets.fortumo.com
 0.0.0.0 assets.foxmetrics.com
-0.0.0.0 assets.groovehq.com
 0.0.0.0 assets.iterable.com
 0.0.0.0 assets.kampyle.com
 0.0.0.0 assets.kochava.com
@@ -3440,7 +3432,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 c.fqtag.com
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 c.greystripe.com
-0.0.0.0 c.groovehq.com
 0.0.0.0 c.isdspeed.qq.com
 0.0.0.0 c.jp.msn.com
 0.0.0.0 c.jsrdn.com
@@ -5954,7 +5945,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 grade.market.yandex.ru
 0.0.0.0 grafana.appboy.com
 0.0.0.0 grafstat.ro
-0.0.0.0 graphql.groovehq.com
 0.0.0.0 graphs.amung.us
 0.0.0.0 gredinatib.info
 0.0.0.0 green-griffin-860.appspot.com
@@ -6194,7 +6184,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 i.glbimg.com
 0.0.0.0 i.goadservices.com
 0.0.0.0 i.gridsumdissector.com
-0.0.0.0 i.groovehq.com
 0.0.0.0 i.icomoon.io
 0.0.0.0 i.idio.co
 0.0.0.0 i.ipromote.com
@@ -6617,7 +6606,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 insights.podium.com
 0.0.0.0 insights.samsung.com
 0.0.0.0 insights.swrve.com
-0.0.0.0 insights.uk1.aconex.co.uk
 0.0.0.0 inspectletws.herokuapp.com
 0.0.0.0 inspiredtaste-tagan.adlightning.com
 0.0.0.0 instabug.com

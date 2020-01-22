@@ -533,7 +533,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 30913.api.swrve.com
 127.0.0.1 30913.content.swrve.com
 127.0.0.1 30ads.com
-127.0.0.1 3100-app.mobilgov.com
 127.0.0.1 312.1d27c9b8fb.com
 127.0.0.1 31335.hittail.com
 127.0.0.1 314.hittail.com
@@ -555,7 +554,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 3284.content.swrve.com
 127.0.0.1 3286.api.swrve.com
 127.0.0.1 32red.it
-127.0.0.1 3300-app.mobilgov.com
 127.0.0.1 332645.r.axf8.net
 127.0.0.1 3369.api.swrve.com
 127.0.0.1 3369.content.swrve.com
@@ -879,7 +877,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 5788.engine.mobileapptracking.com
 127.0.0.1 5882.1158.blueseek.com
 127.0.0.1 59-106-20-39.r-bl100.sakura.ne.jp
-127.0.0.1 5900-app.mobilgov.com
 127.0.0.1 599.stats.misstrends.com
 127.0.0.1 5990.findit.blueseek.com
 127.0.0.1 59nmk4u.tech
@@ -1023,7 +1020,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 82o9v830.com
 127.0.0.1 8328.bapi.adsafeprotected.com
 127.0.0.1 8430.engine.mobileapptracking.com
-127.0.0.1 8443-app.mobilgov.com
 127.0.0.1 8482194.fls.doubleclick.net
 127.0.0.1 85103.hittail.com
 127.0.0.1 854.api.swrve.com
@@ -6963,13 +6959,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 api-gateway.us-west-2.elasticbeanstalk.com
 127.0.0.1 api-gdpr.voodoo-tech.io
 127.0.0.1 api-grpc.lightstep.com
-127.0.0.1 api-iam.intercom.io
 127.0.0.1 api-log-analytics.cloud.toast.com
 127.0.0.1 api-log.immomo.com
 127.0.0.1 api-logsink-prod.zedge.io
 127.0.0.1 api-master.netsparkmobile.com
 127.0.0.1 api-owr-bootstrap.metaps.net
-127.0.0.1 api-ping.intercom.io
 127.0.0.1 api-product.kameleoon.com
 127.0.0.1 api-production.dwell.com
 127.0.0.1 api-public.addthis.com
@@ -7151,7 +7145,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.instartlogic.com
 127.0.0.1 api.intensifier.de
 127.0.0.1 api.intentiq.com
-127.0.0.1 api.intercom.io
 127.0.0.1 api.inwemo.com
 127.0.0.1 api.iperceptions.com
 127.0.0.1 api.ipinfodb.com
@@ -7998,7 +7991,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 assets.dynatrace.com
 127.0.0.1 assets.fortumo.com
 127.0.0.1 assets.foxmetrics.com
-127.0.0.1 assets.groovehq.com
 127.0.0.1 assets.igapi.com
 127.0.0.1 assets.iterable.com
 127.0.0.1 assets.kampyle.com
@@ -9770,7 +9762,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.go-mpulse.net
 127.0.0.1 c.gr.msn.com
 127.0.0.1 c.greystripe.com
-127.0.0.1 c.groovehq.com
 127.0.0.1 c.gumgum.com
 127.0.0.1 c.hit.ua
 127.0.0.1 c.hk.msn.com
@@ -16832,7 +16823,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 graphics.streamray.com
 127.0.0.1 graphics1.sextracker.com
 127.0.0.1 graphics2.sextracker.com
-127.0.0.1 graphql.groovehq.com
 127.0.0.1 graphs.amung.us
 127.0.0.1 gratkapl.adocean.pl
 127.0.0.1 gravitron.chron.com
@@ -17694,7 +17684,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 i.glbimg.com
 127.0.0.1 i.goadservices.com
 127.0.0.1 i.gridsumdissector.com
-127.0.0.1 i.groovehq.com
 127.0.0.1 i.hotkeys.com
 127.0.0.1 i.icomoon.io
 127.0.0.1 i.idio.co
@@ -18605,7 +18594,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 insights.podium.com
 127.0.0.1 insights.samsung.com
 127.0.0.1 insights.swrve.com
-127.0.0.1 insights.uk1.aconex.co.uk
 127.0.0.1 insightxe.looksmart.com
 127.0.0.1 insightxe.pittsburghlive.com
 127.0.0.1 insightxe.vtsgonline.com
