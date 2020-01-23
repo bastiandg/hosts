@@ -3664,6 +3664,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 c.es.msn.com
 0.0.0.0 c.fi.msn.com
 0.0.0.0 c.fr.msn.com
+0.0.0.0 c.go-mpulse.net
 0.0.0.0 c.gr.msn.com
 0.0.0.0 c.hk.msn.com
 0.0.0.0 c.id.msn.com
@@ -9857,6 +9858,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 s.domob.cn
 0.0.0.0 s.dynad.net
 0.0.0.0 s.flite.com
+0.0.0.0 s.go-mpulse.net
 0.0.0.0 s.innovid.com
 0.0.0.0 s.media-imdb.com
 0.0.0.0 s.megaclick.com
@@ -10600,6 +10602,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 static-ssl.exoclick.com
 0.0.0.0 static.2mdn.net
 0.0.0.0 static.admaximize.com
+0.0.0.0 static.adsafeprotected.com
 0.0.0.0 static.adsonar.com
 0.0.0.0 static.adtaily.pl
 0.0.0.0 static.adwo.com

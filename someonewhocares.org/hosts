@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 16 Jan 2020 at 00:03:51 GMT
+# Last updated: Thu, 23 Jan 2020 at 07:47:37 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -525,6 +525,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 cgicounter.puretec.de
 127.0.0.1 cgi.hotstat.nl
 127.0.0.1 cgi.sexlist.com
+127.0.0.1 c.go-mpulse.net
 127.0.0.1 ci-accountlock.iovation.com
 127.0.0.1 ci-admin.iovation.com
 127.0.0.1 cig-arrete.com
@@ -940,6 +941,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 htm.freelogs.com
 127.0.0.1 http300.edge.ru4.com
 127.0.0.1 hud8mxdt.computerhelpmirror.top
+127.0.0.1 ib.adnxs.com
 127.0.0.1 iccee.com
 127.0.0.1 ic.tynt.com
 127.0.0.1 idm.hit.gemius.pl
@@ -1368,6 +1370,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 se.sitestat.com
 127.0.0.1 sexcounter.com
 127.0.0.1 seznam.hit.gemius.pl
+127.0.0.1 s.go-mpulse.net
 127.0.0.1 showads.pubmatic.com
 127.0.0.1 showcount.honest.com
 127.0.0.1 sideshow.directtrack.com
@@ -1419,6 +1422,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 stat-counter.tass-online.ru
 127.0.0.1 stat.discogs.com
 127.0.0.1 static.audienceinsights.net
+127.0.0.1 static.criteo.net
 127.0.0.1 static.kibboko.com
 127.0.0.1 static.smni.com		# Santa Monica - popunders
 127.0.0.1 static.trackedweb.net
@@ -10923,6 +10927,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 static1.influads.com
 127.0.0.1 static.2mdn.net
 127.0.0.1 static.admaximize.com
+127.0.0.1 static.adsafeprotected.com
 127.0.0.1 staticads.btopenworld.com
 127.0.0.1 static.adsonar.com
 127.0.0.1 static.adtaily.pl
