@@ -6213,7 +6213,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 alpha-assets.adcolony.com
 0.0.0.0 alpha-events.aerserv.com
 0.0.0.0 alpha.easy-hit-counters.com
-0.0.0.0 alpha.kite.com
 0.0.0.0 alphabirdnetwork.com
 0.0.0.0 alphalux.oewabox.at
 0.0.0.0 alphonso.tv
@@ -13399,7 +13398,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 dist.belnk.com
 0.0.0.0 distillery.wistia.com
 0.0.0.0 distractify-d.openx.net
-0.0.0.0 distributions-crashlytics-com.s3.amazonaws.com
 0.0.0.0 districtm-match.dotomi.com
 0.0.0.0 districtm.ca
 0.0.0.0 districtm.io
@@ -22244,7 +22242,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mx.adserver.yahoo.com
 0.0.0.0 mx.iesnare.com
 0.0.0.0 mx.iovation.com
-0.0.0.0 mx.yandex.ru
 0.0.0.0 mx0.comscore.com
 0.0.0.0 mx01.openinternetexchange.com
 0.0.0.0 mx01.openinternetexchange.net
@@ -26320,7 +26317,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 relay-si.toboads.com
 0.0.0.0 relay.mobile.toboads.com
 0.0.0.0 release.baidu.com
-0.0.0.0 release.kite.com
 0.0.0.0 relenza.asian-flu-vaccine.com
 0.0.0.0 relestar.com
 0.0.0.0 relevantknowledge.com
@@ -34222,7 +34218,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 window1.com
 0.0.0.0 windowgolddealtheclicks.live
 0.0.0.0 windows-tech-help.com
-0.0.0.0 windows.kite.com
 0.0.0.0 windows7news.uk.intellitxt.com
 0.0.0.0 windowsbbs.us.intellitxt.com
 0.0.0.0 windowserror7.tech

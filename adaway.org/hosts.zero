@@ -1749,7 +1749,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 alogus.umeng.com
 0.0.0.0 alpha-assets.adcolony.com
 0.0.0.0 alpha-events.aerserv.com
-0.0.0.0 alpha.kite.com
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 als.baidu.com
 0.0.0.0 alt.bugsense.appspot.com
@@ -4849,7 +4848,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 disqus-d.openx.net
 0.0.0.0 disqusads.com
 0.0.0.0 distractify-d.openx.net
-0.0.0.0 distributions-crashlytics-com.s3.amazonaws.com
 0.0.0.0 districtm-match.dotomi.com
 0.0.0.0 distrify-production.imgix.net
 0.0.0.0 distroscale-d.openx.net
@@ -7700,7 +7698,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 multiply.crwdcntrl.net
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 musculahq.appspot.com
-0.0.0.0 mx.yandex.ru
 0.0.0.0 mx0.comscore.com
 0.0.0.0 mx1.comscore.com
 0.0.0.0 mx2.comscore.com
@@ -9011,7 +9008,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 reklamz.com
 0.0.0.0 relap.io
 0.0.0.0 release.baidu.com
-0.0.0.0 release.kite.com
 0.0.0.0 remain.chartboosts.com
 0.0.0.0 remarketingpixel.com
 0.0.0.0 remote-data.urbanairship.com
@@ -11879,7 +11875,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 wigetmedia.com
 0.0.0.0 wildcard.measuread.com.edgekey.net
 0.0.0.0 win.ad-stir.com
-0.0.0.0 windows.kite.com
 0.0.0.0 wirtualn-d.openx.net
 0.0.0.0 wiyun.com
 0.0.0.0 wizzogames-sdk.wappier.com
