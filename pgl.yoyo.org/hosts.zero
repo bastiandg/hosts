@@ -564,7 +564,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.oddschecker.com
 0.0.0.0 ads.okcimg.com
 0.0.0.0 ads.ole.com
-0.0.0.0 ads.olivebrandresponse.com
 0.0.0.0 ads.oneplace.com
 0.0.0.0 ads.optusnet.com.au
 0.0.0.0 ads.outpersonals.com
@@ -1100,6 +1099,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 banners.linkbuddies.com
 0.0.0.0 banners.passion.com
 0.0.0.0 banners.resultonline.com
+0.0.0.0 banners.sys-con.com
 0.0.0.0 banners.thomsonlocal.com
 0.0.0.0 banners.videosz.com
 0.0.0.0 banners.virtuagirlhd.com
@@ -2289,7 +2289,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 offerforge.com
 0.0.0.0 offermatica.com
 0.0.0.0 ogury.com
-0.0.0.0 olivebrandresponse.com
 0.0.0.0 omnijay.com
 0.0.0.0 omniscientspark.com
 0.0.0.0 omniture.com
