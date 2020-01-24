@@ -7046,7 +7046,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.kochava.com
 127.0.0.1 api.kurioapps.com
 127.0.0.1 api.lanistaads.com
-127.0.0.1 api.layer.com
 127.0.0.1 api.leadbolt.net
 127.0.0.1 api.leadpages.io
 127.0.0.1 api.leanplum.com
@@ -9941,7 +9940,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 capping.mgid.com
 127.0.0.1 captainbicycle.com
 127.0.0.1 capture.condenastdigital.com
-127.0.0.1 capture.trackjs.com
 127.0.0.1 car-donation.shengen.ru
 127.0.0.1 car-insurance.inshurance-from.com
 127.0.0.1 car-loan.shengen.ru
@@ -10393,7 +10391,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.komoona.com
 127.0.0.1 cdn.krxd.net
 127.0.0.1 cdn.kuaidi100.com
-127.0.0.1 cdn.layer.com
 127.0.0.1 cdn.lazymem.com
 127.0.0.1 cdn.lazymic.com
 127.0.0.1 cdn.lentainform.com
@@ -18362,7 +18359,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 investopedia.us.intellitxt.com
 127.0.0.1 investoradbg.hit.gemius.pl
 127.0.0.1 investorbg.adocean.pl
-127.0.0.1 investors.fyber.com
 127.0.0.1 invideo.ero-advertising.com
 127.0.0.1 invitation.opinionbar.com
 127.0.0.1 invite.gezinti.com
@@ -18880,7 +18876,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 jsc.marketgid.com
 127.0.0.1 jsc.mgid.com
 127.0.0.1 jscdn.appier.net
-127.0.0.1 jscount.com
 127.0.0.1 jsd.supersonicads.com
 127.0.0.1 jsecoin.com
 127.0.0.1 jsfp.coremetrics.com
@@ -25118,7 +25113,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 popups.infostart.com
 127.0.0.1 popuptraf.ru
 127.0.0.1 popuptraffic.com
-127.0.0.1 popwebfun.com
 127.0.0.1 porn.mtree.com
 127.0.0.1 porngraph.com
 127.0.0.1 pornstargals.com
@@ -32244,8 +32238,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 truehits2.gits.net.th
 127.0.0.1 truevalue.d2.sc.omtrdc.net
 127.0.0.1 trunk.guce.adtech.de
-127.0.0.1 trunkclub-api.layer.com
-127.0.0.1 trunkclub-websockets.layer.com
 127.0.0.1 truoctran.com
 127.0.0.1 trustaffs.com
 127.0.0.1 trustedmaccleaner.com

@@ -2283,7 +2283,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.kochava.com
 0.0.0.0 api.kurioapps.com
 0.0.0.0 api.lanistaads.com
-0.0.0.0 api.layer.com
 0.0.0.0 api.leadbolt.net
 0.0.0.0 api.leadpages.io
 0.0.0.0 api.leanplum.com
@@ -3429,7 +3428,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 capacitly.com
 0.0.0.0 capping.lentainform.com
 0.0.0.0 capping.mgid.com
-0.0.0.0 capture.trackjs.com
 0.0.0.0 carambo.la
 0.0.0.0 carambola-d.openx.net
 0.0.0.0 carambola-tagan.adlightning.com
@@ -3639,7 +3637,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.keywee.co
 0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn.kuaidi100.com
-0.0.0.0 cdn.layer.com
 0.0.0.0 cdn.lentainform.com
 0.0.0.0 cdn.lfstmedia.com
 0.0.0.0 cdn.liftoff.io
@@ -3709,7 +3706,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.teads.tv
 0.0.0.0 cdn.thumbs.glispa.com
 0.0.0.0 cdn.tinypass.com
-0.0.0.0 cdn.trackjs.com
 0.0.0.0 cdn.tremorhub.com
 0.0.0.0 cdn.unityads.unity3d.com
 0.0.0.0 cdn.vdopia.com
@@ -6486,7 +6482,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 intowow.com
 0.0.0.0 inuvi.com
 0.0.0.0 investingapp.net
-0.0.0.0 investors.fyber.com
 0.0.0.0 io-cdn.bfmio.com
 0.0.0.0 io.innertrends.com
 0.0.0.0 io.narrative.io
@@ -6649,7 +6644,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 jsc.marketgid.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 jscdn.appier.net
-0.0.0.0 jscount.com
 0.0.0.0 jsd.supersonicads.com
 0.0.0.0 jslog.krxd.net
 0.0.0.0 jsn.mgid.com
@@ -6671,7 +6665,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 justad.mobi
 0.0.0.0 justjared.crwdcntrl.net
 0.0.0.0 justpremium-d.openx.net
-0.0.0.0 justwebads.com
 0.0.0.0 juxiao.mediav.com
 0.0.0.0 jwa-d.openx.net
 0.0.0.0 k.streamrail.com
@@ -7710,7 +7703,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 my.aip.insightexpressai.com
 0.0.0.0 my.comscore.com
 0.0.0.0 my.rtmark.net
-0.0.0.0 my.trackjs.com
 0.0.0.0 mybestmv.com
 0.0.0.0 mybuys.com
 0.0.0.0 mycdn.media.net
@@ -7807,7 +7799,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 neo.go.sonobi.com
 0.0.0.0 neoban.su
 0.0.0.0 neptun-vm.mgid.com
-0.0.0.0 nervoussummer.com
 0.0.0.0 net.rayjump.com
 0.0.0.0 net.salmonads.com
 0.0.0.0 netavenir.com
@@ -8574,7 +8565,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 poptm.com
 0.0.0.0 popunderz.com
 0.0.0.0 popup.taboola.com
-0.0.0.0 popwebfun.com
 0.0.0.0 portallb.leadforensics.com
 0.0.0.0 pos.baidu.com
 0.0.0.0 pos.punchh.com
@@ -10288,6 +10278,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 static.ad-maven.com
 0.0.0.0 static.ad.org.vn
 0.0.0.0 static.adacado.com
+0.0.0.0 static.adfarm1.adition.com
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.ads.apusapps.com
 0.0.0.0 static.adsafeprotected.com
@@ -11232,8 +11223,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 trk.wrinkads.com
 0.0.0.0 trueblue-sdkapi.onereach.com
 0.0.0.0 trunk.guce.adtech.de
-0.0.0.0 trunkclub-api.layer.com
-0.0.0.0 trunkclub-websockets.layer.com
 0.0.0.0 truoctran.com
 0.0.0.0 trx.kurioapps.com
 0.0.0.0 trx.mxmfb.com
@@ -11459,7 +11448,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 usadmm-ds.dotomi.com
 0.0.0.0 usadmm.dotomi.com
 0.0.0.0 usage.appmachine.com
-0.0.0.0 usage.trackjs.com
 0.0.0.0 usasync01.admantx.com
 0.0.0.0 usatodaysports-d.openx.net
 0.0.0.0 usc.adserver.snapads.com

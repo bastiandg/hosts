@@ -7046,7 +7046,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.kochava.com
 0.0.0.0 api.kurioapps.com
 0.0.0.0 api.lanistaads.com
-0.0.0.0 api.layer.com
 0.0.0.0 api.leadbolt.net
 0.0.0.0 api.leadpages.io
 0.0.0.0 api.leanplum.com
@@ -9941,7 +9940,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 capping.mgid.com
 0.0.0.0 captainbicycle.com
 0.0.0.0 capture.condenastdigital.com
-0.0.0.0 capture.trackjs.com
 0.0.0.0 car-donation.shengen.ru
 0.0.0.0 car-insurance.inshurance-from.com
 0.0.0.0 car-loan.shengen.ru
@@ -10393,7 +10391,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.komoona.com
 0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn.kuaidi100.com
-0.0.0.0 cdn.layer.com
 0.0.0.0 cdn.lazymem.com
 0.0.0.0 cdn.lazymic.com
 0.0.0.0 cdn.lentainform.com
@@ -18362,7 +18359,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 investopedia.us.intellitxt.com
 0.0.0.0 investoradbg.hit.gemius.pl
 0.0.0.0 investorbg.adocean.pl
-0.0.0.0 investors.fyber.com
 0.0.0.0 invideo.ero-advertising.com
 0.0.0.0 invitation.opinionbar.com
 0.0.0.0 invite.gezinti.com
@@ -18880,7 +18876,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 jsc.marketgid.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 jscdn.appier.net
-0.0.0.0 jscount.com
 0.0.0.0 jsd.supersonicads.com
 0.0.0.0 jsecoin.com
 0.0.0.0 jsfp.coremetrics.com
@@ -25118,7 +25113,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 popups.infostart.com
 0.0.0.0 popuptraf.ru
 0.0.0.0 popuptraffic.com
-0.0.0.0 popwebfun.com
 0.0.0.0 porn.mtree.com
 0.0.0.0 porngraph.com
 0.0.0.0 pornstargals.com
@@ -32244,8 +32238,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 truehits2.gits.net.th
 0.0.0.0 truevalue.d2.sc.omtrdc.net
 0.0.0.0 trunk.guce.adtech.de
-0.0.0.0 trunkclub-api.layer.com
-0.0.0.0 trunkclub-websockets.layer.com
 0.0.0.0 truoctran.com
 0.0.0.0 trustaffs.com
 0.0.0.0 trustedmaccleaner.com
