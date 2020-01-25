@@ -29898,6 +29898,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 stats5.lightningcast.com
 0.0.0.0 stats6.lightningcast.net
 0.0.0.0 statse.webtrendslive.com
+0.0.0.0 statserv.net
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 statsgoogle.appsflyer.com
 0.0.0.0 statsie.com

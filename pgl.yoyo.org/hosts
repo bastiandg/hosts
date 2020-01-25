@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 25 Jan 2020 16:55:36 GMT
-# entries:        3261
+# last updated:   Sat, 25 Jan 2020 21:39:37 GMT
+# entries:        3262
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2853,6 +2853,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 stats.x14.eu
 127.0.0.1 stats2.self.com
 127.0.0.1 stats4all.com
+127.0.0.1 statserv.net
 127.0.0.1 statsie.com
 127.0.0.1 statxpress.com
 127.0.0.1 steadfastsound.com
