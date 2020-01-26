@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 25 Jan 2020 21:39:37 GMT
-# entries:        3262
+# last updated:   Sun, 26 Jan 2020 08:38:58 GMT
+# entries:        3263
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1065,6 +1065,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 backbeatmedia.com
 127.0.0.1 balancebreath.com
 127.0.0.1 balloontexture.com
+127.0.0.1 bamgrid.com
 127.0.0.1 banik.redigy.cz
 127.0.0.1 banner-exchange-24.de
 127.0.0.1 banner.ad.nu
