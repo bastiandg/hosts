@@ -7106,7 +7106,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mapi.apptimize.com
 0.0.0.0 mapping.adsame.com
 0.0.0.0 maps.amung.us
-0.0.0.0 maps.locationiq.com
 0.0.0.0 maps.locuslabs.com
 0.0.0.0 marfeel.com
 0.0.0.0 marinsm.com
@@ -9052,7 +9051,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 rest.dynamicyield.com
 0.0.0.0 rest.iad-01.braze.com
 0.0.0.0 rest.iad-03.braze.com
-0.0.0.0 rest.locategy.com
 0.0.0.0 rest.mobilerealtyapps.com
 0.0.0.0 rest.segmentify.com
 0.0.0.0 rest.sharethis.com
@@ -10875,10 +10873,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tie.247-inc.net
 0.0.0.0 tikivn.api.sociaplus.com
 0.0.0.0 tile-api.inrix.com
-0.0.0.0 tile0.locatienet.com
-0.0.0.0 tile1.locatienet.com
-0.0.0.0 tile2.locatienet.com
-0.0.0.0 tile3.locatienet.com
 0.0.0.0 tileswan.cmcm.com
 0.0.0.0 timbol.iad-03.braze.com
 0.0.0.0 timeanddate-d.openx.net
@@ -11435,7 +11429,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 us01.rayjump.com
 0.0.0.0 us01.salmonads.com
 0.0.0.0 us01.smardroid.com
-0.0.0.0 us1.locationiq.com
 0.0.0.0 us1.splicky.com
 0.0.0.0 us2.splicky.com
 0.0.0.0 us3.splicky.com
