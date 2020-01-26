@@ -1677,6 +1677,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 frailoffer.com
 0.0.0.0 free-banners.com
 0.0.0.0 freebanner.com
+0.0.0.0 freecounterstat.com
 0.0.0.0 freelogs.com
 0.0.0.0 freeonlineusers.com
 0.0.0.0 freepay.com
@@ -2935,6 +2936,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 thruport.com
 0.0.0.0 tia.timeinc.net
 0.0.0.0 ticklesign.com
+0.0.0.0 ticksel.com
 0.0.0.0 tidaltv.com
 0.0.0.0 tinybar.com
 0.0.0.0 tls.telemetry.swe.quicinc.com

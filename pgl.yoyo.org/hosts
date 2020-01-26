@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 26 Jan 2020 12:49:28 GMT
-# entries:        3266
+# last updated:   Sun, 26 Jan 2020 18:30:52 GMT
+# entries:        3268
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1704,6 +1704,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 frailoffer.com
 127.0.0.1 free-banners.com
 127.0.0.1 freebanner.com
+127.0.0.1 freecounterstat.com
 127.0.0.1 freelogs.com
 127.0.0.1 freeonlineusers.com
 127.0.0.1 freepay.com
@@ -2962,6 +2963,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 thruport.com
 127.0.0.1 tia.timeinc.net
 127.0.0.1 ticklesign.com
+127.0.0.1 ticksel.com
 127.0.0.1 tidaltv.com
 127.0.0.1 tinybar.com
 127.0.0.1 tls.telemetry.swe.quicinc.com
