@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 26 Jan 2020 08:38:58 GMT
-# entries:        3263
+# last updated:   Sun, 26 Jan 2020 10:54:16 GMT
+# entries:        3265
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2074,6 +2074,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 loudloss.com
 127.0.0.1 loudlunch.com
 127.0.0.1 lp3tdqle.com
+127.0.0.1 ltmastos.com
 127.0.0.1 lucidmedia.com
 127.0.0.1 lucklayed.info
 127.0.0.1 lumpyleaf.com
@@ -2910,6 +2911,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tamgrt.com
 127.0.0.1 tangerinenet.biz
 127.0.0.1 tangibleteam.com
+127.0.0.1 tankeuro.com
 127.0.0.1 tapad.com
 127.0.0.1 tapfiliate.com
 127.0.0.1 tapinfluence.com
