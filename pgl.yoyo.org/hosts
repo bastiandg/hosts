@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 26 Jan 2020 10:54:16 GMT
-# entries:        3265
+# last updated:   Sun, 26 Jan 2020 12:49:28 GMT
+# entries:        3266
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1978,6 +1978,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 keywee.co
 127.0.0.1 kindads.com
 127.0.0.1 kissmetrics.com
+127.0.0.1 klclick.com
 127.0.0.1 kliks.nl
 127.0.0.1 klsdee.com
 127.0.0.1 kmpiframe.keepmeposted.com.mt
