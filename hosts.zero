@@ -9098,6 +9098,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 blockadblock.com
 0.0.0.0 blockmetrics.com
 0.0.0.0 blockshopper-d.openx.net
+0.0.0.0 blockthrough.com
 0.0.0.0 blog.addthis.com
 0.0.0.0 blog.byethost.com
 0.0.0.0 blog.replacemycontacts.com
@@ -25231,6 +25232,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 prebid.districtm.ca
 0.0.0.0 prebid.media.net
+0.0.0.0 prebid.org
 0.0.0.0 precisioncounter.com
 0.0.0.0 predictad.com
 0.0.0.0 predictiondisplay.com
@@ -30758,6 +30760,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tealand.cmcm.com
 0.0.0.0 tealeaf.com
 0.0.0.0 tealeaf.ibmcloud.com
+0.0.0.0 tealium.com
 0.0.0.0 tealium.hs.llnwd.net
 0.0.0.0 tealiumiq.com
 0.0.0.0 team4heat.net
@@ -32089,6 +32092,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 trafficbee.com
 0.0.0.0 trafficex.adlandpro.com
 0.0.0.0 trafficfactory.biz
+0.0.0.0 trafficforce.com
 0.0.0.0 trafficg.com
 0.0.0.0 trafficgateway.research-int.se
 0.0.0.0 trafficgrowth.com
@@ -32264,6 +32268,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 trustedmacleaner.work
 0.0.0.0 trustgauge.com
 0.0.0.0 trustsitesite.com
+0.0.0.0 trustx.org
 0.0.0.0 trvlnet-images.adbureau.net
 0.0.0.0 trvlnet.adbureau.net
 0.0.0.0 trw12.com

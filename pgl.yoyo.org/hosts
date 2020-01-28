@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 28 Jan 2020 10:45:27 GMT
-# entries:        3284
+# last updated:   Tue, 28 Jan 2020 14:23:50 GMT
+# entries:        3291
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1196,6 +1196,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 blingbucks.com
 127.0.0.1 blis.com
 127.0.0.1 blockadblock.com
+127.0.0.1 blockthrough.com
 127.0.0.1 blogads.com
 127.0.0.1 blogcounter.de
 127.0.0.1 blogherads.com
@@ -2295,6 +2296,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 newstarads.com
 127.0.0.1 newt1.adultadworld.com
 127.0.0.1 newt1.adultworld.com
+127.0.0.1 nexac.com
 127.0.0.1 nexage.com
 127.0.0.1 ng3.ads.warnerbros.com
 127.0.0.1 nhpfvdlbjg.com
@@ -2306,6 +2308,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 nondescriptstocking.com
 127.0.0.1 novem.pl
 127.0.0.1 npttech.com
+127.0.0.1 nr-data.net
 127.0.0.1 ns1p.net
 127.0.0.1 ntv.io
 127.0.0.1 ntvk1.ru
@@ -2477,6 +2480,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 pr-star.de
 127.0.0.1 praddpro.de
 127.0.0.1 prchecker.info
+127.0.0.1 prebid.org
 127.0.0.1 predictad.com
 127.0.0.1 premium-offers.com
 127.0.0.1 presetrabbits.com
@@ -2945,6 +2949,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tdxio.com
 127.0.0.1 teads.tv
 127.0.0.1 tealeaf.com
+127.0.0.1 tealium.com
 127.0.0.1 tealiumiq.com
 127.0.0.1 techclicks.net
 127.0.0.1 tedioustooth.com
@@ -3062,6 +3067,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 traffic-exchange.com
 127.0.0.1 traffic.focuusing.com
 127.0.0.1 trafficfactory.biz
+127.0.0.1 trafficforce.com
 127.0.0.1 trafficholder.com
 127.0.0.1 traffichunt.com
 127.0.0.1 trafficjunky.net
@@ -3098,6 +3104,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 truehits.net
 127.0.0.1 truehits1.gits.net.th
 127.0.0.1 truehits2.gits.net.th
+127.0.0.1 trustx.org
 127.0.0.1 tsyndicate.com
 127.0.0.1 tubemogul.com
 127.0.0.1 turboadv.com
