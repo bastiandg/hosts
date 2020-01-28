@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 28 Jan 2020 08:00:49 GMT
-# entries:        3270
+# last updated:   Tue, 28 Jan 2020 10:45:27 GMT
+# entries:        3284
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -269,6 +269,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adhaven.com
 127.0.0.1 adhese.be
 127.0.0.1 adhese.com
+127.0.0.1 adhigh.net
 127.0.0.1 adhoc4.net
 127.0.0.1 adhunter.media
 127.0.0.1 adimage.guardian.co.uk
@@ -1176,6 +1177,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 bidr.io
 127.0.0.1 bidsopt.com
 127.0.0.1 bidswitch.net
+127.0.0.1 bidtellect.com
 127.0.0.1 bidvertiser.com
 127.0.0.1 big-bang-ads.com
 127.0.0.1 bigbangmedia.com
@@ -1238,6 +1240,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 broaddoor.com
 127.0.0.1 bs.yandex.ru
 127.0.0.1 btez8.xyz
+127.0.0.1 btrll.com
 127.0.0.1 bttrack.com
 127.0.0.1 bucketbean.com
 127.0.0.1 budsinc.com
@@ -1282,6 +1285,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.segment.com
 127.0.0.1 cecash.com
+127.0.0.1 cedato.com
+127.0.0.1 celtra.com
 127.0.0.1 centerpointmedia.com
 127.0.0.1 ceskydomov.alias.ngs.modry.cz
 127.0.0.1 cetrk.com
@@ -1382,6 +1387,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 comprabanner.it
 127.0.0.1 concernedcondition.com
 127.0.0.1 concernrain.com
+127.0.0.1 conductrics.com
 127.0.0.1 connatix.com
 127.0.0.1 connextra.com
 127.0.0.1 consciouschairs.com
@@ -1595,6 +1601,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 emjcd.com
 127.0.0.1 emltrk.com
 127.0.0.1 emodoinc.com
+127.0.0.1 emxdigital.com
 127.0.0.1 en25.com
 127.0.0.1 encouragingwilderness.com
 127.0.0.1 endurableshop.com
@@ -1636,6 +1643,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 exchangead.com
 127.0.0.1 exchangeclicksonline.com
 127.0.0.1 exclusivebrass.com
+127.0.0.1 exelate.com
 127.0.0.1 exelator.com
 127.0.0.1 exit76.com
 127.0.0.1 exitexchange.com
@@ -1728,6 +1736,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 fuzzyflavor.com
 127.0.0.1 fuzzyweather.com
 127.0.0.1 fxstyle.net
+127.0.0.1 fyber.com
 127.0.0.1 ga.clearbit.com
 127.0.0.1 ga87z2o.com
 127.0.0.1 gadsbee.com
@@ -1744,6 +1753,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 georiot.com
 127.0.0.1 geovisite.com
 127.0.0.1 getclicky.com
+127.0.0.1 getintent.com
 127.0.0.1 giddycoat.com
 127.0.0.1 globalismedia.com
 127.0.0.1 globaltakeoff.net
@@ -1779,6 +1789,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 greyinstrument.com
 127.0.0.1 greystripe.com
 127.0.0.1 groundtruth.com
+127.0.0.1 gscontxt.net
 127.0.0.1 gtop100.com
 127.0.0.1 guardedschool.com
 127.0.0.1 gunggo.com
@@ -1889,6 +1900,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 impossibleexpansion.com
 127.0.0.1 imprese.cz
 127.0.0.1 impressionmedia.cz
+127.0.0.1 impressionmonster.com
 127.0.0.1 impressionz.co.uk
 127.0.0.1 improvedigital.com
 127.0.0.1 impulsehands.com
@@ -1910,6 +1922,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 infolinks.com
 127.0.0.1 information.com
 127.0.0.1 inmobi.com
+127.0.0.1 inner-active.com
 127.0.0.1 innocentwax.com
 127.0.0.1 innovid.com
 127.0.0.1 inquisitiveinvention.com
@@ -1922,6 +1935,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 inspectorclick.com
 127.0.0.1 install.365-stream.com
 127.0.0.1 instantmadness.com
+127.0.0.1 insticator.com
 127.0.0.1 instinctiveads.com
 127.0.0.1 instrumentsponge.com
 127.0.0.1 intelliads.com
