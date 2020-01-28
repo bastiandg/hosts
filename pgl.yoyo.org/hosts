@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 28 Jan 2020 14:23:50 GMT
-# entries:        3291
+# last updated:   Tue, 28 Jan 2020 17:44:35 GMT
+# entries:        3295
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1614,6 +1614,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 entercasino.com
 127.0.0.1 enthusiasticdad.com
 127.0.0.1 entrecard.s3.amazonaws.com
+127.0.0.1 entremental.com
 127.0.0.1 enviousthread.com
 127.0.0.1 epom.com
 127.0.0.1 eqads.com
@@ -1755,6 +1756,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 geovisite.com
 127.0.0.1 getclicky.com
 127.0.0.1 getintent.com
+127.0.0.1 gezginsepeti.com
 127.0.0.1 giddycoat.com
 127.0.0.1 globalismedia.com
 127.0.0.1 globaltakeoff.net
@@ -2495,6 +2497,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 proext.com
 127.0.0.1 profero.com
 127.0.0.1 profitrumour.com
+127.0.0.1 profscribe.com
 127.0.0.1 programattik.com
 127.0.0.1 projectwonderful.com
 127.0.0.1 promo.badoink.com
@@ -2680,6 +2683,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 rubiconproject.com
 127.0.0.1 runads.com
 127.0.0.1 rundsp.com
+127.0.0.1 runoutsoftware.com
 127.0.0.1 ruthlessrobin.com
 127.0.0.1 s.adroll.com
 127.0.0.1 s2d6.com
