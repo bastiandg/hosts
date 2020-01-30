@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 29 Jan 2020 16:22:55 GMT
-# entries:        3294
+# last updated:   Thu, 30 Jan 2020 15:59:53 GMT
+# entries:        3296
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1212,6 +1212,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 blushingboundary.com
 127.0.0.1 bm.annonce.cz
 127.0.0.1 bn.bfast.com
+127.0.0.1 bnnrrv.qontentum.de
 127.0.0.1 boersego-ads.de
 127.0.0.1 boffoadsapi.com
 127.0.0.1 boilingbeetle.com
@@ -1558,6 +1559,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 dstillery.com
 127.0.0.1 dynamic.fmpub.net
 127.0.0.1 dyntrk.com
+127.0.0.1 dzairads.com
 127.0.0.1 e-adimages.scrippsnetworks.com
 127.0.0.1 e-bannerx.com
 127.0.0.1 e-debtconsolidation.com
