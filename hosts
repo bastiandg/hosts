@@ -6998,7 +6998,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.europe.bidtellect.com
 127.0.0.1 api.exc.mob.com
 127.0.0.1 api.factual.com
-127.0.0.1 api.finanzen.immobilienscout24.de
 127.0.0.1 api.flurry.com
 127.0.0.1 api.fortumo.com
 127.0.0.1 api.foursquare.com
@@ -7074,7 +7073,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.mobadvent.com
 127.0.0.1 api.mobcells.com
 127.0.0.1 api.mobeacon.mobisky.pl
-127.0.0.1 api.mobile.immobilienscout24.de
 127.0.0.1 api.mobileanjian.com
 127.0.0.1 api.mobileapptracking.com
 127.0.0.1 api.mobilearts.io
@@ -7132,7 +7130,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.queryly.com
 127.0.0.1 api.radar.io
 127.0.0.1 api.rec.mob.com
-127.0.0.1 api.recommendation.immobilienscout24.de
 127.0.0.1 api.recorder.duapps.com
 127.0.0.1 api.redshell.io
 127.0.0.1 api.restartad.com
@@ -8253,7 +8250,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ballsack.org
 127.0.0.1 bam-pilot.iovation.com
 127.0.0.1 bam.nr-data.net
-127.0.0.1 bamgrid.com
 127.0.0.1 bamulat.blogspot.hu
 127.0.0.1 ban.xpays.com
 127.0.0.1 bananacashback.com

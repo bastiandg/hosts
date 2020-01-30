@@ -1250,7 +1250,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.google.com
 0.0.0.0 ads.ibtracking.com
 0.0.0.0 ads.icloseli.com
-0.0.0.0 ads.immobilienscout24.de
 0.0.0.0 ads.inmobi.com
 0.0.0.0 ads.intentiq.com
 0.0.0.0 ads.intergi.com
@@ -2238,7 +2237,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.europe.bidtellect.com
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.factual.com
-0.0.0.0 api.finanzen.immobilienscout24.de
 0.0.0.0 api.flurry.com
 0.0.0.0 api.fortumo.com
 0.0.0.0 api.foursquare.com
@@ -2307,7 +2305,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.mobadvent.com
 0.0.0.0 api.mobcells.com
 0.0.0.0 api.mobeacon.mobisky.pl
-0.0.0.0 api.mobile.immobilienscout24.de
 0.0.0.0 api.mobileanjian.com
 0.0.0.0 api.mobileapptracking.com
 0.0.0.0 api.mobilearts.io
@@ -2363,7 +2360,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.queryly.com
 0.0.0.0 api.radar.io
 0.0.0.0 api.rec.mob.com
-0.0.0.0 api.recommendation.immobilienscout24.de
 0.0.0.0 api.recorder.duapps.com
 0.0.0.0 api.redshell.io
 0.0.0.0 api.restartad.com
@@ -11107,7 +11103,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracking.feedmob.com
 0.0.0.0 tracking.feedperfect.com
 0.0.0.0 tracking.fyber.com
-0.0.0.0 tracking.immobilienscout24.de
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.italiamobilesrl.it
 0.0.0.0 tracking.justpremium.com
