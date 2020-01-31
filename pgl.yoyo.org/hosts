@@ -21,7 +21,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 30 Jan 2020 17:49:49 GMT
+# last updated:   Fri, 31 Jan 2020 07:26:36 GMT
 # entries:        3299
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -1229,7 +1229,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 bpath.com
 127.0.0.1 bpu.samsungelectronics.com
 127.0.0.1 braincash.com
-127.0.0.1 branch.io
 127.0.0.1 brand-display.com
 127.0.0.1 brandreachsys.com
 127.0.0.1 brassrule.com
@@ -1284,6 +1283,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 casterist.info
 127.0.0.1 cbanners.virtuagirlhd.com
 127.0.0.1 cdn.bannerflow.com
+127.0.0.1 cdn.branch.io
 127.0.0.1 cdn.freefarcy.com
 127.0.0.1 cdn.heapanalytics.com
 127.0.0.1 cdn.onesignal.com
