@@ -529,6 +529,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 30913.api.swrve.com
 127.0.0.1 30913.content.swrve.com
 127.0.0.1 30ads.com
+127.0.0.1 31026.api.swrve.com
+127.0.0.1 31026.content.swrve.com
 127.0.0.1 312.1d27c9b8fb.com
 127.0.0.1 31335.hittail.com
 127.0.0.1 314.hittail.com
@@ -9226,6 +9228,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bostoncommonpress.112.2o7.net
 127.0.0.1 bostonglobe.demdex.net
 127.0.0.1 bostonsubwayoffer.com
+127.0.0.1 bot.whatismyipaddress.com
 127.0.0.1 botd.wordpress.com
 127.0.0.1 botd2.wordpress.com
 127.0.0.1 bottle-brush.tagboard.com.herokudns.com
@@ -9608,6 +9611,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.ecliks.com
 127.0.0.1 c.effectivemeasure.net
 127.0.0.1 c.es.msn.com
+127.0.0.1 c.evidon.com
 127.0.0.1 c.f5mtrack.com
 127.0.0.1 c.fi.msn.com
 127.0.0.1 c.flx1.com
@@ -10173,6 +10177,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn-traffic-director.krxd.net
 127.0.0.1 cdn-usent.kampyle.com
 127.0.0.1 cdn-v3.conductrics.com
+127.0.0.1 cdn-webview-pge.unityads.unity3d.com
 127.0.0.1 cdn.3lift.com
 127.0.0.1 cdn.88-f.net
 127.0.0.1 cdn.8digits.com
@@ -11910,6 +11915,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 conversionbet.com
 127.0.0.1 conversionruler.com
 127.0.0.1 conversions.adaptv.advertising.com
+127.0.0.1 conversions.appsflyer.com
 127.0.0.1 convert.bounceexchange.com
 127.0.0.1 convertro.com
 127.0.0.1 convhkmp.taboola.com
@@ -12934,6 +12940,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 datingadvertising.com
 127.0.0.1 datnentayhanoi.info
 127.0.0.1 datplus.springserve.com
+127.0.0.1 dau.fyber.com
 127.0.0.1 daviik.iad-03.braze.com
 127.0.0.1 dawnframing.com
 127.0.0.1 dawnnationaladvertiser.com
@@ -14741,6 +14748,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 events.avantisvideo.com
 127.0.0.1 events.boomtrain.com
 127.0.0.1 events.branch.io
+127.0.0.1 events.browsiprod.com
 127.0.0.1 events.cid.samba.tv
 127.0.0.1 events.engageya.com
 127.0.0.1 events.foreseeresults.com
@@ -16828,6 +16836,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hbopenbid-sg.pubmatic.com
 127.0.0.1 hbopenbid-sgc.pubmatic.com
 127.0.0.1 hbopenbid.pubmatic.com
+127.0.0.1 hbsdk-config.log.smaato.net
 127.0.0.1 hc.baidu.com
 127.0.0.1 hc2.humanclick.com
 127.0.0.1 hcg82f2b.com
@@ -18420,6 +18429,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 iownit.optimizely.com
 127.0.0.1 ip-182-50-129-164.ip.secureserver.net
 127.0.0.1 ip-182-50-129-181.ip.secureserver.net
+127.0.0.1 ip-api.com
 127.0.0.1 ip-geo.appspot.com
 127.0.0.1 ip-sec.casalemedia.com
 127.0.0.1 ip.casalemedia.com
@@ -20089,6 +20099,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 m.openv.tv
 127.0.0.1 m.pl.pornzone.tv
 127.0.0.1 m.quantcount.com
+127.0.0.1 m.quantserve.com
 127.0.0.1 m.sancdn.net
 127.0.0.1 m.servebom.com
 127.0.0.1 m.servedby-buysellads.com
@@ -21114,6 +21125,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mediation-sdk.hyprmx.com
 127.0.0.1 mediation.adnxs.com
 127.0.0.1 mediation.adpushup.com
+127.0.0.1 mediation.fyber.com
 127.0.0.1 mediation1.apptornado.com
 127.0.0.1 mediative.ca
 127.0.0.1 mediative.com
@@ -24160,6 +24172,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 p.reuters.com
 127.0.0.1 p.rfihub.com
 127.0.0.1 p.share.mob.com
+127.0.0.1 p.skimresources.com
 127.0.0.1 p.tanx.com
 127.0.0.1 p.teads.tv
 127.0.0.1 p.ttwitter.com
@@ -26896,6 +26909,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rum-static.pingdom.net
 127.0.0.1 rum.optimizely.com
 127.0.0.1 rum.wpm.neustar.biz
+127.0.0.1 rumcdn.geoedge.be
 127.0.0.1 rumds.wpdigital.net
 127.0.0.1 rumog.frost-electric-supply.com
 127.0.0.1 rumorfix.us.intellitxt.com
@@ -27546,6 +27560,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sdk-endpoint.prod.tda.link
 127.0.0.1 sdk-events.inner-active.mobi
 127.0.0.1 sdk-h5-cdn.rayjoy.com
+127.0.0.1 sdk-hb-cfg.smaato.net
 127.0.0.1 sdk-info.gimbal.com
 127.0.0.1 sdk-ios.ad.smaato.net
 127.0.0.1 sdk-key.ulsee.com
@@ -29003,6 +29018,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 spl1.ha1.yumenetworks.com
 127.0.0.1 spl1.yumenetworks.com
 127.0.0.1 spl2.yumenetworks.com
+127.0.0.1 splash-screen.voodoo-ads.io
 127.0.0.1 splash.appsgeyser.com
 127.0.0.1 splashnews.uk.intellitxt.com
 127.0.0.1 splicky.com
@@ -30258,6 +30274,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sync.adkernel.com
 127.0.0.1 sync.adotmob.com
 127.0.0.1 sync.adspruce.com
+127.0.0.1 sync.adtelligent.com
 127.0.0.1 sync.alphonso.tv
 127.0.0.1 sync.apesvr.com
 127.0.0.1 sync.aralego.com
@@ -30282,6 +30299,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sync.monarchads.com
 127.0.0.1 sync.outbrain.com
 127.0.0.1 sync.pulseradius.com
+127.0.0.1 sync.republer.com
 127.0.0.1 sync.rhythmxchange.com
 127.0.0.1 sync.richmetrics.com
 127.0.0.1 sync.search.spotxchange.com
@@ -31844,6 +31862,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracker1.leadiya.com
 127.0.0.1 trackers.1st-affiliation.fr
 127.0.0.1 trackers.adtarget.me
+127.0.0.1 trackers.voodoo-analytics.io
 127.0.0.1 tracki112.com
 127.0.0.1 trackimpression.com
 127.0.0.1 tracking-ams5.cj.com
