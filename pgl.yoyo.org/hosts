@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 31 Jan 2020 07:26:36 GMT
-# entries:        3297
+# entries:        3295
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2604,6 +2604,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 recoco.it
 127.0.0.1 record.affiliates.karjalakasino.com
 127.0.0.1 record.bonniergaming.com
+127.0.0.1 record.mrwin.com
 127.0.0.1 redirectingat.com
 127.0.0.1 redirectvoluum.com
 127.0.0.1 redshell.io
@@ -2641,7 +2642,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 revenuedirect.com
 127.0.0.1 revenuehits.com
 127.0.0.1 revlift.io
-127.0.0.1 revsci.net
 127.0.0.1 revstats.com
 127.0.0.1 rhombusads.com
 127.0.0.1 rhythmone.com
@@ -2999,7 +2999,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tntclix.co.uk
 127.0.0.1 toecircle.com
 127.0.0.1 toothbrushnote.com
-127.0.0.1 top-casting-termine.de
 127.0.0.1 top-site-list.com
 127.0.0.1 top.list.ru
 127.0.0.1 top.mail.ru
@@ -3018,7 +3017,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 toplistcity.com
 127.0.0.1 topping.com.ua
 127.0.0.1 toprebates.com
-127.0.0.1 topsafelist.net
 127.0.0.1 topsir.com
 127.0.0.1 topsite.lv
 127.0.0.1 topsites.com.br
