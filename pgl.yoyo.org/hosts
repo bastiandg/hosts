@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 02 Feb 2020 10:08:56 GMT
-# entries:        3296
+# last updated:   Sun, 02 Feb 2020 19:06:45 GMT
+# entries:        3297
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1455,6 +1455,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 credishe.com
 127.0.0.1 creep.world
 127.0.0.1 criteo.com
+127.0.0.1 criteo.net
 127.0.0.1 critictruck.com
 127.0.0.1 croissed.info
 127.0.0.1 crowdgravity.com
