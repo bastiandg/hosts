@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 02 Feb 2020 19:06:45 GMT
-# entries:        3297
+# entries:        3296
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1741,7 +1741,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 fuzzyflavor.com
 127.0.0.1 fuzzyweather.com
 127.0.0.1 fxstyle.net
-127.0.0.1 fyber.com
 127.0.0.1 ga.clearbit.com
 127.0.0.1 ga87z2o.com
 127.0.0.1 gadsbee.com

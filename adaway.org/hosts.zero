@@ -8701,8 +8701,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 prov5.alphonso.tv
 0.0.0.0 provider.ad360.vn
 0.0.0.0 proximiio-bus.firebaseio.com
-0.0.0.0 proximity-a.wbx2.com
-0.0.0.0 proximity-one-static.wbx2.com
 0.0.0.0 proximity.zendesk.com
 0.0.0.0 proximitykit.radiusnetworks.com
 0.0.0.0 proximitykit.radiusnetworks.com.herokudns.com
