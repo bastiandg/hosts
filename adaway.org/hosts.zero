@@ -1718,7 +1718,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 aka-cdn.adtech.de
 0.0.0.0 akamai.cdneval.adnxs.com
 0.0.0.0 akamai.mathtag.com
-0.0.0.0 akamai.poxo.com
 0.0.0.0 akamai.smartadserver.com
 0.0.0.0 akamai.tags.tiqcdn.com
 0.0.0.0 akamai.vungle-cdn.vungle.com
@@ -1773,7 +1772,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 am15.net
 0.0.0.0 amazemobilemedia.com
 0.0.0.0 amazon-tam-match.dotomi.com
-0.0.0.0 amazon.poxo.com
 0.0.0.0 amazon.vrvm.com
 0.0.0.0 ambient-platform.com
 0.0.0.0 ambimob.com
@@ -6302,8 +6300,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 img06.en25.com
 0.0.0.0 img07.en25.com
 0.0.0.0 img2.autoimg.cn
-0.0.0.0 imgcdn.poxo.com
-0.0.0.0 imgcdn1.poxo.com
 0.0.0.0 imgg-cdn.mgid.com
 0.0.0.0 imgg-cdn.steepto.com
 0.0.0.0 imgg.mgid.com

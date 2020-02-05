@@ -6134,7 +6134,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 akamai.cdneval.adnxs.com
 127.0.0.1 akamai.invitemedia.com
 127.0.0.1 akamai.mathtag.com
-127.0.0.1 akamai.poxo.com
 127.0.0.1 akamai.smartadserver.com
 127.0.0.1 akamai.t.axf8.net
 127.0.0.1 akamai.tags.tiqcdn.com
@@ -6268,7 +6267,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 amazon-adsystem.com
 127.0.0.1 amazon-sicherheit.kunden-ueberpruefung.xyz
 127.0.0.1 amazon-tam-match.dotomi.com
-127.0.0.1 amazon.poxo.com
 127.0.0.1 amazon.vrvm.com
 127.0.0.1 amazonmerchants.122.2o7.net
 127.0.0.1 amazonshopbop.122.2o7.net
@@ -17939,8 +17937,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 imgad2.3conline.com
 127.0.0.1 imgad3.3conline.com
 127.0.0.1 imgc.psychcentral.com
-127.0.0.1 imgcdn.poxo.com
-127.0.0.1 imgcdn1.poxo.com
 127.0.0.1 imgg-cdn.adskeeper.co.uk
 127.0.0.1 imgg-cdn.mgid.com
 127.0.0.1 imgg-cdn.steepto.com
