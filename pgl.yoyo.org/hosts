@@ -65,6 +65,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 7search.com
 127.0.0.1 82o9v830.com
 127.0.0.1 99count.com
+127.0.0.1 a.aproductmsg.com
 127.0.0.1 a.consumer.net
 127.0.0.1 a.mktw.net
 127.0.0.1 a.sakh.com
@@ -180,7 +181,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad.thewheelof.com
 127.0.0.1 ad.turn.com
 127.0.0.1 ad.tv2.no
-127.0.0.1 ad.twitchguru.com
 127.0.0.1 ad.usatoday.com
 127.0.0.1 ad.virtual-nights.com
 127.0.0.1 ad.wavu.hu
