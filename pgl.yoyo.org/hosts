@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 02 Feb 2020 19:06:45 GMT
-# entries:        3296
+# entries:        3292
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -686,7 +686,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.yap.yahoo.com
 127.0.0.1 ads.yimg.com
 127.0.0.1 ads.yldmgrimg.net
-127.0.0.1 ads.yourfreedvds.com
 127.0.0.1 ads.youtube.com
 127.0.0.1 ads.zdnet.com
 127.0.0.1 ads.ztod.com
@@ -2622,7 +2621,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 reklamcsere.hu
 127.0.0.1 reklamdsp.com
 127.0.0.1 reklame.unwired-i.net
-127.0.0.1 reklamer.com.ua
 127.0.0.1 relevanz10.de
 127.0.0.1 relmaxtop.com
 127.0.0.1 remarketingpixel.com
@@ -2939,7 +2937,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tamgrt.com
 127.0.0.1 tangerinenet.biz
 127.0.0.1 tangibleteam.com
-127.0.0.1 tankeuro.com
 127.0.0.1 tapad.com
 127.0.0.1 tapfiliate.com
 127.0.0.1 tapinfluence.com
@@ -3085,7 +3082,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 trafficswarm.com
 127.0.0.1 traffictrader.net
 127.0.0.1 trafficz.com
-127.0.0.1 trafficz.net
 127.0.0.1 traffiq.com
 127.0.0.1 trafic.ro
 127.0.0.1 traktrafficflow.com
