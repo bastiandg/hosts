@@ -6436,6 +6436,7 @@ analytics-production.hapyak.com
 analytics-server.gimbal.com
 analytics-staging.tactilews.com
 analytics-static.ugc.bazaarvoice.com
+analytics-tracker.thescore.com
 analytics-v3.yinzcam.net
 analytics-wildtangent-yfdbl8gzl.stackpathdns.com
 analytics.163.com
@@ -6620,6 +6621,7 @@ anapixel.marca.com
 ancestrymsn.112.2o7.net
 ancestryuki.112.2o7.net
 anchor.stailamedia.com
+and-ads.pulse.weatherbug.net
 and.co.uk.102.122.2o7.net
 and07.adnow.com
 andelamobile-d.openx.net
@@ -6983,6 +6985,7 @@ api.crittercism.com
 api.crowdin.com
 api.crowdtangle.com
 api.crowdtwist.com
+api.datadoghq.com
 api.deep-ad.com.edgekey.net
 api.demandbase.com
 api.destinationrewards.com
@@ -7178,6 +7181,7 @@ api.umeng.com
 api.unbounce.com
 api.uprivaladserver.net
 api.usabilla.com
+api.usebutton.com
 api.usersnap.com
 api.veritix.com
 api.verticalscope.com
@@ -7458,6 +7462,7 @@ appapi.dlangemobile.com
 apparel-offer.com
 apparelncs.com
 appbaqend.com
+appboy-images.com
 appboy.com
 appboycdn.com
 appcache.admission.net
@@ -8012,6 +8017,7 @@ aussieroadtosuccess.com
 austria-car-rental.findworm.net
 austria.oewabox.at
 austria1.adverserve.net
+auth.follow-apps.com
 auth.nixozz.com
 authorne.info
 auto-bannertausch.de
@@ -8191,6 +8197,7 @@ b2u-system-err.icu
 b3-eu.mookie1.com
 b3-uk.mookie1.com
 b3.mookie1.com
+b343.playfabapi.com
 b34rightym.com
 b3a70b.t.axf8.net
 b3d.com
@@ -9834,6 +9841,7 @@ ca.res.keymedia.com
 ca1.metrics.backtrace.io
 ca3.revieworbit.com
 ca4.revieworbit.com
+ca87.playfabapi.com
 ca8g5.win
 cablevision.112.2o7.net
 cablyshaw.com
@@ -10328,6 +10336,7 @@ cdn.fastclick.net
 cdn.firstimpression.io
 cdn.firstlook.com
 cdn.flashtalking.com
+cdn.flurry.com
 cdn.fotoable.com
 cdn.fqtag.com
 cdn.freefaits.com
@@ -10449,6 +10458,7 @@ cdn.onscroll.com
 cdn.onthe.io
 cdn.opensubcontent.com
 cdn.optimatic.com
+cdn.optimizely.com
 cdn.optmd.com
 cdn.orbengine.com
 cdn.otherlevels.com
@@ -11565,6 +11575,7 @@ collect13353pldns.deltadna.net
 collect13365dngnh.deltadna.net
 collect13443hxbzz.deltadna.net
 collect13446fpcqz.deltadna.net
+collect13494dvntr.deltadna.net
 collect13566brrtb.deltadna.net
 collect13650lmrck.deltadna.net
 collect13800frdyt.deltadna.net
@@ -11631,6 +11642,7 @@ collector.capturly.com
 collector.cint.com
 collector.deepmetrix.com
 collector.doordash.com
+collector.effectivemeasure.net
 collector.githubapp.com
 collector.insight-stats.com
 collector.leaddyno.com
@@ -12377,6 +12389,7 @@ crm.ants.vn
 crmbuyer.us.intellitxt.com
 croissed.info
 crops.dunight.eu
+cross-promo.mwx.ext.mobilityware.com
 crossboardmobile.com
 crosspixel.demdex.net
 crosspromo-cdn.gamecircus.com
@@ -12772,6 +12785,7 @@ dashapi.chartbeat.com
 dashbida.com
 dashbo15myapp.com
 dashboard.adcalls.nl
+dashboard.localytics.com
 dashboardnew.adcalls.nl
 dashgreen.online
 dashingdirt.com
@@ -13057,6 +13071,7 @@ dearerfonder.info
 debonairway.com
 debt.shengen.ru
 debtbusterloans.com
+debug.aerserv.com
 debug.api.swrve.com
 decenterads.com
 decide.mixpanel.com
@@ -14583,6 +14598,7 @@ espdesign.com.au
 espn-ak.starwave.com
 espn.com.ssl.sc.omtrdc.net
 espn.footprint.net
+espn.hb.omtrdc.net
 espndotcom.tt.omtrdc.net
 espresso-reklam.eu
 esri.mobile311.com
@@ -15330,6 +15346,7 @@ flowers-offer.com
 flowgo.com
 fls-eu.amazon-adsystem.com
 fls-na.amazon-adsystem.com
+fls-na.amazon.com
 fls.au.doubleclick.net
 fls.doubleclick.net
 fls.uk.doubleclick.net
@@ -17704,6 +17721,7 @@ im.banner.t-online.de
 im.of.pl
 im.xo.pl
 im2.smartadserver.com
+im64.jpush.cn
 ima3vpaid.appspot.com
 imads.ero-advertising.com
 imads.integral-marketing.com
@@ -19506,6 +19524,7 @@ liberty.gedads.com
 libs.lavanetwork.net
 libs.outbrain.com
 licasd.com
+licensing.blinkreceipt.com
 liczniki.org
 lidlretargeting.adspirit.de
 lie2anyone.com
@@ -19521,6 +19540,7 @@ lightcushion.com
 lighthouse2k.com
 lightningcast.net
 lightspeedcash.com
+lightstep-collector.api.ua.com
 lignon.iad-03.braze.com
 ligtv.kokteyl.com
 lijit.com
@@ -19713,11 +19733,13 @@ log.byteoversea.com.edgekey.net
 log.clickstream.co.za
 log.cnt.re
 log.droid4x.cn
+log.espn.com
 log.fc.yahoo.com
 log.feedjit.com
 log.fotoable.com
 log.gds.mmstat.com
 log.getdropbox.com
+log.go.com
 log.hankooki.com
 log.hitsteps.com
 log.hm.baidu.com
@@ -19742,6 +19764,7 @@ log.optimizely.com
 log.oto.com.vn
 log.outbrain.com
 log.outbrain.org
+log.outbrainimg.com
 log.pinion.gg
 log.pinterest.com
 log.pladform.ru
@@ -19871,6 +19894,7 @@ logs.which.co.uk
 logs.xiti.com
 logs1122.xiti.com
 logs1125.xiti.com
+logs1202.xiti.com
 logs1204.xiti.com
 logs1242.xiti.com
 logsdk.qq.com
@@ -20438,6 +20462,7 @@ madisonavenue.com
 madnet.ru
 madpenguin.us.intellitxt.com
 mads.amazon-adsystem.com
+mads.amazon.com
 mads.aol.com
 mads.bnet.com
 mads.bz
@@ -22250,6 +22275,7 @@ musicmembersarea.com
 musikzoo.com
 mustangevolution.us.intellitxt.com
 muwmedia.com
+mv.outbrain.com
 mv.treehousei.com
 mv0129.stream
 mvonline.com
@@ -25301,6 +25327,7 @@ prisacom.112.2o7.net
 priusonline.us.intellitxt.com
 priv-policy.imrworldwide.com
 privacy-policy.truste.com
+privacy.commander1.com
 privacyassistant.net
 privatamateure.com
 private.hotelcesenaticobooking.info
@@ -25717,6 +25744,7 @@ pubmatic-winners-us-east-1-rtb.adroll.com
 pubmatic-winners-us-west-2-rtb.adroll.com
 pubmatic.com
 pubmine.com
+pubnative.info
 pubnative.net
 pubpress.net
 pubrepo.pubmatic.com
@@ -25824,6 +25852,7 @@ pxl.pmsrvr.com
 pybul.bestfrozenporn.nl
 pyilgdamion.city
 pymx5.com
+pythagore.demdex.net
 pyxis.iad.appboy.com
 q.admob.com
 q.adrta.com
@@ -27007,6 +27036,7 @@ s.idio.co
 s.infogram.com
 s.innovid.com
 s.ivillage.us.intellitxt.com
+s.jpush.cn
 s.jsrdn.com
 s.luxadv.com
 s.media-imdb.com
@@ -27249,6 +27279,7 @@ salon77.co.uk
 salzburg.oewabox.at
 sam4m.com
 sammobile.pushbird.com
+sample-api-v2.crazyegg.com
 samsclub33.pochta.ru
 samsung3.solution.weborama.fr
 samsungacr.com
@@ -27594,6 +27625,7 @@ sdk.fevo.com
 sdk.fiksu.com
 sdk.fitle.com
 sdk.follow-apps.com
+sdk.foursquare.com
 sdk.fra-01.braze.eu
 sdk.g.uc.cn
 sdk.gplayspace.com
@@ -27611,6 +27643,7 @@ sdk.iappgame.com
 sdk.ibm.xtify.com
 sdk.ihippogame.com
 sdk.imoads.com
+sdk.imrworldwide.com
 sdk.infiniadmp.com
 sdk.inlocoengage.com
 sdk.inlocomedia.com
@@ -27714,6 +27747,7 @@ sdkweb.playstove.com
 sdo.oewabox.at
 sdogiu.bestamazontips.com
 sdpg.ksapisrv.com
+sds.livesegmentservice.com
 sdscdn.userreport.com
 se-02.adtomafusion.com
 se-gmtdmp.mookie1.com
@@ -28414,6 +28448,7 @@ sinoa.com
 sinuatemedia.com
 sinvideo.adsrvr.org
 sirius.iad-03.braze.com
+sis.jpush.io
 sisaltracksdk.optimove.net
 sisco.hit.stat.pl
 sistacked.com
@@ -28803,6 +28838,7 @@ social.bidsystem.com
 socialanxietysupport.us.intellitxt.com
 socialitelife.us.intellitxt.com
 socialize.eu1.gigya.com
+socialize.us1.gigya.com
 socialknowledge-d.openx.net
 sociallitelife.tags.crwdcntrl.net
 socialspark.com
@@ -30368,6 +30404,7 @@ t.dailymail.co.uk
 t.dtscdn.com
 t.dtscout.com
 t.dynad.net
+t.effectivemeasure.net
 t.eloqua.com
 t.extreme-dm.com
 t.firstpromoter.com
@@ -34263,6 +34300,7 @@ wirelessforumsorg.skimlinks.com
 wirtualn-d.openx.net
 wirtvlg.oewabox.at
 wisepops.com
+wish.securedtouch.com
 wissende.122.2o7.net
 witch-counter.de
 withleather.us.intellitxt.com
@@ -36687,6 +36725,7 @@ www.tag4arm.com
 www.talentbroker.net
 www.tanger.com.br
 www.tao123.com
+www.tapresearch.com
 www.targeted-banners.com
 www.targetingnow.com
 www.tattooshaha.info
