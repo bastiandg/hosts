@@ -7843,6 +7843,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 netstorage.taboola.com
 0.0.0.0 network-tracking.kwizzad.com
 0.0.0.0 network.innity.com
+0.0.0.0 networksdk.ssacdn.com
 0.0.0.0 networld.hk
 0.0.0.0 new-iq.adtech.de
 0.0.0.0 new.afsanalytics.com
