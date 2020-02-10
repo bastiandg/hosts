@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 09 Feb 2020 10:04:31 GMT
-# entries:        3295
+# last updated:   Mon, 10 Feb 2020 10:05:16 GMT
+# entries:        3296
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2236,6 +2236,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mousestats.com
 127.0.0.1 movad.net
 127.0.0.1 mowfruit.com
+127.0.0.1 mparticle.com
 127.0.0.1 mpstat.us
 127.0.0.1 mr-rank.de
 127.0.0.1 mrskincash.com
