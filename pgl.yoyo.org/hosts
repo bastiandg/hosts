@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 10 Feb 2020 10:05:16 GMT
-# entries:        3296
+# last updated:   Mon, 10 Feb 2020 21:04:54 GMT
+# entries:        3298
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -594,6 +594,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.okcimg.com
 127.0.0.1 ads.ole.com
 127.0.0.1 ads.oneplace.com
+127.0.0.1 ads.opensubtitles.org
 127.0.0.1 ads.optusnet.com.au
 127.0.0.1 ads.outpersonals.com
 127.0.0.1 ads.passion.com
@@ -704,6 +705,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads2.jubii.dk
 127.0.0.1 ads2.net-communities.co.uk
 127.0.0.1 ads2.oneplace.com
+127.0.0.1 ads2.opensubtitles.org
 127.0.0.1 ads2.rne.com
 127.0.0.1 ads2.virtual-nights.com
 127.0.0.1 ads2.xnet.cz
