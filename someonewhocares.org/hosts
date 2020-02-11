@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 11 Feb 2020 at 05:47:05 GMT
+# Last updated: Tue, 11 Feb 2020 at 06:15:36 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1857,6 +1857,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 trk.cachemetracking.com
 127.0.0.1 trk.kissmetrics.com
 127.0.0.1 trkrpoint.com
+127.0.0.1 trk.securesmrt-dt.com
 127.0.0.1 trk.tidaltv.com
 127.0.0.1 true-counter.com
 127.0.0.1 truecrypt.fr
@@ -4449,6 +4450,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 7cnbcnews.com
 127.0.0.1 7n0zz.300prize.7113879.com
 127.0.0.1 7xc4n.com
+127.0.0.1 820.joomsearch.com
 127.0.0.1 829331534d183e7d1f6a-8d91cc88b27b979d0ea53a10ce8855ec.r96.cf5.rackcdn.com
 127.0.0.1 85103.hittail.com
 127.0.0.1 8574dnj3yzjace8c8io6zr9u3n.hop.clickbank.net
@@ -7116,6 +7118,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 baiduccdn1.com
 127.0.0.1 baidutv.baidu.com
 127.0.0.1 bakkecske.net
+127.0.0.1 baldehydesupe.info
 127.0.0.1 b.am15.net
 127.0.0.1 bamulat.blogspot.hu
 127.0.0.1 bananacashback.com
@@ -8007,6 +8010,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 data.flurry.com
 127.0.0.1 data.namesakeoscilloscopemarquis.com
 127.0.0.1 data.netscope.marktest.pt
+127.0.0.1 date.and-have.fun
 127.0.0.1 datedate.today
 127.0.0.1 date.ventivmedia.com
 127.0.0.1 datingadvertising.com
@@ -8127,6 +8131,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 dra.amazon-adsystem.com
 127.0.0.1 drecentreshu.info
 127.0.0.1 drmcmm.baidu.com
+127.0.0.1 drovederuifswfe.info
 127.0.0.1 drowle.com
 127.0.0.1 dr.soso.com
 127.0.0.1 ds.contextweb.com
@@ -8285,6 +8290,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 face-nemzedek.com
 127.0.0.1 fadadosexo.com.br
 127.0.0.1 f.admob.com
+127.0.0.1 fadskis.com
 127.0.0.1 fajnefanty.com
 127.0.0.1 falkag.net
 127.0.0.1 family-offer.com
@@ -8549,6 +8555,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 getacooltv.com
 127.0.0.1 getafreeiphone.org
 127.0.0.1 getagiftonline.com
+127.0.0.1 getflash-now.com
 127.0.0.1 getlink.pw
 127.0.0.1 getmyads24.com
 127.0.0.1 getmyads.com
@@ -9296,6 +9303,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 lt.andomedia.com
 127.0.0.1 lt.angelfire.com
 127.0.0.1 lucky-day-uk.com
+127.0.0.1 luckymeetyou.com
 127.0.0.1 LUXpolice.com
 127.0.0.1 LUXpolice.net
 127.0.0.1 luxup.ru
@@ -9998,6 +10006,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 partner.wapacz.pl
 127.0.0.1 partner.wapster.pl
 127.0.0.1 partnerwebsites.mistermedia.nl
+127.0.0.1 passeura.com
 127.0.0.1 pathforpoints.com
 127.0.0.1 paulsnetwork.com
 127.0.0.1 payae8moon9.com
@@ -10005,6 +10014,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 pb.tynt.com
 127.0.0.1 pcads.ru
 127.0.0.1 pc-gizmos-ssl.com
+127.0.0.1 pcmuzic.com
 127.0.0.1 pcookie.aliexpress.com
 127.0.0.1 pc-virus-d0l92j2.pw
 127.0.0.1 peaky.tags.yield-atx.com
@@ -10374,6 +10384,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 realizmobi.com
 127.0.0.1 realmedia-a800.d4p.net
 127.0.0.1 realmedia.advance.net
+127.0.0.1 realplayz.com
 127.0.0.1 rebevengwas.com
 127.0.0.1 reboot.sitescout.com
 127.0.0.1 recommendedforyou.xyz
@@ -10654,6 +10665,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 secureads.ft.com
 127.0.0.1 secure.bidvertiser.com
 127.0.0.1 secure.bidvertiserr.com
+127.0.0.1 securecloud-smart.com
 127.0.0.1 securecontactinfo.com
 127.0.0.1 secure.img-cdn.mediaplex.com
 127.0.0.1 secure-js.kontera.com
@@ -11044,8 +11056,10 @@ ff02::3		ip6-allhosts
 127.0.0.1 support-ip.com
 127.0.0.1 support.sweepstakes.com
 127.0.0.1 support-win1230.com
+127.0.0.1 suprama.online
 127.0.0.1 supremeadsonline.com
 127.0.0.1 suresafe1.adsovo.com
+127.0.0.1 surfacecharo.info
 127.0.0.1 surfsecured.net
 127.0.0.1 surplus-suppliers.com
 127.0.0.1 surveycentral.directinsure.info
@@ -11421,6 +11435,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 usatravel-specials.com
 127.0.0.1 usatravel-specials.net
 127.0.0.1 usc.adserver.snapads.com
+127.0.0.1 uscarefusedshi.info
 127.0.0.1 us-choicevalue.com
 127.0.0.1 usdk.batmobi.net
 127.0.0.1 usd.sierra-boa.com
@@ -11782,6 +11797,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www1.bannerspace.com
 127.0.0.1 www1.belboon.de
 127.0.0.1 www1.clicktorrent.info
+127.0.0.1 www.1hkfq6598i.com
 127.0.0.1 www1.mpnrs.com
 127.0.0.1 www1.popinads.com
 127.0.0.1 www1.safenyplanet.in
@@ -11799,6 +11815,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www25a.glam.com
 127.0.0.1 www25.glam.com
 127.0.0.1 www2.adireland.com
+127.0.0.1 www2.ad-server.online
 127.0.0.1 www2.adserverpub.com
 127.0.0.1 www2.ad.tomshardware.com
 127.0.0.1 www.2-art-coliseum.com
@@ -12545,6 +12562,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.peachy18.com
 127.0.0.1 www.people-choice-sites.com
 127.0.0.1 www.perfectgirls.net
+127.0.0.1 www.performanceonclick.com
 127.0.0.1 www.persgroepadvertising.nl
 127.0.0.1 www.personalcare-offer.com
 127.0.0.1 www.personalcashbailout.com
@@ -12854,6 +12872,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 xml.explorads.com
 127.0.0.1 xmlheads.com
 127.0.0.1 xml.mediashakers.com
+127.0.0.1 xml.realtime-bid.com
 127.0.0.1 xml.yepmedia.com
 127.0.0.1 x.mochiads.com
 127.0.0.1 xn--lt-68s.com
