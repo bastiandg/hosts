@@ -1742,6 +1742,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 allmedia-d.openx.net
 0.0.0.0 allstarmediagroup.com
 0.0.0.0 allstate.sc.omtrdc.net
+0.0.0.0 allstate.tt.omtrdc.net
 0.0.0.0 alog.umeng.com
 0.0.0.0 alog.umengcloud.com
 0.0.0.0 alogs.umeng.com
@@ -2623,6 +2624,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 app01.adfalcon.com
 0.0.0.0 app02.adfalcon.com
 0.0.0.0 app3.prd.telematics.uconnectcar.com
+0.0.0.0 app4.prd.telematics.uconnectcar.com
 0.0.0.0 appad-api-01.perfectcorp.com
 0.0.0.0 appad-api-02.perfectcorp.com
 0.0.0.0 appads.com
@@ -3386,6 +3388,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 c.w.vip1.ams1.inmobi.com
 0.0.0.0 c.webengage.com
 0.0.0.0 c.webtrends.com
+0.0.0.0 c00162-dl.urbanairship.com
 0.0.0.0 c1.adform.net
 0.0.0.0 c1.atdmt.com
 0.0.0.0 c1.hadarone.com
@@ -3837,7 +3840,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 china.inmobi.com
 0.0.0.0 chitika.com
 0.0.0.0 choices.trustarc.com
-0.0.0.0 chrome-devtools-frontend.appspot.com
 0.0.0.0 chtatic.appspot.com
 0.0.0.0 ci-first.iovation.com
 0.0.0.0 ci-mpsnare.iovation.com
@@ -4425,7 +4427,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cs.marinsm.com
 0.0.0.0 cs.media.net
 0.0.0.0 cs.yieldoptimizer.com
-0.0.0.0 csp-collector.appspot.com
 0.0.0.0 cspreporter.optimizely.com
 0.0.0.0 cstest.adtech.de
 0.0.0.0 csyn-r.cxense.com
@@ -7231,6 +7232,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mbn.com.ua
 0.0.0.0 mbn.su
 0.0.0.0 mboxedge17.tt.omtrdc.net
+0.0.0.0 mboxedge28.tt.omtrdc.net
 0.0.0.0 mc.adpia.vn
 0.0.0.0 mc.exacttarget.com
 0.0.0.0 mc.s10.exacttarget.com
@@ -10879,6 +10881,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 temai.m.taobao.com
 0.0.0.0 temai.taobao.com
 0.0.0.0 templates.sharethrough.com
+0.0.0.0 tend.io
 0.0.0.0 teracreative.com
 0.0.0.0 terraclicks.com
 0.0.0.0 test-adserver.adtech.de
@@ -11104,6 +11107,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 track.tappx.com
 0.0.0.0 track.tcppu.com
 0.0.0.0 track.td3x.com
+0.0.0.0 track.tend.io
 0.0.0.0 track.tenjin.com
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.tiara.daum.net

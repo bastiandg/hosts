@@ -6205,6 +6205,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 allrefer.us.intellitxt.com
 127.0.0.1 allstarmediagroup.com
 127.0.0.1 allstate.sc.omtrdc.net
+127.0.0.1 allstate.tt.omtrdc.net
 127.0.0.1 alltereg0.ru
 127.0.0.1 allwomenstalk.us.intellitxt.com
 127.0.0.1 allxscan.tk
@@ -7457,6 +7458,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 app4.letslowbefast.life
 127.0.0.1 app4.letslowbefast.site
 127.0.0.1 app4.letslowbefast.today
+127.0.0.1 app4.prd.telematics.uconnectcar.com
 127.0.0.1 app4com.bestgrade4update.trade
 127.0.0.1 app5.fastermac.tech
 127.0.0.1 app5.letitbefaster.life
@@ -9710,6 +9712,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 c.za.msn.com
 127.0.0.1 c0.adalyser.com
 127.0.0.1 c0.amazingcounters.com
+127.0.0.1 c00162-dl.urbanairship.com
 127.0.0.1 c03.adsummos.net
 127.0.0.1 c04.adsummos.net
 127.0.0.1 c1.adform.net
@@ -10872,7 +10875,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 choices.trustarc.com
 127.0.0.1 choicesurveypanel.com
 127.0.0.1 christianbusinessadvertising.com
-127.0.0.1 chrome-devtools-frontend.appspot.com
 127.0.0.1 chsplantsales.co.uk
 127.0.0.1 chtatic.appspot.com
 127.0.0.1 chuknu.sokrati.com
@@ -12453,7 +12455,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 csmail.iggcn.com
 127.0.0.1 csnation.us.intellitxt.com
 127.0.0.1 csoonlinecom.112.2o7.net
-127.0.0.1 csp-collector.appspot.com
 127.0.0.1 csp.fastclick.net
 127.0.0.1 cspix.media6degrees.com
 127.0.0.1 cspreporter.optimizely.com
@@ -20793,6 +20794,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mbox9.offermatica.com
 127.0.0.1 mbox9e.offermatica.com
 127.0.0.1 mboxedge17.tt.omtrdc.net
+127.0.0.1 mboxedge28.tt.omtrdc.net
 127.0.0.1 mbs.megaroticlive.com
 127.0.0.1 mbuyu.nl
 127.0.0.1 mc.adpia.vn
@@ -30919,6 +30921,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 temp.adzerver.com
 127.0.0.1 tempest.services.disqus.com
 127.0.0.1 templates.sharethrough.com
+127.0.0.1 tend.io
 127.0.0.1 tendersource.com
 127.0.0.1 tendertest.com
 127.0.0.1 tenmagazines.us.intellitxt.com
@@ -31782,6 +31785,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.tappx.com
 127.0.0.1 track.tcppu.com
 127.0.0.1 track.td3x.com
+127.0.0.1 track.tend.io
 127.0.0.1 track.tenjin.com
 127.0.0.1 track.tenjin.io
 127.0.0.1 track.the-members-section.com

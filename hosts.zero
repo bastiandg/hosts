@@ -6205,6 +6205,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 allrefer.us.intellitxt.com
 0.0.0.0 allstarmediagroup.com
 0.0.0.0 allstate.sc.omtrdc.net
+0.0.0.0 allstate.tt.omtrdc.net
 0.0.0.0 alltereg0.ru
 0.0.0.0 allwomenstalk.us.intellitxt.com
 0.0.0.0 allxscan.tk
@@ -7457,6 +7458,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 app4.letslowbefast.life
 0.0.0.0 app4.letslowbefast.site
 0.0.0.0 app4.letslowbefast.today
+0.0.0.0 app4.prd.telematics.uconnectcar.com
 0.0.0.0 app4com.bestgrade4update.trade
 0.0.0.0 app5.fastermac.tech
 0.0.0.0 app5.letitbefaster.life
@@ -9710,6 +9712,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 c.za.msn.com
 0.0.0.0 c0.adalyser.com
 0.0.0.0 c0.amazingcounters.com
+0.0.0.0 c00162-dl.urbanairship.com
 0.0.0.0 c03.adsummos.net
 0.0.0.0 c04.adsummos.net
 0.0.0.0 c1.adform.net
@@ -10872,7 +10875,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 choices.trustarc.com
 0.0.0.0 choicesurveypanel.com
 0.0.0.0 christianbusinessadvertising.com
-0.0.0.0 chrome-devtools-frontend.appspot.com
 0.0.0.0 chsplantsales.co.uk
 0.0.0.0 chtatic.appspot.com
 0.0.0.0 chuknu.sokrati.com
@@ -12453,7 +12455,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 csmail.iggcn.com
 0.0.0.0 csnation.us.intellitxt.com
 0.0.0.0 csoonlinecom.112.2o7.net
-0.0.0.0 csp-collector.appspot.com
 0.0.0.0 csp.fastclick.net
 0.0.0.0 cspix.media6degrees.com
 0.0.0.0 cspreporter.optimizely.com
@@ -20793,6 +20794,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mbox9.offermatica.com
 0.0.0.0 mbox9e.offermatica.com
 0.0.0.0 mboxedge17.tt.omtrdc.net
+0.0.0.0 mboxedge28.tt.omtrdc.net
 0.0.0.0 mbs.megaroticlive.com
 0.0.0.0 mbuyu.nl
 0.0.0.0 mc.adpia.vn
@@ -30919,6 +30921,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 temp.adzerver.com
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 templates.sharethrough.com
+0.0.0.0 tend.io
 0.0.0.0 tendersource.com
 0.0.0.0 tendertest.com
 0.0.0.0 tenmagazines.us.intellitxt.com
@@ -31782,6 +31785,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 track.tappx.com
 0.0.0.0 track.tcppu.com
 0.0.0.0 track.td3x.com
+0.0.0.0 track.tend.io
 0.0.0.0 track.tenjin.com
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.the-members-section.com
