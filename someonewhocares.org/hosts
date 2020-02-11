@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 28 Jan 2020 at 05:16:18 GMT
+# Last updated: Tue, 11 Feb 2020 at 05:47:05 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2209,7 +2209,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 badmactogoodmac.space
 127.0.0.1 badmactogoodmac.tech
 127.0.0.1 beloysoff.ru
-127.0.0.1 best.aliexpress.com
 127.0.0.1 bestreview.site
 127.0.0.1 bgl1dr1-a-fixed.sancharnet.in
 127.0.0.1 bgl1pp1-a-fixed.sancharnet.in
