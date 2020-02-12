@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 11 Feb 2020 at 06:15:36 GMT
+# Last updated: Wed, 12 Feb 2020 at 08:52:06 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -976,6 +976,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 imprammp.taboola.com
 127.0.0.1 impse.tradedoubler.com
 127.0.0.1 impsnare.iesnare.com
+127.0.0.1 in.appcenter.ms
 127.0.0.1 inkscape.fr
 127.0.0.1 in.paycounter.com
 127.0.0.1 insightfirst.com
@@ -1005,6 +1006,8 @@ ff02::3		ip6-allhosts
 127.0.0.1 kissmetrics.com
 127.0.0.1 kqzyfj.com
 127.0.0.1 kt4.kliptracker.com
+127.0.0.1 lcprd1.samsungcloudsolution.net
+127.0.0.1 lcprd2.samsungcloudsolution.net
 127.0.0.1 leadpub.com
 127.0.0.1 liapentruromania.ro
 127.0.0.1 lin31.metriweb.be
@@ -1171,6 +1174,7 @@ ff02::3		ip6-allhosts
 #127.0.0.1 nl.sitestat.com	# may interfere with duo.nl
 127.0.0.1 noticias.life
 127.0.0.1 notify1.brucelead.com
+127.0.0.1 notify.bugsnag.com
 127.0.0.1 o.addthis.com
 127.0.0.1 objects.tremormedia.com
 127.0.0.1 okcounter.com
@@ -1368,6 +1372,7 @@ ff02::3		ip6-allhosts
 #127.0.0.1 services.krxd.net
 127.0.0.1 servt.playbuzz.co
 127.0.0.1 se.sitestat.com
+127.0.0.1 sessions.bugsnag.com
 127.0.0.1 sexcounter.com
 127.0.0.1 seznam.hit.gemius.pl
 127.0.0.1 s.go-mpulse.net
@@ -6191,6 +6196,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ads.mefeedia.com
 127.0.0.1 ads.megaproxy.com
 127.0.0.1 ads.meropar.jp
+127.0.0.1 adsmetadata.startappservice.com
 127.0.0.1 ads.metblogs.com
 127.0.0.1 ads.metropolis.co.jp
 127.0.0.1 ads.mgnetwork.com

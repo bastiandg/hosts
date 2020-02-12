@@ -5382,6 +5382,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adsmart.co.uk
 0.0.0.0 adsmart.com
 0.0.0.0 adsmart.net
+0.0.0.0 adsmetadata.startappservice.com
 0.0.0.0 adsmo.ru
 0.0.0.0 adsmobi.com
 0.0.0.0 adsmodule-a6166.firebaseio.com
@@ -18127,6 +18128,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 in.analytics.glance.inmobi.com
 0.0.0.0 in.api.clevertap.com
 0.0.0.0 in.api.glance.inmobi.com
+0.0.0.0 in.appcenter.ms
 0.0.0.0 in.appserver-ap.com
 0.0.0.0 in.appserver-cp.com
 0.0.0.0 in.c.appier.net
@@ -19396,6 +19398,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 lcbcad.co.uk
 0.0.0.0 lcf.cmplay.cmcm.com
 0.0.0.0 lciapi.ninthdecimal.com
+0.0.0.0 lcprd1.samsungcloudsolution.net
+0.0.0.0 lcprd2.samsungcloudsolution.net
 0.0.0.0 lcsdk.3g.qq.com
 0.0.0.0 ld1.criteo.com
 0.0.0.0 ld2.criteo.com
@@ -23033,6 +23037,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 notification.webengage.com
 0.0.0.0 notify.adleadevent.com
 0.0.0.0 notify.bugsnag.appstore.a2z.com
+0.0.0.0 notify.bugsnag.com
 0.0.0.0 notify.mgid.com
 0.0.0.0 notify.nuviad.com
 0.0.0.0 notify1.brucelead.com
@@ -28236,6 +28241,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 serwisy.gremimedia.pl
 0.0.0.0 sessioncam.com
 0.0.0.0 sessionm.com
+0.0.0.0 sessions.bugsnag.com
 0.0.0.0 sessions.mobileroadie.com
 0.0.0.0 sestat.baidu.com
 0.0.0.0 seth.avazutracking.net

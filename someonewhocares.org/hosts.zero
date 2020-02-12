@@ -2433,6 +2433,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adsmart.co.uk
 0.0.0.0 adsmart.com
 0.0.0.0 adsmart.net
+0.0.0.0 adsmetadata.startappservice.com
 0.0.0.0 adsnew.internethaber.com
 0.0.0.0 adsnew.userfriendly.org
 0.0.0.0 adsniper.ru
@@ -6589,6 +6590,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 imssl01.adtech.us
 0.0.0.0 in.5.p2l.info
 0.0.0.0 in.adserver.yahoo.com
+0.0.0.0 in.appcenter.ms
 0.0.0.0 in.getclicky.com
 0.0.0.0 in.paycounter.com
 0.0.0.0 in.treasuredata.com
@@ -7025,6 +7027,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 lb-adserver.ig.com.br
 0.0.0.0 lb.hitbox.com
 0.0.0.0 lb1.www.ms.akadns.net
+0.0.0.0 lcprd1.samsungcloudsolution.net
+0.0.0.0 lcprd2.samsungcloudsolution.net
 0.0.0.0 ld1.criteo.com
 0.0.0.0 ld2.criteo.com
 0.0.0.0 ldglob01.adtech.de
@@ -8418,6 +8422,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 noticiasftpsrv.com
 0.0.0.0 notification-browser.com
 0.0.0.0 notification-system.tools
+0.0.0.0 notify.bugsnag.com
 0.0.0.0 notify1.brucelead.com
 0.0.0.0 notifyday.com
 0.0.0.0 notori.oewabox.at
@@ -10263,6 +10268,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 servt.playbuzz.co
 0.0.0.0 servustv.oewabox.at
 0.0.0.0 serwisy.gremimedia.pl
+0.0.0.0 sessions.bugsnag.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 settingupdate.yourgoodflashupgradingmain.icu
 0.0.0.0 setupdate24.updateworkfreshandnew.space
