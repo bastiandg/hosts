@@ -5091,7 +5091,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 emxdgt.com
 0.0.0.0 emxdigital.com
 0.0.0.0 emxhb.emxdgt.com
-0.0.0.0 enabler.datalake.mediaset.it
 0.0.0.0 endpoint1.collection.us2.sumologic.com
 0.0.0.0 enflick-d.openx.net
 0.0.0.0 eng.localytics.com
@@ -5929,7 +5928,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 hb.undertone.com
 0.0.0.0 hb.vntsm.com
 0.0.0.0 hb5t.adups.com
-0.0.0.0 hbbtv.mediaset.net
 0.0.0.0 hbi-ingest.net
 0.0.0.0 hbopenbid-sg.pubmatic.com
 0.0.0.0 hbopenbid-sgc.pubmatic.com
@@ -11880,7 +11878,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 websdk.moengage.com
 0.0.0.0 webstat.kuwo.cn
 0.0.0.0 webtracker.jp
-0.0.0.0 webtrekk.mediaset.net
 0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 west.bidtellect.com
 0.0.0.0 wetpaint-d.openx.net
