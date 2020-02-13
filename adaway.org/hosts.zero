@@ -647,7 +647,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 a.d.mojigaga.com
 0.0.0.0 a.dpmsrv.com
 0.0.0.0 a.fiksu.com
-0.0.0.0 a.fortumo.com
 0.0.0.0 a.gmtrack.com
 0.0.0.0 a.goadservices.com
 0.0.0.0 a.hiimps.com
@@ -1884,7 +1883,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 analytics-ext-prod.us-east-1.elasticbeanstalk.com
 0.0.0.0 analytics-gb-nfl.yinzcam.com
 0.0.0.0 analytics-gcp.tout.com
-0.0.0.0 analytics-ingest.anypoint.mulesoft.com
 0.0.0.0 analytics-ingest.creative-mobile.com
 0.0.0.0 analytics-ingestion.staging-public.tubi.io
 0.0.0.0 analytics-iwtg-ten.yinzcam.com
@@ -2243,8 +2241,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.factual.com
 0.0.0.0 api.flurry.com
-0.0.0.0 api.fortumo.com
-0.0.0.0 api.foursquare.com
 0.0.0.0 api.fyber.com
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.gameofwhales.com
@@ -2284,7 +2280,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.keen.io
 0.0.0.0 api.kiip.me
 0.0.0.0 api.kochava.com
-0.0.0.0 api.kurioapps.com
 0.0.0.0 api.lanistaads.com
 0.0.0.0 api.leadbolt.net
 0.0.0.0 api.leadpages.io
@@ -2850,7 +2845,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 assets.deployads.com
 0.0.0.0 assets.dwell.com
 0.0.0.0 assets.dynatrace.com
-0.0.0.0 assets.fortumo.com
 0.0.0.0 assets.foxmetrics.com
 0.0.0.0 assets.iterable.com
 0.0.0.0 assets.kampyle.com
@@ -3423,7 +3417,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cache-ha.pushwoosh.com
 0.0.0.0 cache-ssl.celtra.com
 0.0.0.0 cache.celtra.com
-0.0.0.0 cache.kuaidi100.com
 0.0.0.0 cache.send.microadinc.com
 0.0.0.0 caesar.iad-03.braze.com
 0.0.0.0 cafemedia-d.openx.net
@@ -3580,7 +3573,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.adx1.com
 0.0.0.0 cdn.aimg.media.net
 0.0.0.0 cdn.amplitude.com
-0.0.0.0 cdn.anypoint.mulesoft.com
 0.0.0.0 cdn.api.fotoable.com
 0.0.0.0 cdn.appdynamics.com
 0.0.0.0 cdn.applift.com
@@ -3648,7 +3640,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.justpremium.com
 0.0.0.0 cdn.keywee.co
 0.0.0.0 cdn.krxd.net
-0.0.0.0 cdn.kuaidi100.com
 0.0.0.0 cdn.lentainform.com
 0.0.0.0 cdn.lfstmedia.com
 0.0.0.0 cdn.liftoff.io
@@ -5479,7 +5470,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 findep.adnow.com
 0.0.0.0 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 0.0.0.0 finlogs.joyeggs.com
-0.0.0.0 fira-api.kurioapps.com
 0.0.0.0 first.iovation.com
 0.0.0.0 firstimpression.io
 0.0.0.0 fizzylabs.afftrack.com
@@ -6746,7 +6736,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 kukuplay.com
 0.0.0.0 kumma-hb.hb.adx1.com
 0.0.0.0 kurierat.cleverpush.com
-0.0.0.0 kurio-img.kurioapps.com
 0.0.0.0 kurlichan.com
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 kwifftracksdk.optimove.net
@@ -7539,10 +7528,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 mobile.cmtelematics.com
 0.0.0.0 mobile.controller.duokanbox.com
 0.0.0.0 mobile.eum-appdynamics.com
-0.0.0.0 mobile.foundationsoft.com
 0.0.0.0 mobile.game-insight.com
 0.0.0.0 mobile.ib.sin1.geoadnxs.com
-0.0.0.0 mobile.impacttestonline.com
 0.0.0.0 mobile.itsbetter.com
 0.0.0.0 mobile.mediabrix.com
 0.0.0.0 mobile.mng-ads.com
@@ -7722,6 +7709,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mtrx.go.sonobi.com
 0.0.0.0 mucu.jp
 0.0.0.0 mug.criteo.com
+0.0.0.0 muliphein.iad-01.braze.com
 0.0.0.0 multiply.crwdcntrl.net
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 musculahq.appspot.com
@@ -8261,7 +8249,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 p.bokecc.com
 0.0.0.0 p.boostads.co
 0.0.0.0 p.hiimps.com
-0.0.0.0 p.kuaidi100.com
 0.0.0.0 p.l.qq.com
 0.0.0.0 p.medialytics.com
 0.0.0.0 p.metrilo.com
@@ -9550,7 +9537,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sdk.fiksu.com
 0.0.0.0 sdk.fitle.com
 0.0.0.0 sdk.follow-apps.com
-0.0.0.0 sdk.foursquare.com
 0.0.0.0 sdk.fra-01.braze.eu
 0.0.0.0 sdk.g.uc.cn
 0.0.0.0 sdk.gplayspace.com
@@ -11283,7 +11269,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 trueblue-sdkapi.onereach.com
 0.0.0.0 trunk.guce.adtech.de
 0.0.0.0 truoctran.com
-0.0.0.0 trx.kurioapps.com
 0.0.0.0 trx.mxmfb.com
 0.0.0.0 ts-tracker-env-2.us-east-1.elasticbeanstalk.com
 0.0.0.0 ts-tracker-env.us-east-1.elasticbeanstalk.com
@@ -11997,7 +11982,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 wsq.umeng.com
 0.0.0.0 wtanalytics-a.akamaihd.net
 0.0.0.0 wurren.iad-03.braze.com
-0.0.0.0 wutlar.fortumo.com
 0.0.0.0 wuxiaworld-d.openx.net
 0.0.0.0 wv.inner-active.mobi
 0.0.0.0 ww1.collserve.com

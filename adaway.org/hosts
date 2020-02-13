@@ -4501,6 +4501,7 @@
 127.0.0.1 andromeda.iad-01.braze.com
 127.0.0.1 ibilisk.iad-01.braze.com
 127.0.0.1 indus.iad-01.braze.com
+127.0.0.1 muliphein.iad-01.braze.com
 127.0.0.1 rest.iad-01.braze.com
 127.0.0.1 sagittarius.iad-01.braze.com
 127.0.0.1 sdk.iad-01.braze.com
@@ -7270,12 +7271,6 @@
 # [formisimo.com]
 127.0.0.1 cdn-static.formisimo.com
 
-# [fortumo.com]
-127.0.0.1 a.fortumo.com
-127.0.0.1 api.fortumo.com
-127.0.0.1 assets.fortumo.com
-127.0.0.1 wutlar.fortumo.com
-
 # [fosrv.com]
 127.0.0.1 analytics.fosrv.com
 
@@ -7294,13 +7289,6 @@
 127.0.0.1 cdn.ads.fotoable.net
 127.0.0.1 analytics.fotoable.net
 127.0.0.1 geoip.fotoable.net
-
-# [foundationsoft.com]
-127.0.0.1 mobile.foundationsoft.com
-
-# [foursquare.com]
-127.0.0.1 api.foursquare.com
-127.0.0.1 sdk.foursquare.com
 
 # [fout.jp]
 127.0.0.1 fout.jp
@@ -8585,9 +8573,6 @@
 127.0.0.1 goto-target-com.customtraffic.impactradius.com
 127.0.0.1 partners-hotwire-com.impactradius.com
 
-# [impacttestonline.com]
-127.0.0.1 mobile.impacttestonline.com
-
 # [impdesk.com]
 127.0.0.1 cp.impdesk.com
 
@@ -9756,11 +9741,6 @@
 127.0.0.1 c.ktxtr.com
 127.0.0.1 t.ktxtr.com
 
-# [kuaidi100.com]
-127.0.0.1 cache.kuaidi100.com
-127.0.0.1 cdn.kuaidi100.com
-127.0.0.1 p.kuaidi100.com
-
 # [kukuplay.com]
 127.0.0.1 kukuplay.com
 
@@ -9770,12 +9750,6 @@
 # [kumulos.com]
 127.0.0.1 events.kumulos.com
 127.0.0.1 stats.kumulos.com
-
-# [kurioapps.com]
-127.0.0.1 api.kurioapps.com
-127.0.0.1 fira-api.kurioapps.com
-127.0.0.1 kurio-img.kurioapps.com
-127.0.0.1 trx.kurioapps.com
 
 # [kurlichan.com]
 127.0.0.1 kurlichan.com
@@ -12173,10 +12147,6 @@
 
 # [mucu.jp]
 127.0.0.1 mucu.jp
-
-# [mulesoft.com]
-127.0.0.1 analytics-ingest.anypoint.mulesoft.com
-127.0.0.1 cdn.anypoint.mulesoft.com
 
 # [muneris.io]
 127.0.0.1 api.muneris.io
