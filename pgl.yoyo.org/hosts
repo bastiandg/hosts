@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 12 Feb 2020 09:20:12 GMT
-# entries:        3299
+# entries:        3298
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -617,7 +617,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.recoletos.es
 127.0.0.1 ads.rediff.com
 127.0.0.1 ads.redlightcenter.com
-127.0.0.1 ads.resoom.de
 127.0.0.1 ads.revjet.com
 127.0.0.1 ads.satyamonline.com
 127.0.0.1 ads.saymedia.com
@@ -687,6 +686,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.yap.yahoo.com
 127.0.0.1 ads.yimg.com
 127.0.0.1 ads.yldmgrimg.net
+127.0.0.1 ads.yourfreedvds.com
 127.0.0.1 ads.youtube.com
 127.0.0.1 ads.zdnet.com
 127.0.0.1 ads.ztod.com
@@ -944,7 +944,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 affrh2014.com
 127.0.0.1 affrh2022.com
 127.0.0.1 afftracking.justanswer.com
-127.0.0.1 afterview.ru
 127.0.0.1 agkn.com
 127.0.0.1 agreeablestew.com
 127.0.0.1 ah-ha.com
@@ -1050,7 +1049,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 audit.webinform.hu
 127.0.0.1 augur.io
 127.0.0.1 auto-bannertausch.de
-127.0.0.1 autohits.dk
 127.0.0.1 automaticflock.com
 127.0.0.1 avenuea.com
 127.0.0.1 avocet.io
@@ -1721,6 +1719,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 freebanner.com
 127.0.0.1 freecounterstat.com
 127.0.0.1 freelogs.com
+127.0.0.1 freemaineads.com
 127.0.0.1 freeonlineusers.com
 127.0.0.1 freepay.com
 127.0.0.1 freeskreen.com

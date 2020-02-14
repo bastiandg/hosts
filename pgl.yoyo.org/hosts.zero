@@ -590,7 +590,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.recoletos.es
 0.0.0.0 ads.rediff.com
 0.0.0.0 ads.redlightcenter.com
-0.0.0.0 ads.resoom.de
 0.0.0.0 ads.revjet.com
 0.0.0.0 ads.satyamonline.com
 0.0.0.0 ads.saymedia.com
@@ -660,6 +659,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.yap.yahoo.com
 0.0.0.0 ads.yimg.com
 0.0.0.0 ads.yldmgrimg.net
+0.0.0.0 ads.yourfreedvds.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads.zdnet.com
 0.0.0.0 ads.ztod.com
@@ -917,7 +917,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 affrh2014.com
 0.0.0.0 affrh2022.com
 0.0.0.0 afftracking.justanswer.com
-0.0.0.0 afterview.ru
 0.0.0.0 agkn.com
 0.0.0.0 agreeablestew.com
 0.0.0.0 ah-ha.com
@@ -1023,7 +1022,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 audit.webinform.hu
 0.0.0.0 augur.io
 0.0.0.0 auto-bannertausch.de
-0.0.0.0 autohits.dk
 0.0.0.0 automaticflock.com
 0.0.0.0 avenuea.com
 0.0.0.0 avocet.io
@@ -1694,6 +1692,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 freebanner.com
 0.0.0.0 freecounterstat.com
 0.0.0.0 freelogs.com
+0.0.0.0 freemaineads.com
 0.0.0.0 freeonlineusers.com
 0.0.0.0 freepay.com
 0.0.0.0 freeskreen.com
