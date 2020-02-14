@@ -1427,7 +1427,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 accesstrade.com.vn
 0.0.0.0 accesstrade.vn
 0.0.0.0 acckalaharinet.112.2o7.net
-0.0.0.0 account.fyber.com
 0.0.0.0 accountlock-demo.iovation.com
 0.0.0.0 accountprotection.xyz
 0.0.0.0 accounts.doubleclick.net
@@ -6091,7 +6090,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 aippnetworks.com
 0.0.0.0 aiqua-sdk.c.appier.net
 0.0.0.0 air-plane-ticket.beesearch.info
-0.0.0.0 air.fyber.com
 0.0.0.0 airbrake-github.airbrake.io
 0.0.0.0 airbrake-gitlab.airbrake.io
 0.0.0.0 airbrake.io
@@ -6332,10 +6330,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 ams-ads-cornerstone-creatives.s3.amazonaws.com
 0.0.0.0 ams-ads-creative-assets-na.s3.amazonaws.com
 0.0.0.0 ams-ae.conversantmedia.com
-0.0.0.0 ams-aws-stg.fyber.com
 0.0.0.0 ams-login.dotomi.com
 0.0.0.0 ams-usadmm.dotomi.com
-0.0.0.0 ams.fyber.com
 0.0.0.0 ams.toxity.biz
 0.0.0.0 ams01-convex.dotomi.com
 0.0.0.0 ams01-login-ds.dotomi.com
@@ -15705,7 +15701,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 fxclix.com
 0.0.0.0 fxstyle.net
 0.0.0.0 fxyc0dwa.com
-0.0.0.0 fyber-marketplace.fyber.com
 0.0.0.0 fyc.heyzap.com
 0.0.0.0 fynskemedieradmin.adservinginternational.com
 0.0.0.0 fz.letv.com
@@ -24018,7 +24013,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 otpercpiheno.blogspot.com
 0.0.0.0 otpercpiheno.hu
 0.0.0.0 otracking.com
-0.0.0.0 otrs.fyber.com
 0.0.0.0 ots.optimize.webtrends.com
 0.0.0.0 otsserver.com
 0.0.0.0 ottacknet.112.2o7.net
@@ -30933,8 +30927,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 test-adserver.adtech.de
 0.0.0.0 test-beacon.pol-collector.com
 0.0.0.0 test-script.dotmetrics.net
-0.0.0.0 test-tickets.fyber.com
-0.0.0.0 test-wiki.fyber.com
 0.0.0.0 test.coremetrics.com
 0.0.0.0 test.iovation.com
 0.0.0.0 test.ishvara-yoga.com
@@ -31145,7 +31137,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tiads.timeinc.net
 0.0.0.0 ticker.api.prd.innopage.com
 0.0.0.0 ticket20.tripod.com
-0.0.0.0 tickets.fyber.com
 0.0.0.0 ticklesign.com
 0.0.0.0 ticks2.bugsense.com
 0.0.0.0 ticksel.com

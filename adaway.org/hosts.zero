@@ -729,7 +729,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 accesstrade.com
 0.0.0.0 accesstrade.com.vn
 0.0.0.0 accesstrade.vn
-0.0.0.0 account.fyber.com
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 accscdn.m.taobao.com
 0.0.0.0 acdn.adnxs.com
@@ -1697,7 +1696,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 aimg.media.net
 0.0.0.0 aio.lp.mydas.mobi
 0.0.0.0 aiqua-sdk.c.appier.net
-0.0.0.0 air.fyber.com
 0.0.0.0 airbrake-github.airbrake.io
 0.0.0.0 airbrake-gitlab.airbrake.io
 0.0.0.0 airbrake.io
@@ -1808,10 +1806,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 ams-ads-cornerstone-creatives.s3.amazonaws.com
 0.0.0.0 ams-ads-creative-assets-na.s3.amazonaws.com
 0.0.0.0 ams-ae.conversantmedia.com
-0.0.0.0 ams-aws-stg.fyber.com
 0.0.0.0 ams-login.dotomi.com
 0.0.0.0 ams-usadmm.dotomi.com
-0.0.0.0 ams.fyber.com
 0.0.0.0 ams01-convex.dotomi.com
 0.0.0.0 ams01-login-ds.dotomi.com
 0.0.0.0 ams01-login.dotomi.com
@@ -5588,7 +5584,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 fwmrm.net
 0.0.0.0 fwvc.adsafeprotected.com
 0.0.0.0 fxclix.com
-0.0.0.0 fyber-marketplace.fyber.com
 0.0.0.0 fyc.heyzap.com
 0.0.0.0 fz.letv.com
 0.0.0.0 g.3gl.net
@@ -8172,7 +8167,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 otherlevels.com
 0.0.0.0 otherwortb.deliveryengine.adswizz.com
 0.0.0.0 otlanalytics.cloudapp.net
-0.0.0.0 otrs.fyber.com
 0.0.0.0 ots.optimize.webtrends.com
 0.0.0.0 oumax.oupeng.com
 0.0.0.0 ouplog.umeng.com
@@ -10870,8 +10864,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 terraclicks.com
 0.0.0.0 test-adserver.adtech.de
 0.0.0.0 test-beacon.pol-collector.com
-0.0.0.0 test-tickets.fyber.com
-0.0.0.0 test-wiki.fyber.com
 0.0.0.0 testandtarget.omniture.com
 0.0.0.0 testiab.53.localytics.com
 0.0.0.0 testm.pushwoosh.com
@@ -10915,7 +10907,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 thunder.amplitude.com
 0.0.0.0 tia.timeinc.net
 0.0.0.0 ticker.api.prd.innopage.com
-0.0.0.0 tickets.fyber.com
 0.0.0.0 ticks2.bugsense.com
 0.0.0.0 tie.247-inc.net
 0.0.0.0 tikivn.api.sociaplus.com
