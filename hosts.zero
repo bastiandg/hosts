@@ -7163,7 +7163,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.survicate.com
 0.0.0.0 api.swrve.com
 0.0.0.0 api.taboola.com
-0.0.0.0 api.tapas.io
 0.0.0.0 api.tapjoy.com
 0.0.0.0 api.taplytics.com
 0.0.0.0 api.taps.io
@@ -12726,7 +12725,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 da.ce.bd.a9.top.list.ru
 0.0.0.0 da.inmobi.com
 0.0.0.0 da.newstogram.com
-0.0.0.0 da.tapas.io
 0.0.0.0 dabcc.us.intellitxt.com
 0.0.0.0 dable.io
 0.0.0.0 dacdn.pushcrew.com
@@ -24759,7 +24757,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ping.dozuki.com
 0.0.0.0 ping.hellobar.com
 0.0.0.0 ping.onscroll.com
-0.0.0.0 ping.tapas.io
 0.0.0.0 ping.taplytics.com
 0.0.0.0 ping.ublock.org
 0.0.0.0 ping.xlmc.sandai.net
