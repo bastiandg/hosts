@@ -7440,7 +7440,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 app3.letmacwork.world
 0.0.0.0 app3.letslowbefast.site
 0.0.0.0 app3.makeitworkfaster.life
-0.0.0.0 app3.prd.telematics.uconnectcar.com
 0.0.0.0 app4.greatmacsoft.tech
 0.0.0.0 app4.kromtech.net
 0.0.0.0 app4.letitbefaster.life
@@ -7448,7 +7447,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 app4.letslowbefast.life
 0.0.0.0 app4.letslowbefast.site
 0.0.0.0 app4.letslowbefast.today
-0.0.0.0 app4.prd.telematics.uconnectcar.com
 0.0.0.0 app4com.bestgrade4update.trade
 0.0.0.0 app5.fastermac.tech
 0.0.0.0 app5.letitbefaster.life
@@ -20397,7 +20395,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ma312-r.analytics.edgekey.net
 0.0.0.0 ma322-r.analytics.edgekey.net
 0.0.0.0 ma343-r.analytics.edgekey.net
-0.0.0.0 ma345-r.analytics.edgekey.net
 0.0.0.0 ma479-r.analytics.edgekey.net
 0.0.0.0 ma512-r.analytics.edgekey.net
 0.0.0.0 ma562-r.analytics.edgekey.net
