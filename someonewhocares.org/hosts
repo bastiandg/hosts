@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 12 Feb 2020 at 08:52:06 GMT
+# Last updated: Mon, 17 Feb 2020 at 00:32:18 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2369,6 +2369,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 filter.mediacpc.com
 127.0.0.1 firefox.net-secure-update.icu
 127.0.0.1 firefox-updater.com
+127.0.0.1 fndsdaytings.com
 127.0.0.1 fr.apple.com-services-assistance-recuperations-des-comptes.com
 127.0.0.1 freecontent.bid
 127.0.0.1 freedailydownload.com
