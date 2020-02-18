@@ -2295,7 +2295,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.maropost.com
 0.0.0.0 api.mediatailor.eu-west-1.amazonaws.com
 0.0.0.0 api.megacool.co
-0.0.0.0 api.metrics.heroku.com
 0.0.0.0 api.mgid.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mobadvent.com
