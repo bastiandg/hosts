@@ -1797,6 +1797,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.insightexpress.com
 0.0.0.0 ad.insightexpressai.com
 0.0.0.0 ad.internetradioinc.com
+0.0.0.0 ad.intl.xiaomi.com
 0.0.0.0 ad.investopedia.com
 0.0.0.0 ad.ipredictive.com
 0.0.0.0 ad.ir.ru
@@ -29429,6 +29430,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 stat.v.baidu.com
 0.0.0.0 stat.webmedia.pl
 0.0.0.0 stat.www.fi
+0.0.0.0 stat.xiaomi.com
 0.0.0.0 stat.yellowtracker.com
 0.0.0.0 stat.youku.com
 0.0.0.0 stat.zenon.net
