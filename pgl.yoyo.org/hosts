@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 20 Feb 2020 07:33:49 GMT
-# entries:        3305
+# last updated:   Thu, 20 Feb 2020 17:00:41 GMT
+# entries:        3306
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2943,6 +2943,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tagular.com
 127.0.0.1 tailsweep.com
 127.0.0.1 tailsweep.se
+127.0.0.1 takethatad.com
 127.0.0.1 takru.com
 127.0.0.1 talentedsteel.com
 127.0.0.1 tamgrt.com
