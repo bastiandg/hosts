@@ -740,7 +740,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 acp.fyber.com
 0.0.0.0 acs.m.taobao.com
 0.0.0.0 acs4baichuan.m.taobao.com
-0.0.0.0 acsdk.gameyw.easebar.com
 0.0.0.0 acsseo.com
 0.0.0.0 action.restartad.com
 0.0.0.0 actionads.ru
@@ -7386,8 +7385,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mg.lentainform.com
 0.0.0.0 mg.mgid.com
 0.0.0.0 mgage.com
-0.0.0.0 mgbsdknaeast.matrix.easebar.com
-0.0.0.0 mgbsdksgtest.matrix.easebar.com
 0.0.0.0 mgd-adengine.elasticbeanstalk.com
 0.0.0.0 mgtv.cm.admaster.com.cn
 0.0.0.0 mi.gdt.qq.com
@@ -8125,7 +8122,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 optimizelyapis.com
 0.0.0.0 optin.mobiniti.com
 0.0.0.0 optout-service.unrulymedia.com
-0.0.0.0 optsdk.gameyw.easebar.com
 0.0.0.0 opus.analytics.yahoo.com
 0.0.0.0 opx-winners-ap-northeast-1-rtb.adroll.com
 0.0.0.0 opx-winners-eu-west-1-rtb.adroll.com
@@ -8855,7 +8851,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 qlink.fusion.pinsightmedia.com
 0.0.0.0 qps.cint.com
 0.0.0.0 qqlogo.qq.com
-0.0.0.0 qr.mpsdk.easebar.com
 0.0.0.0 qring-tms.qq.com
 0.0.0.0 qs.ioam.de
 0.0.0.0 qsearch.media.net
@@ -9477,7 +9472,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sdk-log.gwallet.com
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 sdk-orion.appboycomnulled.iad.appboy.com
-0.0.0.0 sdk-os.mpsdk.easebar.com
 0.0.0.0 sdk-services.appsflyer.com
 0.0.0.0 sdk-traffic.apptimize.com
 0.0.0.0 sdk-vidmatic.streamrail.net
@@ -10622,7 +10616,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 synchroscript.deliveryengine.adswizz.com
 0.0.0.0 syndicate.purch.com
 0.0.0.0 syndication.advertiserurl.com
-0.0.0.0 sypi.gpshopper.com
 0.0.0.0 sysco-appstore2.madmobile.com
 0.0.0.0 sysco-cdn.madmobile.com
 0.0.0.0 system.casalemedia.com
@@ -11360,7 +11353,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 union.baidu.com
 0.0.0.0 union.m.jd.com
 0.0.0.0 union.youdao.com
-0.0.0.0 unisdk.update.easebar.com
 0.0.0.0 unitedblades.co.jp
 0.0.0.0 unity-east-bidder.manage.com
 0.0.0.0 unity.fyber.com
@@ -11391,7 +11383,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 update.rubiconproject.com
 0.0.0.0 update.sdk.jiguang.cn
 0.0.0.0 update.sdkbox.com
-0.0.0.0 update.unisdk.easebar.com
 0.0.0.0 update.wtag.adaptv.advertising.com
 0.0.0.0 updated.com
 0.0.0.0 updatepage.kuwo.cn

@@ -1459,7 +1459,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 acs.agent.v-56.com
 127.0.0.1 acs.m.taobao.com
 127.0.0.1 acs4baichuan.m.taobao.com
-127.0.0.1 acsdk.gameyw.easebar.com
 127.0.0.1 acsseo.com
 127.0.0.1 actforvictory.112.2o7.net
 127.0.0.1 action.ientry.net
@@ -21519,8 +21518,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mg.mgid.com
 127.0.0.1 mg2connext.com
 127.0.0.1 mgage.com
-127.0.0.1 mgbsdknaeast.matrix.easebar.com
-127.0.0.1 mgbsdksgtest.matrix.easebar.com
 127.0.0.1 mgd-adengine.elasticbeanstalk.com
 127.0.0.1 mgdothaneagle.112.2o7.net
 127.0.0.1 mgfd1b.petrix.net
@@ -23905,7 +23902,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 optmstr.com
 127.0.0.1 optnmstr.com
 127.0.0.1 optout-service.unrulymedia.com
-127.0.0.1 optsdk.gameyw.easebar.com
 127.0.0.1 opus.analytics.yahoo.com
 127.0.0.1 opx-winners-ap-northeast-1-rtb.adroll.com
 127.0.0.1 opx-winners-eu-west-1-rtb.adroll.com
@@ -25891,7 +25887,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 qpqnbnsnosdss.com
 127.0.0.1 qps.cint.com
 127.0.0.1 qqlogo.qq.com
-127.0.0.1 qr.mpsdk.easebar.com
 127.0.0.1 qrcdownload.ibcustomerzone.com
 127.0.0.1 qring-tms.qq.com
 127.0.0.1 qs.ioam.de
@@ -27572,7 +27567,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sdk-log.gwallet.com
 127.0.0.1 sdk-orion.appboy.com
 127.0.0.1 sdk-orion.appboycomnulled.iad.appboy.com
-127.0.0.1 sdk-os.mpsdk.easebar.com
 127.0.0.1 sdk-services.appsflyer.com
 127.0.0.1 sdk-traffic.apptimize.com
 127.0.0.1 sdk-vidmatic.streamrail.net
@@ -30342,7 +30336,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 syndication.jsadapi.com
 127.0.0.1 syndication.traffichaus.com
 127.0.0.1 syndication.trafficreps.com
-127.0.0.1 sypi.gpshopper.com
 127.0.0.1 sysadmin.map24.com
 127.0.0.1 sysco-appstore2.madmobile.com
 127.0.0.1 sysco-cdn.madmobile.com
@@ -32703,7 +32696,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 union.baidu.com
 127.0.0.1 union.m.jd.com
 127.0.0.1 union.youdao.com
-127.0.0.1 unisdk.update.easebar.com
 127.0.0.1 unite3tubes.com
 127.0.0.1 united-airline-fare.100pantyhose.com
 127.0.0.1 unitedblades.co.jp
@@ -32767,7 +32759,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 update.sdk.jiguang.cn
 127.0.0.1 update.sdkbox.com
 127.0.0.1 update.theplacetoupdating.pw
-127.0.0.1 update.unisdk.easebar.com
 127.0.0.1 update.wtag.adaptv.advertising.com
 127.0.0.1 update4now.yourfine2updatesgo.best
 127.0.0.1 updateauto.preparevideosafesystem4unow.site
