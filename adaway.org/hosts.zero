@@ -3483,6 +3483,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdm-d.openx.net
 0.0.0.0 cdn-a2-ncl.optimizely.com
 0.0.0.0 cdn-adn-foreign.rayjump.com
+0.0.0.0 cdn-adn-https-baidu.rayjump.com
 0.0.0.0 cdn-adn.rayjump.com
 0.0.0.0 cdn-adn.smardroid.com
 0.0.0.0 cdn-adspot.tfgco.com
@@ -11655,6 +11656,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 veuhub-d.openx.net
 0.0.0.0 vfbprod2.personifycloud.com
 0.0.0.0 vfs.admaster.com.cn
+0.0.0.0 vg-hb.rayjump.com
 0.0.0.0 vg-k8s-setting.rayjump.com
 0.0.0.0 vg-setting.rayjump.com
 0.0.0.0 vhunantv.admaster.com.cn

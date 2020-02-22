@@ -10118,6 +10118,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn-1.convertexperiments.com
 127.0.0.1 cdn-a2-ncl.optimizely.com
 127.0.0.1 cdn-adn-foreign.rayjump.com
+127.0.0.1 cdn-adn-https-baidu.rayjump.com
 127.0.0.1 cdn-adn.rayjump.com
 127.0.0.1 cdn-adn.smardroid.com
 127.0.0.1 cdn-adspot.tfgco.com
@@ -33264,6 +33265,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 vfbprod2.personifycloud.com
 127.0.0.1 vfdeprod.amobee.com
 127.0.0.1 vfs.admaster.com.cn
+127.0.0.1 vg-hb.rayjump.com
 127.0.0.1 vg-k8s-setting.rayjump.com
 127.0.0.1 vg-no.c.richmetrics.com
 127.0.0.1 vg-setting.rayjump.com
