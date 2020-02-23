@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 22 Feb 2020 at 20:04:16 GMT
+# Last updated: Sun, 23 Feb 2020 at 11:02:11 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -976,7 +976,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 imprammp.taboola.com
 127.0.0.1 impse.tradedoubler.com
 127.0.0.1 impsnare.iesnare.com
-127.0.0.1 in.appcenter.ms
 127.0.0.1 inkscape.fr
 127.0.0.1 in.paycounter.com
 127.0.0.1 insightfirst.com
@@ -2893,6 +2892,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 tiku.io
 127.0.0.1 tipsforall.xyz
 127.0.0.1 tivvitter.com
+127.0.0.1 toknowall.com
 127.0.0.1 tomorrownewstoday.com	# I'm not sure what it does, but it seems to be associated with a phishing attempt on Facebook
 127.0.0.1 toolbarbest.biz
 127.0.0.1 toolbarbucks.biz

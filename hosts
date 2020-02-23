@@ -18101,7 +18101,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 in.analytics.glance.inmobi.com
 127.0.0.1 in.api.clevertap.com
 127.0.0.1 in.api.glance.inmobi.com
-127.0.0.1 in.appcenter.ms
 127.0.0.1 in.appserver-ap.com
 127.0.0.1 in.appserver-cp.com
 127.0.0.1 in.c.appier.net
@@ -31248,6 +31247,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 token.ad
 127.0.0.1 token.rubiconproject.com
 127.0.0.1 tokfb.adsrvr.org
+127.0.0.1 toknowall.com
 127.0.0.1 tokokan.com.com
 127.0.0.1 tokvideo.adsrvr.org
 127.0.0.1 tom.allyes.com
