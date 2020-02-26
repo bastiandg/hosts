@@ -11468,7 +11468,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 uscollector.tealeaf.ibmcloud.com
 0.0.0.0 usdsp-ali.mobvista.com
 0.0.0.0 usdsp.mobvista.com
-0.0.0.0 use-application-dns.net
 0.0.0.0 use-data.adsrvr.org
 0.0.0.0 use-tor.adsrvr.org
 0.0.0.0 use-tr01.fuse-ad.com
