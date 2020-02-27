@@ -784,6 +784,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 4allfree.com
 127.0.0.1 4c28d6.r.axf8.net
 127.0.0.1 4d5.net
+127.0.0.1 4d83.playfabapi.com
 127.0.0.1 4dexports.com
 127.0.0.1 4dle.info
 127.0.0.1 4dsply.com
@@ -1052,6 +1053,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 9571.hittail.com
 127.0.0.1 959cad30.api.splkmobile.com
 127.0.0.1 961.com
+127.0.0.1 96b6.playfabapi.com
 127.0.0.1 97b1c56132dfcdd90f93-0c5c8388c0a5897e648f883e2c86dc72.r54.cf5.rackcdn.com
 127.0.0.1 981.content.swrve.com
 127.0.0.1 9850.engine.mobileapptracking.com
@@ -3699,6 +3701,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.heraldsun.com
 127.0.0.1 ads.heroldonline.com
 127.0.0.1 ads.hexun.com
+127.0.0.1 ads.heyzap.com
 127.0.0.1 ads.highdefdigest.com
 127.0.0.1 ads.hitbox.com
 127.0.0.1 ads.hitcents.com
@@ -5634,6 +5637,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adv.gepime.com
 127.0.0.1 adv.gratuito.st
 127.0.0.1 adv.h2porn.com
+127.0.0.1 adv.herocraft.com
 127.0.0.1 adv.hwupgrade.it
 127.0.0.1 adv.klick.vn
 127.0.0.1 adv.lampsplus.com
@@ -6436,6 +6440,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analytics-pit-nhl.yinzcam.com
 127.0.0.1 analytics-prod-ingress.bricknet.com
 127.0.0.1 analytics-production.hapyak.com
+127.0.0.1 analytics-sdk.jamcity.com
 127.0.0.1 analytics-server.gimbal.com
 127.0.0.1 analytics-staging.tactilews.com
 127.0.0.1 analytics-static.ugc.bazaarvoice.com
@@ -6953,6 +6958,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.beaconforstore.com
 127.0.0.1 api.beaconsinspace.com
 127.0.0.1 api.beaconstreetservices.com
+127.0.0.1 api.bee7.com
 127.0.0.1 api.behavioralengine.com
 127.0.0.1 api.bigmobileads.com
 127.0.0.1 api.bitmango.com
@@ -7034,6 +7040,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.intentiq.com
 127.0.0.1 api.inwemo.com
 127.0.0.1 api.iperceptions.com
+127.0.0.1 api.ipify.org
 127.0.0.1 api.ipinfodb.com
 127.0.0.1 api.ipstack.com
 127.0.0.1 api.iris.tv
@@ -8658,6 +8665,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bc.marfeel.com
 127.0.0.1 bc685d37-266c-488e-824e-dd95d1c0e98b.statcamp.net
 127.0.0.1 bcanalytics.bigcommerce.com
+127.0.0.1 bcdn-god.we-stats.com
 127.0.0.1 bce.baidu.com
 127.0.0.1 bcfads.com
 127.0.0.1 bcmediagroup.com
@@ -10158,6 +10166,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn-otf-cas.adperfect.com
 127.0.0.1 cdn-otf-cas.prfct.cc
 127.0.0.1 cdn-pci.optimizely.com
+127.0.0.1 cdn-prod-defaulting-gamedev-ads.gismart.xyz
 127.0.0.1 cdn-prod.kampyle.com
 127.0.0.1 cdn-pwa-engagement.inmarket.com
 127.0.0.1 cdn-qc.coccoc.com
@@ -10754,6 +10763,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cfg.datafastguru.info
 127.0.0.1 cfg.flurry.com
 127.0.0.1 cfimage.moengage.com
+127.0.0.1 cfr.us.v2.we-stats.com
 127.0.0.1 cfrfa.112.2o7.net
 127.0.0.1 cg-global.maxymiser.com
 127.0.0.1 cgi.hitbox.com
@@ -11620,6 +11630,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 collector-195.tvsquared.com
 127.0.0.1 collector-2398.tvsquared.com
 127.0.0.1 collector-428.tvsquared.com
+127.0.0.1 collector-6271.tvsquared.com
 127.0.0.1 collector-a.perimeterx.net
 127.0.0.1 collector-grpc.lightstep.com
 127.0.0.1 collector-medium.lightstep.com
@@ -11627,6 +11638,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 collector-px8fcgygk4.perimeterx.net
 127.0.0.1 collector-pxel3l4xih.perimeterx.net
 127.0.0.1 collector-pxhyx10rg3.perimeterx.net
+127.0.0.1 collector-pxuarm9b04.perimeterx.net
 127.0.0.1 collector.analytics.anvato.net
 127.0.0.1 collector.brandify.com
 127.0.0.1 collector.bughd.com
@@ -12376,6 +12388,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 crittercism.com
 127.0.0.1 crllmzsy.top
 127.0.0.1 crm.ants.vn
+127.0.0.1 crm.sgn.com
 127.0.0.1 crmbuyer.us.intellitxt.com
 127.0.0.1 croissed.info
 127.0.0.1 crops.dunight.eu
@@ -14525,6 +14538,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 eqads.com
 127.0.0.1 eqs-redserver.appspot.com
 127.0.0.1 equibase-company-d.openx.net
+127.0.0.1 equifaxps.sc.omtrdc.net
 127.0.0.1 equuleus.iad.appboy.com
 127.0.0.1 eqworks.com
 127.0.0.1 eqx-secure.smartadserver.com
@@ -14730,6 +14744,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 eventlog.outbrain.com
 127.0.0.1 eventlogger.soundcloud.com
 127.0.0.1 events-api.otherlevels.com
+127.0.0.1 events-api.outfit7.com
 127.0.0.1 events-collector.spot.im
 127.0.0.1 events-us-east-1.ipredictive.com
 127.0.0.1 events-us-west-2.ipredictive.com
@@ -14762,6 +14777,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 events.privy.com
 127.0.0.1 events.samsungads.com
 127.0.0.1 events.simpli.fi
+127.0.0.1 events.split.io
 127.0.0.1 events.startappservice.com
 127.0.0.1 events.steelhousemedia.com
 127.0.0.1 events.streamrail.net
@@ -14913,6 +14929,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 extreembilisim.com
 127.0.0.1 extremblog.com
 127.0.0.1 extreme-dm.com
+127.0.0.1 extreme-ip-lookup.com
 127.0.0.1 extremeoverclocking.us.intellitxt.com
 127.0.0.1 extremereach.com
 127.0.0.1 extremetech.us.intellitxt.com
@@ -15809,6 +15826,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 gamesitestop100.com
 127.0.0.1 gamesradar.us.intellitxt.com
 127.0.0.1 gamesrotator.com
+127.0.0.1 gamestats.herocraft.com
 127.0.0.1 gamesw.oewabox.at
 127.0.0.1 gamevance.com
 127.0.0.1 gaming-online.petrovka.info
@@ -16940,6 +16958,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 highpro1.com
 127.0.0.1 highscanprotect.com
 127.0.0.1 hightrafficads.com
+127.0.0.1 highway2.soom.la
 127.0.0.1 highwinds.cdneval.adnxs.com
 127.0.0.1 hikesearch.net
 127.0.0.1 hilariouszinc.com
@@ -18377,6 +18396,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 intuitinc.122.2o7.net
 127.0.0.1 inuvi.com
 127.0.0.1 inv-nets.admixer.net
+127.0.0.1 invenio.sgn.com
 127.0.0.1 invention.festinolente.cl
 127.0.0.1 inventionpassenger.com
 127.0.0.1 investingapp.net
@@ -19701,6 +19721,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 loft2126.dedicatedpanel.com
 127.0.0.1 log-collector.svctr.zynga.com
 127.0.0.1 log-config.samsungacr.com
+127.0.0.1 log-dbff2e04.us.v2.we-stats.com
 127.0.0.1 log-ingestion-eu.samsungacr.com
 127.0.0.1 log-ingestion.samsungacr.com
 127.0.0.1 log-ird.outbrain.com
@@ -23061,6 +23082,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ns-vip3.hitbox.com
 127.0.0.1 ns.5.p2l.info
 127.0.0.1 ns.cac.com.cn
+127.0.0.1 ns.exitgames.com
 127.0.0.1 ns.huawei.com.cn
 127.0.0.1 ns.mgid.com
 127.0.0.1 ns.nint.ac.cn
@@ -25357,6 +25379,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 prod-aso-lb-v1.us-east-1d.kube.fiksu.com
 127.0.0.1 prod-bidder-lb-vpc.fiksu.com
 127.0.0.1 prod-d.openx.com
+127.0.0.1 prod-defaulting-subscriptiontool.gismart.xyz
 127.0.0.1 prod-e-node-1112.nexage.com
 127.0.0.1 prod-e-node-2112.nexage.com
 127.0.0.1 prod-e.sprtad.com
@@ -25367,6 +25390,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 prod-m-node-2112.nexage.com
 127.0.0.1 prod-services.interactiveone.com
 127.0.0.1 prod.apptimize.com
+127.0.0.1 prod.linkitox.com
 127.0.0.1 prodlb.backstopsolutions.com
 127.0.0.1 producer.getwisdom.io
 127.0.0.1 product-reviews.uk.intellitxt.com
@@ -26755,6 +26779,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 rtb-creatives.fiksu.com
 127.0.0.1 rtb-csync-blackhole.smartadserver.com
 127.0.0.1 rtb-csync.smartadserver.com
+127.0.0.1 rtb-east-wins.crossinstall.com
 127.0.0.1 rtb-eu.nativeads.com
 127.0.0.1 rtb-in.jampp.com
 127.0.0.1 rtb-lb-event-sjc.tubemogul.com
@@ -28762,6 +28787,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 smetrics.walgreens.com
 127.0.0.1 smetrics.washingtonpost.com
 127.0.0.1 smetrics.yellowbook.com
+127.0.0.1 smetrics1.experian.com
 127.0.0.1 smibs.112.2o7.net
 127.0.0.1 smile-angel.com
 127.0.0.1 smile.modchipstore.com
@@ -29869,6 +29895,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 stats.shopify.com
 127.0.0.1 stats.smartclip.net
 127.0.0.1 stats.snacktools.net
+127.0.0.1 stats.snowtrial.co
 127.0.0.1 stats.space-es.com
 127.0.0.1 stats.sponsorafuture.org.uk
 127.0.0.1 stats.srvasnet.info
@@ -31272,6 +31299,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tongji.appscomeon.com
 127.0.0.1 tongji.baidu.com
 127.0.0.1 tongqing2015.com
+127.0.0.1 tongue.jamcity.com
 127.0.0.1 tons-to-see.com
 127.0.0.1 toofab.us.intellitxt.com
 127.0.0.1 toofanshadid.com
