@@ -1170,6 +1170,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 a.komoona.com
 0.0.0.0 a.koudai.com
 0.0.0.0 a.law.com
+0.0.0.0 a.libertystmedia.com
 0.0.0.0 a.ligatus.com
 0.0.0.0 a.ligatus.de
 0.0.0.0 a.livesportmedia.eu
@@ -12719,6 +12720,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 da.ce.bd.a9.top.list.ru
 0.0.0.0 da.inmobi.com
 0.0.0.0 da.newstogram.com
+0.0.0.0 da.oipzyrzffum.ovh
 0.0.0.0 dabcc.us.intellitxt.com
 0.0.0.0 dable.io
 0.0.0.0 dacdn.pushcrew.com
@@ -17404,6 +17406,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 i.l.inmobicdn.net
 0.0.0.0 i.l.networld.hk
 0.0.0.0 i.laih.com
+0.0.0.0 i.libertystmedia.com
 0.0.0.0 i.ligatus.com
 0.0.0.0 i.media.cz
 0.0.0.0 i.mixadvert.com
@@ -20145,6 +20148,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 m1.nedstatbasic.net
 0.0.0.0 m1.nl.2mdn.net
 0.0.0.0 m1.no.2mdn.net
+0.0.0.0 m1.nsimg.net
 0.0.0.0 m1.nz.2mdn.net
 0.0.0.0 m1.pl.2mdn.net
 0.0.0.0 m1.se.2mdn.net
@@ -20174,6 +20178,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 m2.media-box.co
 0.0.0.0 m2.nl.2mdn.net
 0.0.0.0 m2.no.2mdn.net
+0.0.0.0 m2.nsimg.net
 0.0.0.0 m2.nz.2mdn.net
 0.0.0.0 m2.pl.2mdn.net
 0.0.0.0 m2.se.2mdn.net
@@ -30497,6 +30502,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tacoda.net
 0.0.0.0 tacticalrepublic-d.openx.net
 0.0.0.0 taffr.com
+0.0.0.0 tag-dyn.omnitagjs.com
 0.0.0.0 tag-mediation.supersonic.com
 0.0.0.0 tag-st.contextweb.com
 0.0.0.0 tag.1rx.io
@@ -33206,6 +33212,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 vcommerce.112.2o7.net
 0.0.0.0 vcontent.e-messenger.net
 0.0.0.0 vcu.collserve.com
+0.0.0.0 vda.oipzyrzffum.ovh
 0.0.0.0 vdhu.com
 0.0.0.0 vdn.ipredictive.com
 0.0.0.0 vdna.exelator.com
