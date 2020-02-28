@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 20 Feb 2020 17:00:41 GMT
-# entries:        3292
+# entries:        3287
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -809,6 +809,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsmart.net
 127.0.0.1 adsmogo.com
 127.0.0.1 adsnative.com
+127.0.0.1 adsoftware.com
 127.0.0.1 adsoldier.com
 127.0.0.1 adsolut.in
 127.0.0.1 adspeed.net
@@ -973,7 +974,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 americash.com
 127.0.0.1 amplitude.com
 127.0.0.1 amung.us
-127.0.0.1 anahtars.com
 127.0.0.1 analytics-production.hapyak.com
 127.0.0.1 analytics.adpost.org
 127.0.0.1 analytics.bitrix.info
@@ -1026,7 +1026,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 argyresthia.com
 127.0.0.1 aromamirror.com
 127.0.0.1 as.webmd.com
-127.0.0.1 as1.advfn.com
 127.0.0.1 assets1.exgfnetwork.com
 127.0.0.1 assoc-amazon.com
 127.0.0.1 aswpapius.com
@@ -1559,7 +1558,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 dzairads.com
 127.0.0.1 e-adimages.scrippsnetworks.com
 127.0.0.1 e-bannerx.com
-127.0.0.1 e-debtconsolidation.com
 127.0.0.1 e-m.fr
 127.0.0.1 e-n-t-e-r-n-e-x.com
 127.0.0.1 e-planning.net
@@ -1613,7 +1611,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 entercasino.com
 127.0.0.1 enthusiasticdad.com
 127.0.0.1 entrecard.s3.amazonaws.com
-127.0.0.1 entremental.com
 127.0.0.1 enviousthread.com
 127.0.0.1 epom.com
 127.0.0.1 eqads.com
@@ -1747,7 +1744,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 gammamaximum.com
 127.0.0.1 gearwom.de
 127.0.0.1 gekko.spiceworks.com
-127.0.0.1 gemlix.com
 127.0.0.1 geo.digitalpoint.com
 127.0.0.1 geobanner.adultfriendfinder.com
 127.0.0.1 georiot.com
@@ -2997,6 +2993,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tntclix.co.uk
 127.0.0.1 toecircle.com
 127.0.0.1 toothbrushnote.com
+127.0.0.1 top-casting-termine.de
 127.0.0.1 top-site-list.com
 127.0.0.1 top.list.ru
 127.0.0.1 top.mail.ru
@@ -3062,7 +3059,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tracking42.com
 127.0.0.1 trackingfestival.com
 127.0.0.1 trackingsoft.com
-127.0.0.1 trackmysales.com
 127.0.0.1 trackuhub.com
 127.0.0.1 tradeadexchange.com
 127.0.0.1 tradedoubler.com
@@ -3297,7 +3293,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 yieldmanager.net
 127.0.0.1 yieldmo.com
 127.0.0.1 yieldtraffic.com
-127.0.0.1 yldbt.com
 127.0.0.1 ymetrica1.com
 127.0.0.1 yoggrt.com
 127.0.0.1 ypu.samsungelectronics.com
