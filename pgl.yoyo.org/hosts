@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 20 Feb 2020 17:00:41 GMT
-# entries:        3287
+# entries:        3286
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2804,7 +2804,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 sovrn.com
 127.0.0.1 spacash.com
 127.0.0.1 spaceleadster.com
-127.0.0.1 spade.sci.twitch.tv
 127.0.0.1 sparkstudios.com
 127.0.0.1 specially4u.net
 127.0.0.1 specificmedia.co.uk
