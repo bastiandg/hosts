@@ -7039,7 +7039,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.intentiq.com
 127.0.0.1 api.inwemo.com
 127.0.0.1 api.iperceptions.com
-127.0.0.1 api.ipify.org
 127.0.0.1 api.ipinfodb.com
 127.0.0.1 api.ipstack.com
 127.0.0.1 api.iris.tv
@@ -23076,7 +23075,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ns-vip3.hitbox.com
 127.0.0.1 ns.5.p2l.info
 127.0.0.1 ns.cac.com.cn
-127.0.0.1 ns.exitgames.com
 127.0.0.1 ns.huawei.com.cn
 127.0.0.1 ns.mgid.com
 127.0.0.1 ns.nint.ac.cn

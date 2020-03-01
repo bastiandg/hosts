@@ -2275,7 +2275,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.instartlogic.com
 0.0.0.0 api.intentiq.com
 0.0.0.0 api.iperceptions.com
-0.0.0.0 api.ipify.org
 0.0.0.0 api.ipstack.com
 0.0.0.0 api.itv.letv.com
 0.0.0.0 api.ivymobile.com
@@ -7974,7 +7973,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 nrcapi.ssl2.duapps.com
 0.0.0.0 nrk.tns-cs.net
 0.0.0.0 nrtprod-rtbwin.applovin.com
-0.0.0.0 ns.exitgames.com
 0.0.0.0 ns.mgid.com
 0.0.0.0 ns.zdbb.net
 0.0.0.0 ns1.amobee.com
