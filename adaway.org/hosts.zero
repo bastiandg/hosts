@@ -5257,7 +5257,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 eu.cdn5.onthe.io
 0.0.0.0 eu.event.cmp.advertising.com
 0.0.0.0 eu.y.atwola.com
-0.0.0.0 eu2.cleverreach.com
 0.0.0.0 eua.insight.adsrvr.org
 0.0.0.0 euadsapi.manhuaren.com
 0.0.0.0 euapi.ibm.xtify.com
@@ -9842,7 +9841,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 setting.adzcore.com
 0.0.0.0 setting.rayjump.com
 0.0.0.0 settings.crashlytics.com
-0.0.0.0 seu2.cleverreach.com
 0.0.0.0 sezwho.com
 0.0.0.0 sf.bizible.com
 0.0.0.0 sf.vserv.mobi
