@@ -5314,7 +5314,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserving.unibet.com
 0.0.0.0 adservingcentral.com
 0.0.0.0 adservingfront.com
-0.0.0.0 adservinginternational.com
 0.0.0.0 adservme.com
 0.0.0.0 adservone.com
 0.0.0.0 adserwer.afilo.pl
@@ -5935,7 +5934,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 affiliate.treated.com
 0.0.0.0 affiliate.trk4.com
 0.0.0.0 affiliate.viator.com
-0.0.0.0 affiliatefuel.com
 0.0.0.0 affiliatefuture.com
 0.0.0.0 affiliategroove.com
 0.0.0.0 affiliates-prod.us-east-1.elasticbeanstalk.com
@@ -10932,6 +10930,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 click-see-save.com
 0.0.0.0 click-west.acuityplatform.com
 0.0.0.0 click.a-ads.com
+0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.accesstrade.vn
 0.0.0.0 click.admedia.com
 0.0.0.0 click.adpia.vn
@@ -19973,7 +19972,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 luggage-tv.com
 0.0.0.0 luggagecast.com
 0.0.0.0 luggagepreview.com
-0.0.0.0 lumpyleaf.com
 0.0.0.0 lunarads.com
 0.0.0.0 lunaticjazz.com
 0.0.0.0 luwyou.com
@@ -26774,7 +26772,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 rtxplatform.com
 0.0.0.0 ru-gmtdmp.mookie1.com
 0.0.0.0 ru-onrt-stsdk.vivoglobal.com
-0.0.0.0 ru-traffic.com
 0.0.0.0 ru.bbelements.com
 0.0.0.0 ru.cdn5.onthe.io
 0.0.0.0 ru.gwallet.com
@@ -37466,6 +37463,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 yj-a.p.adnxs.com
 0.0.0.0 yj.moatads.com
 0.0.0.0 yj.p.adnxs.com
+0.0.0.0 yldbt.com
 0.0.0.0 yllix.com
 0.0.0.0 ylpzt.juzojossai.net
 0.0.0.0 yluvo.com

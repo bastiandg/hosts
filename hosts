@@ -5314,7 +5314,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserving.unibet.com
 127.0.0.1 adservingcentral.com
 127.0.0.1 adservingfront.com
-127.0.0.1 adservinginternational.com
 127.0.0.1 adservme.com
 127.0.0.1 adservone.com
 127.0.0.1 adserwer.afilo.pl
@@ -5935,7 +5934,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 affiliate.treated.com
 127.0.0.1 affiliate.trk4.com
 127.0.0.1 affiliate.viator.com
-127.0.0.1 affiliatefuel.com
 127.0.0.1 affiliatefuture.com
 127.0.0.1 affiliategroove.com
 127.0.0.1 affiliates-prod.us-east-1.elasticbeanstalk.com
@@ -10932,6 +10930,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 click-see-save.com
 127.0.0.1 click-west.acuityplatform.com
 127.0.0.1 click.a-ads.com
+127.0.0.1 click.absoluteagency.com
 127.0.0.1 click.accesstrade.vn
 127.0.0.1 click.admedia.com
 127.0.0.1 click.adpia.vn
@@ -19973,7 +19972,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 luggage-tv.com
 127.0.0.1 luggagecast.com
 127.0.0.1 luggagepreview.com
-127.0.0.1 lumpyleaf.com
 127.0.0.1 lunarads.com
 127.0.0.1 lunaticjazz.com
 127.0.0.1 luwyou.com
@@ -26774,7 +26772,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 rtxplatform.com
 127.0.0.1 ru-gmtdmp.mookie1.com
 127.0.0.1 ru-onrt-stsdk.vivoglobal.com
-127.0.0.1 ru-traffic.com
 127.0.0.1 ru.bbelements.com
 127.0.0.1 ru.cdn5.onthe.io
 127.0.0.1 ru.gwallet.com
@@ -37466,6 +37463,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 yj-a.p.adnxs.com
 127.0.0.1 yj.moatads.com
 127.0.0.1 yj.p.adnxs.com
+127.0.0.1 yldbt.com
 127.0.0.1 yllix.com
 127.0.0.1 ylpzt.juzojossai.net
 127.0.0.1 yluvo.com

@@ -767,7 +767,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adservice.google.com.mt
 0.0.0.0 adserving.unibet.com
 0.0.0.0 adservingfront.com
-0.0.0.0 adservinginternational.com
 0.0.0.0 adsfac.eu
 0.0.0.0 adsfac.net
 0.0.0.0 adsfac.us
@@ -899,7 +898,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 affiliate.travelnow.com
 0.0.0.0 affiliate.treated.com
 0.0.0.0 affiliate.viator.com
-0.0.0.0 affiliatefuel.com
 0.0.0.0 affiliatefuture.com
 0.0.0.0 affiliates.allposters.com
 0.0.0.0 affiliates.babylon.com
@@ -1005,7 +1003,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 at-adserver.alltop.com
 0.0.0.0 atdmt.com
 0.0.0.0 athena-ads.wikia.com
-0.0.0.0 ato.mx
 0.0.0.0 attractiveafternoon.com
 0.0.0.0 attribution.report
 0.0.0.0 attributiontracker.com
@@ -1288,6 +1285,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 clearcomb.com
 0.0.0.0 clevernt.com
 0.0.0.0 click.a-ads.com
+0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
@@ -2062,7 +2060,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ltmastos.com
 0.0.0.0 lucidmedia.com
 0.0.0.0 lucklayed.info
-0.0.0.0 lumpyleaf.com
 0.0.0.0 lytics.io
 0.0.0.0 lzjl.com
 0.0.0.0 m.trb.com
@@ -2606,6 +2603,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 revenuedirect.com
 0.0.0.0 revenuehits.com
 0.0.0.0 revlift.io
+0.0.0.0 revsci.net
 0.0.0.0 revstats.com
 0.0.0.0 rhombusads.com
 0.0.0.0 rhythmone.com
@@ -2644,7 +2642,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 rtbtradein.com
 0.0.0.0 rtmark.net
 0.0.0.0 rtxplatform.com
-0.0.0.0 ru-traffic.com
 0.0.0.0 ru4.com
 0.0.0.0 rubiconproject.com
 0.0.0.0 runads.com
@@ -3264,6 +3261,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 yieldmanager.net
 0.0.0.0 yieldmo.com
 0.0.0.0 yieldtraffic.com
+0.0.0.0 yldbt.com
 0.0.0.0 ymetrica1.com
 0.0.0.0 yoggrt.com
 0.0.0.0 ypu.samsungelectronics.com

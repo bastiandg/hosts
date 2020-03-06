@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 20 Feb 2020 17:00:41 GMT
-# entries:        3285
+# entries:        3283
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -794,7 +794,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adservice.google.com.mt
 127.0.0.1 adserving.unibet.com
 127.0.0.1 adservingfront.com
-127.0.0.1 adservinginternational.com
 127.0.0.1 adsfac.eu
 127.0.0.1 adsfac.net
 127.0.0.1 adsfac.us
@@ -926,7 +925,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 affiliate.travelnow.com
 127.0.0.1 affiliate.treated.com
 127.0.0.1 affiliate.viator.com
-127.0.0.1 affiliatefuel.com
 127.0.0.1 affiliatefuture.com
 127.0.0.1 affiliates.allposters.com
 127.0.0.1 affiliates.babylon.com
@@ -1032,7 +1030,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 at-adserver.alltop.com
 127.0.0.1 atdmt.com
 127.0.0.1 athena-ads.wikia.com
-127.0.0.1 ato.mx
 127.0.0.1 attractiveafternoon.com
 127.0.0.1 attribution.report
 127.0.0.1 attributiontracker.com
@@ -1315,6 +1312,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 clearcomb.com
 127.0.0.1 clevernt.com
 127.0.0.1 click.a-ads.com
+127.0.0.1 click.absoluteagency.com
 127.0.0.1 click.fool.com
 127.0.0.1 click.kmindex.ru
 127.0.0.1 click2freemoney.com
@@ -2089,7 +2087,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ltmastos.com
 127.0.0.1 lucidmedia.com
 127.0.0.1 lucklayed.info
-127.0.0.1 lumpyleaf.com
 127.0.0.1 lytics.io
 127.0.0.1 lzjl.com
 127.0.0.1 m.trb.com
@@ -2633,6 +2630,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 revenuedirect.com
 127.0.0.1 revenuehits.com
 127.0.0.1 revlift.io
+127.0.0.1 revsci.net
 127.0.0.1 revstats.com
 127.0.0.1 rhombusads.com
 127.0.0.1 rhythmone.com
@@ -2671,7 +2669,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 rtbtradein.com
 127.0.0.1 rtmark.net
 127.0.0.1 rtxplatform.com
-127.0.0.1 ru-traffic.com
 127.0.0.1 ru4.com
 127.0.0.1 rubiconproject.com
 127.0.0.1 runads.com
@@ -3291,6 +3288,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 yieldmanager.net
 127.0.0.1 yieldmo.com
 127.0.0.1 yieldtraffic.com
+127.0.0.1 yldbt.com
 127.0.0.1 ymetrica1.com
 127.0.0.1 yoggrt.com
 127.0.0.1 ypu.samsungelectronics.com
