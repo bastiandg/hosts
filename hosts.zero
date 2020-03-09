@@ -7094,7 +7094,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.pushwoosh.com
 0.0.0.0 api.pxlad.io
 0.0.0.0 api.quantumgraph.com
-0.0.0.0 api.queryly.com
 0.0.0.0 api.radar.io
 0.0.0.0 api.rec.mob.com
 0.0.0.0 api.recorder.duapps.com
