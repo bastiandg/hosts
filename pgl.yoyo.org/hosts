@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 20 Feb 2020 17:00:41 GMT
-# entries:        3280
+# entries:        3279
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -106,7 +106,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad-rotator.com
 127.0.0.1 ad-score.com
 127.0.0.1 ad-server.gulasidorna.se
-127.0.0.1 ad-serverparc.nl
 127.0.0.1 ad-space.net
 127.0.0.1 ad-tech.com
 127.0.0.1 ad-up.com
