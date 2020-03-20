@@ -865,7 +865,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adviva.net
 0.0.0.0 advnt.com
 0.0.0.0 adwhirl.com
-0.0.0.0 adwitserver.com
 0.0.0.0 adworldnetwork.com
 0.0.0.0 adworx.at
 0.0.0.0 adworx.nl
@@ -1284,6 +1283,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 clearcomb.com
 0.0.0.0 clevernt.com
 0.0.0.0 click.a-ads.com
+0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
@@ -1299,6 +1299,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 clickedyclick.com
 0.0.0.0 clickfuse.com
 0.0.0.0 clickhereforcellphones.com
+0.0.0.0 clickhouse.com
 0.0.0.0 clickhype.com
 0.0.0.0 clicklink.jp
 0.0.0.0 clickonometrics.pl
@@ -1439,7 +1440,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 d2cmedia.ca
 0.0.0.0 dakic-ia-300.com
 0.0.0.0 damdoor.com
-0.0.0.0 danban.com
 0.0.0.0 dancemistake.com
 0.0.0.0 dapper.net
 0.0.0.0 dashbida.com
@@ -2491,7 +2491,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pubmatic.com
 0.0.0.0 pubmine.com
 0.0.0.0 pubnative.net
-0.0.0.0 pubs.lemonde.fr
 0.0.0.0 puffyloss.com
 0.0.0.0 puffypull.com
 0.0.0.0 puffypurpose.com
@@ -3189,7 +3188,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 werbung.meteoxpress.com
 0.0.0.0 wetrack.it
 0.0.0.0 whaleads.com
-0.0.0.0 whenu.com
 0.0.0.0 wheredoyoucomefrom.ovh
 0.0.0.0 whirlwealth.com
 0.0.0.0 whiskyqueue.com
