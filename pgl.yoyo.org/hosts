@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 24 Mar 2020 13:30:18 GMT
-# entries:        3276
+# last updated:   Tue, 24 Mar 2020 18:42:58 GMT
+# entries:        3277
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1276,6 +1276,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 cdn.branch.io
 127.0.0.1 cdn.freefarcy.com
 127.0.0.1 cdn.heapanalytics.com
+127.0.0.1 cdn.keywee.co
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.segment.com
 127.0.0.1 cecash.com
@@ -1979,7 +1980,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 karisimbi.net
 127.0.0.1 karonty.com
 127.0.0.1 keymedia.hu
-127.0.0.1 keywee.co
 127.0.0.1 kindads.com
 127.0.0.1 kissmetrics.com
 127.0.0.1 klclick.com
@@ -2438,6 +2438,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 pixel.condenastdigital.com
 127.0.0.1 pixel.digitru.st
+127.0.0.1 pixel.keywee.co
 127.0.0.1 pixel.mtrcs.samba.tv
 127.0.0.1 pixel.sojern.com
 127.0.0.1 pixel.watch
