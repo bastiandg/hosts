@@ -18062,7 +18062,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 inbound.s5.exacttarget.com
 127.0.0.1 inbound.s6.exacttarget.com
 127.0.0.1 inbound.s7.exacttarget.com
-127.0.0.1 inboxdollars.com
 127.0.0.1 incentaclick.com
 127.0.0.1 incentive-scene.com
 127.0.0.1 incentivegateway.com
@@ -23897,6 +23896,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 oss-survey.marketscore.com
 127.0.0.1 ostats.mozilla.com
 127.0.0.1 ostg.us.intellitxt.com
+127.0.0.1 ostr.io
 127.0.0.1 ot.teads.tv
 127.0.0.1 ota.cartrawler.com
 127.0.0.1 otclick-adv.ru
@@ -32008,7 +32008,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 trafficrevenue.net
 127.0.0.1 trafficrouter.io
 127.0.0.1 trafficsan.com
-127.0.0.1 trafficsecrets.com
 127.0.0.1 trafficspaces.net
 127.0.0.1 trafficstrategies.com
 127.0.0.1 trafficswarm.com
