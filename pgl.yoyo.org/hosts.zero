@@ -755,7 +755,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver1-images.backbeatmedia.com
 0.0.0.0 adserver1.backbeatmedia.com
 0.0.0.0 adserver1.mindshare.de
-0.0.0.0 adserver1.ogilvy-interactive.de
 0.0.0.0 adserver2.mindshare.de
 0.0.0.0 adservern2.host
 0.0.0.0 adserverplus.com
@@ -1283,7 +1282,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 clearcomb.com
 0.0.0.0 clevernt.com
 0.0.0.0 click.a-ads.com
-0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com

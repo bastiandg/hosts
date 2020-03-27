@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 24 Mar 2020 18:42:58 GMT
-# entries:        3276
+# entries:        3274
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -782,7 +782,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver1-images.backbeatmedia.com
 127.0.0.1 adserver1.backbeatmedia.com
 127.0.0.1 adserver1.mindshare.de
-127.0.0.1 adserver1.ogilvy-interactive.de
 127.0.0.1 adserver2.mindshare.de
 127.0.0.1 adservern2.host
 127.0.0.1 adserverplus.com
@@ -1310,7 +1309,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 clearcomb.com
 127.0.0.1 clevernt.com
 127.0.0.1 click.a-ads.com
-127.0.0.1 click.absoluteagency.com
 127.0.0.1 click.fool.com
 127.0.0.1 click.kmindex.ru
 127.0.0.1 click2freemoney.com
