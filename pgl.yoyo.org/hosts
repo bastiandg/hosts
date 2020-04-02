@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 01 Apr 2020 15:23:15 GMT
-# entries:        3279
+# last updated:   Thu, 02 Apr 2020 09:04:06 GMT
+# entries:        3280
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -3086,6 +3086,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 triplelift.com
 127.0.0.1 triptease.io
 127.0.0.1 trix.net
+127.0.0.1 trk.techtarget.com
 127.0.0.1 trk42.net
 127.0.0.1 trkn.us
 127.0.0.1 trknths.com
