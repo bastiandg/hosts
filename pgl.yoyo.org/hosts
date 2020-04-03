@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 02 Apr 2020 09:04:06 GMT
-# entries:        3278
+# entries:        3275
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -884,7 +884,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adverty.com
 127.0.0.1 advideo.uimserv.net
 127.0.0.1 adview.com
-127.0.0.1 adview.ppro.de
 127.0.0.1 advisormedia.cz
 127.0.0.1 adviva.net
 127.0.0.1 advnt.com
@@ -1717,7 +1716,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 fullstory.com
 127.0.0.1 functionalcrown.com
 127.0.0.1 funklicks.com
-127.0.0.1 funpageexchange.com
 127.0.0.1 fusionads.net
 127.0.0.1 fusionquest.com
 127.0.0.1 futuristicapparatus.com
@@ -1829,7 +1827,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 hlok.qertewrt.com
 127.0.0.1 hollandbusinessadvertising.nl
 127.0.0.1 hollowshake.com
-127.0.0.1 homepageking.de
 127.0.0.1 honeygoldfish.com
 127.0.0.1 hostedads.realitykings.com
 127.0.0.1 hotjar.com
@@ -2244,7 +2241,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mystat.pl
 127.0.0.1 mysteriousmonth.com
 127.0.0.1 mytop-in.net
-127.0.0.1 mytrafficads.com
 127.0.0.1 myvisualiq.net
 127.0.0.1 n69.com
 127.0.0.1 naj.sk
@@ -3050,6 +3046,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tracking42.com
 127.0.0.1 trackingfestival.com
 127.0.0.1 trackingsoft.com
+127.0.0.1 trackmysales.com
 127.0.0.1 trackuhub.com
 127.0.0.1 tradeadexchange.com
 127.0.0.1 tradedoubler.com
