@@ -2270,7 +2270,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.innomdc.com
 0.0.0.0 api.inrix.com
 0.0.0.0 api.insmobi.com
-0.0.0.0 api.instabug.com
 0.0.0.0 api.instalatorhbogo.siroccomobile.com
 0.0.0.0 api.instartlogic.com
 0.0.0.0 api.intentiq.com
@@ -4723,7 +4722,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 delb5.cxense.com
 0.0.0.0 delb8.cxense.com
 0.0.0.0 deliver.mobvista.com
-0.0.0.0 deliveroo.com.sg
 0.0.0.0 delivery-asia-northeast-1.openx.net
 0.0.0.0 delivery-asia-northeast-1.servedbyopenx.com
 0.0.0.0 delivery-cdn-cf.adswizz.com
@@ -6460,7 +6458,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 insights.swrve.com
 0.0.0.0 inspectletws.herokuapp.com
 0.0.0.0 inspiredtaste-tagan.adlightning.com
-0.0.0.0 instabug.com
 0.0.0.0 installp.com
 0.0.0.0 installrevenue.com
 0.0.0.0 installtracker.com
