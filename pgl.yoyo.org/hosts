@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 02 Apr 2020 09:04:06 GMT
-# entries:        3275
+# entries:        3272
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -178,7 +178,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad.smartclip.net
 127.0.0.1 ad.tbn.ru
 127.0.0.1 ad.technoratimedia.com
-127.0.0.1 ad.thewheelof.com
 127.0.0.1 ad.turn.com
 127.0.0.1 ad.tv2.no
 127.0.0.1 ad.usatoday.com
@@ -417,7 +416,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.blog.com
 127.0.0.1 ads.bloomberg.com
 127.0.0.1 ads.bluemountain.com
-127.0.0.1 ads.bluesq.com
 127.0.0.1 ads.bonniercorp.com
 127.0.0.1 ads.boylesports.com
 127.0.0.1 ads.brabys.com
@@ -1769,7 +1767,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 gracefulsock.com
 127.0.0.1 grandioseguide.com
 127.0.0.1 grapeshot.co.uk
-127.0.0.1 graph.instagram.com
 127.0.0.1 greetzebra.com
 127.0.0.1 greyinstrument.com
 127.0.0.1 greystripe.com
