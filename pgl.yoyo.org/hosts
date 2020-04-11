@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 02 Apr 2020 09:04:06 GMT
-# entries:        3271
+# last updated:   Sat, 11 Apr 2020 21:51:31 GMT
+# entries:        3273
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2640,6 +2640,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 rockabox.co
 127.0.0.1 roia.biz
 127.0.0.1 rok.com.com
+127.0.0.1 roq.ad
 127.0.0.1 rose.ixbt.com
 127.0.0.1 rotabanner.com
 127.0.0.1 roughroll.com
@@ -2905,6 +2906,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 t.insigit.com
 127.0.0.1 taboola.com
 127.0.0.1 tagan.adlightning.com
+127.0.0.1 tagger.opecloud.com
 127.0.0.1 tags.tiqcdn.com
 127.0.0.1 tagular.com
 127.0.0.1 tailsweep.com
