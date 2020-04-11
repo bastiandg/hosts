@@ -3074,7 +3074,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 beacon-us-iad2.rubiconproject.com
 0.0.0.0 beacon-us-iad3.rubiconproject.com
 0.0.0.0 beacon-us-west.rubiconproject.com
-0.0.0.0 beacon-v2.helpscout.net
 0.0.0.0 beacon.carfax.com
 0.0.0.0 beacon.clickequations.net.edgekey.net
 0.0.0.0 beacon.deepintent.com
@@ -3109,7 +3108,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 beacon.viewlift.com
 0.0.0.0 beacon.zeroidtech.com
 0.0.0.0 beacon.ztgame.com
-0.0.0.0 beaconapi.helpscout.net
 0.0.0.0 beaconhub.iadmob.com
 0.0.0.0 beacons-production.elasticbeanstalk.com
 0.0.0.0 beacons-wxm0dh1cst4.stackpathdns.com
@@ -7567,7 +7565,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mobiletracker-env.us-east-1.elasticbeanstalk.com
 0.0.0.0 mobilewithsms.net
 0.0.0.0 mobilityware-d.openx.net
-0.0.0.0 mobilityware.helpshift.com
 0.0.0.0 mobimagic-d.openx.net
 0.0.0.0 mobimagic.com
 0.0.0.0 mobioffers.ru

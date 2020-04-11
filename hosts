@@ -8666,7 +8666,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 beacon-us-iad2.rubiconproject.com
 127.0.0.1 beacon-us-iad3.rubiconproject.com
 127.0.0.1 beacon-us-west.rubiconproject.com
-127.0.0.1 beacon-v2.helpscout.net
 127.0.0.1 beacon.affil.walmart.com
 127.0.0.1 beacon.carfax.com
 127.0.0.1 beacon.clickequations.net
@@ -8721,7 +8720,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 beacon.wikia-services.com
 127.0.0.1 beacon.zeroidtech.com
 127.0.0.1 beacon.ztgame.com
-127.0.0.1 beaconapi.helpscout.net
 127.0.0.1 beaconhub.iadmob.com
 127.0.0.1 beaconin2.notinote.me
 127.0.0.1 beacons-production.elasticbeanstalk.com
@@ -21803,7 +21801,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mobilewithsms.net
 127.0.0.1 mobilityguru.us.intellitxt.com
 127.0.0.1 mobilityware-d.openx.net
-127.0.0.1 mobilityware.helpshift.com
 127.0.0.1 mobimagic-d.openx.net
 127.0.0.1 mobimagic.com
 127.0.0.1 mobioffers.ru
