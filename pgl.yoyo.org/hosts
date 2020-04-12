@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 12 Apr 2020 09:00:59 GMT
-# entries:        3275
+# entries:        3274
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2854,7 +2854,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 stats.self.com
 127.0.0.1 stats.townnews.com
 127.0.0.1 stats.unwired-i.net
-127.0.0.1 stats.vk-portal.net
 127.0.0.1 stats.wordpress.com
 127.0.0.1 stats.wp.com
 127.0.0.1 stats.x14.eu
