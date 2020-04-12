@@ -6383,6 +6383,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 analytic.gatewayinterface.com
 0.0.0.0 analytic.spamfighter.com
 0.0.0.0 analyticcdn.globalmailer.com
+0.0.0.0 analyticin.online
 0.0.0.0 analytics-api-samples.googlecode.com
 0.0.0.0 analytics-api.phunware.com
 0.0.0.0 analytics-au.clickdimensions.com

@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 12 Apr 2020 08:00:13 GMT
-# entries:        3274
+# last updated:   Sun, 12 Apr 2020 09:00:59 GMT
+# entries:        3275
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -963,6 +963,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 americash.com
 127.0.0.1 amplitude.com
 127.0.0.1 amung.us
+127.0.0.1 analyticin.online
 127.0.0.1 analytics-production.hapyak.com
 127.0.0.1 analytics.adpost.org
 127.0.0.1 analytics.bitrix.info
