@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 14 Apr 2020 12:58:43 GMT
-# entries:        3291
+# last updated:   Tue, 14 Apr 2020 13:28:32 GMT
+# entries:        3304
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2375,6 +2375,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ostr.io
 127.0.0.1 ota.cartrawler.com
 127.0.0.1 otto-images.developershed.com
+127.0.0.1 ouh3igaeb.com
 127.0.0.1 outbrain.com
 127.0.0.1 overture.com
 127.0.0.1 owebmoney.ru
@@ -2385,6 +2386,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 oxen.hillcountrytexas.com
 127.0.0.1 p-n.io
 127.0.0.1 p2r14.com
+127.0.0.1 padsbrown.com
+127.0.0.1 padssup.com
 127.0.0.1 pagead.l.google.com
 127.0.0.1 pagefair.com
 127.0.0.1 pagefair.net
@@ -2405,6 +2408,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 partners.priceline.com
 127.0.0.1 passeura.com
 127.0.0.1 passion-4.net
+127.0.0.1 patranally.xyz
 127.0.0.1 paycounter.com
 127.0.0.1 paypopup.com
 127.0.0.1 payserve.com
@@ -2451,6 +2455,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 pixel.mtrcs.samba.tv
 127.0.0.1 pixel.sojern.com
 127.0.0.1 pixel.watch
+127.0.0.1 pixel.yabidos.com
 127.0.0.1 placed.com
 127.0.0.1 play4traffic.com
 127.0.0.1 playhaven.com
@@ -2514,6 +2519,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 proton-tm.com
 127.0.0.1 protraffic.com
 127.0.0.1 provexia.com
+127.0.0.1 prsaln.com
 127.0.0.1 prsitecheck.com
 127.0.0.1 ps7894.com
 127.0.0.1 pstmrk.it
@@ -2531,8 +2537,13 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 puffyloss.com
 127.0.0.1 puffypull.com
 127.0.0.1 puffypurpose.com
+127.0.0.1 pushame.com
+127.0.0.1 pushance.com
 127.0.0.1 pushazer.com
 127.0.0.1 pushengage.com
+127.0.0.1 pushno.com
+127.0.0.1 pushtrack.co
+127.0.0.1 pushwhy.com
 127.0.0.1 px.ads.linkedin.com
 127.0.0.1 px.dynamicyield.com
 127.0.0.1 px.gfycat.com
@@ -2541,6 +2552,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 pymx5.com
 127.0.0.1 q.azcentral.com
 127.0.0.1 q1connect.com
+127.0.0.1 qcontentdelivery.info
 127.0.0.1 qctop.com
 127.0.0.1 qnsr.com
 127.0.0.1 quacksquirrel.com
@@ -2730,6 +2742,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 servethis.com
 127.0.0.1 services.hearstmags.com
 127.0.0.1 serving-sys.com
+127.0.0.1 servingmillions.com
 127.0.0.1 sessioncam.com
 127.0.0.1 sexcounter.com
 127.0.0.1 sexinyourcity.com
