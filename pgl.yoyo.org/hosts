@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 14 Apr 2020 13:28:32 GMT
-# entries:        3304
+# last updated:   Tue, 14 Apr 2020 14:31:10 GMT
+# entries:        3326
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1205,6 +1205,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 boffoadsapi.com
 127.0.0.1 boilingbeetle.com
 127.0.0.1 boilingumbrella.com
+127.0.0.1 bongacash.com
 127.0.0.1 boomads.com
 127.0.0.1 boomtrain.com
 127.0.0.1 boost-my-pr.de
@@ -1449,6 +1450,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 crta.dailymail.co.uk
 127.0.0.1 crtv.mate1.com
 127.0.0.1 crwdcntrl.net
+127.0.0.1 crypto-loot.org
 127.0.0.1 ctnetwork.hu
 127.0.0.1 cubics.com
 127.0.0.1 culturedcrayon.com
@@ -2330,6 +2332,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 observantice.com
 127.0.0.1 oclasrv.com
 127.0.0.1 oewa.at
+127.0.0.1 offaces-butional.com
 127.0.0.1 offer.fyber.com
 127.0.0.1 offer.sponsorpay.com
 127.0.0.1 offerforge.com
@@ -2676,6 +2679,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 roughroll.com
 127.0.0.1 roxr.net
 127.0.0.1 rs6.net
+127.0.0.1 rsalcdp.com
 127.0.0.1 rta.dailymail.co.uk
 127.0.0.1 rtb.gumgum.com
 127.0.0.1 rtbadzesto.com
@@ -2687,6 +2691,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 rtbsbengine.com
 127.0.0.1 rtbtradein.com
 127.0.0.1 rtmark.net
+127.0.0.1 rtpdn11.com
 127.0.0.1 rtxplatform.com
 127.0.0.1 ru4.com
 127.0.0.1 rubiconproject.com
@@ -2694,6 +2699,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 rundsp.com
 127.0.0.1 ruthlessrobin.com
 127.0.0.1 s.adroll.com
+127.0.0.1 s1-adfly.com
+127.0.0.1 s20dh7e9dh.com
 127.0.0.1 s24hc8xzag.com
 127.0.0.1 s2d6.com
 127.0.0.1 sabio.us
@@ -2718,6 +2725,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 scripte-monster.de
 127.0.0.1 scrubsky.com
 127.0.0.1 scrubswim.com
+127.0.0.1 sdkfjxjertertry.com
 127.0.0.1 seadform.net
 127.0.0.1 searchmarketing.com
 127.0.0.1 searchramp.com
@@ -2836,6 +2844,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 sponsors.thoughtsmedia.com
 127.0.0.1 spoor-api.asia.nikkei.com
 127.0.0.1 spot.fitness.com
+127.0.0.1 spotscenered.info
 127.0.0.1 spotx.tv
 127.0.0.1 spotxchange.com
 127.0.0.1 springaftermath.com
@@ -2869,6 +2878,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 stat24.com
 127.0.0.1 stat24.meta.ua
 127.0.0.1 statcounter.com
+127.0.0.1 statdynamic.com
 127.0.0.1 static.a-ads.com
 127.0.0.1 static.fmpub.net
 127.0.0.1 static.itrack.it
@@ -2935,6 +2945,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 t.eloqua.com
 127.0.0.1 t.firstpromoter.com
 127.0.0.1 t.insigit.com
+127.0.0.1 t.irtyd.com
 127.0.0.1 taboola.com
 127.0.0.1 tagan.adlightning.com
 127.0.0.1 tagger.opecloud.com
@@ -3044,6 +3055,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 track.effiliation.com
 127.0.0.1 track.flexlinks.com
 127.0.0.1 track.flexlinkspro.com
+127.0.0.1 track.freemmo2017.com
+127.0.0.1 track.game18click.com
 127.0.0.1 track.gawker.com
 127.0.0.1 track.hexcan.com
 127.0.0.1 track.mailerlite.com
@@ -3099,6 +3112,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 traktrafficflow.com
 127.0.0.1 tranquilside.com
 127.0.0.1 travis.bosscasinos.com
+127.0.0.1 trcklion.com
 127.0.0.1 treasuredata.com
 127.0.0.1 trekdata.com
 127.0.0.1 tremendoustime.com
@@ -3155,7 +3169,9 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 userreplay.net
 127.0.0.1 utils.mediageneral.net
 127.0.0.1 uttermosthobbies.com
+127.0.0.1 uzk4umokyri3.com
 127.0.0.1 v1.cnzz.com
+127.0.0.1 v1hcmqbaqw.ru
 127.0.0.1 validclick.com
 127.0.0.1 valuead.com
 127.0.0.1 valueclick.com
@@ -3167,12 +3183,16 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 veille-referencement.com
 127.0.0.1 velismedia.com
 127.0.0.1 ventivmedia.com
+127.0.0.1 venturead.com
 127.0.0.1 verblife-3.co
+127.0.0.1 verblife-4.co
+127.0.0.1 verblife-5.co
 127.0.0.1 vericlick.com
 127.0.0.1 vertamedia.com
 127.0.0.1 verticalmass.com
 127.0.0.1 vervewireless.com
 127.0.0.1 vibrantmedia.com
+127.0.0.1 vidcpm.com
 127.0.0.1 video-stats.video.google.com
 127.0.0.1 videoadex.com
 127.0.0.1 videoamp.com
@@ -3313,6 +3333,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ymetrica1.com
 127.0.0.1 yoggrt.com
 127.0.0.1 ypu.samsungelectronics.com
+127.0.0.1 z501lpfg9x8v.com
 127.0.0.1 z5x.net
 127.0.0.1 zangocash.com
 127.0.0.1 zanox-affiliate.de
@@ -3333,6 +3354,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 zmedia.com
 127.0.0.1 zpu.samsungelectronics.com
 127.0.0.1 zqtk.net
+127.0.0.1 zukxd6fkxqn.com
 127.0.0.1 zy16eoat1w.com
 127.0.0.1 zzhc.vnet.cn
 </pre>
