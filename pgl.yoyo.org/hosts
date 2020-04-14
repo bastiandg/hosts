@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 13 Apr 2020 16:41:28 GMT
-# entries:        3276
+# last updated:   Tue, 14 Apr 2020 12:58:43 GMT
+# entries:        3291
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1561,6 +1561,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ebocornac.com
 127.0.0.1 ebuzzing.com
 127.0.0.1 ecircle-ag.com
+127.0.0.1 ecleneue.com
 127.0.0.1 eclick.vn
 127.0.0.1 eclkmpbn.com
 127.0.0.1 eclkspbn.com
@@ -1621,6 +1622,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 euros4click.de
 127.0.0.1 eusta.de
 127.0.0.1 evadav.com
+127.0.0.1 evadavdsp.pro
 127.0.0.1 everestads.net
 127.0.0.1 everesttech.net
 127.0.0.1 evergage.com
@@ -1640,6 +1642,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 exogripper.com
 127.0.0.1 exosrv.com
 127.0.0.1 experianmarketingservices.digital
+127.0.0.1 explorads.com
 127.0.0.1 exponea.com
 127.0.0.1 exponential.com
 127.0.0.1 express-submit.de
@@ -1675,6 +1678,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 findcommerce.com
 127.0.0.1 findepended.com
 127.0.0.1 findyourcasino.com
+127.0.0.1 fingahvf.top
 127.0.0.1 first.nova.cz
 127.0.0.1 firstlightera.com
 127.0.0.1 fixel.ai
@@ -1747,6 +1751,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 globe7.com
 127.0.0.1 globus-inter.com
 127.0.0.1 glossysense.com
+127.0.0.1 gloyah.net
 127.0.0.1 gmads.net
 127.0.0.1 gml.email
 127.0.0.1 go-clicks.de
@@ -1779,7 +1784,10 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 guardedschool.com
 127.0.0.1 gunggo.com
 127.0.0.1 h-bid.com
+127.0.0.1 h3btqpy2abc3.com
 127.0.0.1 h78xb.pw
+127.0.0.1 h92zbpn4zcv1.com
+127.0.0.1 hadskiz.com
 127.0.0.1 hammerhearing.com
 127.0.0.1 handyfield.com
 127.0.0.1 hardtofindmilk.com
@@ -1930,6 +1938,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 intergi.com
 127.0.0.1 internetfuel.com
 127.0.0.1 interreklame.de
+127.0.0.1 intnotif.club
 127.0.0.1 inventionpassenger.com
 127.0.0.1 inviterabbits.com
 127.0.0.1 invitesugar.com
@@ -1987,11 +1996,16 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 kontera.com
 127.0.0.1 kpu.samsungelectronics.com
 127.0.0.1 krxd.net
+127.0.0.1 kt5850pjz0.com
 127.0.0.1 ktu.sv2.biz
 127.0.0.1 kubient.com
 127.0.0.1 l1.britannica.com
+127.0.0.1 l6b587txj1.com
+127.0.0.1 ladsreds.com
+127.0.0.1 ladsup.com
 127.0.0.1 lakequincy.com
 127.0.0.1 lanistaads.com
+127.0.0.1 larati.net
 127.0.0.1 laughablecopper.com
 127.0.0.1 laughcloth.com
 127.0.0.1 launchbit.com
@@ -2226,6 +2240,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mxptint.net
 127.0.0.1 myaffiliateprogram.com
 127.0.0.1 mybestmv.com
+127.0.0.1 mybetterdl.com
 127.0.0.1 mybloglog.com
 127.0.0.1 mybuys.com
 127.0.0.1 mycounter.ua
