@@ -21,7 +21,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 14 Apr 2020 14:31:10 GMT
+# last updated:   Wed, 15 Apr 2020 12:54:36 GMT
 # entries:        3326
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -740,6 +740,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserve.io
 127.0.0.1 adserver.71i.de
 127.0.0.1 adserver.adultfriendfinder.com
+127.0.0.1 adserver.adverty.com
 127.0.0.1 adserver.aidameter.com
 127.0.0.1 adserver.aol.fr
 127.0.0.1 adserver.betandwin.de
@@ -880,7 +881,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 advertserve.com
 127.0.0.1 advertstream.com
 127.0.0.1 advertwizard.com
-127.0.0.1 adverty.com
 127.0.0.1 advideo.uimserv.net
 127.0.0.1 adview.com
 127.0.0.1 advisormedia.cz

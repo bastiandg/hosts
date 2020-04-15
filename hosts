@@ -4957,6 +4957,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserver.adtechus.com
 127.0.0.1 adserver.adultfriendfinder.com
 127.0.0.1 adserver.advertist.com
+127.0.0.1 adserver.adverty.com
 127.0.0.1 adserver.affiliatemg.com
 127.0.0.1 adserver.affiliation.com
 127.0.0.1 adserver.aidameter.com
@@ -5744,7 +5745,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 advertstream.com
 127.0.0.1 advertur.ru
 127.0.0.1 advertwizard.com
-127.0.0.1 adverty.com
 127.0.0.1 adviap.goforandroid.com
 127.0.0.1 advice-ads-cdn.vice.com
 127.0.0.1 advice-ads.s3.amazonaws.com
