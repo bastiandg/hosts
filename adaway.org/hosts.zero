@@ -6512,7 +6512,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 iotanalytics.eu-west-1.amazonaws.com
 0.0.0.0 iotapi.adups.com
 0.0.0.0 iownit.optimizely.com
-0.0.0.0 ip-api.com
 0.0.0.0 ip-geo.appspot.com
 0.0.0.0 ip-sec.casalemedia.com
 0.0.0.0 ip.casalemedia.com
