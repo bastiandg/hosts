@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 16 Apr 2020 12:25:09 GMT
-# entries:        3334
+# last updated:   Thu, 16 Apr 2020 13:17:15 GMT
+# entries:        3336
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1044,6 +1044,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 augur.io
 127.0.0.1 auto-bannertausch.de
 127.0.0.1 automaticflock.com
+127.0.0.1 avazutracking.net
 127.0.0.1 avenuea.com
 127.0.0.1 avocet.io
 127.0.0.1 avpa.javalobby.org
@@ -3120,6 +3121,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 traktrafficflow.com
 127.0.0.1 tranquilside.com
 127.0.0.1 travis.bosscasinos.com
+127.0.0.1 trcking4wdm.de
 127.0.0.1 trcklion.com
 127.0.0.1 treasuredata.com
 127.0.0.1 trekdata.com
