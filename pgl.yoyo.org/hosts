@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 15 Apr 2020 12:54:36 GMT
-# entries:        3326
+# last updated:   Thu, 16 Apr 2020 08:26:25 GMT
+# entries:        3331
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -71,6 +71,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 a.sakh.com
 127.0.0.1 a.ucoz.net
 127.0.0.1 a.ucoz.ru
+127.0.0.1 a.vfghd.com
+127.0.0.1 a.vfgtb.com
 127.0.0.1 a.xanga.com
 127.0.0.1 a135.wftv.com
 127.0.0.1 aaddzz.com
@@ -1355,6 +1357,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 cluster.adultworld.com
 127.0.0.1 clustrmaps.com
 127.0.0.1 cmp.dmgmediaprivacy.co.uk
+127.0.0.1 cmvrclicks000.com
 127.0.0.1 cnomy.com
 127.0.0.1 cnt.spbland.ru
 127.0.0.1 cnt1.pocitadlo.cz
@@ -1718,6 +1721,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 freshmarketer.com
 127.0.0.1 frightenedpotato.com
 127.0.0.1 frtyj.com
+127.0.0.1 frtyk.com
 127.0.0.1 fukc69xo.us
 127.0.0.1 fullstory.com
 127.0.0.1 functionalcrown.com
@@ -2942,6 +2946,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 swimslope.com
 127.0.0.1 swordfishdc.com
 127.0.0.1 swordgoose.com
+127.0.0.1 t.bawafx.com
 127.0.0.1 t.eloqua.com
 127.0.0.1 t.firstpromoter.com
 127.0.0.1 t.insigit.com
