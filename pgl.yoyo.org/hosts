@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 16 Apr 2020 08:26:25 GMT
-# entries:        3331
+# last updated:   Thu, 16 Apr 2020 10:42:28 GMT
+# entries:        3332
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1394,6 +1394,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 conversantmedia.com
 127.0.0.1 conversionbet.com
 127.0.0.1 conversionruler.com
+127.0.0.1 convertingtraffic.com
 127.0.0.1 convrse.media
 127.0.0.1 cookies.cmpnet.com
 127.0.0.1 coordinatedcub.com
