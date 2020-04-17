@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 16 Apr 2020 13:17:15 GMT
-# entries:        3332
+# last updated:   Fri, 17 Apr 2020 15:30:43 GMT
+# entries:        3333
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2130,6 +2130,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 marketingsolutions.yahoo.com
 127.0.0.1 marketo.com
 127.0.0.1 mas.sector.sk
+127.0.0.1 massivemark.com
 127.0.0.1 matchcraft.com
 127.0.0.1 matheranalytics.com
 127.0.0.1 mathtag.com
