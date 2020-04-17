@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 17 Apr 2020 15:30:43 GMT
-# entries:        3333
+# last updated:   Fri, 17 Apr 2020 19:35:46 GMT
+# entries:        3334
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -378,6 +378,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adrta.com
 127.0.0.1 ads-click.com
 127.0.0.1 ads-game-187f4.firebaseapp.com
+127.0.0.1 ads-giris.com
 127.0.0.1 ads-software.net
 127.0.0.1 ads-trk.vidible.tv
 127.0.0.1 ads-twitter.com
