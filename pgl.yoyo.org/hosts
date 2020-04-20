@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 20 Apr 2020 13:44:44 GMT
-# entries:        3335
+# last updated:   Mon, 20 Apr 2020 16:16:24 GMT
+# entries:        3338
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -377,6 +377,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adrotic.girlonthenet.com
 127.0.0.1 adrta.com
 127.0.0.1 ads-click.com
+127.0.0.1 ads-dev.pinterest.com
 127.0.0.1 ads-game-187f4.firebaseapp.com
 127.0.0.1 ads-giris.com
 127.0.0.1 ads-software.net
@@ -639,6 +640,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.themovienation.com
 127.0.0.1 ads.thestar.com
 127.0.0.1 ads.thrillsaffiliates.com
+127.0.0.1 ads.tiktok.com
 127.0.0.1 ads.tmcs.net
 127.0.0.1 ads.toplayaffiliates.com
 127.0.0.1 ads.totallyfreestuff.com
@@ -2226,6 +2228,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 modifyeyes.com
 127.0.0.1 moggattice.com
 127.0.0.1 moldyicicle.com
+127.0.0.1 mon.byteoversea.com
 127.0.0.1 monarchads.com
 127.0.0.1 monetate.net
 127.0.0.1 monetizer101.com
