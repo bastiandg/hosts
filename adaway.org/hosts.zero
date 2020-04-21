@@ -1700,9 +1700,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 aimg.media.net
 0.0.0.0 aio.lp.mydas.mobi
 0.0.0.0 aiqua-sdk.c.appier.net
-0.0.0.0 airbrake-github.airbrake.io
-0.0.0.0 airbrake-gitlab.airbrake.io
-0.0.0.0 airbrake.io
 0.0.0.0 airpush.com
 0.0.0.0 ais-api.applicaster.com
 0.0.0.0 ais.applicaster.com
@@ -2159,7 +2156,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.advista.no
 0.0.0.0 api.adzmedia.com
 0.0.0.0 api.agoda.com.edgekey.net
-0.0.0.0 api.airbrake.io
 0.0.0.0 api.airpush.com
 0.0.0.0 api.alphonso.tv
 0.0.0.0 api.altamob.com
@@ -5723,7 +5719,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 gjapplog.uc.cn
 0.0.0.0 gjtrack.ucweb.com
 0.0.0.0 glance.inmobi.com
-0.0.0.0 glassbox.aircanada.ca
 0.0.0.0 glassboxdigital.com
 0.0.0.0 glb-ads.atwola.adtechus.com
 0.0.0.0 glb-ads.legacy.adtechus.com
@@ -10189,7 +10184,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ssl.zoomanalytics.co
 0.0.0.0 sslcdn.adstudiomobile.com
 0.0.0.0 sslclick.union.ucweb.com
-0.0.0.0 ssljscdn.airbrake.io
 0.0.0.0 ssltest2.branch.io
 0.0.0.0 sslwidget.criteo.com
 0.0.0.0 ssp-api.mobadvent.com
