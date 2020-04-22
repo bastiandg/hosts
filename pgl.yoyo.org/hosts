@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 20 Apr 2020 16:16:24 GMT
-# entries:        3338
+# last updated:   Wed, 22 Apr 2020 23:18:12 GMT
+# entries:        3339
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -30,7 +30,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 27 Apr 2000 00:00:00
+# start date:    Fri, 28 Apr 2000 00:00:00
 127.0.0.1 1-1ads.com
 127.0.0.1 101com.com
 127.0.0.1 101order.com
@@ -1605,6 +1605,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 en25.com
 127.0.0.1 encouragingwilderness.com
 127.0.0.1 endurableshop.com
+127.0.0.1 energeticladybug.com
 127.0.0.1 engagebdr.com
 127.0.0.1 engine.espace.netavenir.com
 127.0.0.1 enginenetwork.com
