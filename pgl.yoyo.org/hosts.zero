@@ -37,7 +37,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 7bpeople.com
 0.0.0.0 7search.com
 0.0.0.0 82o9v830.com
-0.0.0.0 99count.com
 0.0.0.0 a.aproductmsg.com
 0.0.0.0 a.consumer.net
 0.0.0.0 a.mktw.net
@@ -197,6 +196,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adbrite.com
 0.0.0.0 adbrn.com
 0.0.0.0 adbroker.de
+0.0.0.0 adbunker.com
 0.0.0.0 adbutler.com
 0.0.0.0 adbuyer.com
 0.0.0.0 adbuyer3.lycos.com
@@ -271,7 +271,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adjustnetwork.com
 0.0.0.0 adk2.co
 0.0.0.0 adk2.com
-0.0.0.0 adk2ads.tictacti.com
 0.0.0.0 adland.ru
 0.0.0.0 adledge.com
 0.0.0.0 adlegend.com
@@ -352,7 +351,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads-click.com
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads-game-187f4.firebaseapp.com
-0.0.0.0 ads-giris.com
 0.0.0.0 ads-software.net
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads-twitter.com

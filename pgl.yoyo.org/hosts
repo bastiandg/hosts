@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 22 Apr 2020 23:18:12 GMT
-# entries:        3339
+# entries:        3337
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -64,7 +64,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 7bpeople.com
 127.0.0.1 7search.com
 127.0.0.1 82o9v830.com
-127.0.0.1 99count.com
 127.0.0.1 a.aproductmsg.com
 127.0.0.1 a.consumer.net
 127.0.0.1 a.mktw.net
@@ -224,6 +223,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adbrite.com
 127.0.0.1 adbrn.com
 127.0.0.1 adbroker.de
+127.0.0.1 adbunker.com
 127.0.0.1 adbutler.com
 127.0.0.1 adbuyer.com
 127.0.0.1 adbuyer3.lycos.com
@@ -298,7 +298,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adjustnetwork.com
 127.0.0.1 adk2.co
 127.0.0.1 adk2.com
-127.0.0.1 adk2ads.tictacti.com
 127.0.0.1 adland.ru
 127.0.0.1 adledge.com
 127.0.0.1 adlegend.com
@@ -379,7 +378,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads-click.com
 127.0.0.1 ads-dev.pinterest.com
 127.0.0.1 ads-game-187f4.firebaseapp.com
-127.0.0.1 ads-giris.com
 127.0.0.1 ads-software.net
 127.0.0.1 ads-trk.vidible.tv
 127.0.0.1 ads-twitter.com
