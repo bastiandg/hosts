@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 26 Apr 2020 17:14:25 GMT
-# entries:        3337
+# last updated:   Mon, 27 Apr 2020 10:50:46 GMT
+# entries:        3339
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1804,6 +1804,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 harrenmedia.com
 127.0.0.1 harrenmedianetwork.com
 127.0.0.1 havamedia.net
+127.0.0.1 hb.afl.rakuten.co.jp
+127.0.0.1 hbb.afl.rakuten.co.jp
 127.0.0.1 hdscout.com
 127.0.0.1 heap.com
 127.0.0.1 heias.com
