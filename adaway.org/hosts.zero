@@ -4027,7 +4027,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 code.hot-mob.com
 0.0.0.0 code.metalocator.com
 0.0.0.0 code.revcontent.com
-0.0.0.0 code.tinypass.com
 0.0.0.0 code3.adtlgc.com
 0.0.0.0 coed-d.openx.net
 0.0.0.0 col.eum-appdynamics.com
@@ -5362,7 +5361,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 exp.360in.com
 0.0.0.0 exp.glispa.com
 0.0.0.0 exp.platform.glispa.com
-0.0.0.0 experience.tinypass.com
 0.0.0.0 experiment.appadhoc.com
 0.0.0.0 export02-au.imrworldwide.com
 0.0.0.0 ext-inv-cdn.presage.io
@@ -8503,7 +8501,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 play.leadzuaf.com
 0.0.0.0 play.leadzutw.com
 0.0.0.0 play.rayjump.com
-0.0.0.0 play.tinypass.com
 0.0.0.0 playable-stats.mintegral.com
 0.0.0.0 playables-debug.lfstmedia.com
 0.0.0.0 playbill-d.openx.net
@@ -8763,7 +8760,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 publisher.media.net
 0.0.0.0 publisher.piano.io
 0.0.0.0 publisher.taboola.com
-0.0.0.0 publisher.tinypass.com
 0.0.0.0 publisherdesk-d.openx.net
 0.0.0.0 publisherportal.doubleclick.net
 0.0.0.0 publishers.adtrue.com
@@ -8839,8 +8835,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 qa-log.swrve.com
 0.0.0.0 qa-tracker.marinsm.com
 0.0.0.0 qa.ads.justpremium.com
-0.0.0.0 qa0.tinypass.com
-0.0.0.0 qa1.tinypass.com
 0.0.0.0 qaamgo-d.openx.net
 0.0.0.0 qat.comscore.com
 0.0.0.0 qc-static.coccoc.com
@@ -10555,7 +10549,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 svc.mobilexsoft.com
 0.0.0.0 sw.izooto.com
 0.0.0.0 sw.pushengage.com
-0.0.0.0 sw.tinypass.com
 0.0.0.0 swa.demdex.net
 0.0.0.0 sweatybettytracksdk.optimove.net
 0.0.0.0 sweeney-elb.appboy.com
