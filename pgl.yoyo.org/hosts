@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 30 Apr 2020 16:39:51 GMT
-# entries:        3342
+# last updated:   Sat, 02 May 2020 17:57:26 GMT
+# entries:        3343
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -918,6 +918,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 affiliate.mercola.com
 127.0.0.1 affiliate.mogs.com
 127.0.0.1 affiliate.offgamers.com
+127.0.0.1 affiliate.rusvpn.com
 127.0.0.1 affiliate.travelnow.com
 127.0.0.1 affiliate.treated.com
 127.0.0.1 affiliate.viator.com
