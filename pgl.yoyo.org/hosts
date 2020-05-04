@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 02 May 2020 17:57:26 GMT
-# entries:        3343
+# last updated:   Mon, 04 May 2020 14:29:20 GMT
+# entries:        3344
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1885,6 +1885,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 iconpeak2trk.com
 127.0.0.1 icptrack.com
 127.0.0.1 id5-sync.com
+127.0.0.1 idealadvertising.net
 127.0.0.1 identads.com
 127.0.0.1 idevaffiliate.com
 127.0.0.1 idtargeting.com
