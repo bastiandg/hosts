@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 04 May 2020 14:29:20 GMT
-# entries:        3344
+# last updated:   Tue, 05 May 2020 15:31:45 GMT
+# entries:        3347
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -360,6 +360,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adplus.co.id
 127.0.0.1 adplxmd.com
 127.0.0.1 adprofile.net
+127.0.0.1 adprofits.ru
 127.0.0.1 adrazzi.com
 127.0.0.1 adreactor.com
 127.0.0.1 adreclaim.com
@@ -2009,6 +2010,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 komoona.com
 127.0.0.1 kompasads.com
 127.0.0.1 kontera.com
+127.0.0.1 kost.tv
 127.0.0.1 kpu.samsungelectronics.com
 127.0.0.1 krxd.net
 127.0.0.1 kt5850pjz0.com
@@ -2670,6 +2672,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 revlift.io
 127.0.0.1 revsci.net
 127.0.0.1 revstats.com
+127.0.0.1 reyden-x.com
 127.0.0.1 rhombusads.com
 127.0.0.1 rhythmone.com
 127.0.0.1 richmails.com
