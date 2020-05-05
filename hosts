@@ -495,6 +495,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 3056.engine.mobileapptracking.com
 127.0.0.1 30572.api.swrve.com
 127.0.0.1 30572.content.swrve.com
+127.0.0.1 30572.identity.swrve.com
 127.0.0.1 30575.api.swrve.com
 127.0.0.1 30576.api.swrve.com
 127.0.0.1 30576.content.swrve.com
@@ -1291,6 +1292,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 a4p.adpartner.pro
 127.0.0.1 a5.websponsors.com
 127.0.0.1 a50.g2.akamai.net
+127.0.0.1 a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
 127.0.0.1 a796faee-7163-4757-a34f-e5b48cada4cb.statcamp.net
 127.0.0.1 a7cleaner.com
 127.0.0.1 a8.net
@@ -1305,6 +1307,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 aa.newsblock.marketgid.com
 127.0.0.1 aa.oasfile.aftenposten.no
 127.0.0.1 aa.online-metrix.net
+127.0.0.1 aa5dbe242ad94ceba164ecf25b68c84e.mediatailor.us-west-2.amazonaws.com
 127.0.0.1 aa7bd76554cff2d93d33288d31aa6839.api.appsee.com
 127.0.0.1 aaddzz.com
 127.0.0.1 aads.treehugger.com
@@ -1321,7 +1324,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 aax-eu.amazon-adsystem.com
 127.0.0.1 aax-us-east-rtb.amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
+127.0.0.1 aax-us-iad.amazon.com
 127.0.0.1 aax-us-pdx.amazon-adsystem.com
+127.0.0.1 aax-us.amazon-adsystem.com
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aaxads.com
 127.0.0.1 aaxdetect.com
@@ -6393,6 +6398,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analytics-gb-nfl.yinzcam.com
 127.0.0.1 analytics-gcp.tout.com
 127.0.0.1 analytics-ingest.creative-mobile.com
+127.0.0.1 analytics-ingestion.production-public.tubi.io
 127.0.0.1 analytics-ingestion.staging-public.tubi.io
 127.0.0.1 analytics-iwtg-ten.yinzcam.com
 127.0.0.1 analytics-league-lfp.yinzcam.com
@@ -6468,6 +6474,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analytics.inform.com
 127.0.0.1 analytics.inlinemanual.com
 127.0.0.1 analytics.jabong.com
+127.0.0.1 analytics.jumboprivacy.com
 127.0.0.1 analytics.kaltura.com
 127.0.0.1 analytics.kingoapp.com
 127.0.0.1 analytics.kongregate.io
@@ -7173,6 +7180,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api2.branch.io
 127.0.0.1 api2.chartbeat.com
 127.0.0.1 api2.murdoog.com
+127.0.0.1 api2.okanjo.com
 127.0.0.1 api2.poperblocker.com
 127.0.0.1 api2.restartad.com
 127.0.0.1 api3.siftscience.com
@@ -7893,6 +7901,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 atrd.netmng.com
 127.0.0.1 atrk.alexametrics.com
 127.0.0.1 atspace.de.intellitxt.com
+127.0.0.1 att.productmadness.com
+127.0.0.1 att.sc.omtrdc.net
 127.0.0.1 atti.com
 127.0.0.1 attr.appsflyer.com
 127.0.0.1 attractiveafternoon.com
@@ -10225,6 +10235,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.constafun.com
 127.0.0.1 cdn.content.exoticads.com
 127.0.0.1 cdn.contentspread.net
+127.0.0.1 cdn.cookielaw.org
 127.0.0.1 cdn.cpmstar.com
 127.0.0.1 cdn.cpxinteractive.com
 127.0.0.1 cdn.cquotient.com
@@ -10378,6 +10389,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.oas-c18.adnxs.com
 127.0.0.1 cdn.oas-eu1.adnxs.com
 127.0.0.1 cdn.oggifinogi.com
+127.0.0.1 cdn.okanjo.com
 127.0.0.1 cdn.onescreen.net
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.onscroll.com
@@ -11860,6 +11872,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 cookieads.fuse-ad.com
 127.0.0.1 cookiecontainer.blox.pl
 127.0.0.1 cookies.cmpnet.com
+127.0.0.1 cookies.onetrust.mgr.consensu.org
 127.0.0.1 cookiesync.mparticle.com
 127.0.0.1 cookiesync.vertamedia.com
 127.0.0.1 cookingcom.112.2o7.net
@@ -12208,7 +12221,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cra-arc.gc.ca.bioder.com.tr
 127.0.0.1 crab.baidu.com
 127.0.0.1 crabbychin.com
-127.0.0.1 crackle.demdex.net
 127.0.0.1 cracks.vg
 127.0.0.1 crackspider.us
 127.0.0.1 crackzone.net
@@ -15083,6 +15095,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ff.connextra.com
 127.0.0.1 ffcdn3.featureforward.com
 127.0.0.1 ffcdn4.featureforward.com
+127.0.0.1 ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
 127.0.0.1 fflotte.oewabox.at
 127.0.0.1 ffxcam.fairfax.com.au
 127.0.0.1 ffxitrack.com
@@ -15173,6 +15186,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 fioricet.3.p2l.info
 127.0.0.1 fioricet.4.p2l.info
 127.0.0.1 fips.uimserv.net
+127.0.0.1 firebase-settings.crashlytics.com
 127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 firefox-updater.com
 127.0.0.1 firefox.net-secure-update.icu
@@ -16119,6 +16133,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 glbgcl.logsss.com
 127.0.0.1 glean.pop6.com
 127.0.0.1 glenm.mtxcapital.com
+127.0.0.1 glimmer.hearstapps.com
 127.0.0.1 glispa.com
 127.0.0.1 glitter.services.disqus.com
 127.0.0.1 globadmedia.com
@@ -16657,6 +16672,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 hadik.info
 127.0.0.1 hadskiz.com
 127.0.0.1 hai2u.com
+127.0.0.1 hail-reporting.tutelatechnologies.com
 127.0.0.1 hair-dos.resourcesarchive.com
 127.0.0.1 hairboutique.us.intellitxt.com
 127.0.0.1 hajoopteg.com
@@ -17294,6 +17310,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 i.casalemedia.com
 127.0.0.1 i.cdn.openx.com
 127.0.0.1 i.cdnpark.com
+127.0.0.1 i.clean.gg
 127.0.0.1 i.clickagy.com
 127.0.0.1 i.connectad.io
 127.0.0.1 i.ctnsnet.com
@@ -18079,6 +18096,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 inferna.iad-03.braze.com
 127.0.0.1 infinite-ads.com
 127.0.0.1 infinite-mobility.g2afse.com
+127.0.0.1 infinity-c4.youboranqs01.com
 127.0.0.1 infinityads.com
 127.0.0.1 infinityid.condenastdigital.com
 127.0.0.1 influencers.tapinfluence.com
@@ -18978,6 +18996,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 kinesis.us-east-1.amazonaws.com
 127.0.0.1 kinesisanalytics.eu-central-1.amazonaws.com
 127.0.0.1 kinesisanalytics.eu-west-1.amazonaws.com
+127.0.0.1 king-candycrush-prod.secure2.footprint.net
+127.0.0.1 king-contenido-prod.secure2.footprint.net
 127.0.0.1 kingskillz.ru
 127.0.0.1 kinowelt.oewabox.at
 127.0.0.1 kiosked-d.openx.net
@@ -21178,6 +21198,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 metrics-collector.onscroll.com
 127.0.0.1 metrics-collector.s-onetag.com
 127.0.0.1 metrics-collector.us.onscroll.com
+127.0.0.1 metrics-logger.spot.im
 127.0.0.1 metrics.aarp.org
 127.0.0.1 metrics.accuweather.com
 127.0.0.1 metrics.acehardware.com
@@ -21736,6 +21757,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 mobile.ib.sin1.geoadnxs.com
 127.0.0.1 mobile.itsbetter.com
 127.0.0.1 mobile.juicyads.com
+127.0.0.1 mobile.launchdarkly.com
 127.0.0.1 mobile.mediabrix.com
 127.0.0.1 mobile.mng-ads.com
 127.0.0.1 mobile.mofowl.com
@@ -24504,6 +24526,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ph-gmtdmp.mookie1.com
 127.0.0.1 ph5t.adups.com
 127.0.0.1 phabricator.leanplum.com
+127.0.0.1 phar.gu-web.net
 127.0.0.1 pharmacy-canada.forsearch.net
 127.0.0.1 pharmacy-news.blogspot.com
 127.0.0.1 pharmacy-online.petrovka.info
@@ -25957,6 +25980,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 raw.oggifinogi.com
 127.0.0.1 rawoo.barginginfrance.net
 127.0.0.1 rawstory.us.intellitxt.com
+127.0.0.1 rawtelemetry-west.servicebus.windows.net
 127.0.0.1 rayjump.com
 127.0.0.1 rayo.pereira.multi.net.co
 127.0.0.1 rb-net.com
@@ -30415,6 +30439,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tags-cdn.deployads.com
 127.0.0.1 tags-eu.tiqcdn.com
 127.0.0.1 tags-prod.vrvm.com
+127.0.0.1 tags.acmeaom.com
 127.0.0.1 tags.adriver.ru
 127.0.0.1 tags.adsafety.net
 127.0.0.1 tags.affiliatefuture.com
@@ -31182,6 +31207,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 top6.list.ru
 127.0.0.1 top90.ro
 127.0.0.1 topads.rrstar.com
+127.0.0.1 topapps-func.pinsightmedia.com
 127.0.0.1 topbestgames.com
 127.0.0.1 topblock.lentainform.com
 127.0.0.1 topblogarea.se

@@ -489,6 +489,7 @@
 3056.engine.mobileapptracking.com
 30572.api.swrve.com
 30572.content.swrve.com
+30572.identity.swrve.com
 30575.api.swrve.com
 30576.api.swrve.com
 30576.content.swrve.com
@@ -1285,6 +1286,7 @@ a407.casalemedia.com
 a4p.adpartner.pro
 a5.websponsors.com
 a50.g2.akamai.net
+a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
 a796faee-7163-4757-a34f-e5b48cada4cb.statcamp.net
 a7cleaner.com
 a8.net
@@ -1299,6 +1301,7 @@ aa.newsblock.dt00.net
 aa.newsblock.marketgid.com
 aa.oasfile.aftenposten.no
 aa.online-metrix.net
+aa5dbe242ad94ceba164ecf25b68c84e.mediatailor.us-west-2.amazonaws.com
 aa7bd76554cff2d93d33288d31aa6839.api.appsee.com
 aaddzz.com
 aads.treehugger.com
@@ -1315,7 +1318,9 @@ aax-cpm.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
 aax-us-east-rtb.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
+aax-us-iad.amazon.com
 aax-us-pdx.amazon-adsystem.com
+aax-us.amazon-adsystem.com
 aax.amazon-adsystem.com
 aaxads.com
 aaxdetect.com
@@ -6387,6 +6392,7 @@ analytics-ext-prod.us-east-1.elasticbeanstalk.com
 analytics-gb-nfl.yinzcam.com
 analytics-gcp.tout.com
 analytics-ingest.creative-mobile.com
+analytics-ingestion.production-public.tubi.io
 analytics-ingestion.staging-public.tubi.io
 analytics-iwtg-ten.yinzcam.com
 analytics-league-lfp.yinzcam.com
@@ -6462,6 +6468,7 @@ analytics.in-tend.co.uk
 analytics.inform.com
 analytics.inlinemanual.com
 analytics.jabong.com
+analytics.jumboprivacy.com
 analytics.kaltura.com
 analytics.kingoapp.com
 analytics.kongregate.io
@@ -7167,6 +7174,7 @@ api2.bounceexchange.com
 api2.branch.io
 api2.chartbeat.com
 api2.murdoog.com
+api2.okanjo.com
 api2.poperblocker.com
 api2.restartad.com
 api3.siftscience.com
@@ -7887,6 +7895,8 @@ atracking-use.appflood.com
 atrd.netmng.com
 atrk.alexametrics.com
 atspace.de.intellitxt.com
+att.productmadness.com
+att.sc.omtrdc.net
 atti.com
 attr.appsflyer.com
 attractiveafternoon.com
@@ -10219,6 +10229,7 @@ cdn.concert.io
 cdn.constafun.com
 cdn.content.exoticads.com
 cdn.contentspread.net
+cdn.cookielaw.org
 cdn.cpmstar.com
 cdn.cpxinteractive.com
 cdn.cquotient.com
@@ -10372,6 +10383,7 @@ cdn.oas-c17.adnxs.com
 cdn.oas-c18.adnxs.com
 cdn.oas-eu1.adnxs.com
 cdn.oggifinogi.com
+cdn.okanjo.com
 cdn.onescreen.net
 cdn.onesignal.com
 cdn.onscroll.com
@@ -11854,6 +11866,7 @@ cookie.vrtzads.com
 cookieads.fuse-ad.com
 cookiecontainer.blox.pl
 cookies.cmpnet.com
+cookies.onetrust.mgr.consensu.org
 cookiesync.mparticle.com
 cookiesync.vertamedia.com
 cookingcom.112.2o7.net
@@ -12202,7 +12215,6 @@ cra-arc-gc-ca.noads.biz
 cra-arc.gc.ca.bioder.com.tr
 crab.baidu.com
 crabbychin.com
-crackle.demdex.net
 cracks.vg
 crackspider.us
 crackzone.net
@@ -15077,6 +15089,7 @@ fexclick.baidu.com
 ff.connextra.com
 ffcdn3.featureforward.com
 ffcdn4.featureforward.com
+ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
 fflotte.oewabox.at
 ffxcam.fairfax.com.au
 ffxitrack.com
@@ -15167,6 +15180,7 @@ fioricet.1.p2l.info
 fioricet.3.p2l.info
 fioricet.4.p2l.info
 fips.uimserv.net
+firebase-settings.crashlytics.com
 firebaselogging.googleapis.com
 firefox-updater.com
 firefox.net-secure-update.icu
@@ -16113,6 +16127,7 @@ glbg.logsss.com
 glbgcl.logsss.com
 glean.pop6.com
 glenm.mtxcapital.com
+glimmer.hearstapps.com
 glispa.com
 glitter.services.disqus.com
 globadmedia.com
@@ -16651,6 +16666,7 @@ hades.getsocial.im
 hadik.info
 hadskiz.com
 hai2u.com
+hail-reporting.tutelatechnologies.com
 hair-dos.resourcesarchive.com
 hairboutique.us.intellitxt.com
 hajoopteg.com
@@ -17288,6 +17304,7 @@ i.blogads.com
 i.casalemedia.com
 i.cdn.openx.com
 i.cdnpark.com
+i.clean.gg
 i.clickagy.com
 i.connectad.io
 i.ctnsnet.com
@@ -18073,6 +18090,7 @@ inetlog.ru
 inferna.iad-03.braze.com
 infinite-ads.com
 infinite-mobility.g2afse.com
+infinity-c4.youboranqs01.com
 infinityads.com
 infinityid.condenastdigital.com
 influencers.tapinfluence.com
@@ -18972,6 +18990,8 @@ kinder.oewabox.at
 kinesis.us-east-1.amazonaws.com
 kinesisanalytics.eu-central-1.amazonaws.com
 kinesisanalytics.eu-west-1.amazonaws.com
+king-candycrush-prod.secure2.footprint.net
+king-contenido-prod.secure2.footprint.net
 kingskillz.ru
 kinowelt.oewabox.at
 kiosked-d.openx.net
@@ -21172,6 +21192,7 @@ metrics-cbslocal-com.cdn.ampproject.org
 metrics-collector.onscroll.com
 metrics-collector.s-onetag.com
 metrics-collector.us.onscroll.com
+metrics-logger.spot.im
 metrics.aarp.org
 metrics.accuweather.com
 metrics.acehardware.com
@@ -21730,6 +21751,7 @@ mobile.game-insight.com
 mobile.ib.sin1.geoadnxs.com
 mobile.itsbetter.com
 mobile.juicyads.com
+mobile.launchdarkly.com
 mobile.mediabrix.com
 mobile.mng-ads.com
 mobile.mofowl.com
@@ -24498,6 +24520,7 @@ ph-cdn.effectivemeasure.net
 ph-gmtdmp.mookie1.com
 ph5t.adups.com
 phabricator.leanplum.com
+phar.gu-web.net
 pharmacy-canada.forsearch.net
 pharmacy-news.blogspot.com
 pharmacy-online.petrovka.info
@@ -25951,6 +25974,7 @@ ravel-rewardpath.com
 raw.oggifinogi.com
 rawoo.barginginfrance.net
 rawstory.us.intellitxt.com
+rawtelemetry-west.servicebus.windows.net
 rayjump.com
 rayo.pereira.multi.net.co
 rb-net.com
@@ -30409,6 +30433,7 @@ tagpress.oewabox.at
 tags-cdn.deployads.com
 tags-eu.tiqcdn.com
 tags-prod.vrvm.com
+tags.acmeaom.com
 tags.adriver.ru
 tags.adsafety.net
 tags.affiliatefuture.com
@@ -31176,6 +31201,7 @@ top5.mail.ru
 top6.list.ru
 top90.ro
 topads.rrstar.com
+topapps-func.pinsightmedia.com
 topbestgames.com
 topblock.lentainform.com
 topblogarea.se

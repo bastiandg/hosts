@@ -495,6 +495,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 3056.engine.mobileapptracking.com
 0.0.0.0 30572.api.swrve.com
 0.0.0.0 30572.content.swrve.com
+0.0.0.0 30572.identity.swrve.com
 0.0.0.0 30575.api.swrve.com
 0.0.0.0 30576.api.swrve.com
 0.0.0.0 30576.content.swrve.com
@@ -1291,6 +1292,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 a4p.adpartner.pro
 0.0.0.0 a5.websponsors.com
 0.0.0.0 a50.g2.akamai.net
+0.0.0.0 a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
 0.0.0.0 a796faee-7163-4757-a34f-e5b48cada4cb.statcamp.net
 0.0.0.0 a7cleaner.com
 0.0.0.0 a8.net
@@ -1305,6 +1307,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 aa.newsblock.marketgid.com
 0.0.0.0 aa.oasfile.aftenposten.no
 0.0.0.0 aa.online-metrix.net
+0.0.0.0 aa5dbe242ad94ceba164ecf25b68c84e.mediatailor.us-west-2.amazonaws.com
 0.0.0.0 aa7bd76554cff2d93d33288d31aa6839.api.appsee.com
 0.0.0.0 aaddzz.com
 0.0.0.0 aads.treehugger.com
@@ -1321,7 +1324,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east-rtb.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
+0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aaxads.com
 0.0.0.0 aaxdetect.com
@@ -6393,6 +6398,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 analytics-gb-nfl.yinzcam.com
 0.0.0.0 analytics-gcp.tout.com
 0.0.0.0 analytics-ingest.creative-mobile.com
+0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-ingestion.staging-public.tubi.io
 0.0.0.0 analytics-iwtg-ten.yinzcam.com
 0.0.0.0 analytics-league-lfp.yinzcam.com
@@ -6468,6 +6474,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 analytics.inform.com
 0.0.0.0 analytics.inlinemanual.com
 0.0.0.0 analytics.jabong.com
+0.0.0.0 analytics.jumboprivacy.com
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.kingoapp.com
 0.0.0.0 analytics.kongregate.io
@@ -7173,6 +7180,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 api2.branch.io
 0.0.0.0 api2.chartbeat.com
 0.0.0.0 api2.murdoog.com
+0.0.0.0 api2.okanjo.com
 0.0.0.0 api2.poperblocker.com
 0.0.0.0 api2.restartad.com
 0.0.0.0 api3.siftscience.com
@@ -7893,6 +7901,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 atrd.netmng.com
 0.0.0.0 atrk.alexametrics.com
 0.0.0.0 atspace.de.intellitxt.com
+0.0.0.0 att.productmadness.com
+0.0.0.0 att.sc.omtrdc.net
 0.0.0.0 atti.com
 0.0.0.0 attr.appsflyer.com
 0.0.0.0 attractiveafternoon.com
@@ -10225,6 +10235,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.constafun.com
 0.0.0.0 cdn.content.exoticads.com
 0.0.0.0 cdn.contentspread.net
+0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.cpmstar.com
 0.0.0.0 cdn.cpxinteractive.com
 0.0.0.0 cdn.cquotient.com
@@ -10378,6 +10389,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.oas-c18.adnxs.com
 0.0.0.0 cdn.oas-eu1.adnxs.com
 0.0.0.0 cdn.oggifinogi.com
+0.0.0.0 cdn.okanjo.com
 0.0.0.0 cdn.onescreen.net
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.onscroll.com
@@ -11860,6 +11872,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cookieads.fuse-ad.com
 0.0.0.0 cookiecontainer.blox.pl
 0.0.0.0 cookies.cmpnet.com
+0.0.0.0 cookies.onetrust.mgr.consensu.org
 0.0.0.0 cookiesync.mparticle.com
 0.0.0.0 cookiesync.vertamedia.com
 0.0.0.0 cookingcom.112.2o7.net
@@ -12208,7 +12221,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cra-arc.gc.ca.bioder.com.tr
 0.0.0.0 crab.baidu.com
 0.0.0.0 crabbychin.com
-0.0.0.0 crackle.demdex.net
 0.0.0.0 cracks.vg
 0.0.0.0 crackspider.us
 0.0.0.0 crackzone.net
@@ -15083,6 +15095,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ff.connextra.com
 0.0.0.0 ffcdn3.featureforward.com
 0.0.0.0 ffcdn4.featureforward.com
+0.0.0.0 ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
 0.0.0.0 fflotte.oewabox.at
 0.0.0.0 ffxcam.fairfax.com.au
 0.0.0.0 ffxitrack.com
@@ -15173,6 +15186,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 fioricet.3.p2l.info
 0.0.0.0 fioricet.4.p2l.info
 0.0.0.0 fips.uimserv.net
+0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 firefox-updater.com
 0.0.0.0 firefox.net-secure-update.icu
@@ -16119,6 +16133,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 glbgcl.logsss.com
 0.0.0.0 glean.pop6.com
 0.0.0.0 glenm.mtxcapital.com
+0.0.0.0 glimmer.hearstapps.com
 0.0.0.0 glispa.com
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 globadmedia.com
@@ -16657,6 +16672,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 hadik.info
 0.0.0.0 hadskiz.com
 0.0.0.0 hai2u.com
+0.0.0.0 hail-reporting.tutelatechnologies.com
 0.0.0.0 hair-dos.resourcesarchive.com
 0.0.0.0 hairboutique.us.intellitxt.com
 0.0.0.0 hajoopteg.com
@@ -17294,6 +17310,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 i.casalemedia.com
 0.0.0.0 i.cdn.openx.com
 0.0.0.0 i.cdnpark.com
+0.0.0.0 i.clean.gg
 0.0.0.0 i.clickagy.com
 0.0.0.0 i.connectad.io
 0.0.0.0 i.ctnsnet.com
@@ -18079,6 +18096,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 inferna.iad-03.braze.com
 0.0.0.0 infinite-ads.com
 0.0.0.0 infinite-mobility.g2afse.com
+0.0.0.0 infinity-c4.youboranqs01.com
 0.0.0.0 infinityads.com
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 influencers.tapinfluence.com
@@ -18978,6 +18996,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 kinesisanalytics.eu-central-1.amazonaws.com
 0.0.0.0 kinesisanalytics.eu-west-1.amazonaws.com
+0.0.0.0 king-candycrush-prod.secure2.footprint.net
+0.0.0.0 king-contenido-prod.secure2.footprint.net
 0.0.0.0 kingskillz.ru
 0.0.0.0 kinowelt.oewabox.at
 0.0.0.0 kiosked-d.openx.net
@@ -21178,6 +21198,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 metrics-collector.onscroll.com
 0.0.0.0 metrics-collector.s-onetag.com
 0.0.0.0 metrics-collector.us.onscroll.com
+0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics.aarp.org
 0.0.0.0 metrics.accuweather.com
 0.0.0.0 metrics.acehardware.com
@@ -21736,6 +21757,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 mobile.ib.sin1.geoadnxs.com
 0.0.0.0 mobile.itsbetter.com
 0.0.0.0 mobile.juicyads.com
+0.0.0.0 mobile.launchdarkly.com
 0.0.0.0 mobile.mediabrix.com
 0.0.0.0 mobile.mng-ads.com
 0.0.0.0 mobile.mofowl.com
@@ -24504,6 +24526,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ph-gmtdmp.mookie1.com
 0.0.0.0 ph5t.adups.com
 0.0.0.0 phabricator.leanplum.com
+0.0.0.0 phar.gu-web.net
 0.0.0.0 pharmacy-canada.forsearch.net
 0.0.0.0 pharmacy-news.blogspot.com
 0.0.0.0 pharmacy-online.petrovka.info
@@ -25957,6 +25980,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 raw.oggifinogi.com
 0.0.0.0 rawoo.barginginfrance.net
 0.0.0.0 rawstory.us.intellitxt.com
+0.0.0.0 rawtelemetry-west.servicebus.windows.net
 0.0.0.0 rayjump.com
 0.0.0.0 rayo.pereira.multi.net.co
 0.0.0.0 rb-net.com
@@ -30415,6 +30439,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tags-cdn.deployads.com
 0.0.0.0 tags-eu.tiqcdn.com
 0.0.0.0 tags-prod.vrvm.com
+0.0.0.0 tags.acmeaom.com
 0.0.0.0 tags.adriver.ru
 0.0.0.0 tags.adsafety.net
 0.0.0.0 tags.affiliatefuture.com
@@ -31182,6 +31207,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 top6.list.ru
 0.0.0.0 top90.ro
 0.0.0.0 topads.rrstar.com
+0.0.0.0 topapps-func.pinsightmedia.com
 0.0.0.0 topbestgames.com
 0.0.0.0 topblock.lentainform.com
 0.0.0.0 topblogarea.se
