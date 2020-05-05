@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 05 May 2020 15:31:45 GMT
-# entries:        3347
+# last updated:   Tue, 05 May 2020 18:39:44 GMT
+# entries:        3350
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1713,6 +1713,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 fqtag.com
 127.0.0.1 frailoffer.com
 127.0.0.1 free-banners.com
+127.0.0.1 free-counter.co.uk
+127.0.0.1 free-counters.co.uk
 127.0.0.1 freebanner.com
 127.0.0.1 freecounterstat.com
 127.0.0.1 freelogs.com
@@ -2591,6 +2593,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 quisma.com
 127.0.0.1 quizzicalzephyr.com
 127.0.0.1 r.logrocket.io
+127.0.0.1 r.msn.com
 127.0.0.1 r.scoota.co
 127.0.0.1 radar.cedexis.com
 127.0.0.1 radarurl.com

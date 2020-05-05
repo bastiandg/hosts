@@ -1686,6 +1686,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 fqtag.com
 0.0.0.0 frailoffer.com
 0.0.0.0 free-banners.com
+0.0.0.0 free-counter.co.uk
+0.0.0.0 free-counters.co.uk
 0.0.0.0 freebanner.com
 0.0.0.0 freecounterstat.com
 0.0.0.0 freelogs.com
@@ -2564,6 +2566,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 quisma.com
 0.0.0.0 quizzicalzephyr.com
 0.0.0.0 r.logrocket.io
+0.0.0.0 r.msn.com
 0.0.0.0 r.scoota.co
 0.0.0.0 radar.cedexis.com
 0.0.0.0 radarurl.com
