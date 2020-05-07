@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 05 May 2020 18:39:44 GMT
-# entries:        3350
+# last updated:   Thu, 07 May 2020 13:13:01 GMT
+# entries:        3352
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -816,6 +816,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsrv.deviantart.com
 127.0.0.1 adsrv.eacdn.com
 127.0.0.1 adsrv.iol.co.za
+127.0.0.1 adsrv.swidnica24.pl
+127.0.0.1 adsrv2.swidnica24.pl
 127.0.0.1 adsrvr.org
 127.0.0.1 adsrvus.com
 127.0.0.1 adsrvx.com

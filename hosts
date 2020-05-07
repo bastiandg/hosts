@@ -5425,9 +5425,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 adsrv.lua.pl
 127.0.0.1 adsrv.me
 127.0.0.1 adsrv.news.com.au
+127.0.0.1 adsrv.swidnica24.pl
 127.0.0.1 adsrv.tuscaloosanews.com
 127.0.0.1 adsrv.wilmingtonstar.com
 127.0.0.1 adsrv2.ihlassondakika.com
+127.0.0.1 adsrv2.swidnica24.pl
 127.0.0.1 adsrv2.wilmingtonstar.com
 127.0.0.1 adsrvmedia.adk2.co
 127.0.0.1 adsrvmedia.net
