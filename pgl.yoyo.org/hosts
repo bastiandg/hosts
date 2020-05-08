@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 08 May 2020 10:57:30 GMT
-# entries:        3345
+# last updated:   Fri, 08 May 2020 16:11:01 GMT
+# entries:        3346
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1677,6 +1677,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 fastclick.com
 127.0.0.1 fastclick.com.edgesuite.net
 127.0.0.1 fastclick.net
+127.0.0.1 fastgetsoftware.com
 127.0.0.1 fastly-insights.com
 127.0.0.1 faultycanvas.com
 127.0.0.1 faultyfowl.com
