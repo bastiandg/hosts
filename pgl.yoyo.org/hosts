@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 07 May 2020 13:13:01 GMT
-# entries:        3352
+# last updated:   Fri, 08 May 2020 10:57:30 GMT
+# entries:        3353
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1222,6 +1222,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 boredcrown.com
 127.0.0.1 boringcoat.com
 127.0.0.1 boudja.com
+127.0.0.1 bounceads.net
 127.0.0.1 bounceexchange.com
 127.0.0.1 box.anchorfree.net
 127.0.0.1 bpath.com
