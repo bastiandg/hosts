@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 08 May 2020 16:11:01 GMT
-# entries:        3346
+# last updated:   Sat, 09 May 2020 18:59:25 GMT
+# entries:        3349
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2261,6 +2261,9 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 musiccounter.ru
 127.0.0.1 muwmedia.com
 127.0.0.1 mxptint.net
+127.0.0.1 myads.company
+127.0.0.1 myads.net
+127.0.0.1 myads.telkomsel.com
 127.0.0.1 myaffiliateprogram.com
 127.0.0.1 mybestmv.com
 127.0.0.1 mybetterdl.com
