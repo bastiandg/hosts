@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 12 May 2020 12:23:56 GMT
-# entries:        3354
+# entries:        3352
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -844,12 +844,10 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adtiger.de
 127.0.0.1 adtilt.com
 127.0.0.1 adtng.com
-127.0.0.1 adtoll.com
 127.0.0.1 adtology.com
 127.0.0.1 adtoma.com
 127.0.0.1 adtrace.org
 127.0.0.1 adtrade.net
-127.0.0.1 adtrak.net
 127.0.0.1 adtriplex.com
 127.0.0.1 adultadvertising.com
 127.0.0.1 adv-adserver.com
@@ -938,7 +936,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 affiliatetracking.net
 127.0.0.1 affiliatewindow.com
 127.0.0.1 affiliation-france.com
-127.0.0.1 affrh2014.com
 127.0.0.1 affrh2022.com
 127.0.0.1 afftracking.justanswer.com
 127.0.0.1 agkn.com
@@ -1737,6 +1734,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 fukc69xo.us
 127.0.0.1 fullstory.com
 127.0.0.1 functionalcrown.com
+127.0.0.1 funklicks.com
 127.0.0.1 funpageexchange.com
 127.0.0.1 fusionads.net
 127.0.0.1 fusionquest.com
