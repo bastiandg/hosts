@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 17 May 2020 at 04:35:59 GMT
+# Last updated: Sun, 17 May 2020 at 05:14:03 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2454,8 +2454,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 it.globalsweeps.info
 127.0.0.1 itwititer.com
 127.0.0.1 ity.elusmedic.ru
-127.0.0.1 iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
-127.0.0.1 iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 127.0.0.1 jajajaj-thats-you-really.com
 127.0.0.1 janezk.50webs.co
 127.0.0.1 jat01.iwantyourightnow.info
@@ -3099,8 +3097,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.inkscape.es
 127.0.0.1 www.inkscape.fr
 127.0.0.1 www.irony.world
-127.0.0.1 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
-127.0.0.1 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 127.0.0.1 www.kbdiu5z8ah.us
 127.0.0.1 www.keepass.com
 127.0.0.1 www.keepass.fr
