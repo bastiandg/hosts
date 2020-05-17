@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 23 Apr 2020 at 07:31:06 GMT
+# Last updated: Sun, 17 May 2020 at 04:35:59 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2886,6 +2886,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 sussi.cressoft.com.pk
 127.0.0.1 sverd.net
 127.0.0.1 sweet55ium55.com
+127.0.0.1 syndication.exosrv.com
 127.0.0.1 system-kernel-disk-errorx001dsxx-microsoft-windows.55errors5353.net
 127.0.0.1 tahoesup.com
 127.0.0.1 tanieaukcje.com
