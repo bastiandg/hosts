@@ -760,7 +760,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 actions-nj.taboola.com
 0.0.0.0 actions-sg.taboola.com
 0.0.0.0 actionteaser.ru
-0.0.0.0 activate.boostmobile.com
 0.0.0.0 active.iperceptions.com
 0.0.0.0 activenetwork-d.openx.net
 0.0.0.0 activity.m.duiba.com.cn
@@ -1719,7 +1718,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ak.p.openx.net
 0.0.0.0 ak.sail-horizon.com
 0.0.0.0 ak.sailthru.com
-0.0.0.0 aka-apiservices.boostmobile.com
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 aka-cdn.adtech.de
 0.0.0.0 akamai.cdneval.adnxs.com
@@ -2312,7 +2310,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.mobileapptracking.com
 0.0.0.0 api.mobilearts.io
 0.0.0.0 api.mobilebridge.com
-0.0.0.0 api.mobileday.com
 0.0.0.0 api.mobilewareinc.com
 0.0.0.0 api.mobitech-content.xyz
 0.0.0.0 api.moblink.mob.com
@@ -2596,7 +2593,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 app.masoffer.net
 0.0.0.0 app.matheranalytics.com
 0.0.0.0 app.meltwater.com
-0.0.0.0 app.mobilecause.com
 0.0.0.0 app.mopub.com
 0.0.0.0 app.netpark.us
 0.0.0.0 app.networkad.net
@@ -2630,7 +2626,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 appclick.net
 0.0.0.0 appclick.rqmob.com
 0.0.0.0 appconfig.cmgdigital.com
-0.0.0.0 appcontent.boostmobile.com
 0.0.0.0 appdeumext.tdameritrade.com
 0.0.0.0 appdiscovery.apptap.com
 0.0.0.0 appdog.com
@@ -2776,7 +2771,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 araman.kameleoon.com
 0.0.0.0 aranzulla-d.openx.net
 0.0.0.0 arc-native-apps.s3.amazonaws.com
-0.0.0.0 arcgis.mobile311.com
 0.0.0.0 archive.adjust.io
 0.0.0.0 ares.agoop.net
 0.0.0.0 ariane.abtasty.com
@@ -2788,7 +2782,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 artfact-d.openx.net
 0.0.0.0 as-dmpsync.3lift.com
 0.0.0.0 as-eb2.3lift.com
-0.0.0.0 as-p-e.jitterbit.com
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 as-tlx.3lift.com
 0.0.0.0 as-v1.presage.io
@@ -3258,7 +3251,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 br.ads.justpremium.com
 0.0.0.0 br.adspecs.yahoo.com
 0.0.0.0 br.com.tapps.analytics.s3.amazonaws.com
-0.0.0.0 br.mobilelifeconnect.com
 0.0.0.0 br.newrelic.com
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 brain.foresee.com
@@ -3719,7 +3711,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.unityads.unity3d.com
 0.0.0.0 cdn.vdopia.com
 0.0.0.0 cdn.viglink.com
-0.0.0.0 cdn.wootric.com
 0.0.0.0 cdn.wpm.neustar.biz
 0.0.0.0 cdn.zarget.com
 0.0.0.0 cdn01.static.adfalcon.com
@@ -4504,9 +4495,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 d2cmedia.ca
 0.0.0.0 d3.condenast.servedbyopenx.com
 0.0.0.0 d3.hadarone.com
-0.0.0.0 d365portal-prod-sdk.akstd.azureedge.net
-0.0.0.0 d365portal-prod-sdk.azureedge.net
-0.0.0.0 d365prod-sdk.azureedge.net
 0.0.0.0 d3kkw-6ch3c.ads.tremorhub.com
 0.0.0.0 d3p.de17a.com
 0.0.0.0 d4.hadarone.com
@@ -5084,7 +5072,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 embed.tempest-identity.prod.saymedia.com
 0.0.0.0 embeds.tagboard.com.herokudns.com
 0.0.0.0 emea-v3.tracking.justpremium.com
-0.0.0.0 emea-west.jitterbit.com
 0.0.0.0 emediate.se
 0.0.0.0 emmis.deliveryengine.adswizz.com
 0.0.0.0 emoo.adperfect.com
@@ -5205,7 +5192,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 esi.amp.permutive.com
 0.0.0.0 esimedia-d.openx.net
 0.0.0.0 espn.hb.omtrdc.net
-0.0.0.0 esri.mobile311.com
 0.0.0.0 et-code.ru
 0.0.0.0 et.kissmetrics.com
 0.0.0.0 et.mobadvent.com
@@ -6268,8 +6254,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 images9.engageya.com
 0.0.0.0 imagesrv.adition.com
 0.0.0.0 imagess.cloud.datasphere.com
-0.0.0.0 imapi-mu.isnssdk.com
-0.0.0.0 imapi-sg.isnssdk.com
 0.0.0.0 imatmobile.com
 0.0.0.0 imb-offerwall-env.us-east-1.elasticbeanstalk.com
 0.0.0.0 imc.l.qq.com
@@ -6996,7 +6980,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 logs1202.xiti.com
 0.0.0.0 logsdk.qq.com
 0.0.0.0 logserver.insight.ucweb.com
-0.0.0.0 logservices.ipass.com
 0.0.0.0 logtest.moatads.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 logv2.mp3.zing.vn
@@ -7421,7 +7404,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 millennialmedia-d.openx.net
 0.0.0.0 millennialmedia.com
 0.0.0.0 millicom.pushwoosh.com
-0.0.0.0 milliyetreklam-p.mncdn.com
 0.0.0.0 mime.iad.adswizz.com
 0.0.0.0 min.admicro.vn
 0.0.0.0 mindbodygreen-d.openx.net
@@ -7764,7 +7746,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 na-api.mobile.inrix.com
 0.0.0.0 na-b.marketo.com
 0.0.0.0 na-dmpsync.3lift.com
-0.0.0.0 na-east.jitterbit.com
 0.0.0.0 na-eb2.3lift.com
 0.0.0.0 na-g.marketo.com
 0.0.0.0 na-gateway.supersonicads.com
@@ -8041,7 +8022,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 olb.pns.kt.com
 0.0.0.0 olxpl-d.openx.net
 0.0.0.0 olxro-d.openx.net
-0.0.0.0 om-datacollector.ipass.com
 0.0.0.0 omax.admarvel.com
 0.0.0.0 omg-studio-d.openx.net
 0.0.0.0 omgmta.qq.com
@@ -9077,7 +9057,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 rest.dynamicyield.com
 0.0.0.0 rest.iad-01.braze.com
 0.0.0.0 rest.iad-03.braze.com
-0.0.0.0 rest.mobilerealtyapps.com
 0.0.0.0 rest.segmentify.com
 0.0.0.0 rest.sharethis.com
 0.0.0.0 restartad.com
@@ -9555,7 +9534,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sdk.inlocomedia.com
 0.0.0.0 sdk.jeeng.com
 0.0.0.0 sdk.justad.mobi
-0.0.0.0 sdk.kamcord.com
 0.0.0.0 sdk.kingoapp.com
 0.0.0.0 sdk.loveota.net
 0.0.0.0 sdk.markable.ai
@@ -9828,7 +9806,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 serving.pixsense.net
 0.0.0.0 servs.adblox.net
 0.0.0.0 sessionm.com
-0.0.0.0 sessions.mobileroadie.com
 0.0.0.0 sestat.baidu.com
 0.0.0.0 seth.avazutracking.net
 0.0.0.0 setting.adzcore.com
@@ -9999,7 +9976,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sjrtp8.marketo.com
 0.0.0.0 sk-gmtdmp.mookie1.com
 0.0.0.0 skai.iad-03.braze.com
-0.0.0.0 skin.mobilesentrix.com
 0.0.0.0 skw.adledge.com
 0.0.0.0 skypicker-api.infinario.com
 0.0.0.0 sladermobile-d.openx.net

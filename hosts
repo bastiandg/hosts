@@ -1484,7 +1484,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 actionscript.us.intellitxt.com
 127.0.0.1 actionsplash.com
 127.0.0.1 actionteaser.ru
-127.0.0.1 activate.boostmobile.com
 127.0.0.1 active.cache.el-mundo.net
 127.0.0.1 active.hit.stat24.com
 127.0.0.1 active.iperceptions.com
@@ -6092,7 +6091,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ak0gsh40.com
 127.0.0.1 ak1.abmr.net
 127.0.0.1 ak1s.abmr.net
-127.0.0.1 aka-apiservices.boostmobile.com
 127.0.0.1 aka-cdn-ns.adtech.de
 127.0.0.1 aka-cdn-ns.adtechus.com
 127.0.0.1 aka-cdn.adtech.de
@@ -7035,7 +7033,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.mobileapptracking.com
 127.0.0.1 api.mobilearts.io
 127.0.0.1 api.mobilebridge.com
-127.0.0.1 api.mobileday.com
 127.0.0.1 api.mobilewareinc.com
 127.0.0.1 api.mobitech-content.xyz
 127.0.0.1 api.moblink.mob.com
@@ -7350,7 +7347,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 app.matheranalytics.com
 127.0.0.1 app.medyanetads.com
 127.0.0.1 app.meltwater.com
-127.0.0.1 app.mobilecause.com
 127.0.0.1 app.monetizze.com.br
 127.0.0.1 app.mopub.com
 127.0.0.1 app.netpark.us
@@ -7427,7 +7423,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 appclick.net
 127.0.0.1 appclick.rqmob.com
 127.0.0.1 appconfig.cmgdigital.com
-127.0.0.1 appcontent.boostmobile.com
 127.0.0.1 appdatum.com
 127.0.0.1 appdeumext.tdameritrade.com
 127.0.0.1 appdev.addthis.com
@@ -7642,7 +7637,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 arc-native-apps.s3.amazonaws.com
 127.0.0.1 arc1.msn.com
 127.0.0.1 arcade.ya.com
-127.0.0.1 arcgis.mobile311.com
 127.0.0.1 architecturaldesigns.us.intellitxt.com
 127.0.0.1 archive.adjust.io
 127.0.0.1 archive.coolerads.com
@@ -7693,7 +7687,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 artwork.aim4media.com
 127.0.0.1 as-dmpsync.3lift.com
 127.0.0.1 as-eb2.3lift.com
-127.0.0.1 as-p-e.jitterbit.com
 127.0.0.1 as-sec.casalemedia.com
 127.0.0.1 as-tlx.3lift.com
 127.0.0.1 as-v1.presage.io
@@ -9203,7 +9196,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 br.comclick.com
 127.0.0.1 br.fling.com
 127.0.0.1 br.meetlocals.com
-127.0.0.1 br.mobilelifeconnect.com
 127.0.0.1 br.naked.com
 127.0.0.1 br.newrelic.com
 127.0.0.1 br.phorm.com
@@ -10486,7 +10478,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.visiblemeasures.com
 127.0.0.1 cdn.westbaud.com
 127.0.0.1 cdn.wg.uproxx.com
-127.0.0.1 cdn.wootric.com
 127.0.0.1 cdn.wpm.neustar.biz
 127.0.0.1 cdn.www1.pip-pip-pop.com
 127.0.0.1 cdn.wwwpromoter.com
@@ -12612,9 +12603,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 d3.sina.com.cn
 127.0.0.1 d3.zedo.com
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
-127.0.0.1 d365portal-prod-sdk.akstd.azureedge.net
-127.0.0.1 d365portal-prod-sdk.azureedge.net
-127.0.0.1 d365prod-sdk.azureedge.net
 127.0.0.1 d3dcugpvnepf41.cloudfront.net
 127.0.0.1 d3fd89.r.axf8.net
 127.0.0.1 d3kkw-6ch3c.ads.tremorhub.com
@@ -14237,7 +14225,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 emc.122.2o7.net
 127.0.0.1 emea-bidder.mathtag.com
 127.0.0.1 emea-v3.tracking.justpremium.com
-127.0.0.1 emea-west.jitterbit.com
 127.0.0.1 emea.rel.msn.com
 127.0.0.1 emebo.com
 127.0.0.1 emebo.io
@@ -14499,7 +14486,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 espn.hb.omtrdc.net
 127.0.0.1 espndotcom.tt.omtrdc.net
 127.0.0.1 espresso-reklam.eu
-127.0.0.1 esri.mobile311.com
 127.0.0.1 estat.com
 127.0.0.1 estelle.us.intellitxt.com
 127.0.0.1 estoa.frost-electric-supply.com
@@ -17754,8 +17740,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 imagesrv.adition.com
 127.0.0.1 imagess.cloud.datasphere.com
 127.0.0.1 imagevenue.advertserve.com
-127.0.0.1 imapi-mu.isnssdk.com
-127.0.0.1 imapi-sg.isnssdk.com
 127.0.0.1 imarker.com
 127.0.0.1 imarker.ru
 127.0.0.1 imarketservices.com
@@ -19802,7 +19786,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 logs1242.xiti.com
 127.0.0.1 logsdk.qq.com
 127.0.0.1 logserver.insight.ucweb.com
-127.0.0.1 logservices.ipass.com
 127.0.0.1 logsss.com
 127.0.0.1 logtest.moatads.com
 127.0.0.1 logua.com
@@ -21514,7 +21497,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 millennialmedia-d.openx.net
 127.0.0.1 millennialmedia.com
 127.0.0.1 millicom.pushwoosh.com
-127.0.0.1 milliyetreklam-p.mncdn.com
 127.0.0.1 milotree.com
 127.0.0.1 milyondolar.com
 127.0.0.1 mimageads.googleadservices.com
@@ -22360,7 +22342,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 na-api.mobile.inrix.com
 127.0.0.1 na-b.marketo.com
 127.0.0.1 na-dmpsync.3lift.com
-127.0.0.1 na-east.jitterbit.com
 127.0.0.1 na-eb2.3lift.com
 127.0.0.1 na-g.marketo.com
 127.0.0.1 na-gateway.supersonicads.com
@@ -23500,7 +23481,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 olx.hit.gemius.pl
 127.0.0.1 olxpl-d.openx.net
 127.0.0.1 olxro-d.openx.net
-127.0.0.1 om-datacollector.ipass.com
 127.0.0.1 om.blockbuster.com
 127.0.0.1 om.businessweek.com
 127.0.0.1 om.cbsi.com
@@ -26364,7 +26344,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 rest.dynamicyield.com
 127.0.0.1 rest.iad-01.braze.com
 127.0.0.1 rest.iad-03.braze.com
-127.0.0.1 rest.mobilerealtyapps.com
 127.0.0.1 rest.segmentify.com
 127.0.0.1 rest.sharethis.com
 127.0.0.1 restartad.com
@@ -27530,7 +27509,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sdk.inlocomedia.com
 127.0.0.1 sdk.jeeng.com
 127.0.0.1 sdk.justad.mobi
-127.0.0.1 sdk.kamcord.com
 127.0.0.1 sdk.kingoapp.com
 127.0.0.1 sdk.loveota.net
 127.0.0.1 sdk.markable.ai
@@ -28098,7 +28076,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sessioncam.com
 127.0.0.1 sessionm.com
 127.0.0.1 sessions.bugsnag.com
-127.0.0.1 sessions.mobileroadie.com
 127.0.0.1 sestat.baidu.com
 127.0.0.1 seth.avazutracking.net
 127.0.0.1 setting.adzcore.com
@@ -28442,7 +28419,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 skimlinkscom.skimlinks.com
 127.0.0.1 skimresources.com
 127.0.0.1 skin-care.1.p2l.info
-127.0.0.1 skin.mobilesentrix.com
 127.0.0.1 skip.oewabox.at
 127.0.0.1 skocz.pl
 127.0.0.1 skubizd.info
