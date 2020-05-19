@@ -2060,7 +2060,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 antenna.ayads.co
 0.0.0.0 anthill.vn
 0.0.0.0 antivirus.baidu.com
-0.0.0.0 anx.mindspark.com
 0.0.0.0 anycast.adnxs.com
 0.0.0.0 anycast.dt.adsafeprotected.com
 0.0.0.0 anycast.fw.adsafeprotected.com
@@ -2116,7 +2115,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api-ext.mediav.com
 0.0.0.0 api-gateway.us-west-2.elasticbeanstalk.com
 0.0.0.0 api-gdpr.voodoo-tech.io
-0.0.0.0 api-grpc.lightstep.com
 0.0.0.0 api-log-analytics.cloud.toast.com
 0.0.0.0 api-log.immomo.com
 0.0.0.0 api-logsink-prod.zedge.io
@@ -4154,8 +4152,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 collector-010.newrelic.com
 0.0.0.0 collector-6271.tvsquared.com
 0.0.0.0 collector-a.perimeterx.net
-0.0.0.0 collector-grpc.lightstep.com
-0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 collector-pool.newrelic.com
 0.0.0.0 collector-px8fcgygk4.perimeterx.net
 0.0.0.0 collector-pxhyx10rg3.perimeterx.net
@@ -4169,7 +4165,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 collector.effectivemeasure.net
 0.0.0.0 collector.insight-stats.com
 0.0.0.0 collector.leaddyno.com
-0.0.0.0 collector.lightstep.com
 0.0.0.0 collector.newrelic.com
 0.0.0.0 collector.placelocal.com
 0.0.0.0 collector.pyze.com
@@ -5261,7 +5256,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 euadsapi.manhuaren.com
 0.0.0.0 euapi.ibm.xtify.com
 0.0.0.0 euasync01.admantx.com
-0.0.0.0 eula.mindspark.com
 0.0.0.0 eur-ukp.adsrvr.org
 0.0.0.0 eurldmma.com.com
 0.0.0.0 eurm.recs.richrelevance.com

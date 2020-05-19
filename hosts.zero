@@ -6689,7 +6689,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 antivirus.baidu.com
 0.0.0.0 antventure.com
 0.0.0.0 antyweb.push-ad.com
-0.0.0.0 anx.mindspark.com
 0.0.0.0 anxiety.1.p2l.info
 0.0.0.0 anxiousapples.com
 0.0.0.0 any-log.videe.tv
@@ -6819,7 +6818,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api-ext.mediav.com
 0.0.0.0 api-gateway.us-west-2.elasticbeanstalk.com
 0.0.0.0 api-gdpr.voodoo-tech.io
-0.0.0.0 api-grpc.lightstep.com
 0.0.0.0 api-log-analytics.cloud.toast.com
 0.0.0.0 api-log.immomo.com
 0.0.0.0 api-logsink-prod.zedge.io
@@ -11561,7 +11559,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 collector-428.tvsquared.com
 0.0.0.0 collector-6271.tvsquared.com
 0.0.0.0 collector-a.perimeterx.net
-0.0.0.0 collector-grpc.lightstep.com
 0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 collector-pool.newrelic.com
 0.0.0.0 collector-px8fcgygk4.perimeterx.net
@@ -11579,7 +11576,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.insight-stats.com
 0.0.0.0 collector.leaddyno.com
-0.0.0.0 collector.lightstep.com
 0.0.0.0 collector.newrelic.com
 0.0.0.0 collector.newsx.cc
 0.0.0.0 collector.placelocal.com
@@ -14581,7 +14577,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 euapi.ibm.xtify.com
 0.0.0.0 euasync01.admantx.com
 0.0.0.0 eue.collect-opnet.com
-0.0.0.0 eula.mindspark.com
 0.0.0.0 eule1.pmu.fr
 0.0.0.0 eulerian.net
 0.0.0.0 euniverseads.com

@@ -6689,7 +6689,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 antivirus.baidu.com
 127.0.0.1 antventure.com
 127.0.0.1 antyweb.push-ad.com
-127.0.0.1 anx.mindspark.com
 127.0.0.1 anxiety.1.p2l.info
 127.0.0.1 anxiousapples.com
 127.0.0.1 any-log.videe.tv
@@ -6819,7 +6818,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 api-ext.mediav.com
 127.0.0.1 api-gateway.us-west-2.elasticbeanstalk.com
 127.0.0.1 api-gdpr.voodoo-tech.io
-127.0.0.1 api-grpc.lightstep.com
 127.0.0.1 api-log-analytics.cloud.toast.com
 127.0.0.1 api-log.immomo.com
 127.0.0.1 api-logsink-prod.zedge.io
@@ -11561,7 +11559,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 collector-428.tvsquared.com
 127.0.0.1 collector-6271.tvsquared.com
 127.0.0.1 collector-a.perimeterx.net
-127.0.0.1 collector-grpc.lightstep.com
 127.0.0.1 collector-medium.lightstep.com
 127.0.0.1 collector-pool.newrelic.com
 127.0.0.1 collector-px8fcgygk4.perimeterx.net
@@ -11579,7 +11576,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 collector.githubapp.com
 127.0.0.1 collector.insight-stats.com
 127.0.0.1 collector.leaddyno.com
-127.0.0.1 collector.lightstep.com
 127.0.0.1 collector.newrelic.com
 127.0.0.1 collector.newsx.cc
 127.0.0.1 collector.placelocal.com
@@ -14581,7 +14577,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 euapi.ibm.xtify.com
 127.0.0.1 euasync01.admantx.com
 127.0.0.1 eue.collect-opnet.com
-127.0.0.1 eula.mindspark.com
 127.0.0.1 eule1.pmu.fr
 127.0.0.1 eulerian.net
 127.0.0.1 euniverseads.com
