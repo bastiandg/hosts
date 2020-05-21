@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 17 May 2020 19:49:31 GMT
-# entries:        3354
+# last updated:   Thu, 21 May 2020 11:43:48 GMT
+# entries:        3359
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1309,6 +1309,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 cj.com
 127.0.0.1 cjbmanagement.com
 127.0.0.1 cjlog.com
+127.0.0.1 cl0udh0st1ng.com
 127.0.0.1 claria.com
 127.0.0.1 clearcomb.com
 127.0.0.1 clevernt.com
@@ -2127,6 +2128,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 magicadz.co
 127.0.0.1 magnificentmist.com
 127.0.0.1 mail-ads.google.com
+127.0.0.1 malaysia-online-bank-kasino.com
+127.0.0.1 manageadv.cblogs.eu
 127.0.0.1 marchex.com
 127.0.0.1 marinsm.com
 127.0.0.1 markedcrayon.com
@@ -2225,6 +2228,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mmismm.com
 127.0.0.1 mmstat.com
 127.0.0.1 mmtro.com
+127.0.0.1 moartraffic.com
 127.0.0.1 moat.com
 127.0.0.1 moatads.com
 127.0.0.1 moatpixel.com
@@ -3196,6 +3200,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 userreplay.com
 127.0.0.1 userreplay.net
 127.0.0.1 utils.mediageneral.net
+127.0.0.1 utl-1.com
 127.0.0.1 uttermosthobbies.com
 127.0.0.1 uzk4umokyri3.com
 127.0.0.1 v1.cnzz.com
