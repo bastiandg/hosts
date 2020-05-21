@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 21 May 2020 11:43:48 GMT
-# entries:        3359
+# last updated:   Thu, 21 May 2020 13:48:13 GMT
+# entries:        3360
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -3043,6 +3043,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ticksel.com
 127.0.0.1 tidaltv.com
 127.0.0.1 tinybar.com
+127.0.0.1 tkbo.com
 127.0.0.1 tls.telemetry.swe.quicinc.com
 127.0.0.1 tlvmedia.com
 127.0.0.1 tnkexchange.com
