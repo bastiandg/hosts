@@ -2317,6 +2317,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 netshelter.net
 127.0.0.1 neudesicmediagroup.com
 127.0.0.1 newads.bangbros.com
+127.0.0.1 newbie.com
 127.0.0.1 newnet.qsrch.com
 127.0.0.1 newnudecash.com
 127.0.0.1 newopenx.detik.com
@@ -2871,7 +2872,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 sponsorads.de
 127.0.0.1 sponsorpro.de
 127.0.0.1 sponsors.thoughtsmedia.com
-127.0.0.1 spoor-api.asia.nikkei.com
 127.0.0.1 spot.fitness.com
 127.0.0.1 spotscenered.info
 127.0.0.1 spotx.tv
