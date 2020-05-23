@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 17 May 2020 at 05:14:03 GMT
+# Last updated: Sat, 23 May 2020 at 02:34:32 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8008,6 +8008,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 cxoadfarm.dyndns.info
 127.0.0.1 cxtad.specificmedia.com
 127.0.0.1 cyber-incentives.com
+127.0.0.1 cyberprotection.pro
 127.0.0.1 cz.bbelements.com
 127.0.0.1 cz8.clickzs.com
 127.0.0.1 czilladx.com
@@ -10262,6 +10263,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 promotion.partnercash.com
 127.0.0.1 promotions.sportingbet.com
 127.0.0.1 promoviral.com
+127.0.0.1 properatersch.fun
 127.0.0.1 protect-your-privacy.net
 127.0.0.1 protection.ALpolice.com
 127.0.0.1 protection.ASpolice.com
