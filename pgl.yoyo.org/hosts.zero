@@ -406,6 +406,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.cc-dt.com
 0.0.0.0 ads.centraliprom.com
 0.0.0.0 ads.channel4.com
+0.0.0.0 ads.clasificadox.com
 0.0.0.0 ads.clearchannel.com
 0.0.0.0 ads.co.com
 0.0.0.0 ads.colombiaonline.com
@@ -727,6 +728,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.break-even.it
 0.0.0.0 adserver.cams.com
 0.0.0.0 adserver.com
+0.0.0.0 adserver.diariodosertao.com.br
 0.0.0.0 adserver.digitoday.com
 0.0.0.0 adserver.freecity.de
 0.0.0.0 adserver.friendfinder.com

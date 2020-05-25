@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 25 May 2020 18:17:11 GMT
-# entries:        3364
+# last updated:   Mon, 25 May 2020 19:06:31 GMT
+# entries:        3366
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -433,6 +433,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.cc-dt.com
 127.0.0.1 ads.centraliprom.com
 127.0.0.1 ads.channel4.com
+127.0.0.1 ads.clasificadox.com
 127.0.0.1 ads.clearchannel.com
 127.0.0.1 ads.co.com
 127.0.0.1 ads.colombiaonline.com
@@ -754,6 +755,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver.break-even.it
 127.0.0.1 adserver.cams.com
 127.0.0.1 adserver.com
+127.0.0.1 adserver.diariodosertao.com.br
 127.0.0.1 adserver.digitoday.com
 127.0.0.1 adserver.freecity.de
 127.0.0.1 adserver.friendfinder.com
