@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 25 May 2020 16:51:21 GMT
-# entries:        3362
+# last updated:   Mon, 25 May 2020 18:17:11 GMT
+# entries:        3364
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -611,6 +611,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.pushplay.com
 127.0.0.1 ads.quasaraffiliates.com
 127.0.0.1 ads.quoka.de
+127.0.0.1 ads.radio1.lv
 127.0.0.1 ads.rcs.it
 127.0.0.1 ads.recoletos.es
 127.0.0.1 ads.rediff.com
@@ -1880,6 +1881,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 hyprmx.com
 127.0.0.1 hystericalhelp.com
 127.0.0.1 i-clicks.net
+127.0.0.1 i-i.lt
 127.0.0.1 i.xx.openx.com
 127.0.0.1 i1img.com
 127.0.0.1 i1media.no
