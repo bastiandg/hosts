@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 26 May 2020 06:36:13 GMT
-# entries:        3367
+# last updated:   Tue, 26 May 2020 07:50:55 GMT
+# entries:        3368
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1095,6 +1095,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 banner.titan-dsl.de
 127.0.0.1 banner.vadian.net
 127.0.0.1 banner.webmersion.com
+127.0.0.1 banner10.zetasystem.dk
 127.0.0.1 bannerads.de
 127.0.0.1 bannerboxes.com
 127.0.0.1 bannercommunity.de
