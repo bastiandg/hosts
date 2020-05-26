@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 26 May 2020 07:50:55 GMT
-# entries:        3368
+# last updated:   Tue, 26 May 2020 08:49:25 GMT
+# entries:        3370
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -3046,6 +3046,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 throattrees.com
 127.0.0.1 throtle.io
 127.0.0.1 thruport.com
+127.0.0.1 ti.domainforlite.com
 127.0.0.1 tia.timeinc.net
 127.0.0.1 ticklesign.com
 127.0.0.1 ticksel.com
@@ -3211,6 +3212,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 utils.mediageneral.net
 127.0.0.1 utl-1.com
 127.0.0.1 uttermosthobbies.com
+127.0.0.1 uu.domainforlite.com
 127.0.0.1 uzk4umokyri3.com
 127.0.0.1 v1.cnzz.com
 127.0.0.1 v1hcmqbaqw.ru
