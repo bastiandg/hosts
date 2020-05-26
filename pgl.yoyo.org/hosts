@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 25 May 2020 19:06:31 GMT
-# entries:        3366
+# last updated:   Tue, 26 May 2020 06:36:13 GMT
+# entries:        3367
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2877,6 +2877,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 sponsorads.de
 127.0.0.1 sponsorpro.de
 127.0.0.1 sponsors.thoughtsmedia.com
+127.0.0.1 sportsad.net
 127.0.0.1 spot.fitness.com
 127.0.0.1 spotscenered.info
 127.0.0.1 spotx.tv
