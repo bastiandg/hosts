@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 27 May 2020 12:14:42 GMT
-# entries:        3381
+# last updated:   Wed, 27 May 2020 15:54:28 GMT
+# entries:        3382
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -500,6 +500,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.gawker.com
 127.0.0.1 ads.geekswithblogs.net
 127.0.0.1 ads.getlucky.com
+127.0.0.1 ads.gld.dk
 127.0.0.1 ads.glispa.com
 127.0.0.1 ads.gmodules.com
 127.0.0.1 ads.goyk.com
