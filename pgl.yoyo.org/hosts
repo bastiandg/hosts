@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 28 May 2020 07:00:12 GMT
-# entries:        3385
+# last updated:   Thu, 28 May 2020 07:59:56 GMT
+# entries:        3386
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -607,6 +607,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.pni.com
 127.0.0.1 ads.pof.com
 127.0.0.1 ads.powweb.com
+127.0.0.1 ads.praguetv.cz
 127.0.0.1 ads.primissima.it
 127.0.0.1 ads.printscr.com
 127.0.0.1 ads.prisacom.com
