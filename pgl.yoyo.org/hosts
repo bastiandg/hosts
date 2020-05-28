@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 27 May 2020 15:54:28 GMT
-# entries:        3382
+# last updated:   Thu, 28 May 2020 07:00:12 GMT
+# entries:        3385
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -203,6 +203,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad1.pamedia.com.au
 127.0.0.1 ad2.iinfo.cz
 127.0.0.1 ad2.lupa.cz
+127.0.0.1 ad2.nmm.de
 127.0.0.1 ad2.xrea.com
 127.0.0.1 ad3.iinfo.cz
 127.0.0.1 ad3.pamedia.com.au
@@ -3124,6 +3125,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tracker.samplicio.us
 127.0.0.1 tracker.vgame.us
 127.0.0.1 tracking.1-a1502-bi.co.uk
+127.0.0.1 tracking.5-47737-bi.co.uk
 127.0.0.1 tracking.crunchiemedia.com
 127.0.0.1 tracking.epicgames.com
 127.0.0.1 tracking.gajmp.com
@@ -3282,6 +3284,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 warlog.ru
 127.0.0.1 waryfog.com
 127.0.0.1 wateryvan.com
+127.0.0.1 wd-track.de
 127.0.0.1 wdads.sx.atl.publicus.com
 127.0.0.1 web-stat.com
 127.0.0.1 web.informer.com

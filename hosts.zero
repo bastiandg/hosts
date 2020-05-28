@@ -2148,6 +2148,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad2.lupa.cz
 0.0.0.0 ad2.nationalreview.com
 0.0.0.0 ad2.neodatagroup.com
+0.0.0.0 ad2.nmm.de
 0.0.0.0 ad2.pamedia.com
 0.0.0.0 ad2.parom.hu
 0.0.0.0 ad2.peel.com
@@ -31759,6 +31760,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracking.1betternetwork.com
 0.0.0.0 tracking.3com.com
 0.0.0.0 tracking.45-fe6b6-aah.co.uk
+0.0.0.0 tracking.5-47737-bi.co.uk
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.ad-brix.com
 0.0.0.0 tracking.ad360.vn
@@ -33842,6 +33844,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 wcastrprod.122.2o7.net
 0.0.0.0 wcdn.zoomanalytics.co
 0.0.0.0 wd-edge.sharethis.com
+0.0.0.0 wd-track.de
 0.0.0.0 wd.adcolony.com
 0.0.0.0 wd.sharethis.com
 0.0.0.0 wda.com

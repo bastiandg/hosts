@@ -2148,6 +2148,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad2.lupa.cz
 127.0.0.1 ad2.nationalreview.com
 127.0.0.1 ad2.neodatagroup.com
+127.0.0.1 ad2.nmm.de
 127.0.0.1 ad2.pamedia.com
 127.0.0.1 ad2.parom.hu
 127.0.0.1 ad2.peel.com
@@ -31759,6 +31760,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracking.1betternetwork.com
 127.0.0.1 tracking.3com.com
 127.0.0.1 tracking.45-fe6b6-aah.co.uk
+127.0.0.1 tracking.5-47737-bi.co.uk
 127.0.0.1 tracking.aatkit.com
 127.0.0.1 tracking.ad-brix.com
 127.0.0.1 tracking.ad360.vn
@@ -33842,6 +33844,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 wcastrprod.122.2o7.net
 127.0.0.1 wcdn.zoomanalytics.co
 127.0.0.1 wd-edge.sharethis.com
+127.0.0.1 wd-track.de
 127.0.0.1 wd.adcolony.com
 127.0.0.1 wd.sharethis.com
 127.0.0.1 wda.com
