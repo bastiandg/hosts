@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 28 May 2020 16:50:47 GMT
-# entries:        3387
+# entries:        3385
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -950,7 +950,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 affiliatetracking.net
 127.0.0.1 affiliatewindow.com
 127.0.0.1 affiliation-france.com
-127.0.0.1 affrh2022.com
 127.0.0.1 afftracking.justanswer.com
 127.0.0.1 agkn.com
 127.0.0.1 agreeablestew.com
@@ -1173,7 +1172,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 belstat.com
 127.0.0.1 belstat.nl
 127.0.0.1 berp.com
-127.0.0.1 best-pr.info
 127.0.0.1 best-realgirl2.com
 127.0.0.1 best-top.ro
 127.0.0.1 bestboundary.com
