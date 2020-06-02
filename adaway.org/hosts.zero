@@ -2211,7 +2211,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.branch.io
 0.0.0.0 api.brandify.com
 0.0.0.0 api.bttrack.com
-0.0.0.0 api.bufferapp.com
 0.0.0.0 api.bugfender.com
 0.0.0.0 api.bugly.qq.com
 0.0.0.0 api.bugsee.com
@@ -11627,7 +11626,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 veads.veinteractive.com
 0.0.0.0 vectaury.io
 0.0.0.0 vector.parrable.com
-0.0.0.0 vectorsdk.map.qq.com
 0.0.0.0 veeseo.com
 0.0.0.0 veirregnant.club
 0.0.0.0 vektor-us-east-1.axonix.com
