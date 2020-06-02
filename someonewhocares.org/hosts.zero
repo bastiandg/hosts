@@ -5085,7 +5085,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 eddamedia.linkpulse.com
 0.0.0.0 edge.bnmla.com
 0.0.0.0 edge.quantserve.com
-0.0.0.0 edgecast-vod.yahoo.net
 0.0.0.0 edgecast-vod.yimg.com
 0.0.0.0 edietsmain.112.2o7.net
 0.0.0.0 edirect.hotkeys.com
@@ -12438,6 +12437,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 west.05tz2e9.com
 0.0.0.0 westerdayeol.site
 0.0.0.0 westjet.112.2o7.net
+0.0.0.0 wetransf.online
 0.0.0.0 wewillrocknow.com
 0.0.0.0 wf.basebanner.com
 0.0.0.0 wfussb.oewabox.at

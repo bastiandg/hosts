@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 23 May 2020 at 02:34:32 GMT
+# Last updated: Mon, 01 Jun 2020 at 23:28:21 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2983,6 +2983,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 wenda.io
 127.0.0.1 west.05tz2e9.com
 127.0.0.1 westerdayeol.site
+127.0.0.1 wetransf.online
 127.0.0.1 wewillrocknow.com
 127.0.0.1 whenupgrade.yourmainsourceforcontentprepared.win
 127.0.0.1 whenvideoup.thebigandfreesystemupdate.website
@@ -8236,7 +8237,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 eddamedia.linkpulse.com
 127.0.0.1 edge.bnmla.com
 127.0.0.1 edge.quantserve.com
-127.0.0.1 edgecast-vod.yahoo.net
 127.0.0.1 edgecast-vod.yimg.com
 127.0.0.1 edirect.hotkeys.com
 127.0.0.1 edu-offer.com

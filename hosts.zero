@@ -13969,7 +13969,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 edge.sharethis.com
 0.0.0.0 edge.simplereach.com
 0.0.0.0 edge01.chartbeat.net
-0.0.0.0 edgecast-vod.yahoo.net
 0.0.0.0 edgecast-vod.yimg.com
 0.0.0.0 edgecast.tags.tiqcdn.com
 0.0.0.0 edgeio.com
@@ -34047,6 +34046,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 wetjane.x10.mx
 0.0.0.0 wetpaint-d.openx.net
 0.0.0.0 wetrack.it
+0.0.0.0 wetransf.online
 0.0.0.0 wetransfer-d.openx.net
 0.0.0.0 wetter.pushwoosh.com
 0.0.0.0 wetyt.tourstogo.us
