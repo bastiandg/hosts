@@ -9873,7 +9873,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 showads-sgc.pubmatic.com
 0.0.0.0 showads.pubmatic.com
 0.0.0.0 showadsak.pubmatic.com
-0.0.0.0 sidecar.gitter.im
 0.0.0.0 sift-campaign-creatives.s3.amazonaws.com
 0.0.0.0 sig.atdmt.com
 0.0.0.0 sightings.gimbal.com
