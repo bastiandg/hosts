@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 04 Jun 2020 16:42:26 GMT
-# entries:        3388
+# entries:        3382
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1005,12 +1005,10 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 analytics.swiggy.com
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 aniview.com
-127.0.0.1 anm.intelli-direct.com
 127.0.0.1 annonser.dagbladet.no
 127.0.0.1 anrdoezrs.net
 127.0.0.1 anstrex.com
 127.0.0.1 anxiousapples.com
-127.0.0.1 aobocker.se
 127.0.0.1 apathetictheory.com
 127.0.0.1 api.intensifier.de
 127.0.0.1 api.jetlore.com
@@ -1536,6 +1534,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 discountclick.com
 127.0.0.1 discreetfield.com
 127.0.0.1 dispensablestranger.com
+127.0.0.1 displayadsmedia.com
 127.0.0.1 disqusads.com
 127.0.0.1 dist.belnk.com
 127.0.0.1 distillery.wistia.com
@@ -1552,7 +1551,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 domainsponsor.com
 127.0.0.1 domainsteam.de
 127.0.0.1 domdex.com
-127.0.0.1 dontstopmyads.live
 127.0.0.1 doubleclick.com
 127.0.0.1 doubleclick.de
 127.0.0.1 doubleclick.net
@@ -1610,7 +1608,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 emarketer.com
 127.0.0.1 emebo.com
 127.0.0.1 emebo.io
-127.0.0.1 emediate.eu
 127.0.0.1 emerse.com
 127.0.0.1 emetriq.de
 127.0.0.1 emjcd.com
@@ -2304,7 +2301,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mystat.pl
 127.0.0.1 mysteriousmonth.com
 127.0.0.1 mytop-in.net
-127.0.0.1 mytrafficads.com
 127.0.0.1 myvisualiq.net
 127.0.0.1 n69.com
 127.0.0.1 naj.sk
@@ -3023,7 +3019,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tatsumi-sys.jp
 127.0.0.1 tawdryson.com
 127.0.0.1 tcads.net
-127.0.0.1 tdxio.com
 127.0.0.1 teads.tv
 127.0.0.1 tealeaf.com
 127.0.0.1 tealium.com
@@ -3044,7 +3039,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 textad.sexsearch.com
 127.0.0.1 textads.biz
 127.0.0.1 textlinks.com
-127.0.0.1 tfag.de
 127.0.0.1 the-ozone-project.com
 127.0.0.1 theadex.com
 127.0.0.1 theadhost.com
