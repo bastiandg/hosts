@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 04 Jun 2020 16:42:26 GMT
-# entries:        3391
+# entries:        3388
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -173,7 +173,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad.preferances.com
 127.0.0.1 ad.profiwin.de
 127.0.0.1 ad.prv.pl
-127.0.0.1 ad.rambler.ru
 127.0.0.1 ad.reunion.com
 127.0.0.1 ad.sensismediasmart.com.au
 127.0.0.1 ad.seznam.cz
@@ -351,7 +350,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adnetworkperformance.com
 127.0.0.1 adnews.maddog2000.de
 127.0.0.1 adnium.com
-127.0.0.1 adnotch.com
 127.0.0.1 adnxs.com
 127.0.0.1 adocean.pl
 127.0.0.1 adonspot.com
@@ -531,7 +529,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.img.co.za
 127.0.0.1 ads.imgur.com
 127.0.0.1 ads.independent.com.mt
-127.0.0.1 ads.indiatimes.com
 127.0.0.1 ads.infi.net
 127.0.0.1 ads.internic.co.il
 127.0.0.1 ads.ipowerweb.com
