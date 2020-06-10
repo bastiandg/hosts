@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 08 Jun 2020 17:26:40 GMT
-# entries:        3383
+# last updated:   Wed, 10 Jun 2020 08:24:42 GMT
+# entries:        3384
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1409,6 +1409,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 contaxe.de
 127.0.0.1 content.acc-hd.de
 127.0.0.1 content.ad
+127.0.0.1 content22.online.citi.com
 127.0.0.1 contextweb.com
 127.0.0.1 converge-digital.com
 127.0.0.1 conversantmedia.com
