@@ -3587,7 +3587,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.coinad.com
 0.0.0.0 cdn.comedia.coccoc.com
 0.0.0.0 cdn.concert.io
-0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.creative.medialytics.com
 0.0.0.0 cdn.crwdcntrl.net
 0.0.0.0 cdn.curalate.com
@@ -5664,7 +5663,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 geoip.goforandroid.com
 0.0.0.0 geoip.ifunny.co
 0.0.0.0 geoip.propellerads.com
-0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geoplugin.net
 0.0.0.0 geopulse.factual.com
 0.0.0.0 geoworker.ayads.co
@@ -8574,7 +8572,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 preprod.accengage.com
 0.0.0.0 preroll.a4.tl
 0.0.0.0 presage.io
-0.0.0.0 presence-grpc-noneu.truecaller.com
 0.0.0.0 presentationtracking.netflix.com
 0.0.0.0 preview.adform.com
 0.0.0.0 preview.sharethrough.com

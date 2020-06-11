@@ -10231,7 +10231,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.constafun.com
 0.0.0.0 cdn.content.exoticads.com
 0.0.0.0 cdn.contentspread.net
-0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.cpmstar.com
 0.0.0.0 cdn.cpxinteractive.com
 0.0.0.0 cdn.cquotient.com
@@ -25142,7 +25141,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 presage.io
 0.0.0.0 prescription-drugs.easy-find.net
 0.0.0.0 prescription-drugs.shengen.ru
-0.0.0.0 presence-grpc-noneu.truecaller.com
 0.0.0.0 presence-pc.fr.intellitxt.com
 0.0.0.0 presentation-atl1.turn.com
 0.0.0.0 presentationtracking.netflix.com
