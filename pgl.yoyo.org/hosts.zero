@@ -1079,7 +1079,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bannerconnect.com
 0.0.0.0 bannerconnect.net
 0.0.0.0 bannergrabber.internet.gr
-0.0.0.0 bannerhost.com
 0.0.0.0 bannerimage.com
 0.0.0.0 bannerlandia.com.ar
 0.0.0.0 bannermall.com
@@ -1721,7 +1720,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 fullstory.com
 0.0.0.0 functionalcrown.com
 0.0.0.0 funklicks.com
-0.0.0.0 funpageexchange.com
 0.0.0.0 fusionads.net
 0.0.0.0 fusionquest.com
 0.0.0.0 futuristicapparatus.com
@@ -1888,7 +1886,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ilead.itrack.it
 0.0.0.0 illfatedsnail.com
 0.0.0.0 illustriousoatmeal.com
-0.0.0.0 imageads.canoe.ca
 0.0.0.0 imagecash.net
 0.0.0.0 images-pw.secureserver.net
 0.0.0.0 imarketservices.com
@@ -2676,7 +2673,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 richmails.com
 0.0.0.0 richmedia.yimg.com
 0.0.0.0 richstring.com
-0.0.0.0 richwebmaster.com
 0.0.0.0 rightstats.com
 0.0.0.0 rinconpx.net
 0.0.0.0 ringsrecord.com
@@ -2829,6 +2825,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 smilingwaves.com
 0.0.0.0 smrtb.com
 0.0.0.0 snapads.com
+0.0.0.0 sneakystamp.com
 0.0.0.0 snoobi.com
 0.0.0.0 socialspark.com
 0.0.0.0 softclick.com.br
@@ -3098,7 +3095,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.gajmp.com
 0.0.0.0 tracking.ibxlink.com
-0.0.0.0 tracking.inlocomedia.com
 0.0.0.0 tracking.internetstores.de
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.miui.com
