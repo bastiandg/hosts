@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 10 Jun 2020 08:24:42 GMT
-# entries:        3376
+# last updated:   Fri, 12 Jun 2020 13:59:49 GMT
+# entries:        3377
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1874,6 +1874,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 hoverowl.com
 127.0.0.1 how-to-create-a-resignation-letter.com
 127.0.0.1 hs-analytics.net
+127.0.0.1 hs-banner.com
 127.0.0.1 hsadspixel.net
 127.0.0.1 htlbid.com
 127.0.0.1 httpool.com
