@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 10 Jun 2020 08:24:42 GMT
-# entries:        3384
+# entries:        3380
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -328,7 +328,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 admedia.com
 127.0.0.1 admeld.com
 127.0.0.1 admeridianads.com
-127.0.0.1 admerize.be
 127.0.0.1 admeta.com
 127.0.0.1 admex.com
 127.0.0.1 admidadsp.com
@@ -429,7 +428,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.bumq.com
 127.0.0.1 ads.businessweek.com
 127.0.0.1 ads.canalblog.com
-127.0.0.1 ads.canoe.ca
 127.0.0.1 ads.casinocity.com
 127.0.0.1 ads.casumoaffiliates.com
 127.0.0.1 ads.cbc.ca
@@ -700,7 +698,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.zdnet.com
 127.0.0.1 ads.ztod.com
 127.0.0.1 ads1-adnow.com
-127.0.0.1 ads1.canoe.ca
 127.0.0.1 ads1.mediacapital.pt
 127.0.0.1 ads1.msn.com
 127.0.0.1 ads1.rne.com
@@ -728,7 +725,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads4.gamecity.net
 127.0.0.1 ads4.virtual-nights.com
 127.0.0.1 ads4homes.com
-127.0.0.1 ads5.canoe.ca
 127.0.0.1 ads5.virtual-nights.com
 127.0.0.1 ads6.gamecity.net
 127.0.0.1 ads7.gamecity.net
