@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 15 Jun 2020 08:13:27 GMT
-# entries:        3379
+# last updated:   Mon, 15 Jun 2020 11:49:32 GMT
+# entries:        3380
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2401,6 +2401,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 openad.travelnow.com
 127.0.0.1 openads.friendfinder.com
 127.0.0.1 openads.org
+127.0.0.1 openadsnetwork.com
 127.0.0.1 opentag-stats.qubit.com
 127.0.0.1 openx.angelsgroup.org.uk
 127.0.0.1 openx.smcaen.fr
