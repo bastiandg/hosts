@@ -2834,7 +2834,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 assets.chartboost.com
 0.0.0.0 assets.deployads.com
 0.0.0.0 assets.dwell.com
-0.0.0.0 assets.dynatrace.com
 0.0.0.0 assets.foxmetrics.com
 0.0.0.0 assets.iterable.com
 0.0.0.0 assets.kampyle.com
@@ -4324,8 +4323,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cpxadroit.com
 0.0.0.0 cqlupb.com
 0.0.0.0 cr.appsee.com
-0.0.0.0 cr01.dynatrace.com
-0.0.0.0 cr02.dynatrace.com
 0.0.0.0 crab.baidu.com
 0.0.0.0 crash-metrics.sdk.inmobi.com
 0.0.0.0 crash.163.com
@@ -4952,7 +4949,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 dynamic.adcrowd.com
 0.0.0.0 dynamic.criteo.com
 0.0.0.0 dynamicyield.com
-0.0.0.0 dynatrace.com
 0.0.0.0 dync.c.appier.net
 0.0.0.0 dync2.c.appier.net
 0.0.0.0 dyntrk.com
@@ -7183,7 +7179,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mcdp-nydc1.outbrain.com
 0.0.0.0 mcdp-sadc1.outbrain.com
 0.0.0.0 mcs.eyereturn.com
-0.0.0.0 mcsvc.dynatrace.com
 0.0.0.0 md-a-c.apptimize.com
 0.0.0.0 md-a-d.apptimize.com
 0.0.0.0 md-a-s.apptimize.com
@@ -9833,7 +9828,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 signalad.go.affec.tv
 0.0.0.0 signalhq.com
 0.0.0.0 signals.ampiri.com
-0.0.0.0 signin.dynatrace.com
 0.0.0.0 silvermob.com
 0.0.0.0 simaba.taobao.com
 0.0.0.0 simage2.pubmatic.com

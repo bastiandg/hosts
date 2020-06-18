@@ -7750,7 +7750,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 assets.chartboost.com
 0.0.0.0 assets.deployads.com
 0.0.0.0 assets.dwell.com
-0.0.0.0 assets.dynatrace.com
 0.0.0.0 assets.foxmetrics.com
 0.0.0.0 assets.igapi.com
 0.0.0.0 assets.iterable.com
@@ -12102,8 +12101,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cqji.artidentalkurs.com
 0.0.0.0 cqlupb.com
 0.0.0.0 cr.appsee.com
-0.0.0.0 cr01.dynatrace.com
-0.0.0.0 cr02.dynatrace.com
 0.0.0.0 cra-arc-gc-ca.noads.biz
 0.0.0.0 cra-arc.gc.ca.bioder.com.tr
 0.0.0.0 crab.baidu.com
@@ -13549,7 +13546,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 dynamic1.dailytech.com
 0.0.0.0 dynamic2.anandtech.com
 0.0.0.0 dynamicyield.com
-0.0.0.0 dynatrace.com
 0.0.0.0 dync.c.appier.net
 0.0.0.0 dync2.c.appier.net
 0.0.0.0 dyntraq.mtree.com
@@ -20516,7 +20512,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mcfg.sandai.net
 0.0.0.0 mcopolice.com
 0.0.0.0 mcs.eyereturn.com
-0.0.0.0 mcsvc.dynatrace.com
 0.0.0.0 mct.rkdms.com
 0.0.0.0 md-a-c.apptimize.com
 0.0.0.0 md-a-d.apptimize.com
@@ -28028,7 +28023,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 signalhq.com
 0.0.0.0 signals.ampiri.com
 0.0.0.0 signin-ebay-com-ws-ebayisapi-dll-signin-webscr.ocom.pl
-0.0.0.0 signin.dynatrace.com
 0.0.0.0 signoredom.com
 0.0.0.0 signup.advance.net
 0.0.0.0 siliconera.us.intellitxt.com

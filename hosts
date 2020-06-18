@@ -7750,7 +7750,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 assets.chartboost.com
 127.0.0.1 assets.deployads.com
 127.0.0.1 assets.dwell.com
-127.0.0.1 assets.dynatrace.com
 127.0.0.1 assets.foxmetrics.com
 127.0.0.1 assets.igapi.com
 127.0.0.1 assets.iterable.com
@@ -12102,8 +12101,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cqji.artidentalkurs.com
 127.0.0.1 cqlupb.com
 127.0.0.1 cr.appsee.com
-127.0.0.1 cr01.dynatrace.com
-127.0.0.1 cr02.dynatrace.com
 127.0.0.1 cra-arc-gc-ca.noads.biz
 127.0.0.1 cra-arc.gc.ca.bioder.com.tr
 127.0.0.1 crab.baidu.com
@@ -13549,7 +13546,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dynamic1.dailytech.com
 127.0.0.1 dynamic2.anandtech.com
 127.0.0.1 dynamicyield.com
-127.0.0.1 dynatrace.com
 127.0.0.1 dync.c.appier.net
 127.0.0.1 dync2.c.appier.net
 127.0.0.1 dyntraq.mtree.com
@@ -20516,7 +20512,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mcfg.sandai.net
 127.0.0.1 mcopolice.com
 127.0.0.1 mcs.eyereturn.com
-127.0.0.1 mcsvc.dynatrace.com
 127.0.0.1 mct.rkdms.com
 127.0.0.1 md-a-c.apptimize.com
 127.0.0.1 md-a-d.apptimize.com
@@ -28028,7 +28023,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 signalhq.com
 127.0.0.1 signals.ampiri.com
 127.0.0.1 signin-ebay-com-ws-ebayisapi-dll-signin-webscr.ocom.pl
-127.0.0.1 signin.dynatrace.com
 127.0.0.1 signoredom.com
 127.0.0.1 signup.advance.net
 127.0.0.1 siliconera.us.intellitxt.com
