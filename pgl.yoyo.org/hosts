@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 18 Jun 2020 07:33:36 GMT
-# entries:        3382
+# last updated:   Thu, 18 Jun 2020 08:33:31 GMT
+# entries:        3389
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -989,6 +989,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 analytics.icons8.com
 127.0.0.1 analytics.inlinemanual.com
 127.0.0.1 analytics.jabong.com
+127.0.0.1 analytics.jst.ai
 127.0.0.1 analytics.live.com
 127.0.0.1 analytics.mailmunch.co
 127.0.0.1 analytics.myfinance.com
@@ -1001,6 +1002,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 analytics.siliconexpert.com
 127.0.0.1 analytics.swiggy.com
 127.0.0.1 analytics.yahoo.com
+127.0.0.1 analyticsapi.happypancake.net
 127.0.0.1 aniview.com
 127.0.0.1 annonser.dagbladet.no
 127.0.0.1 anrdoezrs.net
@@ -1142,6 +1144,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 bannerspace.com
 127.0.0.1 bannerswap.com
 127.0.0.1 bannertesting.com
+127.0.0.1 bannertrack.net
 127.0.0.1 bannery.cz
 127.0.0.1 bannieres.acces-contenu.com
 127.0.0.1 bans.bride.ru
@@ -2729,6 +2732,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 rsalcdp.com
 127.0.0.1 rta.dailymail.co.uk
 127.0.0.1 rtb.gumgum.com
+127.0.0.1 rtb.openx.net
 127.0.0.1 rtbadzesto.com
 127.0.0.1 rtbflairads.com
 127.0.0.1 rtbidhost.com
@@ -2831,6 +2835,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 sinoa.com
 127.0.0.1 sitedataprocessing.com
 127.0.0.1 siteimproveanalytics.com
+127.0.0.1 siteimproveanalytics.io
 127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 sitemeter.com
 127.0.0.1 sixscissors.com
@@ -2994,6 +2999,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 t.insigit.com
 127.0.0.1 t.irtyd.com
 127.0.0.1 taboola.com
+127.0.0.1 tag.links-analytics.com
 127.0.0.1 tagan.adlightning.com
 127.0.0.1 tagger.opecloud.com
 127.0.0.1 tags.tiqcdn.com
@@ -3340,6 +3346,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 wondoads.de
 127.0.0.1 woopra.com
 127.0.0.1 worldwide-cash.net
+127.0.0.1 worldwidedigitalads.com
 127.0.0.1 worriednumber.com
 127.0.0.1 worrybutter.com
 127.0.0.1 wpnrtnmrewunrtok.xyz
