@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 15 Jun 2020 11:49:32 GMT
-# entries:        3380
+# last updated:   Thu, 18 Jun 2020 06:13:06 GMT
+# entries:        3381
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1397,6 +1397,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 concernedcondition.com
 127.0.0.1 conductrics.com
 127.0.0.1 connatix.com
+127.0.0.1 connectad.io
 127.0.0.1 connextra.com
 127.0.0.1 consciouschairs.com
 127.0.0.1 consensad.com
