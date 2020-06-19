@@ -673,6 +673,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.zdnet.com
 0.0.0.0 ads.ztod.com
 0.0.0.0 ads1-adnow.com
+0.0.0.0 ads1.canoe.ca
 0.0.0.0 ads1.mediacapital.pt
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads1.rne.com
@@ -700,6 +701,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads4.gamecity.net
 0.0.0.0 ads4.virtual-nights.com
 0.0.0.0 ads4homes.com
+0.0.0.0 ads5.canoe.ca
 0.0.0.0 ads5.virtual-nights.com
 0.0.0.0 ads6.gamecity.net
 0.0.0.0 ads7.gamecity.net
@@ -832,6 +834,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adtoma.com
 0.0.0.0 adtrace.org
 0.0.0.0 adtrade.net
+0.0.0.0 adtrak.net
 0.0.0.0 adtriplex.com
 0.0.0.0 adultadvertising.com
 0.0.0.0 adv-adserver.com
@@ -1895,6 +1898,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ilead.itrack.it
 0.0.0.0 illfatedsnail.com
 0.0.0.0 illustriousoatmeal.com
+0.0.0.0 imageads.canoe.ca
 0.0.0.0 imagecash.net
 0.0.0.0 images-pw.secureserver.net
 0.0.0.0 imarketservices.com
@@ -2416,7 +2420,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagefair.com
 0.0.0.0 pagefair.net
-0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank4you.com
 0.0.0.0 pageranktop.com
 0.0.0.0 paleleaf.com

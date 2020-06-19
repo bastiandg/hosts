@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 18 Jun 2020 21:09:08 GMT
-# entries:        3391
+# entries:        3394
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -700,6 +700,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.zdnet.com
 127.0.0.1 ads.ztod.com
 127.0.0.1 ads1-adnow.com
+127.0.0.1 ads1.canoe.ca
 127.0.0.1 ads1.mediacapital.pt
 127.0.0.1 ads1.msn.com
 127.0.0.1 ads1.rne.com
@@ -727,6 +728,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads4.gamecity.net
 127.0.0.1 ads4.virtual-nights.com
 127.0.0.1 ads4homes.com
+127.0.0.1 ads5.canoe.ca
 127.0.0.1 ads5.virtual-nights.com
 127.0.0.1 ads6.gamecity.net
 127.0.0.1 ads7.gamecity.net
@@ -859,6 +861,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adtoma.com
 127.0.0.1 adtrace.org
 127.0.0.1 adtrade.net
+127.0.0.1 adtrak.net
 127.0.0.1 adtriplex.com
 127.0.0.1 adultadvertising.com
 127.0.0.1 adv-adserver.com
@@ -1922,6 +1925,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ilead.itrack.it
 127.0.0.1 illfatedsnail.com
 127.0.0.1 illustriousoatmeal.com
+127.0.0.1 imageads.canoe.ca
 127.0.0.1 imagecash.net
 127.0.0.1 images-pw.secureserver.net
 127.0.0.1 imarketservices.com
@@ -2443,7 +2447,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 pagead.l.google.com
 127.0.0.1 pagefair.com
 127.0.0.1 pagefair.net
-127.0.0.1 pagerank-ranking.de
 127.0.0.1 pagerank4you.com
 127.0.0.1 pageranktop.com
 127.0.0.1 paleleaf.com
