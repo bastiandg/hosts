@@ -1756,6 +1756,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.groupon.net
 0.0.0.0 ad.groupon.nl
 0.0.0.0 ad.groupon.pl
+0.0.0.0 ad.gt
 0.0.0.0 ad.hankooki.com
 0.0.0.0 ad.harrenmedianetwork.com
 0.0.0.0 ad.hbv.de
@@ -13128,6 +13129,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 diply-d.openx.net
 0.0.0.0 dir.opank.com
 0.0.0.0 dirbg.hit.gemius.pl
+0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 direct.adsrvr.org
 0.0.0.0 directaclick.com
@@ -25371,6 +25373,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 publicis.adcentriconline.com
 0.0.0.0 publir-d.openx.net
 0.0.0.0 publish.bonzaii.no
+0.0.0.0 publisher-assets.spot.im
 0.0.0.0 publisher-config.unityads.unity3d.com
 0.0.0.0 publisher-demos.sharethrough.com
 0.0.0.0 publisher-event.unityads.unity3d.com

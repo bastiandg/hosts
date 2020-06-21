@@ -40,6 +40,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 a.aproductmsg.com
 0.0.0.0 a.consumer.net
 0.0.0.0 a.mktw.net
+0.0.0.0 a.pub.network
 0.0.0.0 a.sakh.com
 0.0.0.0 a.ucoz.net
 0.0.0.0 a.ucoz.ru
@@ -118,6 +119,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.freecity.de
 0.0.0.0 ad.gate24.ch
 0.0.0.0 ad.grafika.cz
+0.0.0.0 ad.gt
 0.0.0.0 ad.hbv.de
 0.0.0.0 ad.hodomobile.com
 0.0.0.0 ad.httpool.com
@@ -1504,6 +1506,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 didtheyreadit.com
 0.0.0.0 digital-ads.s3.amazonaws.com
 0.0.0.0 digitalmerkat.com
+0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 directaclick.com
 0.0.0.0 directivepub.com
@@ -2195,6 +2198,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 metaffiliation.com
 0.0.0.0 metanetwork.com
 0.0.0.0 methodcash.com
+0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.cnn.com
 0.0.0.0 metrics.consumerreports.org
@@ -2561,6 +2565,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 pubdirecte.com
 0.0.0.0 publicidad.elmundo.es
 0.0.0.0 publicidees.com
+0.0.0.0 publisher-assets.spot.im
 0.0.0.0 pubmatic.com
 0.0.0.0 pubmine.com
 0.0.0.0 pubnative.net
