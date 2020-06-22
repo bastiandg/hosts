@@ -550,6 +550,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.motormedia.nl
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.multimania.lycos.fr
+0.0.0.0 ads.muslimehelfen.org
+0.0.0.0 ads.nccwebs.com
 0.0.0.0 ads.ncm.com
 0.0.0.0 ads.ndtv1.com
 0.0.0.0 ads.networksolutions.com
@@ -582,6 +584,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.pni.com
 0.0.0.0 ads.pof.com
 0.0.0.0 ads.powweb.com
+0.0.0.0 ads.ppvmedien.de
 0.0.0.0 ads.praguetv.cz
 0.0.0.0 ads.primissima.it
 0.0.0.0 ads.printscr.com
@@ -736,6 +739,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.bizhat.com
 0.0.0.0 adserver.break-even.it
 0.0.0.0 adserver.cams.com
+0.0.0.0 adserver.cdnstream.com
 0.0.0.0 adserver.com
 0.0.0.0 adserver.diariodosertao.com.br
 0.0.0.0 adserver.digitoday.com

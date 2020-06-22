@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 21 Jun 2020 09:57:35 GMT
-# entries:        3399
+# last updated:   Mon, 22 Jun 2020 11:38:44 GMT
+# entries:        3403
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -577,6 +577,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.motormedia.nl
 127.0.0.1 ads.msn.com
 127.0.0.1 ads.multimania.lycos.fr
+127.0.0.1 ads.muslimehelfen.org
+127.0.0.1 ads.nccwebs.com
 127.0.0.1 ads.ncm.com
 127.0.0.1 ads.ndtv1.com
 127.0.0.1 ads.networksolutions.com
@@ -609,6 +611,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.pni.com
 127.0.0.1 ads.pof.com
 127.0.0.1 ads.powweb.com
+127.0.0.1 ads.ppvmedien.de
 127.0.0.1 ads.praguetv.cz
 127.0.0.1 ads.primissima.it
 127.0.0.1 ads.printscr.com
@@ -763,6 +766,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver.bizhat.com
 127.0.0.1 adserver.break-even.it
 127.0.0.1 adserver.cams.com
+127.0.0.1 adserver.cdnstream.com
 127.0.0.1 adserver.com
 127.0.0.1 adserver.diariodosertao.com.br
 127.0.0.1 adserver.digitoday.com
