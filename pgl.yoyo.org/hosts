@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 22 Jun 2020 14:40:50 GMT
-# entries:        3410
+# last updated:   Mon, 22 Jun 2020 15:27:55 GMT
+# entries:        3414
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -180,6 +180,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad.reunion.com
 127.0.0.1 ad.sensismediasmart.com.au
 127.0.0.1 ad.seznam.cz
+127.0.0.1 ad.simflight.com
 127.0.0.1 ad.simgames.net
 127.0.0.1 ad.smartclip.net
 127.0.0.1 ad.tbn.ru
@@ -466,6 +467,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.directionsmag.com
 127.0.0.1 ads.domain.com
 127.0.0.1 ads.domeus.com
+127.0.0.1 ads.dtpnetwork.biz
 127.0.0.1 ads.eagletribune.com
 127.0.0.1 ads.easy-forex.com
 127.0.0.1 ads.economist.com
@@ -630,6 +632,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.radio1.lv
 127.0.0.1 ads.rcs.it
 127.0.0.1 ads.recoletos.es
+127.0.0.1 ads.redactor.in.ua
 127.0.0.1 ads.rediff.com
 127.0.0.1 ads.redlightcenter.com
 127.0.0.1 ads.revjet.com
@@ -776,6 +779,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver.com
 127.0.0.1 adserver.diariodosertao.com.br
 127.0.0.1 adserver.digitoday.com
+127.0.0.1 adserver.echdk.pl
 127.0.0.1 adserver.freecity.de
 127.0.0.1 adserver.friendfinder.com
 127.0.0.1 adserver.hardsextube.com

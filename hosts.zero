@@ -1942,6 +1942,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.sharethis.com
 0.0.0.0 ad.showbizz.net
 0.0.0.0 ad.si.doubleclick.net
+0.0.0.0 ad.simflight.com
 0.0.0.0 ad.simgames.net
 0.0.0.0 ad.sitemaji.com
 0.0.0.0 ad.slashgear.com
@@ -3473,6 +3474,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.drf.com
 0.0.0.0 ads.drivelinemedia.com
 0.0.0.0 ads.drugs.com
+0.0.0.0 ads.dtpnetwork.biz
 0.0.0.0 ads.dumpalink.com
 0.0.0.0 ads.dynamic-media.org
 0.0.0.0 ads.e-planning.net
@@ -4121,6 +4123,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.realtechnetwork.net
 0.0.0.0 ads.reason.com
 0.0.0.0 ads.recoletos.es
+0.0.0.0 ads.redactor.in.ua
 0.0.0.0 ads.reddit.com
 0.0.0.0 ads.rediff.com
 0.0.0.0 ads.redlightcenter.com
@@ -4987,6 +4990,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.dnps.com
 0.0.0.0 adserver.dotcommedia.de
 0.0.0.0 adserver.dotmusic.com
+0.0.0.0 adserver.echdk.pl
 0.0.0.0 adserver.eham.net
 0.0.0.0 adserver.emapadserver.com
 0.0.0.0 adserver.emporis.com
