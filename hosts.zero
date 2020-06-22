@@ -3429,6 +3429,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.dbforums.com
 0.0.0.0 ads.ddj.com
 0.0.0.0 ads.dealnews.com
+0.0.0.0 ads.delfin.bg
 0.0.0.0 ads.deliverimp.com
 0.0.0.0 ads.deltha.hu
 0.0.0.0 ads.democratandchronicle.com
@@ -3592,6 +3593,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.garga.biz
 0.0.0.0 ads.gateway.com
 0.0.0.0 ads.gawker.com
+0.0.0.0 ads.gaypoint.hu
 0.0.0.0 ads.geekswithblogs.net
 0.0.0.0 ads.genericlink.com
 0.0.0.0 ads.genieessp.com
@@ -3695,6 +3697,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.iknowthatgirl.com
 0.0.0.0 ads.illuminatednation.com
 0.0.0.0 ads.imaging-resource.com
+0.0.0.0 ads.imagistica.com
 0.0.0.0 ads.imarketservices.com
 0.0.0.0 ads.imdb.com
 0.0.0.0 ads.imeem.com
@@ -3848,6 +3851,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.mediaturf.net
 0.0.0.0 ads.mediatwo.com
 0.0.0.0 ads.medienhaus.de
+0.0.0.0 ads.meetcelebs.com
 0.0.0.0 ads.mefeedia.com
 0.0.0.0 ads.megaproxy.com
 0.0.0.0 ads.meropar.jp
@@ -4164,6 +4168,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.savannahnow.com
 0.0.0.0 ads.saymedia.com
 0.0.0.0 ads.scabee.com
+0.0.0.0 ads.schmoozecom.net
 0.0.0.0 ads.schwabtrader.com
 0.0.0.0 ads.scifi.com
 0.0.0.0 ads.scorecardresearch.com
@@ -4643,6 +4648,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads2.rp.pl
 0.0.0.0 ads2.servebom.com
 0.0.0.0 ads2.speedbit.com
+0.0.0.0 ads2.techads.info
 0.0.0.0 ads2.theglobeandmail.com
 0.0.0.0 ads2.udc.advance.net
 0.0.0.0 ads2.vasmg.com
@@ -5027,6 +5033,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.ifmagazine.com
 0.0.0.0 adserver.ig.com.br
 0.0.0.0 adserver.ign.com
+0.0.0.0 adserver.ilango.de
 0.0.0.0 adserver.ilounge.com
 0.0.0.0 adserver.infinit.net
 0.0.0.0 adserver.infotiger.com
