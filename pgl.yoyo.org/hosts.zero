@@ -399,6 +399,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.blog.com
 0.0.0.0 ads.bloomberg.com
 0.0.0.0 ads.bluemountain.com
+0.0.0.0 ads.boerding.com
 0.0.0.0 ads.bonniercorp.com
 0.0.0.0 ads.boylesports.com
 0.0.0.0 ads.brabys.com
@@ -535,6 +536,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.larryaffiliates.com
 0.0.0.0 ads.leovegas.com
 0.0.0.0 ads.lesbianpersonals.com
+0.0.0.0 ads.liberte.pl
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.linuxfoundation.org
 0.0.0.0 ads.livenation.com
@@ -559,6 +561,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.multimania.lycos.fr
 0.0.0.0 ads.muslimehelfen.org
+0.0.0.0 ads.mvscoelho.com
 0.0.0.0 ads.myadv.org
 0.0.0.0 ads.nccwebs.com
 0.0.0.0 ads.ncm.com
@@ -666,6 +669,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.videosz.com
 0.0.0.0 ads.viksaffiliates.com
 0.0.0.0 ads.virtual-nights.com
+0.0.0.0 ads.virtuopolitan.com
 0.0.0.0 ads.vnumedia.com
 0.0.0.0 ads.waps.cn
 0.0.0.0 ads.wapx.cn
@@ -3134,6 +3138,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracker.vgame.us
 0.0.0.0 tracking.1-a1502-bi.co.uk
 0.0.0.0 tracking.1-kv015-ap.co.uk
+0.0.0.0 tracking.21-a4652-bi.co.uk
 0.0.0.0 tracking.5-47737-bi.co.uk
 0.0.0.0 tracking.crunchiemedia.com
 0.0.0.0 tracking.epicgames.com
