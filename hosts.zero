@@ -1865,6 +1865,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.myapple.pl
 0.0.0.0 ad.mygamesol.com
 0.0.0.0 ad.myinstashot.com
+0.0.0.0 ad.mynetreklam.com.streamprovider.net
 0.0.0.0 ad.n2434.doubleclick.net
 0.0.0.0 ad.nachtagenten.de
 0.0.0.0 ad.nate.com
@@ -3628,6 +3629,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.greenvilleonline.com
 0.0.0.0 ads.grindinggears.com
 0.0.0.0 ads.groupcommerce.com
+0.0.0.0 ads.groupewin.fr
 0.0.0.0 ads.gsm-exchange.com
 0.0.0.0 ads.gsmexchange.com
 0.0.0.0 ads.guardian.co.uk
@@ -3916,6 +3918,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.musiccity.com
 0.0.0.0 ads.muslimehelfen.org
 0.0.0.0 ads.mustangworks.com
+0.0.0.0 ads.myadv.org
 0.0.0.0 ads.mycricket.com
 0.0.0.0 ads.mylikes.com
 0.0.0.0 ads.mysimon.com
@@ -4039,6 +4042,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.persgroep.adhese.com
 0.0.0.0 ads.persgroep.net
 0.0.0.0 ads.peteava.ro
+0.0.0.0 ads.pfl.ua
 0.0.0.0 ads.pg.valueclick.net
 0.0.0.0 ads.pheedo.com
 0.0.0.0 ads.phillipsdata.us
@@ -4114,6 +4118,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.rasmussenreports.com
 0.0.0.0 ads.ratemyprofessors.com
 0.0.0.0 ads.rcgroups.com
+0.0.0.0 ads.rcncdn.de
 0.0.0.0 ads.rcs.it
 0.0.0.0 ads.rd.linksynergy.com
 0.0.0.0 ads.rdstore.com
