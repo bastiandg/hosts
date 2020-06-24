@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 24 Jun 2020 05:58:05 GMT
-# entries:        3431
+# last updated:   Wed, 24 Jun 2020 10:42:18 GMT
+# entries:        3438
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -167,6 +167,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad.media-servers.net
 127.0.0.1 ad.mediastorm.hu
 127.0.0.1 ad.mgd.de
+127.0.0.1 ad.mobstazinc.cn
 127.0.0.1 ad.musicmatch.com
 127.0.0.1 ad.myapple.pl
 127.0.0.1 ad.mynetreklam.com.streamprovider.net
@@ -464,6 +465,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.desmoinesregister.com
 127.0.0.1 ads.detelefoongids.nl
 127.0.0.1 ads.deviantart.com
+127.0.0.1 ads.devmates.com
 127.0.0.1 ads.digital-digest.com
 127.0.0.1 ads.digitalmedianet.com
 127.0.0.1 ads.digitalpoint.com
@@ -486,6 +488,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.expat-blog.biz
 127.0.0.1 ads.factorymedia.com
 127.0.0.1 ads.fairfax.com.au
+127.0.0.1 ads.fastcomgroup.it
 127.0.0.1 ads.fasttrack-ignite.com
 127.0.0.1 ads.faxo.com
 127.0.0.1 ads.ferianc.com
@@ -617,6 +620,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.opensubtitles.org
 127.0.0.1 ads.optusnet.com.au
 127.0.0.1 ads.outpersonals.com
+127.0.0.1 ads.oxyshop.cz
 127.0.0.1 ads.passion.com
 127.0.0.1 ads.pennet.com
 127.0.0.1 ads.pfl.ua
@@ -663,6 +667,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.socialtheater.com
 127.0.0.1 ads.soft32.com
 127.0.0.1 ads.space.com
+127.0.0.1 ads.squarecrop.net
 127.0.0.1 ads.stackoverflow.com
 127.0.0.1 ads.sun.com
 127.0.0.1 ads.suomiautomaatti.com
@@ -785,6 +790,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver.aidameter.com
 127.0.0.1 adserver.anawe.cz
 127.0.0.1 adserver.aol.fr
+127.0.0.1 adserver.bdoce.cl
 127.0.0.1 adserver.betandwin.de
 127.0.0.1 adserver.bing.com
 127.0.0.1 adserver.bizhat.com
@@ -806,6 +812,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver.janes.com
 127.0.0.1 adserver.libero.it
 127.0.0.1 adserver.mobi
+127.0.0.1 adserver.msmb.biz
 127.0.0.1 adserver.news.com.au
 127.0.0.1 adserver.nydailynews.com
 127.0.0.1 adserver.o2.pl

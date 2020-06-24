@@ -1857,6 +1857,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.mi.com
 0.0.0.0 ad.mo.doubleclick.net
 0.0.0.0 ad.mobilike.com
+0.0.0.0 ad.mobstazinc.cn
 0.0.0.0 ad.moreto.net
 0.0.0.0 ad.moscowtimes.ru
 0.0.0.0 ad.movile.com
@@ -3447,6 +3448,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.developershed.com
 0.0.0.0 ads.deviantart.com
 0.0.0.0 ads.devicebondage.com
+0.0.0.0 ads.devmates.com
 0.0.0.0 ads.dichtbij.adhese.com
 0.0.0.0 ads.digital-digest.com
 0.0.0.0 ads.digitalacre.com
@@ -3534,6 +3536,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.factorymedia.com
 0.0.0.0 ads.fairfax.com.au
 0.0.0.0 ads.fark.com
+0.0.0.0 ads.fastcomgroup.it
 0.0.0.0 ads.fasttrack-ignite.com
 0.0.0.0 ads.faxo.com
 0.0.0.0 ads.fayettevillenc.com
@@ -4018,6 +4021,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.osdn.com
 0.0.0.0 ads.outpersonals.com
 0.0.0.0 ads.oxymoronent.com
+0.0.0.0 ads.oxyshop.cz
 0.0.0.0 ads.p.veruta.com
 0.0.0.0 ads.pandora.tv.net
 0.0.0.0 ads.panoramtech.net
@@ -4255,6 +4259,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.sportsblog.com
 0.0.0.0 ads.sptimes.com
 0.0.0.0 ads.spymac.net
+0.0.0.0 ads.squarecrop.net
 0.0.0.0 ads.stackoverflow.com
 0.0.0.0 ads.standartnews.com
 0.0.0.0 ads.starbanner.com
@@ -4957,6 +4962,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.atari.net
 0.0.0.0 adserver.b2c.com
 0.0.0.0 adserver.barrapunto.com
+0.0.0.0 adserver.bdoce.cl
 0.0.0.0 adserver.betandwin.de
 0.0.0.0 adserver.billiger-surfen.de
 0.0.0.0 adserver.billiger-telefonieren.de
@@ -5102,6 +5108,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.monster.com
 0.0.0.0 adserver.monstersandcritics.com
 0.0.0.0 adserver.motonews.pl
+0.0.0.0 adserver.msmb.biz
 0.0.0.0 adserver.myownemail.com
 0.0.0.0 adserver.netcreators.nl
 0.0.0.0 adserver.netshelter.net

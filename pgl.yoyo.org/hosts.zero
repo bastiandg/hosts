@@ -140,6 +140,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.media-servers.net
 0.0.0.0 ad.mediastorm.hu
 0.0.0.0 ad.mgd.de
+0.0.0.0 ad.mobstazinc.cn
 0.0.0.0 ad.musicmatch.com
 0.0.0.0 ad.myapple.pl
 0.0.0.0 ad.mynetreklam.com.streamprovider.net
@@ -437,6 +438,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.desmoinesregister.com
 0.0.0.0 ads.detelefoongids.nl
 0.0.0.0 ads.deviantart.com
+0.0.0.0 ads.devmates.com
 0.0.0.0 ads.digital-digest.com
 0.0.0.0 ads.digitalmedianet.com
 0.0.0.0 ads.digitalpoint.com
@@ -459,6 +461,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.expat-blog.biz
 0.0.0.0 ads.factorymedia.com
 0.0.0.0 ads.fairfax.com.au
+0.0.0.0 ads.fastcomgroup.it
 0.0.0.0 ads.fasttrack-ignite.com
 0.0.0.0 ads.faxo.com
 0.0.0.0 ads.ferianc.com
@@ -590,6 +593,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.opensubtitles.org
 0.0.0.0 ads.optusnet.com.au
 0.0.0.0 ads.outpersonals.com
+0.0.0.0 ads.oxyshop.cz
 0.0.0.0 ads.passion.com
 0.0.0.0 ads.pennet.com
 0.0.0.0 ads.pfl.ua
@@ -636,6 +640,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.socialtheater.com
 0.0.0.0 ads.soft32.com
 0.0.0.0 ads.space.com
+0.0.0.0 ads.squarecrop.net
 0.0.0.0 ads.stackoverflow.com
 0.0.0.0 ads.sun.com
 0.0.0.0 ads.suomiautomaatti.com
@@ -758,6 +763,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.aidameter.com
 0.0.0.0 adserver.anawe.cz
 0.0.0.0 adserver.aol.fr
+0.0.0.0 adserver.bdoce.cl
 0.0.0.0 adserver.betandwin.de
 0.0.0.0 adserver.bing.com
 0.0.0.0 adserver.bizhat.com
@@ -779,6 +785,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.janes.com
 0.0.0.0 adserver.libero.it
 0.0.0.0 adserver.mobi
+0.0.0.0 adserver.msmb.biz
 0.0.0.0 adserver.news.com.au
 0.0.0.0 adserver.nydailynews.com
 0.0.0.0 adserver.o2.pl
