@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 23 Jun 2020 21:04:41 GMT
-# entries:        3428
+# last updated:   Wed, 24 Jun 2020 04:12:57 GMT
+# entries:        3430
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -494,6 +494,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.fool.com
 127.0.0.1 ads.footymad.net
 127.0.0.1 ads.forbes.net
+127.0.0.1 ads.formit.cz
 127.0.0.1 ads.fortunecity.com
 127.0.0.1 ads.fotosidan.se
 127.0.0.1 ads.foxnetworks.com
@@ -781,6 +782,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver.adultfriendfinder.com
 127.0.0.1 adserver.adverty.com
 127.0.0.1 adserver.aidameter.com
+127.0.0.1 adserver.anawe.cz
 127.0.0.1 adserver.aol.fr
 127.0.0.1 adserver.betandwin.de
 127.0.0.1 adserver.bing.com

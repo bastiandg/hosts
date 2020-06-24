@@ -3559,6 +3559,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.fooyoh.com
 127.0.0.1 ads.forbes.com
 127.0.0.1 ads.forbes.net
+127.0.0.1 ads.formit.cz
 127.0.0.1 ads.fortunecity.com
 127.0.0.1 ads.fotoable.com
 127.0.0.1 ads.fotoable.net
@@ -4943,6 +4944,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserver.allheadlinenews.com
 127.0.0.1 adserver.alt.com
 127.0.0.1 adserver.amnews.com
+127.0.0.1 adserver.anawe.cz
 127.0.0.1 adserver.ancestry.com
 127.0.0.1 adserver.anemo.com
 127.0.0.1 adserver.anm.co.uk
