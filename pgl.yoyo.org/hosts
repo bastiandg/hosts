@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 24 Jun 2020 10:42:18 GMT
-# entries:        3438
+# last updated:   Wed, 24 Jun 2020 11:46:06 GMT
+# entries:        3440
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1074,6 +1074,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 argyresthia.com
 127.0.0.1 aromamirror.com
 127.0.0.1 as.webmd.com
+127.0.0.1 aserv.motorsgate.com
 127.0.0.1 asewlfjqwlflkew.com
 127.0.0.1 assets1.exgfnetwork.com
 127.0.0.1 assoc-amazon.com
@@ -3416,6 +3417,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 xapads.com
 127.0.0.1 xchange.ro
 127.0.0.1 xertive.com
+127.0.0.1 xfreeservice.com
 127.0.0.1 xg4ken.com
 127.0.0.1 xiti.com
 127.0.0.1 xovq5nemr.com
