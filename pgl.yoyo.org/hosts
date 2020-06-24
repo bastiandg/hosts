@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 24 Jun 2020 11:46:06 GMT
-# entries:        3440
+# last updated:   Wed, 24 Jun 2020 20:17:55 GMT
+# entries:        3445
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -212,6 +212,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad1.pamedia.com.au
 127.0.0.1 ad2.iinfo.cz
 127.0.0.1 ad2.lupa.cz
+127.0.0.1 ad2.netriota.hu
 127.0.0.1 ad2.nmm.de
 127.0.0.1 ad2.xrea.com
 127.0.0.1 ad3.iinfo.cz
@@ -413,6 +414,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.aol.co.uk
 127.0.0.1 ads.apn.co.nz
 127.0.0.1 ads.appsgeyser.com
+127.0.0.1 ads.apteka254.ru
 127.0.0.1 ads.as4x.tmcs.net
 127.0.0.1 ads.as4x.tmcs.ticketmaster.com
 127.0.0.1 ads.asiafriendfinder.com
@@ -656,6 +658,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.scifi.com
 127.0.0.1 ads.seniorfriendfinder.com
 127.0.0.1 ads.servebom.com
+127.0.0.1 ads.sexgratuit.tv
 127.0.0.1 ads.sexinyourcity.com
 127.0.0.1 ads.shizmoo.com
 127.0.0.1 ads.shopstyle.com
@@ -810,6 +813,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver.ilango.de
 127.0.0.1 adserver.irishwebmasterforum.com
 127.0.0.1 adserver.janes.com
+127.0.0.1 adserver.lecool.com
 127.0.0.1 adserver.libero.it
 127.0.0.1 adserver.mobi
 127.0.0.1 adserver.msmb.biz
@@ -2749,6 +2753,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 revenue.net
 127.0.0.1 revenuedirect.com
 127.0.0.1 revenuehits.com
+127.0.0.1 revive.netriota.hu
 127.0.0.1 revlift.io
 127.0.0.1 revsci.net
 127.0.0.1 revstats.com

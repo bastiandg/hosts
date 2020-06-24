@@ -185,6 +185,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad1.pamedia.com.au
 0.0.0.0 ad2.iinfo.cz
 0.0.0.0 ad2.lupa.cz
+0.0.0.0 ad2.netriota.hu
 0.0.0.0 ad2.nmm.de
 0.0.0.0 ad2.xrea.com
 0.0.0.0 ad3.iinfo.cz
@@ -386,6 +387,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.aol.co.uk
 0.0.0.0 ads.apn.co.nz
 0.0.0.0 ads.appsgeyser.com
+0.0.0.0 ads.apteka254.ru
 0.0.0.0 ads.as4x.tmcs.net
 0.0.0.0 ads.as4x.tmcs.ticketmaster.com
 0.0.0.0 ads.asiafriendfinder.com
@@ -629,6 +631,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.scifi.com
 0.0.0.0 ads.seniorfriendfinder.com
 0.0.0.0 ads.servebom.com
+0.0.0.0 ads.sexgratuit.tv
 0.0.0.0 ads.sexinyourcity.com
 0.0.0.0 ads.shizmoo.com
 0.0.0.0 ads.shopstyle.com
@@ -783,6 +786,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.ilango.de
 0.0.0.0 adserver.irishwebmasterforum.com
 0.0.0.0 adserver.janes.com
+0.0.0.0 adserver.lecool.com
 0.0.0.0 adserver.libero.it
 0.0.0.0 adserver.mobi
 0.0.0.0 adserver.msmb.biz
@@ -2722,6 +2726,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 revenue.net
 0.0.0.0 revenuedirect.com
 0.0.0.0 revenuehits.com
+0.0.0.0 revive.netriota.hu
 0.0.0.0 revlift.io
 0.0.0.0 revsci.net
 0.0.0.0 revstats.com
