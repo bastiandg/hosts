@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 25 Jun 2020 13:41:53 GMT
-# entries:        3457
+# last updated:   Thu, 25 Jun 2020 14:54:01 GMT
+# entries:        3458
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -3191,6 +3191,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tracker.bannerflow.com
 127.0.0.1 tracker.comunidadmarriott.com
 127.0.0.1 tracker.icerocket.com
+127.0.0.1 tracker.mmdlv.it
 127.0.0.1 tracker.samplicio.us
 127.0.0.1 tracker.vgame.us
 127.0.0.1 tracking.1-a1502-bi.co.uk
