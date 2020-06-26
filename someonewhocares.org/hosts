@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 26 Jun 2020 at 19:51:49 GMT
+# Last updated: Fri, 26 Jun 2020 at 22:18:51 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8953,6 +8953,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 imc.l.qq.com
 127.0.0.1 img-a2.ak.imagevz.net
 127.0.0.1 img-cdn.mediaplex.com
+127.0.0.1 img.3lift.com
 127.0.0.1 img.alibaba.com
 127.0.0.1 img.awr.im
 127.0.0.1 img.blogads.com
