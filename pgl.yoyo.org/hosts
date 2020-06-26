@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 26 Jun 2020 11:36:03 GMT
-# entries:        3461
+# last updated:   Fri, 26 Jun 2020 12:45:19 GMT
+# entries:        3470
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -684,6 +684,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.sun.com
 127.0.0.1 ads.suomiautomaatti.com
 127.0.0.1 ads.supplyframe.com
+127.0.0.1 ads.syscdn.de
 127.0.0.1 ads.tahono.com
 127.0.0.1 ads.techtv.com
 127.0.0.1 ads.themovienation.com
@@ -706,11 +707,13 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.tripod.lycos.nl
 127.0.0.1 ads.tso.dennisnet.co.uk
 127.0.0.1 ads.twitter.com
+127.0.0.1 ads.twojatv.info
 127.0.0.1 ads.uknetguide.co.uk
 127.0.0.1 ads.ultimate-guitar.com
 127.0.0.1 ads.uncrate.com
 127.0.0.1 ads.undertone.com
 127.0.0.1 ads.usatoday.com
+127.0.0.1 ads.uxs.at
 127.0.0.1 ads.v-lazer.com
 127.0.0.1 ads.verticalresponse.com
 127.0.0.1 ads.vgchartz.com
@@ -719,6 +722,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.virtual-nights.com
 127.0.0.1 ads.virtuopolitan.com
 127.0.0.1 ads.vnumedia.com
+127.0.0.1 ads.walkiberia.com
 127.0.0.1 ads.waps.cn
 127.0.0.1 ads.wapx.cn
 127.0.0.1 ads.watson.ch
@@ -885,6 +889,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsrv.deviantart.com
 127.0.0.1 adsrv.eacdn.com
 127.0.0.1 adsrv.iol.co.za
+127.0.0.1 adsrv.kobi.tv
 127.0.0.1 adsrv.moebelmarkt.tv
 127.0.0.1 adsrv.swidnica24.pl
 127.0.0.1 adsrv2.swidnica24.pl
@@ -2147,6 +2152,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 li.walmart.com
 127.0.0.1 li.ziffimages.com
 127.0.0.1 liadm.com
+127.0.0.1 lifeimpressions.net
 127.0.0.1 liftdna.com
 127.0.0.1 ligatus.com
 127.0.0.1 ligatus.de
@@ -2917,6 +2923,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 slipperysack.com
 127.0.0.1 slopeaota.com
 127.0.0.1 smaato.com
+127.0.0.1 smart-traffik.com
+127.0.0.1 smart-traffik.io
 127.0.0.1 smart4ads.com
 127.0.0.1 smartadserver.com
 127.0.0.1 smartclip.net
@@ -3390,6 +3398,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 webtraxx.de
 127.0.0.1 webtrends.telegraph.co.uk
 127.0.0.1 webtrendslive.com
+127.0.0.1 webxcdn.com
 127.0.0.1 wellmadefrog.com
 127.0.0.1 werbung.meteoxpress.com
 127.0.0.1 wetrack.it

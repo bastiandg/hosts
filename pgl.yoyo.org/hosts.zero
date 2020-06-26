@@ -657,6 +657,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.sun.com
 0.0.0.0 ads.suomiautomaatti.com
 0.0.0.0 ads.supplyframe.com
+0.0.0.0 ads.syscdn.de
 0.0.0.0 ads.tahono.com
 0.0.0.0 ads.techtv.com
 0.0.0.0 ads.themovienation.com
@@ -679,11 +680,13 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.tripod.lycos.nl
 0.0.0.0 ads.tso.dennisnet.co.uk
 0.0.0.0 ads.twitter.com
+0.0.0.0 ads.twojatv.info
 0.0.0.0 ads.uknetguide.co.uk
 0.0.0.0 ads.ultimate-guitar.com
 0.0.0.0 ads.uncrate.com
 0.0.0.0 ads.undertone.com
 0.0.0.0 ads.usatoday.com
+0.0.0.0 ads.uxs.at
 0.0.0.0 ads.v-lazer.com
 0.0.0.0 ads.verticalresponse.com
 0.0.0.0 ads.vgchartz.com
@@ -692,6 +695,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.virtual-nights.com
 0.0.0.0 ads.virtuopolitan.com
 0.0.0.0 ads.vnumedia.com
+0.0.0.0 ads.walkiberia.com
 0.0.0.0 ads.waps.cn
 0.0.0.0 ads.wapx.cn
 0.0.0.0 ads.watson.ch
@@ -858,6 +862,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adsrv.deviantart.com
 0.0.0.0 adsrv.eacdn.com
 0.0.0.0 adsrv.iol.co.za
+0.0.0.0 adsrv.kobi.tv
 0.0.0.0 adsrv.moebelmarkt.tv
 0.0.0.0 adsrv.swidnica24.pl
 0.0.0.0 adsrv2.swidnica24.pl
@@ -2120,6 +2125,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 li.walmart.com
 0.0.0.0 li.ziffimages.com
 0.0.0.0 liadm.com
+0.0.0.0 lifeimpressions.net
 0.0.0.0 liftdna.com
 0.0.0.0 ligatus.com
 0.0.0.0 ligatus.de
@@ -2890,6 +2896,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 slipperysack.com
 0.0.0.0 slopeaota.com
 0.0.0.0 smaato.com
+0.0.0.0 smart-traffik.com
+0.0.0.0 smart-traffik.io
 0.0.0.0 smart4ads.com
 0.0.0.0 smartadserver.com
 0.0.0.0 smartclip.net
@@ -3363,6 +3371,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 webtraxx.de
 0.0.0.0 webtrends.telegraph.co.uk
 0.0.0.0 webtrendslive.com
+0.0.0.0 webxcdn.com
 0.0.0.0 wellmadefrog.com
 0.0.0.0 werbung.meteoxpress.com
 0.0.0.0 wetrack.it

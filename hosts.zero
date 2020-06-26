@@ -4298,6 +4298,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.swiftnews.com
 0.0.0.0 ads.switchboard.com
 0.0.0.0 ads.sxx.com
+0.0.0.0 ads.syscdn.de
 0.0.0.0 ads.sysmesh.com
 0.0.0.0 ads.tahono.com
 0.0.0.0 ads.tapdaq.com
@@ -4381,6 +4382,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.turkticaret.net
 0.0.0.0 ads.tw.adsonar.com
 0.0.0.0 ads.twitter.com
+0.0.0.0 ads.twojatv.info
 0.0.0.0 ads.ubee.in
 0.0.0.0 ads.uberads.com
 0.0.0.0 ads.ucomics.com
@@ -4407,6 +4409,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.use1.prod.vidible.tv
 0.0.0.0 ads.usercash.com
 0.0.0.0 ads.userfriendly.org
+0.0.0.0 ads.uxs.at
 0.0.0.0 ads.v-lazer.com
 0.0.0.0 ads.v3.com
 0.0.0.0 ads.v3exchange.com
@@ -4454,6 +4457,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.vserv.mobi
 0.0.0.0 ads.w55c.net
 0.0.0.0 ads.waframedia1.com
+0.0.0.0 ads.walkiberia.com
 0.0.0.0 ads.wanadooregie.com
 0.0.0.0 ads.waps.cn
 0.0.0.0 ads.wapx.cn
@@ -5423,6 +5427,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adsrv.heraldtribune.com
 0.0.0.0 adsrv.hpg.com.br
 0.0.0.0 adsrv.iol.co.za
+0.0.0.0 adsrv.kobi.tv
 0.0.0.0 adsrv.lua.pl
 0.0.0.0 adsrv.me
 0.0.0.0 adsrv.moebelmarkt.tv
@@ -19307,6 +19312,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 lidlretargeting.adspirit.de
 0.0.0.0 lie2anyone.com
 0.0.0.0 liefern.tf-con.com
+0.0.0.0 lifeimpressions.net
 0.0.0.0 lifemediahouse1.onlinewelten.com
 0.0.0.0 lifescience.sysu.edu.cn
 0.0.0.0 lifescript.us.intellitxt.com
@@ -28396,6 +28402,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 smart-c.jp
 0.0.0.0 smart-content.mobify.net
 0.0.0.0 smart-scripts.com
+0.0.0.0 smart-traffik.com
+0.0.0.0 smart-traffik.io
 0.0.0.0 smart.8live.com
 0.0.0.0 smart.besonders.ru
 0.0.0.0 smart.hola.com
@@ -33770,6 +33778,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 webwise.com
 0.0.0.0 webwise.net
 0.0.0.0 webwise.org
+0.0.0.0 webxcdn.com
 0.0.0.0 wegetpaid.net
 0.0.0.0 wegotmedia.co
 0.0.0.0 weight-loss.1.p2l.info
