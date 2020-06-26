@@ -3036,6 +3036,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 ads-hl.noktamedya.com.tr
 0.0.0.0 ads-ipm.adhese.com
+0.0.0.0 ads-kesselhaus.com
 0.0.0.0 ads-live.cmgdigital.com
 0.0.0.0 ads-local.sixapart.com
 0.0.0.0 ads-mannenmedia.adhese.com
@@ -4813,6 +4814,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adsbox.detik.com
 0.0.0.0 adsby.bidtheatre.com
 0.0.0.0 adsby.klikki.com
+0.0.0.0 adsbydelema.com
 0.0.0.0 adscale-emea.adnxs.com
 0.0.0.0 adscale.de
 0.0.0.0 adscan.yelabapp.com
@@ -7638,7 +7640,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ard.sweetdiscreet.com
 0.0.0.0 ard.xxxblackbook.com
 0.0.0.0 ardrone.swoop.com
-0.0.0.0 are-ter.com
 0.0.0.0 are.clevernt.com
 0.0.0.0 area51-ts.com
 0.0.0.0 areasnap.com
@@ -8288,7 +8289,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 banner.freeservers.com
 0.0.0.0 banner.fyber.com
 0.0.0.0 banner.goldenpalace.com
-0.0.0.0 banner.grandefm.com.br
 0.0.0.0 banner.icmedia.eu
 0.0.0.0 banner.img.co.za
 0.0.0.0 banner.inyourpocket.com
@@ -11392,7 +11392,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 coffeehausblog.com
 0.0.0.0 coffeol.com
 0.0.0.0 cognitiv.ai
-0.0.0.0 cognitiveadscience.com
 0.0.0.0 coin-ad.com
 0.0.0.0 coin-have.com
 0.0.0.0 coin-hive.com
@@ -14808,7 +14807,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 f2ntheage.112.2o7.net
 0.0.0.0 f3.p0y.com
 0.0.0.0 f4.p0y.com
-0.0.0.0 f5biz.com
 0.0.0.0 f5mtrack.com
 0.0.0.0 f7ds.liberation.fr
 0.0.0.0 fa0dcbd1.api.splkmobile.com
@@ -24153,7 +24151,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 patch-tagan.adlightning.com
 0.0.0.0 pathforpoints.com
 0.0.0.0 patio-furniture.dreamhoster.com
-0.0.0.0 patranally.xyz
 0.0.0.0 patrickhickey.eu
 0.0.0.0 patrickhillery.112.2o7.net
 0.0.0.0 patriot.cs.pp.cn
@@ -33695,7 +33692,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 weblog.blogads.com
 0.0.0.0 weblogger.visilabs.com
 0.0.0.0 weblover.info
-0.0.0.0 webmaster-partnerprogramme24.de
 0.0.0.0 webmaster.privatamateure.com
 0.0.0.0 webmaster.topbucks.com
 0.0.0.0 webmaster.utherverse.com

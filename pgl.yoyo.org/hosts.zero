@@ -364,6 +364,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads-click.com
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads-game-187f4.firebaseapp.com
+0.0.0.0 ads-kesselhaus.com
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads.4tube.com
@@ -760,6 +761,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adsatt.espn.starwave.com
 0.0.0.0 adsatt.go.starwave.com
 0.0.0.0 adsby.bidtheatre.com
+0.0.0.0 adsbydelema.com
 0.0.0.0 adscale.de
 0.0.0.0 adscholar.com
 0.0.0.0 adscience.nl
@@ -1060,7 +1062,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 arc1.msn.com
 0.0.0.0 archswimming.com
 0.0.0.0 ard.xxxblackbook.com
-0.0.0.0 are-ter.com
 0.0.0.0 area51-ts.com
 0.0.0.0 argyresthia.com
 0.0.0.0 aromamirror.com
@@ -1120,7 +1121,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 banner.elisa.net
 0.0.0.0 banner.eurogrand.com
 0.0.0.0 banner.goldenpalace.com
-0.0.0.0 banner.grandefm.com.br
 0.0.0.0 banner.icmedia.eu
 0.0.0.0 banner.img.co.za
 0.0.0.0 banner.inyourpocket.com
@@ -1422,7 +1422,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 code-server.biz
 0.0.0.0 codeadnetwork.com
 0.0.0.0 cognitiv.ai
-0.0.0.0 cognitiveadscience.com
 0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com
 0.0.0.0 cointraffic.io
@@ -1721,7 +1720,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 eyeviewads.com
 0.0.0.0 eyewonder.com
 0.0.0.0 ezula.com
-0.0.0.0 f5biz.com
 0.0.0.0 f7ds.liberation.fr
 0.0.0.0 facilitategrandfather.com
 0.0.0.0 fadedprofit.com
@@ -1939,7 +1937,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 hystericalhelp.com
 0.0.0.0 i-clicks.net
 0.0.0.0 i-i.lt
-0.0.0.0 i.xx.openx.com
 0.0.0.0 i1img.com
 0.0.0.0 i1media.no
 0.0.0.0 ia.iinfo.cz
@@ -2502,7 +2499,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 partners.priceline.com
 0.0.0.0 passeura.com
 0.0.0.0 passion-4.net
-0.0.0.0 patranally.xyz
 0.0.0.0 paycounter.com
 0.0.0.0 paypopup.com
 0.0.0.0 payserve.com
@@ -3348,7 +3344,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 webcounter.cz
 0.0.0.0 webcounter.goweb.de
 0.0.0.0 webgains.com
-0.0.0.0 webmaster-partnerprogramme24.de
 0.0.0.0 webmasterplan.com
 0.0.0.0 webmasterplan.de
 0.0.0.0 weborama.com
