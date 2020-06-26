@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 25 Jun 2020 15:05:29 GMT
-# entries:        3459
+# last updated:   Fri, 26 Jun 2020 09:58:51 GMT
+# entries:        3466
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -67,6 +67,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 a.aproductmsg.com
 127.0.0.1 a.consumer.net
 127.0.0.1 a.mktw.net
+127.0.0.1 a.muloqot.uz
 127.0.0.1 a.pub.network
 127.0.0.1 a.sakh.com
 127.0.0.1 a.ucoz.net
@@ -496,6 +497,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.fastcomgroup.it
 127.0.0.1 ads.fasttrack-ignite.com
 127.0.0.1 ads.faxo.com
+127.0.0.1 ads.femmefab.nl
 127.0.0.1 ads.ferianc.com
 127.0.0.1 ads.filmup.com
 127.0.0.1 ads.financialcontent.com
@@ -752,6 +754,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads2.brazzers.com
 127.0.0.1 ads2.clearchannel.com
 127.0.0.1 ads2.contentabc.com
+127.0.0.1 ads2.femmefab.nl
 127.0.0.1 ads2.gamecity.net
 127.0.0.1 ads2.jubii.dk
 127.0.0.1 ads2.net-communities.co.uk
@@ -880,6 +883,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsrv.deviantart.com
 127.0.0.1 adsrv.eacdn.com
 127.0.0.1 adsrv.iol.co.za
+127.0.0.1 adsrv.moebelmarkt.tv
 127.0.0.1 adsrv.swidnica24.pl
 127.0.0.1 adsrv2.swidnica24.pl
 127.0.0.1 adsrvr.org
@@ -961,6 +965,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adworx.nl
 127.0.0.1 adx.allstar.cz
 127.0.0.1 adx.atnext.com
+127.0.0.1 adx.relaksit.ru
 127.0.0.1 adxpansion.com
 127.0.0.1 adxpose.com
 127.0.0.1 adxvalue.com
@@ -1062,6 +1067,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 annonser.dagbladet.no
 127.0.0.1 anrdoezrs.net
 127.0.0.1 anstrex.com
+127.0.0.1 anuncios.edicaoms.com.br
 127.0.0.1 anxiousapples.com
 127.0.0.1 apathetictheory.com
 127.0.0.1 api.intensifier.de
@@ -2466,6 +2472,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 onlinerewardcenter.com
 127.0.0.1 onscroll.com
 127.0.0.1 onthe.io
+127.0.0.1 opads.us
 127.0.0.1 open.oneplus.net
 127.0.0.1 openad.tf1.fr
 127.0.0.1 openad.travelnow.com
