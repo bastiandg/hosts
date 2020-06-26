@@ -3167,7 +3167,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.aerserv.com
 127.0.0.1 ads.affbuzzads.com
 127.0.0.1 ads.affiliateclub.com
-127.0.0.1 ads.affiliates-spinit.com
 127.0.0.1 ads.affiliates.match.com
 127.0.0.1 ads.afftrack.com
 127.0.0.1 ads.afraccess.com
@@ -4407,6 +4406,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.use1.prod.vidible.tv
 127.0.0.1 ads.usercash.com
 127.0.0.1 ads.userfriendly.org
+127.0.0.1 ads.v-lazer.com
 127.0.0.1 ads.v3.com
 127.0.0.1 ads.v3exchange.com
 127.0.0.1 ads.vador.com

@@ -380,7 +380,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.adultfriendfinder.com
 0.0.0.0 ads.advance.net
 0.0.0.0 ads.adverline.com
-0.0.0.0 ads.affiliates-spinit.com
 0.0.0.0 ads.affiliates.match.com
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.amdmb.com
@@ -684,6 +683,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.uncrate.com
 0.0.0.0 ads.undertone.com
 0.0.0.0 ads.usatoday.com
+0.0.0.0 ads.v-lazer.com
 0.0.0.0 ads.verticalresponse.com
 0.0.0.0 ads.vgchartz.com
 0.0.0.0 ads.videosz.com
