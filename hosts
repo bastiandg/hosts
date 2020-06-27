@@ -6945,7 +6945,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.crashlytics.com
 127.0.0.1 api.crispadvertising.com
 127.0.0.1 api.crittercism.com
-127.0.0.1 api.crowdin.com
 127.0.0.1 api.crowdtangle.com
 127.0.0.1 api.crowdtwist.com
 127.0.0.1 api.datadoghq.com
@@ -11160,7 +11159,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cloud-us.analytics-egain.com
 127.0.0.1 cloud-video.unrulymedia.com
 127.0.0.1 cloud.appcelerator.com
-127.0.0.1 cloud.datapipe.com
 127.0.0.1 cloud.datasphere.com
 127.0.0.1 cloud.eclipse.unrulymedia.com
 127.0.0.1 cloud.gsdk.proximabeta.com
@@ -12250,7 +12248,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 crispmedia-d.openx.net
 127.0.0.1 crispmedia.com
 127.0.0.1 crisptic01.net
-127.0.0.1 crispwireless.com
 127.0.0.1 criteo-partners.tremorhub.com
 127.0.0.1 criteo-sync.teads.tv
 127.0.0.1 criteo.com
@@ -12275,7 +12272,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 crosspromo.zeptolab.com
 127.0.0.1 crosspromotion-us.avosapps.us
 127.0.0.1 crosspromotion.weplayer.cc
-127.0.0.1 crossrider.com
 127.0.0.1 crow.mezzobit.com
 127.0.0.1 crowd.fyber.com
 127.0.0.1 crowdgravity.com
@@ -15180,7 +15176,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 flycast.com
 127.0.0.1 flyingmag.com.122.2o7.net
 127.0.0.1 flyingmag.us.intellitxt.com
-127.0.0.1 fm.cnbc.com
 127.0.0.1 fm.duokanbox.com
 127.0.0.1 fm.ipinyou.com
 127.0.0.1 fm3cafe.hu
@@ -21849,7 +21844,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mprezchc.com
 127.0.0.1 mproxy.banner.linksynergy.com
 127.0.0.1 mprptrk.com
-127.0.0.1 mps.cnbc.com
 127.0.0.1 mpsnare.iesnare.co.uk
 127.0.0.1 mpsnare.iesnare.com
 127.0.0.1 mpstat.us
@@ -23427,7 +23421,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 one-and-one-d.openx.net
 127.0.0.1 one.123counters.com
 127.0.0.1 one.cam4ads.com
-127.0.0.1 one.datapipe.com
 127.0.0.1 one.pushwoosh.com
 127.0.0.1 oneadvertising-d.openx.net
 127.0.0.1 oneandonlynetwork.com
