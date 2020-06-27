@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 26 Jun 2020 12:45:19 GMT
-# entries:        3470
+# last updated:   Sat, 27 Jun 2020 10:48:08 GMT
+# entries:        3471
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -242,6 +242,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adbutler.com
 127.0.0.1 adbuyer.com
 127.0.0.1 adbuyer3.lycos.com
+127.0.0.1 adcampo.com
 127.0.0.1 adcannyads.com
 127.0.0.1 adcash.com
 127.0.0.1 adcast.deviantart.com
