@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 28 Jun 2020 08:23:38 GMT
-# entries:        3472
+# last updated:   Sun, 28 Jun 2020 13:29:47 GMT
+# entries:        3473
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -888,6 +888,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adspirit.de
 127.0.0.1 adsponse.de
 127.0.0.1 adspsp.com
+127.0.0.1 adsroller.com
 127.0.0.1 adsrv.deviantart.com
 127.0.0.1 adsrv.eacdn.com
 127.0.0.1 adsrv.iol.co.za
