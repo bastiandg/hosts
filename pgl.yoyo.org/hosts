@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 28 Jun 2020 13:29:47 GMT
-# entries:        3473
+# last updated:   Sun, 28 Jun 2020 14:25:26 GMT
+# entries:        3475
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -680,6 +680,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.socapro.com
 127.0.0.1 ads.socialtheater.com
 127.0.0.1 ads.soft32.com
+127.0.0.1 ads.soweb.gr
 127.0.0.1 ads.space.com
 127.0.0.1 ads.squarecrop.net
 127.0.0.1 ads.stackoverflow.com
@@ -806,6 +807,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsensecustomsearchads.com
 127.0.0.1 adserve.ams.rhythmxchange.com
 127.0.0.1 adserve.io
+127.0.0.1 adserve.jbs.org
 127.0.0.1 adserver.71i.de
 127.0.0.1 adserver.adultfriendfinder.com
 127.0.0.1 adserver.adverty.com
