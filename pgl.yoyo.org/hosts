@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 29 Jun 2020 06:33:28 GMT
-# entries:        3478
+# last updated:   Mon, 29 Jun 2020 07:30:59 GMT
+# entries:        3481
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -72,6 +72,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 a.sakh.com
 127.0.0.1 a.ucoz.net
 127.0.0.1 a.ucoz.ru
+127.0.0.1 a.vartoken.com
 127.0.0.1 a.vfghd.com
 127.0.0.1 a.vfgtb.com
 127.0.0.1 a.xanga.com
@@ -2738,6 +2739,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 realclever.com
 127.0.0.1 realclix.com
 127.0.0.1 realmedia-a800.d4p.net
+127.0.0.1 realsrv.com
 127.0.0.1 realtechnetwork.com
 127.0.0.1 realtracker.com
 127.0.0.1 rebelsubway.com
@@ -3281,6 +3283,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 truehits2.gits.net.th
 127.0.0.1 trustx.org
 127.0.0.1 tsyndicate.com
+127.0.0.1 tsyndicate.net
 127.0.0.1 tubemogul.com
 127.0.0.1 turboadv.com
 127.0.0.1 turn.com

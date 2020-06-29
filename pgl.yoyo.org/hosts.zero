@@ -45,6 +45,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 a.sakh.com
 0.0.0.0 a.ucoz.net
 0.0.0.0 a.ucoz.ru
+0.0.0.0 a.vartoken.com
 0.0.0.0 a.vfghd.com
 0.0.0.0 a.vfgtb.com
 0.0.0.0 a.xanga.com
@@ -2711,6 +2712,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 realclever.com
 0.0.0.0 realclix.com
 0.0.0.0 realmedia-a800.d4p.net
+0.0.0.0 realsrv.com
 0.0.0.0 realtechnetwork.com
 0.0.0.0 realtracker.com
 0.0.0.0 rebelsubway.com
@@ -3254,6 +3256,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 truehits2.gits.net.th
 0.0.0.0 trustx.org
 0.0.0.0 tsyndicate.com
+0.0.0.0 tsyndicate.net
 0.0.0.0 tubemogul.com
 0.0.0.0 turboadv.com
 0.0.0.0 turn.com
