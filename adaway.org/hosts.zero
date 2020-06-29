@@ -3587,7 +3587,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.creative.medialytics.com
 0.0.0.0 cdn.crwdcntrl.net
-0.0.0.0 cdn.curalate.com
 0.0.0.0 cdn.decibelinsight.net
 0.0.0.0 cdn.demdex.net
 0.0.0.0 cdn.destinilocators.com
@@ -4405,8 +4404,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ctv.monarchads.com
 0.0.0.0 cuberonlabs.com.com
 0.0.0.0 cumulus.deliveryengine.adswizz.com
-0.0.0.0 curalate-api-prod.us-east-1.elasticbeanstalk.com
-0.0.0.0 curalate-like2buy-prod-vpc.us-east-1.elasticbeanstalk.com
 0.0.0.0 currency.prebid.org
 0.0.0.0 cursa.iad-03.braze.com
 0.0.0.0 curse-d.openx.net

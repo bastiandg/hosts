@@ -10225,7 +10225,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.crowdignite.com
 0.0.0.0 cdn.crowdtwist.com
 0.0.0.0 cdn.crwdcntrl.net
-0.0.0.0 cdn.curalate.com
 0.0.0.0 cdn.decibelinsight.net
 0.0.0.0 cdn.demdex.net
 0.0.0.0 cdn.destinilocators.com
@@ -12374,8 +12373,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cumbersomecloud.com
 0.0.0.0 cumulus.deliveryengine.adswizz.com
 0.0.0.0 cuntwars.com
-0.0.0.0 curalate-api-prod.us-east-1.elasticbeanstalk.com
-0.0.0.0 curalate-like2buy-prod-vpc.us-east-1.elasticbeanstalk.com
 0.0.0.0 currency.prebid.org
 0.0.0.0 cursa.iad-03.braze.com
 0.0.0.0 curse-d.openx.net
