@@ -6959,6 +6959,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.deep-ad.com.edgekey.net
 127.0.0.1 api.demandbase.com
 127.0.0.1 api.destinationrewards.com
+127.0.0.1 api.device.xiaomi.net
 127.0.0.1 api.doumob.com
 127.0.0.1 api.dsp.batmobi.net
 127.0.0.1 api.ero-advertising.com
@@ -7108,6 +7109,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.sdk.wiman.io
 127.0.0.1 api.sdk.zadn.vn
 127.0.0.1 api.sdkbox.com
+127.0.0.1 api.sec.miui.com
 127.0.0.1 api.segment.io
 127.0.0.1 api.sentiance.com
 127.0.0.1 api.share.baidu.com

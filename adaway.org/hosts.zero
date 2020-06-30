@@ -2234,6 +2234,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.deep-ad.com.edgekey.net
 0.0.0.0 api.demandbase.com
 0.0.0.0 api.destinationrewards.com
+0.0.0.0 api.device.xiaomi.net
 0.0.0.0 api.doumob.com
 0.0.0.0 api.dsp.batmobi.net
 0.0.0.0 api.eu.crittercism.com
@@ -2372,6 +2373,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.sdk.wiman.io
 0.0.0.0 api.sdk.zadn.vn
 0.0.0.0 api.sdkbox.com
+0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
 0.0.0.0 api.sentiance.com
 0.0.0.0 api.share.baidu.com
