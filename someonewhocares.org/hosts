@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 26 Jun 2020 at 22:18:51 GMT
+# Last updated: Tue, 30 Jun 2020 at 23:31:15 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9776,6 +9776,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 newip427.changeip.net
 127.0.0.1 newjunk4u.com
 127.0.0.1 newliveupdate.thereadycentercontentingplacefree.download
+127.0.0.1 newmedsdeal.eu
 127.0.0.1 news-finances.com
 127.0.0.1 news6health.com
 127.0.0.1 newsblock.marketgid.com
