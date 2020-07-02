@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 30 Jun 2020 at 23:31:15 GMT
+# Last updated: Thu, 02 Jul 2020 at 03:44:03 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -11087,6 +11087,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 storage.bulletproofserving.com
 127.0.0.1 storage.softure.com
 127.0.0.1 storage.trafic.ro
+127.0.0.1 storecentr.su
 127.0.0.1 strategy.lmobi.net
 127.0.0.1 stream-direct.co
 127.0.0.1 streamate.com
