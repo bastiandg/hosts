@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 03 Jul 2020 07:01:38 GMT
-# entries:        3484
+# entries:        3483
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -662,7 +662,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.rcncdn.de
 127.0.0.1 ads.rcs.it
 127.0.0.1 ads.recoletos.es
-127.0.0.1 ads.redactor.in.ua
 127.0.0.1 ads.rediff.com
 127.0.0.1 ads.redlightcenter.com
 127.0.0.1 ads.revjet.com
