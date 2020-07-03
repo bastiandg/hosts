@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 02 Jul 2020 22:57:03 GMT
-# entries:        3483
+# last updated:   Fri, 03 Jul 2020 07:01:38 GMT
+# entries:        3484
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -582,6 +582,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.leovegas.com
 127.0.0.1 ads.lesbianpersonals.com
 127.0.0.1 ads.liberte.pl
+127.0.0.1 ads.lifethink.net
 127.0.0.1 ads.linkedin.com
 127.0.0.1 ads.linuxfoundation.org
 127.0.0.1 ads.livenation.com
