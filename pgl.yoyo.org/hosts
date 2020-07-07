@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 03 Jul 2020 07:01:38 GMT
-# entries:        3480
+# last updated:   Tue, 07 Jul 2020 16:23:22 GMT
+# entries:        3481
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2123,6 +2123,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ladsreds.com
 127.0.0.1 ladsup.com
 127.0.0.1 lakequincy.com
+127.0.0.1 lameletters.com
 127.0.0.1 lanistaads.com
 127.0.0.1 larati.net
 127.0.0.1 laughablecopper.com
