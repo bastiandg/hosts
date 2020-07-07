@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 02 Jul 2020 at 03:44:03 GMT
+# Last updated: Tue, 07 Jul 2020 at 20:12:13 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5259,7 +5259,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 admonkey.dapper.net
 127.0.0.1 adms.physorg.com
 127.0.0.1 admxxx.com
-127.0.0.1 adn.ebay.com
 127.0.0.1 adn.kinkydollars.com
 127.0.0.1 adn.zone-telechargement.com
 127.0.0.1 adnet.asahi.com
