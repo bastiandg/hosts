@@ -673,7 +673,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 a.rfihub.com
 0.0.0.0 a.ssl.msdk.qq.com
 0.0.0.0 a.steepto.com
-0.0.0.0 a.stun.kaptcha.com
 0.0.0.0 a.tapinfluence.com
 0.0.0.0 a.teads.tv
 0.0.0.0 a.unbounce.com
@@ -2929,12 +2928,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 axmtrack.com
 0.0.0.0 axonix.com
 0.0.0.0 az-ue2.atemda.com
-0.0.0.0 az361816.vo.msecnd.net
-0.0.0.0 az413505.vo.msecnd.net
-0.0.0.0 az416426.vo.msecnd.net
-0.0.0.0 az512334.vo.msecnd.net
-0.0.0.0 az598575.vo.msecnd.net
-0.0.0.0 az708531.vo.msecnd.net
 0.0.0.0 azcdn-preprod.criteo.net
 0.0.0.0 azcdn.criteo.net
 0.0.0.0 b.adexchangemachine.com
@@ -10095,7 +10088,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.gridsumdissector.com
 0.0.0.0 ssl.hit.stat24.com
-0.0.0.0 ssl.kaptcha.com
 0.0.0.0 ssl.ligatus.com
 0.0.0.0 ssl.linksynergy.com
 0.0.0.0 ssl.lomadee.com
@@ -11173,7 +11165,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ts-tracker-env.us-east-1.elasticbeanstalk.com
 0.0.0.0 ts.tdxio.com
 0.0.0.0 tsrid.cxense.com
-0.0.0.0 tst.kaptcha.com
 0.0.0.0 tt.adcocktail.com
 0.0.0.0 tt.onthe.io
 0.0.0.0 ttd.ads.placeiq.com

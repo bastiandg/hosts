@@ -1217,7 +1217,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 a.ss34.on9mail.com
 127.0.0.1 a.ssl.msdk.qq.com
 127.0.0.1 a.steepto.com
-127.0.0.1 a.stun.kaptcha.com
 127.0.0.1 a.tadd.react2media.com
 127.0.0.1 a.tapinfluence.com
 127.0.0.1 a.teads.tv
@@ -8059,11 +8058,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 az-ue2.atemda.com
 127.0.0.1 az.5.p2l.info
 127.0.0.1 az361816.vo.msecnd.net
-127.0.0.1 az413505.vo.msecnd.net
-127.0.0.1 az416426.vo.msecnd.net
 127.0.0.1 az512334.vo.msecnd.net
-127.0.0.1 az598575.vo.msecnd.net
-127.0.0.1 az708531.vo.msecnd.net
 127.0.0.1 azcdn-preprod.criteo.net
 127.0.0.1 azcdn.criteo.net
 127.0.0.1 azcentra.app.ur.gcion.com
@@ -28897,7 +28892,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 ssl.gridsumdissector.com
 127.0.0.1 ssl.hit.stat24.com
-127.0.0.1 ssl.kaptcha.com
 127.0.0.1 ssl.ligatus.com
 127.0.0.1 ssl.linksynergy.com
 127.0.0.1 ssl.lomadee.com
@@ -31979,7 +31973,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tsms-ad.tsms.com
 127.0.0.1 tsmtrk.com
 127.0.0.1 tsrid.cxense.com
-127.0.0.1 tst.kaptcha.com
 127.0.0.1 tste.ivillage.com
 127.0.0.1 tste.mcclatchyinteractive.com
 127.0.0.1 tste.startribune.com
