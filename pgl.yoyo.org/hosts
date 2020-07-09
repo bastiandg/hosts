@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 08 Jul 2020 16:13:29 GMT
-# entries:        3483
+# last updated:   Thu, 09 Jul 2020 08:20:12 GMT
+# entries:        3484
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -169,6 +169,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad.lupa.cz
 127.0.0.1 ad.media-servers.net
 127.0.0.1 ad.mediastorm.hu
+127.0.0.1 ad.mg
 127.0.0.1 ad.mgd.de
 127.0.0.1 ad.mobstazinc.cn
 127.0.0.1 ad.musicmatch.com
