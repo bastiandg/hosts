@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 09 Jul 2020 16:29:03 GMT
-# entries:        3485
+# entries:        3482
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1251,7 +1251,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 belstat.nl
 127.0.0.1 berp.com
 127.0.0.1 best-realgirl2.com
-127.0.0.1 best-top.ro
 127.0.0.1 bestboundary.com
 127.0.0.1 bestprizesday2.life
 127.0.0.1 bestsearch.net
@@ -1657,7 +1656,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 e-adimages.scrippsnetworks.com
 127.0.0.1 e-bannerx.com
 127.0.0.1 e-m.fr
-127.0.0.1 e-n-t-e-r-n-e-x.com
 127.0.0.1 e-planning.net
 127.0.0.1 e.kde.cz
 127.0.0.1 eadexchange.com
@@ -2478,7 +2476,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 onclickads.net
 127.0.0.1 oneandonlynetwork.com
 127.0.0.1 onenetworkdirect.com
-127.0.0.1 onestat.com
 127.0.0.1 onestatfree.com
 127.0.0.1 online-metrix.net
 127.0.0.1 online.miarroba.com
@@ -3110,7 +3107,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 targad.de
 127.0.0.1 targeting.nzme.arcpublishing.com
 127.0.0.1 targetingnow.com
-127.0.0.1 targetnet.com
 127.0.0.1 targetpoint.com
 127.0.0.1 tastefulsongs.com
 127.0.0.1 tatsumi-sys.jp
@@ -3136,6 +3132,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 textad.sexsearch.com
 127.0.0.1 textads.biz
 127.0.0.1 textlinks.com
+127.0.0.1 tfag.de
 127.0.0.1 the-ozone-project.com
 127.0.0.1 theadex.com
 127.0.0.1 theadhost.com

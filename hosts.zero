@@ -8778,7 +8778,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 best-hir.com
 0.0.0.0 best-realgirl2.com
 0.0.0.0 best-search.cc
-0.0.0.0 best-top.ro
 0.0.0.0 best100catfights.com
 0.0.0.0 best2017games.com
 0.0.0.0 best2019-games-web1.com
@@ -13691,7 +13690,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 e-m.fr
 0.0.0.0 e-marketing.entelchile.net
 0.0.0.0 e-matelco.com
-0.0.0.0 e-n-t-e-r-n-e-x.com
 0.0.0.0 e-n.y-1shz2prbmdj6wvny-1sez2pra2dj6wjmyepdzadpwudj6x9ny-1seq-2-2.stats.esomniture.com
 0.0.0.0 e-ny.a-1shz2prbmdj6wvny-1sez2pra2dj6wjny-1jcpgbowsdj6x9ny-1seq-2-2.stats.esomniture.com
 0.0.0.0 e-planning.net
@@ -23438,7 +23436,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 onepush.query.yahoo.com
 0.0.0.0 onesignal.com
 0.0.0.0 onespot-tracking.herokuapp.com
-0.0.0.0 onestat.com
 0.0.0.0 onestatfree.com
 0.0.0.0 onet.hit.gemius.pl
 0.0.0.0 onet.hit.stat.pl
@@ -30613,6 +30610,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 textspeier.de
 0.0.0.0 textsrv.com
 0.0.0.0 tf.nexac.com
+0.0.0.0 tfag.de
 0.0.0.0 tform-0710-dnjzqn.tf-cdn.net
 0.0.0.0 tgdaily.us.intellitxt.com
 0.0.0.0 tgn.122.2o7.net
