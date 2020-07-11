@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 10 Jul 2020 18:11:35 GMT
-# entries:        3483
+# last updated:   Sat, 11 Jul 2020 14:25:34 GMT
+# entries:        3484
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2594,6 +2594,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 play4traffic.com
 127.0.0.1 playhaven.com
 127.0.0.1 playmobileads.com
+127.0.0.1 pleasantpump.com
 127.0.0.1 plista.com
 127.0.0.1 plugrush.com
 127.0.0.1 pocketmath.com
