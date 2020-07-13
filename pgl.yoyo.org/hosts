@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 12 Jul 2020 18:39:56 GMT
-# entries:        3487
+# last updated:   Mon, 13 Jul 2020 13:54:37 GMT
+# entries:        3489
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -3241,6 +3241,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tracking42.com
 127.0.0.1 trackingfestival.com
 127.0.0.1 trackingsoft.com
+127.0.0.1 tracklink-tel.de
 127.0.0.1 trackmysales.com
 127.0.0.1 trackuhub.com
 127.0.0.1 tradeadexchange.com
@@ -3301,6 +3302,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tyroo.com
 127.0.0.1 uarating.com
 127.0.0.1 ucfunnel.com
+127.0.0.1 udkcrj.com
 127.0.0.1 udncoeln.com
 127.0.0.1 uib.ff.avast.com
 127.0.0.1 ukbanners.com
