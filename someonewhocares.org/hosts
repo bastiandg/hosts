@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 07 Jul 2020 at 20:12:13 GMT
+# Last updated: Mon, 13 Jul 2020 at 17:51:10 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9354,6 +9354,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 lt.angelfire.com
 127.0.0.1 lucky-day-uk.com
 127.0.0.1 luckymeetyou.com
+127.0.0.1 luxstockevent.su
 127.0.0.1 luxup.ru
 127.0.0.1 lvbet.pl
 127.0.0.1 lw1.gamecopyworld.com
@@ -11586,6 +11587,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 villagevoicecollect.247realmedia.com
 127.0.0.1 vip.adpiano.com
 127.0.0.1 vipfastmoney.com
+127.0.0.1 vipshopevent.su
 127.0.0.1 viralture.com
 127.0.0.1 viralvideos.tips
 127.0.0.1 vistawebs-top-shop-soft.site
