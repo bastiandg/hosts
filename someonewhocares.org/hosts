@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 13 Jul 2020 at 17:51:10 GMT
+# Last updated: Tue, 14 Jul 2020 at 03:05:44 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5259,6 +5259,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 admonkey.dapper.net
 127.0.0.1 adms.physorg.com
 127.0.0.1 admxxx.com
+127.0.0.1 adn.ebay.com
 127.0.0.1 adn.kinkydollars.com
 127.0.0.1 adn.zone-telechargement.com
 127.0.0.1 adnet.asahi.com
@@ -6007,6 +6008,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ads.thegauntlet.com
 127.0.0.1 ads.theglobeandmail.com
 127.0.0.1 ads.theindependent.com
+127.0.0.1 ads.themoneytizer.com
 127.0.0.1 ads.theolympian.com
 127.0.0.1 ads.thesmokinggun.com
 127.0.0.1 ads.thestar.com
@@ -6067,6 +6069,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ads.viber.com
 127.0.0.1 ads.viddler.com
 127.0.0.1 ads.videoadvertising.com
+127.0.0.1 ads.vidoomy.com
 127.0.0.1 ads.viewlondon.co.uk
 127.0.0.1 ads.virginislandsdailynews.com
 127.0.0.1 ads.virtualcountries.com
@@ -8596,7 +8599,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 geoads.com
 127.0.0.1 geoads.osdn.com
 127.0.0.1 geoloc11.geovisite.com
+127.0.0.1 geolocation-db.com
 127.0.0.1 geoweb.e-kolay.net
+127.0.0.1 get.optad360.io
 127.0.0.1 get.x-link.pl
 127.0.0.1 getacool100.com
 127.0.0.1 getacool500.com
@@ -9143,6 +9148,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 js.zevents.com
 127.0.0.1 js1.bloggerads.net
 127.0.0.1 js77.neodatagroup.com
+127.0.0.1 jsc.adskeeper.co.uk
 127.0.0.1 jsc.dt07.net
 127.0.0.1 jsc.mgid.com
 127.0.0.1 jsn.dt07.net
@@ -10818,6 +10824,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 services1.adtech.us
 127.0.0.1 serving-sys.com
 127.0.0.1 serving.plexop.net
+127.0.0.1 serving.stat-rock.com
 127.0.0.1 servserv.generals.ea.com
 127.0.0.1 serwisy.gremimedia.pl
 127.0.0.1 settings.crashlytics.com
@@ -12510,6 +12517,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.ontheweb.com
 127.0.0.1 www.opendownload.de
 127.0.0.1 www.openload.de
+127.0.0.1 www.optad360.com
 127.0.0.1 www.optiad.net
 127.0.0.1 www.outbrain.com
 127.0.0.1 www.paperg.com

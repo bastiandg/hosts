@@ -2869,6 +2869,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 admulti.ru
 0.0.0.0 admxxx.com
 0.0.0.0 adn.atdmt.com
+0.0.0.0 adn.ebay.com
 0.0.0.0 adn.fusionads.net
 0.0.0.0 adn.impactradius.com
 0.0.0.0 adn.insight.ucweb.com
@@ -4439,6 +4440,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.videofen.com
 0.0.0.0 ads.videohub.tv
 0.0.0.0 ads.videosz.com
+0.0.0.0 ads.vidoomy.com
 0.0.0.0 ads.vidsense.com
 0.0.0.0 ads.viewlondon.co.uk
 0.0.0.0 ads.viksaffiliates.com
@@ -15907,6 +15909,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 geoloc17.geovisite.com
 0.0.0.0 geoloc2.geovisite.com
 0.0.0.0 geoloc4.geovisite.com
+0.0.0.0 geolocation-db.com
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geolocation.t-online.de
 0.0.0.0 geoplugin.net
@@ -15928,6 +15931,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 get.mirando.de
 0.0.0.0 get.mycounter.com.ua
 0.0.0.0 get.mycounter.ua
+0.0.0.0 get.optad360.io
 0.0.0.0 get.whitesmoke.com
 0.0.0.0 get.x-link.pl
 0.0.0.0 getacool100.com
@@ -27899,6 +27903,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 serving.adsrevenue.clicksor.net
 0.0.0.0 serving.pixsense.net
 0.0.0.0 serving.plexop.net
+0.0.0.0 serving.stat-rock.com
 0.0.0.0 serving.xxxwebtraffic.com
 0.0.0.0 servingmillions.com
 0.0.0.0 servs.adblox.net
@@ -35842,6 +35847,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.openinternetexchange.com
 0.0.0.0 www.openload.de
 0.0.0.0 www.opinionlab.com
+0.0.0.0 www.optad360.com
 0.0.0.0 www.optiad.net
 0.0.0.0 www.oralse.ca
 0.0.0.0 www.oralse.cx

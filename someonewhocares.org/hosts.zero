@@ -996,6 +996,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 admonkey.dapper.net
 0.0.0.0 adms.physorg.com
 0.0.0.0 admxxx.com
+0.0.0.0 adn.ebay.com
 0.0.0.0 adn.kinkydollars.com
 0.0.0.0 adn.plxnt.com
 0.0.0.0 adn.zone-telechargement.com
@@ -1748,6 +1749,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.thegauntlet.com
 0.0.0.0 ads.theglobeandmail.com
 0.0.0.0 ads.theindependent.com
+0.0.0.0 ads.themoneytizer.com
 0.0.0.0 ads.theolympian.com
 0.0.0.0 ads.thesmokinggun.com
 0.0.0.0 ads.thestar.com
@@ -1810,6 +1812,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.viber.com
 0.0.0.0 ads.viddler.com
 0.0.0.0 ads.videoadvertising.com
+0.0.0.0 ads.vidoomy.com
 0.0.0.0 ads.viewlondon.co.uk
 0.0.0.0 ads.virginislandsdailynews.com
 0.0.0.0 ads.virtualcountries.com
@@ -5875,12 +5878,14 @@ ff02::2 ip6-allrouters
 0.0.0.0 geoads.osdn.com
 0.0.0.0 geocounter.net
 0.0.0.0 geoloc11.geovisite.com
+0.0.0.0 geolocation-db.com
 0.0.0.0 geopolice.com
 0.0.0.0 georgewbush.112.2o7.net
 0.0.0.0 georgewbushcom.112.2o7.net
 0.0.0.0 geoweb.e-kolay.net
 0.0.0.0 get-answers-fast.com
 0.0.0.0 get.hitbox.com
+0.0.0.0 get.optad360.io
 0.0.0.0 get.x-link.pl
 0.0.0.0 getacool100.com
 0.0.0.0 getacool500.com
@@ -6870,6 +6875,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 js1.hitbox.com
 0.0.0.0 js77.neodatagroup.com
 0.0.0.0 jsandboxer.cjt1.net
+0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 jsc.dt07.net
 0.0.0.0 jsc.mgid.com
 0.0.0.0 jsn.dt07.net
@@ -10295,6 +10301,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 services1.adtech.us
 0.0.0.0 serving-sys.com
 0.0.0.0 serving.plexop.net
+0.0.0.0 serving.stat-rock.com
 0.0.0.0 servserv.generals.ea.com
 0.0.0.0 servt.playbuzz.co
 0.0.0.0 servustv.oewabox.at
@@ -13593,6 +13600,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.opendownload.de
 0.0.0.0 www.openinternetexchange.com
 0.0.0.0 www.openload.de
+0.0.0.0 www.optad360.com
 0.0.0.0 www.optiad.net
 0.0.0.0 www.oralse.ca
 0.0.0.0 www.oralse.cx

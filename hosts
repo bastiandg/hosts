@@ -2869,6 +2869,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 admulti.ru
 127.0.0.1 admxxx.com
 127.0.0.1 adn.atdmt.com
+127.0.0.1 adn.ebay.com
 127.0.0.1 adn.fusionads.net
 127.0.0.1 adn.impactradius.com
 127.0.0.1 adn.insight.ucweb.com
@@ -4439,6 +4440,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ads.videofen.com
 127.0.0.1 ads.videohub.tv
 127.0.0.1 ads.videosz.com
+127.0.0.1 ads.vidoomy.com
 127.0.0.1 ads.vidsense.com
 127.0.0.1 ads.viewlondon.co.uk
 127.0.0.1 ads.viksaffiliates.com
@@ -15907,6 +15909,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 geoloc17.geovisite.com
 127.0.0.1 geoloc2.geovisite.com
 127.0.0.1 geoloc4.geovisite.com
+127.0.0.1 geolocation-db.com
 127.0.0.1 geolocation.onetrust.com
 127.0.0.1 geolocation.t-online.de
 127.0.0.1 geoplugin.net
@@ -15928,6 +15931,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 get.mirando.de
 127.0.0.1 get.mycounter.com.ua
 127.0.0.1 get.mycounter.ua
+127.0.0.1 get.optad360.io
 127.0.0.1 get.whitesmoke.com
 127.0.0.1 get.x-link.pl
 127.0.0.1 getacool100.com
@@ -27899,6 +27903,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 serving.adsrevenue.clicksor.net
 127.0.0.1 serving.pixsense.net
 127.0.0.1 serving.plexop.net
+127.0.0.1 serving.stat-rock.com
 127.0.0.1 serving.xxxwebtraffic.com
 127.0.0.1 servingmillions.com
 127.0.0.1 servs.adblox.net
@@ -35842,6 +35847,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.openinternetexchange.com
 127.0.0.1 www.openload.de
 127.0.0.1 www.opinionlab.com
+127.0.0.1 www.optad360.com
 127.0.0.1 www.optiad.net
 127.0.0.1 www.oralse.ca
 127.0.0.1 www.oralse.cx
