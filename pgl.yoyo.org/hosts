@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 13 Jul 2020 13:54:37 GMT
-# entries:        3488
+# last updated:   Tue, 14 Jul 2020 19:25:58 GMT
+# entries:        3489
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -829,6 +829,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver.diariodosertao.com.br
 127.0.0.1 adserver.digitoday.com
 127.0.0.1 adserver.echdk.pl
+127.0.0.1 adserver.ekokatu.com
 127.0.0.1 adserver.freecity.de
 127.0.0.1 adserver.friendfinder.com
 127.0.0.1 adserver.hardsextube.com
