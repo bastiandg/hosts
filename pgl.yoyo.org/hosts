@@ -796,7 +796,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsatt.abcnews.starwave.com
 127.0.0.1 adsatt.espn.go.com
 127.0.0.1 adsatt.espn.starwave.com
-127.0.0.1 Adsatt.go.starwave.com
+127.0.0.1 adsatt.go.starwave.com
 127.0.0.1 adsby.bidtheatre.com
 127.0.0.1 adsbydelema.com
 127.0.0.1 adscale.de
