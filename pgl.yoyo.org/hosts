@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 16 Jul 2020 16:59:28 GMT
-# entries:        3492
+# last updated:   Mon, 20 Jul 2020 15:54:21 GMT
+# entries:        3493
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -983,6 +983,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adworx.nl
 127.0.0.1 adx.allstar.cz
 127.0.0.1 adx.atnext.com
+127.0.0.1 adx.gayboy.at
 127.0.0.1 adx.relaksit.ru
 127.0.0.1 adxpansion.com
 127.0.0.1 adxpose.com
