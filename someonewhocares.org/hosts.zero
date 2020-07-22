@@ -2519,6 +2519,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adtlgc.com
 0.0.0.0 adtology3.com
 0.0.0.0 adtotal.pl
+0.0.0.0 adtrack.appcpi.net
 0.0.0.0 adtracking.vinden.nl
 0.0.0.0 adtrader.com
 0.0.0.0 adtrak.net
@@ -2770,19 +2771,23 @@ ff02::2 ip6-allrouters
 0.0.0.0 an.tacoda.net
 0.0.0.0 an.yandex.ru
 0.0.0.0 analysis.fc2.com
+0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics.admob.com
+0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.ku6.com
 0.0.0.0 analytics.kwebsoft.com
 0.0.0.0 analytics.msnbc.msn.com
 0.0.0.0 analytics.myfinances.com
 0.0.0.0 analytics.onesearch.id
+0.0.0.0 analytics.ooyala.com
 0.0.0.0 analytics.percentmobile.com
 0.0.0.0 analytics.prx.org
 0.0.0.0 analytics.publitas.com
 0.0.0.0 analytics.rayjump.com
 0.0.0.0 analytics.services.kirra.nl
 0.0.0.0 analytics.shareaholic.com
+0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analytics.spotta.nl
 0.0.0.0 analytics.verizonenterprise.com
 0.0.0.0 analytics.vodafone.co.uk
@@ -2891,6 +2896,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.viglink.com
 0.0.0.0 api.zhy333.com
 0.0.0.0 api2.murdoog.com
+0.0.0.0 apiadapter.ad5track.com
 0.0.0.0 apis.murdoog.com
 0.0.0.0 apnonline.112.2o7.net
 0.0.0.0 apodir.oewabox.at
@@ -5352,6 +5358,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 eu-gmtdmp.gd1.mookie1.com
 0.0.0.0 eu-pn4.adserver.yahoo.com
 0.0.0.0 eu-sonar.sociomantic.com
+0.0.0.0 eu-track.inside-graph.com
 0.0.0.0 eu.track.digitaladsystems.com
 0.0.0.0 eu.xtms.net
 0.0.0.0 eu1.recompenses.win
@@ -5736,6 +5743,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 gambero3.cs.tin.it
 0.0.0.0 game-online-video.petrovka.info
 0.0.0.0 game0516.cdn8-traffic68-server10.top
+0.0.0.0 gameanalysis.appcpi.net
 0.0.0.0 gameconsolerewards.com
 0.0.0.0 gamelights.ru
 0.0.0.0 gamerz123.com
@@ -8210,6 +8218,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 myanyone.net
 0.0.0.0 myao.adocean.pl
 0.0.0.0 myasiantv.gsspcln.jp
+0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 mybinaryoptionsrobot.com
 0.0.0.0 mycamptrack.com
 0.0.0.0 mycashback.co.uk
@@ -9433,6 +9442,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 promotions.sportingbet.com
 0.0.0.0 promoviral.com
 0.0.0.0 propecia.1.p2l.info
+0.0.0.0 propeller-tracking.com
 0.0.0.0 properatersch.fun
 0.0.0.0 protect-your-privacy.net
 0.0.0.0 protection.alpolice.com
@@ -11522,6 +11532,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracker.baidu.com
 0.0.0.0 tracker.blueprintinteractivetest.com
 0.0.0.0 tracker.bonnint.net
+0.0.0.0 tracker.bt.uol.com.br
 0.0.0.0 tracker.cdn-analytics.host
 0.0.0.0 tracker.cl1.fidelizador.com
 0.0.0.0 tracker.clicktrade.com
@@ -11538,6 +11549,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracker.onapps.org
 0.0.0.0 tracker.promosvc.com
 0.0.0.0 tracker.promovalue.us
+0.0.0.0 tracker.remp.impresa.pt
 0.0.0.0 tracker.svcoffer.com
 0.0.0.0 tracker.tradedoubler.com
 0.0.0.0 tracker.twenga.nl
@@ -11613,6 +11625,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracking.vcommission.com
 0.0.0.0 tracking.veoxa.com
 0.0.0.0 tracking.vindicosuite.com
+0.0.0.0 tracking.yohoads.com
 0.0.0.0 trackit.vicotech.com
 0.0.0.0 trackmail3345.com
 0.0.0.0 tracksurf.daooda.com

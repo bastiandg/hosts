@@ -5571,6 +5571,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adtrace.org
 0.0.0.0 adtrack-prod.elasticbeanstalk.com
 0.0.0.0 adtrack.adleadevent.com
+0.0.0.0 adtrack.appcpi.net
 0.0.0.0 adtrack.chartboosts.com
 0.0.0.0 adtrack.cimedia.net
 0.0.0.0 adtrack.cmgdigital.com
@@ -6412,6 +6413,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 analytics-ingest.creative-mobile.com
 0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-ingestion.staging-public.tubi.io
+0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics-iwtg-ten.yinzcam.com
 0.0.0.0 analytics-league-lfp.yinzcam.com
 0.0.0.0 analytics-nfl-1.yinzcam.com
@@ -6472,6 +6474,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 analytics.fotoable.net
 0.0.0.0 analytics.fuckingawesome.com
 0.0.0.0 analytics.glance.inmobi.com
+0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.grupogodo.com-v1.edgekey.net
 0.0.0.0 analytics.harpercollins.com
@@ -6551,6 +6554,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 analytics.siliconexpert.com
 0.0.0.0 analytics.sitewit.com
 0.0.0.0 analytics.slashdotmedia.com
+0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analytics.snssdk.com
 0.0.0.0 analytics.spotta.nl
 0.0.0.0 analytics.springboardvideo.com
@@ -7192,6 +7196,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 api2.restartad.com
 0.0.0.0 api3.siftscience.com
 0.0.0.0 api5.batmobi.net
+0.0.0.0 apiadapter.ad5track.com
 0.0.0.0 apibeta.zeti.com
 0.0.0.0 apicdn.viglink.com
 0.0.0.0 apicdn.zoomanalytics.co
@@ -14484,6 +14489,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 eu-srv.apptornado.com
 0.0.0.0 eu-srv2.apptornado.com
 0.0.0.0 eu-tlx.3lift.com
+0.0.0.0 eu-track.inside-graph.com
 0.0.0.0 eu-u.openx.net
 0.0.0.0 eu-west.load.exelator.com
 0.0.0.0 eu-win.bidsopt.com
@@ -15618,6 +15624,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 game.immomo.com
 0.0.0.0 game.weibo.com
 0.0.0.0 game0516.cdn8-traffic68-server10.top
+0.0.0.0 gameanalysis.appcpi.net
 0.0.0.0 gameanalysis.chartboosts.com
 0.0.0.0 gameanalytics.com
 0.0.0.0 gamebooster.lionmobi.com
@@ -22094,6 +22101,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 myao.adocean.pl
 0.0.0.0 myap.liveperson.com
 0.0.0.0 myasiantv.gsspcln.jp
+0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 mybestmv.com
 0.0.0.0 mybetterdl.com
 0.0.0.0 mybinaryoptionsrobot.com
@@ -25208,6 +25216,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 proof-x.com
 0.0.0.0 prooffactor.com
 0.0.0.0 propecia.1.p2l.info
+0.0.0.0 propeller-tracking.com
 0.0.0.0 propellerads.com
 0.0.0.0 propellerclick.com
 0.0.0.0 propellerpops.com
@@ -31485,6 +31494,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracker.blueprintinteractivetest.com
 0.0.0.0 tracker.bonnint.net
 0.0.0.0 tracker.brainsins.com
+0.0.0.0 tracker.bt.uol.com.br
 0.0.0.0 tracker.cdn-analytics.host
 0.0.0.0 tracker.cdn-us-doubleverify.com
 0.0.0.0 tracker.cl1.fidelizador.com
@@ -31520,6 +31530,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracker.onapps.org
 0.0.0.0 tracker.promosvc.com
 0.0.0.0 tracker.promovalue.us
+0.0.0.0 tracker.remp.impresa.pt
 0.0.0.0 tracker.rqmob.com
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 tracker.squidanalytics.com
@@ -31723,6 +31734,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracking.wisepops.com
 0.0.0.0 tracking.xapads.com
 0.0.0.0 tracking.yieldlove-ad-serving.net
+0.0.0.0 tracking.yohoads.com
 0.0.0.0 tracking.yomedia.vn
 0.0.0.0 tracking01.walmart.com
 0.0.0.0 tracking1.pandoiq.com

@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 20 Jul 2020 at 15:29:26 GMT
+# Last updated: Wed, 22 Jul 2020 at 05:24:40 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -396,6 +396,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 adopt.specificclick.net
 127.0.0.1 ads.tiscali.com
 127.0.0.1 ads.tiscali.it
+127.0.0.1 adtrack.appcpi.net
 127.0.0.1 adult.foxcounter.com
 127.0.0.1 affiliate.ab1trk.com
 127.0.0.1 affiliate.irotracker.com
@@ -411,11 +412,15 @@ ff02::3		ip6-allhosts
 127.0.0.1 amer.hops.glbdns.microsoft.com
 127.0.0.1 amer.rel.msn.com
 127.0.0.1 an.mlb.com
+127.0.0.1 analytics-ingress-global.bitmovin.com
 127.0.0.1 analytics-static.ugc.bazaarvoice.com
+127.0.0.1 analytics.global.sky.com
 127.0.0.1 analytics.msnbc.msn.com
 127.0.0.1 analytics.myfinances.com
+127.0.0.1 analytics.ooyala.com
 127.0.0.1 analytics.prx.org
 127.0.0.1 analytics.publitas.com
+127.0.0.1 analytics.sleeknote.com
 127.0.0.1 anm.intelli-direct.com
 127.0.0.1 anonymousdemographics.com
 127.0.0.1 ant.conversive.nl
@@ -432,6 +437,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 api.simpleanalytics.io
 127.0.0.1 api.tumra.com
 127.0.0.1 api2.murdoog.com
+127.0.0.1 apiadapter.ad5track.com
 127.0.0.1 apis.murdoog.com
 127.0.0.1 app-analytics.snapchat.com
 127.0.0.1 app.yesware.com
@@ -870,6 +876,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 entry-stats.huffingtonpost.com
 127.0.0.1 environmentalgraffiti.uk.intellitxt.com
 127.0.0.1 es.optimost.com
+127.0.0.1 eu-track.inside-graph.com
 127.0.0.1 eus.rubiconproject.com
 127.0.0.1 exch.quantserve.com
 127.0.0.1 extremereach.com
@@ -903,6 +910,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 fs10.fusestats.com
 127.0.0.1 ft2.autonomycloud.com
 127.0.0.1 g-wizzads.net
+127.0.0.1 gameanalysis.appcpi.net
 127.0.0.1 gapl.hit.gemius.pl
 127.0.0.1 gator.com
 127.0.0.1 gbr-7stars-tracking.adalyser.com
@@ -1165,6 +1173,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 mvtracker.com
 127.0.0.1 mx.iesnare.com
 127.0.0.1 mx.iovation.com
+127.0.0.1 mybbc-analytics.files.bbci.co.uk
 127.0.0.1 mystats.com
 127.0.0.1 nedstat.s0.nl
 127.0.0.1 net-radar.com
@@ -1231,6 +1240,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 printmail.biz
 127.0.0.1 privacy-policy.truste.com
 127.0.0.1 prof.estat.com
+127.0.0.1 propeller-tracking.com
 127.0.0.1 proxy.ia2.marketscore.com
 127.0.0.1 proxy.ia3.marketscore.com
 127.0.0.1 proxy.ia4.marketscore.com
@@ -1773,6 +1783,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 tracka.businessleadbuilder.com
 127.0.0.1 tracker.blueprintinteractivetest.com
 127.0.0.1 tracker.bonnint.net
+127.0.0.1 tracker.bt.uol.com.br
 127.0.0.1 tracker.cl1.fidelizador.com
 127.0.0.1 tracker.clicktrade.com
 127.0.0.1 tracker.consumerpackage.net
@@ -1788,6 +1799,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 tracker.onapps.org
 127.0.0.1 tracker.promosvc.com
 127.0.0.1 tracker.promovalue.us
+127.0.0.1 tracker.remp.impresa.pt
 127.0.0.1 tracker.svcoffer.com
 127.0.0.1 tracker.tradedoubler.com
 127.0.0.1 tracker1.leadiya.com
@@ -1848,6 +1860,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 tracking.trafficjunky.net
 127.0.0.1 tracking.trutv.com
 127.0.0.1 tracking.vindicosuite.com
+127.0.0.1 tracking.yohoads.com
 127.0.0.1 trackit.vicotech.com
 127.0.0.1 trackmail3345.com
 127.0.0.1 tracksurf.daooda.com

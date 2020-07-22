@@ -5571,6 +5571,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adtrace.org
 127.0.0.1 adtrack-prod.elasticbeanstalk.com
 127.0.0.1 adtrack.adleadevent.com
+127.0.0.1 adtrack.appcpi.net
 127.0.0.1 adtrack.chartboosts.com
 127.0.0.1 adtrack.cimedia.net
 127.0.0.1 adtrack.cmgdigital.com
@@ -6412,6 +6413,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analytics-ingest.creative-mobile.com
 127.0.0.1 analytics-ingestion.production-public.tubi.io
 127.0.0.1 analytics-ingestion.staging-public.tubi.io
+127.0.0.1 analytics-ingress-global.bitmovin.com
 127.0.0.1 analytics-iwtg-ten.yinzcam.com
 127.0.0.1 analytics-league-lfp.yinzcam.com
 127.0.0.1 analytics-nfl-1.yinzcam.com
@@ -6472,6 +6474,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analytics.fotoable.net
 127.0.0.1 analytics.fuckingawesome.com
 127.0.0.1 analytics.glance.inmobi.com
+127.0.0.1 analytics.global.sky.com
 127.0.0.1 analytics.google.com
 127.0.0.1 analytics.grupogodo.com-v1.edgekey.net
 127.0.0.1 analytics.harpercollins.com
@@ -6551,6 +6554,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analytics.siliconexpert.com
 127.0.0.1 analytics.sitewit.com
 127.0.0.1 analytics.slashdotmedia.com
+127.0.0.1 analytics.sleeknote.com
 127.0.0.1 analytics.snssdk.com
 127.0.0.1 analytics.spotta.nl
 127.0.0.1 analytics.springboardvideo.com
@@ -7192,6 +7196,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 api2.restartad.com
 127.0.0.1 api3.siftscience.com
 127.0.0.1 api5.batmobi.net
+127.0.0.1 apiadapter.ad5track.com
 127.0.0.1 apibeta.zeti.com
 127.0.0.1 apicdn.viglink.com
 127.0.0.1 apicdn.zoomanalytics.co
@@ -14484,6 +14489,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 eu-srv.apptornado.com
 127.0.0.1 eu-srv2.apptornado.com
 127.0.0.1 eu-tlx.3lift.com
+127.0.0.1 eu-track.inside-graph.com
 127.0.0.1 eu-u.openx.net
 127.0.0.1 eu-west.load.exelator.com
 127.0.0.1 eu-win.bidsopt.com
@@ -15618,6 +15624,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 game.immomo.com
 127.0.0.1 game.weibo.com
 127.0.0.1 game0516.cdn8-traffic68-server10.top
+127.0.0.1 gameanalysis.appcpi.net
 127.0.0.1 gameanalysis.chartboosts.com
 127.0.0.1 gameanalytics.com
 127.0.0.1 gamebooster.lionmobi.com
@@ -22094,6 +22101,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 myao.adocean.pl
 127.0.0.1 myap.liveperson.com
 127.0.0.1 myasiantv.gsspcln.jp
+127.0.0.1 mybbc-analytics.files.bbci.co.uk
 127.0.0.1 mybestmv.com
 127.0.0.1 mybetterdl.com
 127.0.0.1 mybinaryoptionsrobot.com
@@ -25208,6 +25216,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 proof-x.com
 127.0.0.1 prooffactor.com
 127.0.0.1 propecia.1.p2l.info
+127.0.0.1 propeller-tracking.com
 127.0.0.1 propellerads.com
 127.0.0.1 propellerclick.com
 127.0.0.1 propellerpops.com
@@ -31485,6 +31494,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracker.blueprintinteractivetest.com
 127.0.0.1 tracker.bonnint.net
 127.0.0.1 tracker.brainsins.com
+127.0.0.1 tracker.bt.uol.com.br
 127.0.0.1 tracker.cdn-analytics.host
 127.0.0.1 tracker.cdn-us-doubleverify.com
 127.0.0.1 tracker.cl1.fidelizador.com
@@ -31520,6 +31530,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracker.onapps.org
 127.0.0.1 tracker.promosvc.com
 127.0.0.1 tracker.promovalue.us
+127.0.0.1 tracker.remp.impresa.pt
 127.0.0.1 tracker.rqmob.com
 127.0.0.1 tracker.samplicio.us
 127.0.0.1 tracker.squidanalytics.com
@@ -31723,6 +31734,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tracking.wisepops.com
 127.0.0.1 tracking.xapads.com
 127.0.0.1 tracking.yieldlove-ad-serving.net
+127.0.0.1 tracking.yohoads.com
 127.0.0.1 tracking.yomedia.vn
 127.0.0.1 tracking01.walmart.com
 127.0.0.1 tracking1.pandoiq.com
