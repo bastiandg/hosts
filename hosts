@@ -6466,6 +6466,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 analytics.cnd-motionmedia.de
 127.0.0.1 analytics.cohesionapps.com
 127.0.0.1 analytics.digital-metric.com
+127.0.0.1 analytics.dnsfilter.com
 127.0.0.1 analytics.dspunion.com
 127.0.0.1 analytics.ext.go-tellm.com
 127.0.0.1 analytics.ff.avast.com
@@ -14215,6 +14216,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 eng.trkcnv.com
 127.0.0.1 engage-network.influencemobile.com
 127.0.0.1 engage-postbacks.influencemobile.com
+127.0.0.1 engage.dnsfilter.com
 127.0.0.1 engage.everyone.net
 127.0.0.1 engage.marketo.com
 127.0.0.1 engage.meltwater.com
