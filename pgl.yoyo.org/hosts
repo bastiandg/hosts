@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 24 Jul 2020 11:57:39 GMT
-# entries:        3500
+# last updated:   Fri, 24 Jul 2020 12:07:02 GMT
+# entries:        3501
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2801,6 +2801,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 revenuehits.com
 127.0.0.1 revive.docmatic.org
 127.0.0.1 revive.netriota.hu
+127.0.0.1 revive.plays.bg
 127.0.0.1 revlift.io
 127.0.0.1 revsci.net
 127.0.0.1 revstats.com
