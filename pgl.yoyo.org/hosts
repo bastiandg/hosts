@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 24 Jul 2020 10:13:37 GMT
-# entries:        3499
+# last updated:   Fri, 24 Jul 2020 11:57:39 GMT
+# entries:        3500
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -192,6 +192,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad.simflight.com
 127.0.0.1 ad.simgames.net
 127.0.0.1 ad.smartclip.net
+127.0.0.1 ad.tapthislink.com
 127.0.0.1 ad.tbn.ru
 127.0.0.1 ad.technoratimedia.com
 127.0.0.1 ad.thewheelof.com
@@ -605,7 +606,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.mobilebet.com
 127.0.0.1 ads.mopub.com
 127.0.0.1 ads.motor-forum.nl
-127.0.0.1 ads.motormedia.nl
 127.0.0.1 ads.msn.com
 127.0.0.1 ads.multimania.lycos.fr
 127.0.0.1 ads.muslimehelfen.org
@@ -854,7 +854,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver.sciflicks.com
 127.0.0.1 adserver.sharewareonline.com
 127.0.0.1 adserver.spankaway.com
-127.0.0.1 adserver.thema.cc
 127.0.0.1 adserver.theonering.net
 127.0.0.1 adserver.twitpic.com
 127.0.0.1 adserver.viagogo.com
@@ -1468,6 +1467,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 code-server.biz
 127.0.0.1 codeadnetwork.com
 127.0.0.1 cognitiv.ai
+127.0.0.1 cognitiveadscience.com
 127.0.0.1 coin-hive.com
 127.0.0.1 coinhive.com
 127.0.0.1 cointraffic.io
@@ -1503,7 +1503,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 convrse.media
 127.0.0.1 cookies.cmpnet.com
 127.0.0.1 coordinatedcub.com
-127.0.0.1 cooster.ru
 127.0.0.1 copperchickens.com
 127.0.0.1 copycarpenter.com
 127.0.0.1 copyrightaccesscontrols.com
@@ -2474,6 +2473,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 offer.sponsorpay.com
 127.0.0.1 offerforge.com
 127.0.0.1 offermatica.com
+127.0.0.1 oglasi.posjetnica.com
 127.0.0.1 ogury.com
 127.0.0.1 omnijay.com
 127.0.0.1 omniscientspark.com
@@ -2536,6 +2536,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 pagead.l.google.com
 127.0.0.1 pagefair.com
 127.0.0.1 pagefair.net
+127.0.0.1 pagerank-ranking.de
 127.0.0.1 pagerank4you.com
 127.0.0.1 pageranktop.com
 127.0.0.1 paleleaf.com
@@ -2721,6 +2722,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 radar.cedexis.com
 127.0.0.1 radarurl.com
 127.0.0.1 radiate.com
+127.0.0.1 rads.realadmin.pl
 127.0.0.1 railwayrainstorm.com
 127.0.0.1 railwayreason.com
 127.0.0.1 rampidads.com
@@ -3502,7 +3504,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 yieldmanager.net
 127.0.0.1 yieldmo.com
 127.0.0.1 yieldtraffic.com
-127.0.0.1 yldbt.com
 127.0.0.1 ymetrica1.com
 127.0.0.1 yoggrt.com
 127.0.0.1 ypu.samsungelectronics.com
