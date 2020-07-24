@@ -2124,7 +2124,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api-scsdk.appcloudbox.net
 0.0.0.0 api-secure.mixpanel.com
 0.0.0.0 api-selene.prod.adtech.de
-0.0.0.0 api-v3.tinypass.com
 0.0.0.0 api-vip.immomo.com
 0.0.0.0 api.1mobile.com
 0.0.0.0 api.247-inc.net
@@ -2396,7 +2395,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.taps.io
 0.0.0.0 api.tapstream.com
 0.0.0.0 api.theadex.com
-0.0.0.0 api.tinypass.com
 0.0.0.0 api.toboads.com
 0.0.0.0 api.tusdk.com
 0.0.0.0 api.umbel.com
@@ -3299,7 +3297,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 burstnet.com
 0.0.0.0 bustle-d.openx.net
 0.0.0.0 buttons.googlesyndication.com
-0.0.0.0 buy.tinypass.com
 0.0.0.0 buyhitscheap.com
 0.0.0.0 buzzad.io
 0.0.0.0 buzzcity.net
@@ -3690,7 +3687,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.taptica.com
 0.0.0.0 cdn.teads.tv
 0.0.0.0 cdn.thumbs.glispa.com
-0.0.0.0 cdn.tinypass.com
 0.0.0.0 cdn.tremorhub.com
 0.0.0.0 cdn.unityads.unity3d.com
 0.0.0.0 cdn.vdopia.com
@@ -5446,7 +5442,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 folder.adfuture.cn
 0.0.0.0 folder.adsunflower.com
 0.0.0.0 folder.advmob.cn
-0.0.0.0 fonts.tinypass.com
 0.0.0.0 footerroll.admedia.com
 0.0.0.0 forbes.media.net
 0.0.0.0 forecast.analytiall.com
@@ -6126,7 +6121,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 id-generator.logsss.com
 0.0.0.0 id-gmtdmp.mookie1.com
 0.0.0.0 id.cxense.com
-0.0.0.0 id.tinypass.com
 0.0.0.0 id1.cn
 0.0.0.0 id1.cn.com
 0.0.0.0 idcounter.com
@@ -8330,7 +8324,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 phone-arena-d.openx.net
 0.0.0.0 photobucket.adnxs.com
 0.0.0.0 phunware.com
-0.0.0.0 piano.io
 0.0.0.0 piccdn.igetget.com
 0.0.0.0 pie.adcolony.com
 0.0.0.0 pilot.civicscience.com
@@ -8679,7 +8672,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 publisher-reporting-api.fyber.com
 0.0.0.0 publisher.admicro.vn
 0.0.0.0 publisher.media.net
-0.0.0.0 publisher.piano.io
 0.0.0.0 publisher.taboola.com
 0.0.0.0 publisherdesk-d.openx.net
 0.0.0.0 publisherportal.doubleclick.net
@@ -9424,7 +9416,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sdk.dotui.cn
 0.0.0.0 sdk.dreamflyuu.com
 0.0.0.0 sdk.e.qq.com
-0.0.0.0 sdk.fevo.com
 0.0.0.0 sdk.fiksu.com
 0.0.0.0 sdk.fitle.com
 0.0.0.0 sdk.follow-apps.com

@@ -6849,7 +6849,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 api-scsdk.appcloudbox.net
 127.0.0.1 api-secure.mixpanel.com
 127.0.0.1 api-selene.prod.adtech.de
-127.0.0.1 api-v3.tinypass.com
 127.0.0.1 api-vip.immomo.com
 127.0.0.1 api.1mobile.com
 127.0.0.1 api.247-inc.net
@@ -7144,7 +7143,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.taps.io
 127.0.0.1 api.tapstream.com
 127.0.0.1 api.theadex.com
-127.0.0.1 api.tinypass.com
 127.0.0.1 api.toboads.com
 127.0.0.1 api.trackuity.com
 127.0.0.1 api.treasuredata.com
@@ -9437,7 +9435,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 buy-xanax.aztecaonline.net
 127.0.0.1 buy-xanax.hut1.ru
 127.0.0.1 buy-zyban.all.at
-127.0.0.1 buy.tinypass.com
 127.0.0.1 buycialisonline.7h.com
 127.0.0.1 buycialisonline.bigsitecity.com
 127.0.0.1 buycom.122.2o7.net
@@ -10459,7 +10456,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.teads.tv
 127.0.0.1 cdn.teamskeetimages.com
 127.0.0.1 cdn.thumbs.glispa.com
-127.0.0.1 cdn.tinypass.com
 127.0.0.1 cdn.total-media.net
 127.0.0.1 cdn.trackjs.com
 127.0.0.1 cdn.traffichunt.com
@@ -15223,7 +15219,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 fondprof.oewabox.at
 127.0.0.1 fontoshirek.info
 127.0.0.1 fontostudni.club
-127.0.0.1 fonts.tinypass.com
 127.0.0.1 foo.cosmocode.de
 127.0.0.1 food-drink-bonuspath.com
 127.0.0.1 food-drink-rewardpath.com
@@ -17438,7 +17433,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 id.cxense.com
 127.0.0.1 id.get35.com
 127.0.0.1 id.sputniknews.com
-127.0.0.1 id.tinypass.com
 127.0.0.1 id1.cn
 127.0.0.1 id1.cn.com
 127.0.0.1 id11938.luxup.ru
@@ -25461,7 +25455,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 publisher-reporting-api.fyber.com
 127.0.0.1 publisher.admicro.vn
 127.0.0.1 publisher.media.net
-127.0.0.1 publisher.piano.io
 127.0.0.1 publisher.taboola.com
 127.0.0.1 publisherdesk-d.openx.net
 127.0.0.1 publisherportal.doubleclick.net
@@ -27338,7 +27331,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 sdk.dotui.cn
 127.0.0.1 sdk.dreamflyuu.com
 127.0.0.1 sdk.e.qq.com
-127.0.0.1 sdk.fevo.com
 127.0.0.1 sdk.fiksu.com
 127.0.0.1 sdk.fitle.com
 127.0.0.1 sdk.follow-apps.com
