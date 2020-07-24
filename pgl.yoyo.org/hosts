@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 24 Jul 2020 12:07:02 GMT
-# entries:        3501
+# last updated:   Fri, 24 Jul 2020 16:39:13 GMT
+# entries:        3502
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2951,6 +2951,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 slipperysack.com
 127.0.0.1 slopeaota.com
 127.0.0.1 smaato.com
+127.0.0.1 smallbeginner.com
 127.0.0.1 smart-traffik.com
 127.0.0.1 smart-traffik.io
 127.0.0.1 smart4ads.com
