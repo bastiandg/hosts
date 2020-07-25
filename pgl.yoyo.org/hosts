@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 24 Jul 2020 16:39:13 GMT
-# entries:        3502
+# last updated:   Sat, 25 Jul 2020 07:31:09 GMT
+# entries:        3503
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -435,6 +435,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.bigfoot.com
 127.0.0.1 ads.bing.com
 127.0.0.1 ads.bittorrent.com
+127.0.0.1 ads.biz.tr
 127.0.0.1 ads.blog.com
 127.0.0.1 ads.bloomberg.com
 127.0.0.1 ads.bluemountain.com
