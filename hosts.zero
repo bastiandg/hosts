@@ -1297,6 +1297,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 a98spolicies.com
 0.0.0.0 aa-d.openx.net
 0.0.0.0 aa-metrics.beauty.hotpepper.jp
+0.0.0.0 aa-metrics.recruit-card.jp
 0.0.0.0 aa-metrics.trip-ai.jp
 0.0.0.0 aa-nb.marketgid.com
 0.0.0.0 aa.adfarm1.adition.com
@@ -3082,13 +3083,16 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.3sfmedia.com
 0.0.0.0 ads.4tube.com
 0.0.0.0 ads.5ci.lt
+0.0.0.0 ads.73dpi.com
 0.0.0.0 ads.7days.ae
 0.0.0.0 ads.8833.com
 0.0.0.0 ads.8live.com
+0.0.0.0 ads.aavv.com
 0.0.0.0 ads.abovetopsecret.com
 0.0.0.0 ads.abs-cbn.com
 0.0.0.0 ads.accelerator-media.com
 0.0.0.0 ads.aceweb.net
+0.0.0.0 ads.acpc.cat
 0.0.0.0 ads.acrosspf.com
 0.0.0.0 ads.active.com
 0.0.0.0 ads.activeagent.at
@@ -3749,6 +3753,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.intellicast.com
 0.0.0.0 ads.intentiq.com
 0.0.0.0 ads.intergi.com
+0.0.0.0 ads.internet24.se
 0.0.0.0 ads.internic.co.il
 0.0.0.0 ads.inthesidebar.com
 0.0.0.0 ads.inven.co.kr
@@ -4401,6 +4406,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.ultimatesurrender.com
 0.0.0.0 ads.uncrate.com
 0.0.0.0 ads.undertone.com
+0.0.0.0 ads.unison.bg
 0.0.0.0 ads.univision.com
 0.0.0.0 ads.unixathome.org
 0.0.0.0 ads.up-value.de
@@ -18900,6 +18906,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 kixer.com
 0.0.0.0 kladovonet.com.com
 0.0.0.0 klclick.com
+0.0.0.0 klclick1.com
 0.0.0.0 klick.vn
 0.0.0.0 klikasz-i-masz.com
 0.0.0.0 klikk.linkpulse.com
@@ -31561,6 +31568,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracking.10e20.com
 0.0.0.0 tracking.1betternetwork.com
 0.0.0.0 tracking.21-a4652-bi.co.uk
+0.0.0.0 tracking.39-bb4a9-osm.co.uk
 0.0.0.0 tracking.3com.com
 0.0.0.0 tracking.42-01pr5-osm-secure.co.uk
 0.0.0.0 tracking.45-fe6b6-aah.co.uk
@@ -32730,6 +32738,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 v1.your-notification.tools
 0.0.0.0 v10.xmlsearch.miva.com
 0.0.0.0 v16.56.com
+0.0.0.0 v1adserver.com
 0.0.0.0 v1hcmqbaqw.ru
 0.0.0.0 v2.adgoto.com
 0.0.0.0 v2.adsbookie.com
