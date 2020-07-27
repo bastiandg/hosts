@@ -21,7 +21,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 27 Jul 2020 12:55:14 GMT
+# last updated:   Mon, 27 Jul 2020 19:55:45 GMT
 # entries:        3514
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -1380,6 +1380,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 cdn.bannerflow.com
 127.0.0.1 cdn.branch.io
 127.0.0.1 cdn.freefarcy.com
+127.0.0.1 cdn.freshmarketer.com
 127.0.0.1 cdn.heapanalytics.com
 127.0.0.1 cdn.keywee.co
 127.0.0.1 cdn.onesignal.com
@@ -1837,7 +1838,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 freewebcounter.com
 127.0.0.1 freewheel.com
 127.0.0.1 freewheel.tv
-127.0.0.1 freshmarketer.com
 127.0.0.1 frightenedpotato.com
 127.0.0.1 frtyj.com
 127.0.0.1 frtyk.com

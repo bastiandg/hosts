@@ -10284,6 +10284,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.freejlo.com
 0.0.0.0 cdn.freelac.com
 0.0.0.0 cdn.freelev.com
+0.0.0.0 cdn.freshmarketer.com
 0.0.0.0 cdn.g.promosrv.com
 0.0.0.0 cdn.g5e.com
 0.0.0.0 cdn.getclicky.com
@@ -15438,7 +15439,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 freezemac.tech
 0.0.0.0 frenetikus.com
 0.0.0.0 freshmac.space
-0.0.0.0 freshmarketer.com
 0.0.0.0 friendtest.us.intellitxt.com
 0.0.0.0 frightenedpotato.com
 0.0.0.0 frissvilag.com

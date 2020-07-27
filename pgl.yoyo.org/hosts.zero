@@ -1353,6 +1353,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.bannerflow.com
 0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.freefarcy.com
+0.0.0.0 cdn.freshmarketer.com
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn.keywee.co
 0.0.0.0 cdn.onesignal.com
@@ -1810,7 +1811,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 freewebcounter.com
 0.0.0.0 freewheel.com
 0.0.0.0 freewheel.tv
-0.0.0.0 freshmarketer.com
 0.0.0.0 frightenedpotato.com
 0.0.0.0 frtyj.com
 0.0.0.0 frtyk.com
