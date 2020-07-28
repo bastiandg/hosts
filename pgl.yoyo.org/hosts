@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 27 Jul 2020 19:55:45 GMT
-# entries:        3514
+# last updated:   Tue, 28 Jul 2020 09:42:53 GMT
+# entries:        3517
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1723,6 +1723,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 entrecard.s3.amazonaws.com
 127.0.0.1 enviousthread.com
 127.0.0.1 epom.com
+127.0.0.1 epp.bih.net.ba
 127.0.0.1 eqads.com
 127.0.0.1 erne.co
 127.0.0.1 ero-advertising.com
@@ -2539,6 +2540,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 oxcash.com
 127.0.0.1 oxen.hillcountrytexas.com
 127.0.0.1 p-n.io
+127.0.0.1 p.nag.ru
 127.0.0.1 p2r14.com
 127.0.0.1 padsbrown.com
 127.0.0.1 padssup.com
@@ -2810,6 +2812,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 revenuehits.com
 127.0.0.1 revive.docmatic.org
 127.0.0.1 revive.dubcnm.com
+127.0.0.1 revive.haskovo.net
 127.0.0.1 revive.netriota.hu
 127.0.0.1 revive.plays.bg
 127.0.0.1 revlift.io
