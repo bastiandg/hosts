@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 28 Jul 2020 09:42:53 GMT
-# entries:        3517
+# last updated:   Tue, 28 Jul 2020 12:46:06 GMT
+# entries:        3518
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2733,6 +2733,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 radar.cedexis.com
 127.0.0.1 radarurl.com
 127.0.0.1 radiate.com
+127.0.0.1 rads.alfamedia.pl
 127.0.0.1 rads.realadmin.pl
 127.0.0.1 railwayrainstorm.com
 127.0.0.1 railwayreason.com
