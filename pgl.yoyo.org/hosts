@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 28 Jul 2020 12:46:06 GMT
-# entries:        3518
+# last updated:   Tue, 28 Jul 2020 13:07:41 GMT
+# entries:        3520
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2673,6 +2673,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 propellerclick.com
 127.0.0.1 proper.io
 127.0.0.1 props.id
+127.0.0.1 prosper.on-line-casino.ca
 127.0.0.1 proton-tm.com
 127.0.0.1 protraffic.com
 127.0.0.1 provexia.com
@@ -3236,6 +3237,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 track.hexcan.com
 127.0.0.1 track.mailerlite.com
 127.0.0.1 track.nuxues.com
+127.0.0.1 track.tkbo.com
 127.0.0.1 track.ultravpn.com
 127.0.0.1 track.undressingpics.work
 127.0.0.1 track.viewdeos.com
