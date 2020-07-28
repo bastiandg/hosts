@@ -463,6 +463,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 4768.content.swrve.com
 0.0.0.0 4771.api.swrve.com
 0.0.0.0 4771.content.swrve.com
+0.0.0.0 489a19fa-d831-4954-858d-46436d5cdb20.event.collector.scopely.io
 0.0.0.0 4984.engine.mobileapptracking.com
 0.0.0.0 4d83.playfabapi.com
 0.0.0.0 4dle.info
