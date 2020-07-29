@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 29 Jul 2020 16:11:42 GMT
-# entries:        3529
+# last updated:   Wed, 29 Jul 2020 18:14:17 GMT
+# entries:        3530
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -404,6 +404,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads-kesselhaus.com
 127.0.0.1 ads-trk.vidible.tv
 127.0.0.1 ads-twitter.com
+127.0.0.1 ads.365.mk
 127.0.0.1 ads.4tube.com
 127.0.0.1 ads.5ci.lt
 127.0.0.1 ads.73dpi.com
