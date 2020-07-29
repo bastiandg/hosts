@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 29 Jul 2020 07:45:36 GMT
-# entries:        3526
+# last updated:   Wed, 29 Jul 2020 10:28:18 GMT
+# entries:        3528
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -102,6 +102,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ac.rnm.ca
 127.0.0.1 acbsearch.com
 127.0.0.1 acceptable.a-ads.com
+127.0.0.1 acid-adserver.click
 127.0.0.1 acridtwist.com
 127.0.0.1 actionsplash.com
 127.0.0.1 actualdeals.com
@@ -851,6 +852,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver.janes.com
 127.0.0.1 adserver.lecool.com
 127.0.0.1 adserver.libero.it
+127.0.0.1 adserver.madeby.ws
 127.0.0.1 adserver.mobi
 127.0.0.1 adserver.msmb.biz
 127.0.0.1 adserver.news.com.au
