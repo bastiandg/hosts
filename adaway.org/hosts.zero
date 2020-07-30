@@ -2517,7 +2517,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 app-c.net
 0.0.0.0 app-config.enhance.co
 0.0.0.0 app-e.marketo.com
-0.0.0.0 app-eu.clickdimensions.com
 0.0.0.0 app-icons.apptentive.com
 0.0.0.0 app-log.immomo.com
 0.0.0.0 app-lon02.marketo.com
@@ -2574,7 +2573,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 app.bugfender.com
 0.0.0.0 app.bugreplay.com
 0.0.0.0 app.cision.com
-0.0.0.0 app.clickdimensions.com
 0.0.0.0 app.clickyab.com
 0.0.0.0 app.cobrowser.com
 0.0.0.0 app.datorama.com
@@ -5021,8 +5019,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 eldamar04-loadbalanced.kameleoon.com
 0.0.0.0 elephantdata.net
 0.0.0.0 eligibility.wootric.com
-0.0.0.0 elink.clickdimensions.com
-0.0.0.0 elinkeu.clickdimensions.com
 0.0.0.0 elitedaily-d.openx.net
 0.0.0.0 elonezet.netadclick.com
 0.0.0.0 els.a4.tl
@@ -5398,10 +5394,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 file.autoads.asia
 0.0.0.0 filecdn2.ad.dotandad.com
-0.0.0.0 files-eu.clickdimensions.com
 0.0.0.0 files.adform.net
 0.0.0.0 files.appsgeyser.com
-0.0.0.0 files.clickdimensions.com
 0.0.0.0 files.innovid.com
 0.0.0.0 files.revcontent.com
 0.0.0.0 filev4.subiz.com

@@ -7257,7 +7257,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 app-c.net
 127.0.0.1 app-config.enhance.co
 127.0.0.1 app-e.marketo.com
-127.0.0.1 app-eu.clickdimensions.com
 127.0.0.1 app-icons.apptentive.com
 127.0.0.1 app-log.immomo.com
 127.0.0.1 app-lon02.marketo.com
@@ -7317,7 +7316,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 app.bugfender.com
 127.0.0.1 app.bugreplay.com
 127.0.0.1 app.cision.com
-127.0.0.1 app.clickdimensions.com
 127.0.0.1 app.clickyab.com
 127.0.0.1 app.cobrowser.com
 127.0.0.1 app.datafastguru.info
@@ -14079,8 +14077,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 elfogadom.eu
 127.0.0.1 eliehabib.com
 127.0.0.1 eligibility.wootric.com
-127.0.0.1 elink.clickdimensions.com
-127.0.0.1 elinkeu.clickdimensions.com
 127.0.0.1 elite.sextracker.com
 127.0.0.1 elitedaily-d.openx.net
 127.0.0.1 elitedollars.com
@@ -14979,13 +14975,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 filecdn2.ad.dotandad.com
 127.0.0.1 filecdn2.dotandad.com
 127.0.0.1 filedudes.us.intellitxt.com
-127.0.0.1 files-eu.clickdimensions.com
 127.0.0.1 files.adbrite.com
 127.0.0.1 files.adform.net
 127.0.0.1 files.adspdbl.com
 127.0.0.1 files.appsgeyser.com
 127.0.0.1 files.bannersnack.com
-127.0.0.1 files.clickdimensions.com
 127.0.0.1 files.dsnetwb.com
 127.0.0.1 files.innovid.com
 127.0.0.1 files.native.ad
