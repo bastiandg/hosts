@@ -1268,7 +1268,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bizrate.com
 0.0.0.0 bizzclick.com
 0.0.0.0 bkrtx.com
-0.0.0.0 blast4traffic.com
 0.0.0.0 blingbucks.com
 0.0.0.0 blis.com
 0.0.0.0 blockadblock.com
@@ -1535,7 +1534,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 crawlclocks.com
 0.0.0.0 crazyegg.com
 0.0.0.0 crazypopups.com
-0.0.0.0 creafi-online-media.com
 0.0.0.0 creatives.livejasmin.com
 0.0.0.0 credishe.com
 0.0.0.0 criteo.com
@@ -1642,7 +1640,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 dsp.colpirio.com
 0.0.0.0 dsp.io
 0.0.0.0 dstillery.com
-0.0.0.0 dynamic.fmpub.net
 0.0.0.0 dyntrk.com
 0.0.0.0 dzairads.com
 0.0.0.0 e-adimages.scrippsnetworks.com
@@ -2254,7 +2251,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 maximumcash.com
 0.0.0.0 maxonclick.com
 0.0.0.0 mbs.megaroticlive.com
-0.0.0.0 mbuyu.nl
 0.0.0.0 mcdlks.com
 0.0.0.0 measure.office.com
 0.0.0.0 measuremap.com
@@ -3505,6 +3501,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 yieldmanager.net
 0.0.0.0 yieldmo.com
 0.0.0.0 yieldtraffic.com
+0.0.0.0 yldbt.com
 0.0.0.0 ymetrica1.com
 0.0.0.0 yoggrt.com
 0.0.0.0 ypu.samsungelectronics.com

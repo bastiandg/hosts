@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 29 Jul 2020 18:14:17 GMT
-# entries:        3528
+# entries:        3525
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1295,7 +1295,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 bizrate.com
 127.0.0.1 bizzclick.com
 127.0.0.1 bkrtx.com
-127.0.0.1 blast4traffic.com
 127.0.0.1 blingbucks.com
 127.0.0.1 blis.com
 127.0.0.1 blockadblock.com
@@ -1562,7 +1561,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 crawlclocks.com
 127.0.0.1 crazyegg.com
 127.0.0.1 crazypopups.com
-127.0.0.1 creafi-online-media.com
 127.0.0.1 creatives.livejasmin.com
 127.0.0.1 credishe.com
 127.0.0.1 criteo.com
@@ -1669,7 +1667,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 dsp.colpirio.com
 127.0.0.1 dsp.io
 127.0.0.1 dstillery.com
-127.0.0.1 dynamic.fmpub.net
 127.0.0.1 dyntrk.com
 127.0.0.1 dzairads.com
 127.0.0.1 e-adimages.scrippsnetworks.com
@@ -2281,7 +2278,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 maximumcash.com
 127.0.0.1 maxonclick.com
 127.0.0.1 mbs.megaroticlive.com
-127.0.0.1 mbuyu.nl
 127.0.0.1 mcdlks.com
 127.0.0.1 measure.office.com
 127.0.0.1 measuremap.com
@@ -3532,6 +3528,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 yieldmanager.net
 127.0.0.1 yieldmo.com
 127.0.0.1 yieldtraffic.com
+127.0.0.1 yldbt.com
 127.0.0.1 ymetrica1.com
 127.0.0.1 yoggrt.com
 127.0.0.1 ypu.samsungelectronics.com
