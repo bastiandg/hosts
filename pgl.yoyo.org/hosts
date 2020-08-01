@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 29 Jul 2020 18:14:17 GMT
-# entries:        3525
+# last updated:   Sat, 01 Aug 2020 16:28:06 GMT
+# entries:        3526
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -3040,6 +3040,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 stackadapt.com
 127.0.0.1 stakingscrew.com
 127.0.0.1 stakingslope.com
+127.0.0.1 stalesummer.com
 127.0.0.1 standingnest.com
 127.0.0.1 starffa.com
 127.0.0.1 start.freeze.com
