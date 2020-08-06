@@ -2449,7 +2449,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 apis.adbro.me
 0.0.0.0 apis.com.br
 0.0.0.0 apis.ihg.com.edgekey.net
-0.0.0.0 apis.playstove.com.edgekey.net
 0.0.0.0 apiservices.krxd.net
 0.0.0.0 apissl.ksapisrv.com
 0.0.0.0 apiv2.moengage.com
@@ -9532,7 +9531,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sdkupgrade.insight.ucweb.com
 0.0.0.0 sdkv2.imaginationunwired.com
 0.0.0.0 sdkvideo.s3.amazonaws.com
-0.0.0.0 sdkweb.playstove.com
 0.0.0.0 sdpg.ksapisrv.com
 0.0.0.0 sds.livesegmentservice.com
 0.0.0.0 se-02.adtomafusion.com
