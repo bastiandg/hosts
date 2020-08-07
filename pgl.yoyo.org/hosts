@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 02 Aug 2020 15:06:41 GMT
-# entries:        3527
+# entries:        3523
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1733,7 +1733,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 eqads.com
 127.0.0.1 erne.co
 127.0.0.1 ero-advertising.com
-127.0.0.1 errortablet.com
 127.0.0.1 espn.com.ssl.sc.omtrdc.net
 127.0.0.1 estat.com
 127.0.0.1 et.nytimes.com
@@ -1899,7 +1898,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 googlesyndication.com
 127.0.0.1 googletagservices.com
 127.0.0.1 gorgeousground.com
-127.0.0.1 gossipmiser.com
 127.0.0.1 gostats.com
 127.0.0.1 gothamads.com
 127.0.0.1 gotraffic.net
@@ -2131,7 +2129,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 kliks.nl
 127.0.0.1 klsdee.com
 127.0.0.1 kmpiframe.keepmeposted.com.mt
-127.0.0.1 knifeoctopus.com
 127.0.0.1 knorex.com
 127.0.0.1 komoona.com
 127.0.0.1 kompasads.com
@@ -3486,7 +3483,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 worldwide-cash.net
 127.0.0.1 worldwidedigitalads.com
 127.0.0.1 worriednumber.com
-127.0.0.1 worrybutter.com
 127.0.0.1 wpnrtnmrewunrtok.xyz
 127.0.0.1 wryfinger.com
 127.0.0.1 wt-eu02.net
