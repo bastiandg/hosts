@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 08 Aug 2020 14:12:14 GMT
-# entries:        3524
+# last updated:   Mon, 10 Aug 2020 07:40:39 GMT
+# entries:        3525
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2467,6 +2467,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 nuttyorganization.com
 127.0.0.1 nzaza.com
 127.0.0.1 o0bc.com
+127.0.0.1 oafishobservation.com
 127.0.0.1 oas.benchmark.fr
 127.0.0.1 oas.repubblica.it
 127.0.0.1 oas.roanoke.com
