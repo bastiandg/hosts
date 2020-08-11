@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 11 Aug 2020 16:27:15 GMT
-# entries:        3527
+# last updated:   Tue, 11 Aug 2020 20:38:17 GMT
+# entries:        3528
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1821,6 +1821,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 floodprincipal.com
 127.0.0.1 flowgo.com
 127.0.0.1 flurry.com
+127.0.0.1 fly-analytics.com
 127.0.0.1 foo.cosmocode.de
 127.0.0.1 foresee.com
 127.0.0.1 forex-affiliate.net
