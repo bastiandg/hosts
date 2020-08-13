@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 12 Aug 2020 16:17:18 GMT
-# entries:        3529
+# entries:        3528
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2696,7 +2696,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 pubdirecte.com
 127.0.0.1 publicidad.elmundo.es
 127.0.0.1 publicidees.com
-127.0.0.1 publisher-assets.spot.im
 127.0.0.1 pubmatic.com
 127.0.0.1 pubmine.com
 127.0.0.1 pubnative.net
