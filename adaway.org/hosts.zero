@@ -2050,7 +2050,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 anquan.baidu.com
 0.0.0.0 anquan.org
 0.0.0.0 answers-d.openx.net
-0.0.0.0 answers.chartboost.com
 0.0.0.0 answers.nielsen.com
 0.0.0.0 antenna-apse.ayads.co
 0.0.0.0 antenna-us.ayads.co
@@ -3784,7 +3783,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ch-gmtdmp.mookie1.com
 0.0.0.0 challenge.360in.com
 0.0.0.0 chanalytics.merchantadvantage.com
-0.0.0.0 changelog.taplytics.com
 0.0.0.0 chango.com
 0.0.0.0 channel.api.duapp.com
 0.0.0.0 chantal.parrable.com
@@ -4316,6 +4314,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 crashlogs.woniu.com
 0.0.0.0 crashlytics.163.com
+0.0.0.0 crashlytics2.l.google.com
 0.0.0.0 craveandlamb.com
 0.0.0.0 crazypopups.com
 0.0.0.0 crb.kargo.com
@@ -5695,7 +5694,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 go.amplitude.com
 0.0.0.0 go.apptimize.com
 0.0.0.0 go.apptrk.io
-0.0.0.0 go.branch.io
 0.0.0.0 go.conversantmedia.com
 0.0.0.0 go.fullstory.com
 0.0.0.0 go.localytics.com
@@ -6399,7 +6397,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 intercom-assets.wootric.com
 0.0.0.0 intermarkets.net
 0.0.0.0 intermrkts.vo.llnwd.net
-0.0.0.0 internal.fullstory.com
 0.0.0.0 internal.revcontent.com
 0.0.0.0 interseek.si
 0.0.0.0 interstitial-content.otherlevels.com
@@ -6672,7 +6669,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 labs.chitika.com
 0.0.0.0 labs.comscore.com
 0.0.0.0 labs.revcontent.com
-0.0.0.0 labs.taplytics.com
 0.0.0.0 lacerta.iad-03.appboy.com
 0.0.0.0 lacerta.iad.appboy.com
 0.0.0.0 ladycash.ru
@@ -7189,7 +7185,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 media1.admicro.vn
 0.0.0.0 media10.admicro.vn
 0.0.0.0 media2.admicro.vn
-0.0.0.0 media24.pushwoosh.com
 0.0.0.0 media3.admicro.vn
 0.0.0.0 media4.admicro.vn
 0.0.0.0 media5.admicro.vn
@@ -7325,7 +7320,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 millenialmedia.com
 0.0.0.0 millennialmedia-d.openx.net
 0.0.0.0 millennialmedia.com
-0.0.0.0 millicom.pushwoosh.com
 0.0.0.0 mime.iad.adswizz.com
 0.0.0.0 min.admicro.vn
 0.0.0.0 mindbodygreen-d.openx.net
@@ -7485,7 +7479,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mobisla.com
 0.0.0.0 mobivity.com
 0.0.0.0 mobixell.com
-0.0.0.0 moblin.pushwoosh.com
 0.0.0.0 moblink.mob.com
 0.0.0.0 mobobeat.com
 0.0.0.0 mobojs.baidu.com
@@ -7956,7 +7949,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 onboarding.cxense.com
 0.0.0.0 ondemand.tf-cdn.net
 0.0.0.0 one-and-one-d.openx.net
-0.0.0.0 one.pushwoosh.com
 0.0.0.0 oneadvertising-d.openx.net
 0.0.0.0 onedmp.com
 0.0.0.0 onedrive.su
@@ -8126,7 +8118,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ox.appnext.com
 0.0.0.0 oxdemo-d.openx.net
 0.0.0.0 oxjapan-d.openx.net
-0.0.0.0 ozon.pushwoosh.com
 0.0.0.0 p-awse-ebs.adsymptotic.com
 0.0.0.0 p-behacdn.ksmobile.net
 0.0.0.0 p-jp-cci-dps.cinarra.com
@@ -8222,7 +8213,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 partnerearning.com
 0.0.0.0 partners-hotwire-com.impactradius.com
 0.0.0.0 partners.ad-brix.com
-0.0.0.0 partners.chartboost.com
 0.0.0.0 partners.propellerads.com
 0.0.0.0 partners.tremorhub.com
 0.0.0.0 partnervideo.syndication.msn.com
@@ -10137,7 +10127,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 star-advertising.com
 0.0.0.0 starffa.com
 0.0.0.0 stars.applicaster.com
-0.0.0.0 start.branch.io
 0.0.0.0 startapp.com
 0.0.0.0 startappservice.com
 0.0.0.0 startribune-d.openx.net
@@ -10351,17 +10340,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 statsgoogle.appsflyer.com
 0.0.0.0 statsonline.pushct.baidu.com
 0.0.0.0 statt-collect.herokuapp.com
-0.0.0.0 status.amplitude.com
 0.0.0.0 status.appsee.com
-0.0.0.0 status.batch.com
-0.0.0.0 status.branch.io
-0.0.0.0 status.chartboost.com
-0.0.0.0 status.fullstory.com
 0.0.0.0 status.optimizely.com
 0.0.0.0 status.pubmatic.com
-0.0.0.0 status.pushwoosh.com
-0.0.0.0 status.taplytics.com
-0.0.0.0 status.urbanairship.com
 0.0.0.0 stc-nas.nixcdn.com
 0.0.0.0 stc.adtima.vn
 0.0.0.0 stc.gammaplatform.com
@@ -11564,7 +11545,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 video.adsafeprotected.com
 0.0.0.0 video.adspruce.com
 0.0.0.0 video.batmobi.net
-0.0.0.0 video.branch.io
 0.0.0.0 video.fyber.com
 0.0.0.0 video.innovid.com
 0.0.0.0 video.inskinad.com
@@ -11781,7 +11761,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 wowanalytics.co.uk
 0.0.0.0 wp.adperfect.com
 0.0.0.0 wpcdn1.herokuapp.com
-0.0.0.0 wpengine.taplytics.com
 0.0.0.0 wpg.adpxl.co
 0.0.0.0 wpg.blueconic.com
 0.0.0.0 wpix.media6degrees.com
@@ -11878,7 +11857,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.ugdturner.com
 0.0.0.0 www.upv4.moatads.com
 0.0.0.0 www1.gto-media.com
-0.0.0.0 www2.branch.io
 0.0.0.0 wwwservices.iad.appboy.com
 0.0.0.0 wx.cname1.igexin.com
 0.0.0.0 wyvern.iad.appboy.com

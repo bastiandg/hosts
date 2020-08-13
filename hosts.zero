@@ -6662,7 +6662,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 answerbag.us.intellitxt.com
 0.0.0.0 answerhub.com
 0.0.0.0 answers-d.openx.net
-0.0.0.0 answers.chartboost.com
 0.0.0.0 answers.nielsen.com
 0.0.0.0 answers.us.intellitxt.com
 0.0.0.0 ant.conversive.nl
@@ -10650,7 +10649,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 chameleon.ad
 0.0.0.0 chanalytics.merchantadvantage.com
 0.0.0.0 changduk26.com
-0.0.0.0 changelog.taplytics.com
 0.0.0.0 chango.com
 0.0.0.0 channel.api.duapp.com
 0.0.0.0 channel1vids.com
@@ -12136,6 +12134,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 crashlogs.woniu.com
 0.0.0.0 crashlytics.163.com
+0.0.0.0 crashlytics2.l.google.com
 0.0.0.0 craveandlamb.com
 0.0.0.0 crawlability.com
 0.0.0.0 crawlclocks.com
@@ -16067,7 +16066,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 go.arbopl.bbelements.com
 0.0.0.0 go.arboru.bbelements.com
 0.0.0.0 go.bb007.bbelements.com
-0.0.0.0 go.branch.io
 0.0.0.0 go.conversantmedia.com
 0.0.0.0 go.conversionmasters.com
 0.0.0.0 go.cz.bbelements.com
@@ -18038,7 +18036,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 intermix.us.intellitxt.com
 0.0.0.0 intermrkts.vo.llnwd.net
 0.0.0.0 internal.fuckyoucash.com
-0.0.0.0 internal.fullstory.com
 0.0.0.0 internal.revcontent.com
 0.0.0.0 internalads.gammae.com
 0.0.0.0 international-package-delivery.com
@@ -18927,7 +18924,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 labs.comscore.com
 0.0.0.0 labs.natpal.com
 0.0.0.0 labs.revcontent.com
-0.0.0.0 labs.taplytics.com
 0.0.0.0 lacableshaw.com
 0.0.0.0 lacerta.iad-03.appboy.com
 0.0.0.0 lacerta.iad.appboy.com
@@ -20613,7 +20609,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 media22.fastclick.net
 0.0.0.0 media23.fastclick.net
 0.0.0.0 media24.fastclick.net
-0.0.0.0 media24.pushwoosh.com
 0.0.0.0 media25.fastclick.net
 0.0.0.0 media26.fastclick.net
 0.0.0.0 media27.fastclick.net
@@ -21236,7 +21231,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 milleniumpapelaria.com.br
 0.0.0.0 millennialmedia-d.openx.net
 0.0.0.0 millennialmedia.com
-0.0.0.0 millicom.pushwoosh.com
 0.0.0.0 milotree.com
 0.0.0.0 milyondolar.com
 0.0.0.0 mimageads.googleadservices.com
@@ -21534,7 +21528,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mobisla.com
 0.0.0.0 mobivity.com
 0.0.0.0 mobixell.com
-0.0.0.0 moblin.pushwoosh.com
 0.0.0.0 moblink.mob.com
 0.0.0.0 mobobeat.com
 0.0.0.0 mobojs.baidu.com
@@ -23285,7 +23278,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 one-and-one-d.openx.net
 0.0.0.0 one.123counters.com
 0.0.0.0 one.cam4ads.com
-0.0.0.0 one.pushwoosh.com
 0.0.0.0 oneadvertising-d.openx.net
 0.0.0.0 oneandonlynetwork.com
 0.0.0.0 onedmp.com
@@ -23724,7 +23716,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 oz.valueclick.com
 0.0.0.0 oz.valueclick.ne.jp
 0.0.0.0 ozertesa.com
-0.0.0.0 ozon.pushwoosh.com
 0.0.0.0 ozonemedia.adbureau.net
 0.0.0.0 p-awse-ebs.adsymptotic.com
 0.0.0.0 p-behacdn.ksmobile.net
@@ -23955,7 +23946,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 partners.ad-brix.com
 0.0.0.0 partners.adklick.de
 0.0.0.0 partners.badongo.com
-0.0.0.0 partners.chartboost.com
 0.0.0.0 partners.content.ad
 0.0.0.0 partners.fanduel.com
 0.0.0.0 partners.mysavings.com
@@ -28858,7 +28848,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 starlix.ql.st
 0.0.0.0 stars.applicaster.com
 0.0.0.0 start.badults.se
-0.0.0.0 start.branch.io
 0.0.0.0 start.freeze.com
 0.0.0.0 start.outster.com
 0.0.0.0 start.qip.ru
@@ -29426,17 +29415,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 statt-collect.herokuapp.com
 0.0.0.0 statto.plus8.net
 0.0.0.0 status.addthis.com
-0.0.0.0 status.amplitude.com
 0.0.0.0 status.appsee.com
-0.0.0.0 status.batch.com
-0.0.0.0 status.branch.io
-0.0.0.0 status.chartboost.com
-0.0.0.0 status.fullstory.com
 0.0.0.0 status.optimizely.com
 0.0.0.0 status.pubmatic.com
-0.0.0.0 status.pushwoosh.com
-0.0.0.0 status.taplytics.com
-0.0.0.0 status.urbanairship.com
 0.0.0.0 statutorjuihui.site
 0.0.0.0 statxpress.com
 0.0.0.0 stc-nas.nixcdn.com
@@ -32810,7 +32791,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 video.adsafeprotected.com
 0.0.0.0 video.adspruce.com
 0.0.0.0 video.batmobi.net
-0.0.0.0 video.branch.io
 0.0.0.0 video.buzzintersection.com
 0.0.0.0 video.cynogage.com
 0.0.0.0 video.dmtracker.com
@@ -33810,7 +33790,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 wpad.cinci.rr.com
 0.0.0.0 wpadx.com
 0.0.0.0 wpcdn1.herokuapp.com
-0.0.0.0 wpengine.taplytics.com
 0.0.0.0 wpg.adpxl.co
 0.0.0.0 wpg.blueconic.com
 0.0.0.0 wpix.media6degrees.com
@@ -36493,7 +36472,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www2.anybestconcreteflash.icu
 0.0.0.0 www2.autopartswarehouse.com
 0.0.0.0 www2.bannerspace.com
-0.0.0.0 www2.branch.io
 0.0.0.0 www2.clustrmaps.com
 0.0.0.0 www2.counter.bloke.com
 0.0.0.0 www2.cqcounter.com

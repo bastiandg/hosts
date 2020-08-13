@@ -6662,7 +6662,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 answerbag.us.intellitxt.com
 127.0.0.1 answerhub.com
 127.0.0.1 answers-d.openx.net
-127.0.0.1 answers.chartboost.com
 127.0.0.1 answers.nielsen.com
 127.0.0.1 answers.us.intellitxt.com
 127.0.0.1 ant.conversive.nl
@@ -10650,7 +10649,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 chameleon.ad
 127.0.0.1 chanalytics.merchantadvantage.com
 127.0.0.1 changduk26.com
-127.0.0.1 changelog.taplytics.com
 127.0.0.1 chango.com
 127.0.0.1 channel.api.duapp.com
 127.0.0.1 channel1vids.com
@@ -12136,6 +12134,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 crashlogs.whatsapp.net
 127.0.0.1 crashlogs.woniu.com
 127.0.0.1 crashlytics.163.com
+127.0.0.1 crashlytics2.l.google.com
 127.0.0.1 craveandlamb.com
 127.0.0.1 crawlability.com
 127.0.0.1 crawlclocks.com
@@ -16067,7 +16066,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 go.arbopl.bbelements.com
 127.0.0.1 go.arboru.bbelements.com
 127.0.0.1 go.bb007.bbelements.com
-127.0.0.1 go.branch.io
 127.0.0.1 go.conversantmedia.com
 127.0.0.1 go.conversionmasters.com
 127.0.0.1 go.cz.bbelements.com
@@ -18038,7 +18036,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 intermix.us.intellitxt.com
 127.0.0.1 intermrkts.vo.llnwd.net
 127.0.0.1 internal.fuckyoucash.com
-127.0.0.1 internal.fullstory.com
 127.0.0.1 internal.revcontent.com
 127.0.0.1 internalads.gammae.com
 127.0.0.1 international-package-delivery.com
@@ -18927,7 +18924,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 labs.comscore.com
 127.0.0.1 labs.natpal.com
 127.0.0.1 labs.revcontent.com
-127.0.0.1 labs.taplytics.com
 127.0.0.1 lacableshaw.com
 127.0.0.1 lacerta.iad-03.appboy.com
 127.0.0.1 lacerta.iad.appboy.com
@@ -20613,7 +20609,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 media22.fastclick.net
 127.0.0.1 media23.fastclick.net
 127.0.0.1 media24.fastclick.net
-127.0.0.1 media24.pushwoosh.com
 127.0.0.1 media25.fastclick.net
 127.0.0.1 media26.fastclick.net
 127.0.0.1 media27.fastclick.net
@@ -21236,7 +21231,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 milleniumpapelaria.com.br
 127.0.0.1 millennialmedia-d.openx.net
 127.0.0.1 millennialmedia.com
-127.0.0.1 millicom.pushwoosh.com
 127.0.0.1 milotree.com
 127.0.0.1 milyondolar.com
 127.0.0.1 mimageads.googleadservices.com
@@ -21534,7 +21528,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mobisla.com
 127.0.0.1 mobivity.com
 127.0.0.1 mobixell.com
-127.0.0.1 moblin.pushwoosh.com
 127.0.0.1 moblink.mob.com
 127.0.0.1 mobobeat.com
 127.0.0.1 mobojs.baidu.com
@@ -23285,7 +23278,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 one-and-one-d.openx.net
 127.0.0.1 one.123counters.com
 127.0.0.1 one.cam4ads.com
-127.0.0.1 one.pushwoosh.com
 127.0.0.1 oneadvertising-d.openx.net
 127.0.0.1 oneandonlynetwork.com
 127.0.0.1 onedmp.com
@@ -23724,7 +23716,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 oz.valueclick.com
 127.0.0.1 oz.valueclick.ne.jp
 127.0.0.1 ozertesa.com
-127.0.0.1 ozon.pushwoosh.com
 127.0.0.1 ozonemedia.adbureau.net
 127.0.0.1 p-awse-ebs.adsymptotic.com
 127.0.0.1 p-behacdn.ksmobile.net
@@ -23955,7 +23946,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 partners.ad-brix.com
 127.0.0.1 partners.adklick.de
 127.0.0.1 partners.badongo.com
-127.0.0.1 partners.chartboost.com
 127.0.0.1 partners.content.ad
 127.0.0.1 partners.fanduel.com
 127.0.0.1 partners.mysavings.com
@@ -28858,7 +28848,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 starlix.ql.st
 127.0.0.1 stars.applicaster.com
 127.0.0.1 start.badults.se
-127.0.0.1 start.branch.io
 127.0.0.1 start.freeze.com
 127.0.0.1 start.outster.com
 127.0.0.1 start.qip.ru
@@ -29426,17 +29415,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 statt-collect.herokuapp.com
 127.0.0.1 statto.plus8.net
 127.0.0.1 status.addthis.com
-127.0.0.1 status.amplitude.com
 127.0.0.1 status.appsee.com
-127.0.0.1 status.batch.com
-127.0.0.1 status.branch.io
-127.0.0.1 status.chartboost.com
-127.0.0.1 status.fullstory.com
 127.0.0.1 status.optimizely.com
 127.0.0.1 status.pubmatic.com
-127.0.0.1 status.pushwoosh.com
-127.0.0.1 status.taplytics.com
-127.0.0.1 status.urbanairship.com
 127.0.0.1 statutorjuihui.site
 127.0.0.1 statxpress.com
 127.0.0.1 stc-nas.nixcdn.com
@@ -32810,7 +32791,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 video.adsafeprotected.com
 127.0.0.1 video.adspruce.com
 127.0.0.1 video.batmobi.net
-127.0.0.1 video.branch.io
 127.0.0.1 video.buzzintersection.com
 127.0.0.1 video.cynogage.com
 127.0.0.1 video.dmtracker.com
@@ -33810,7 +33790,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 wpad.cinci.rr.com
 127.0.0.1 wpadx.com
 127.0.0.1 wpcdn1.herokuapp.com
-127.0.0.1 wpengine.taplytics.com
 127.0.0.1 wpg.adpxl.co
 127.0.0.1 wpg.blueconic.com
 127.0.0.1 wpix.media6degrees.com
@@ -36493,7 +36472,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www2.anybestconcreteflash.icu
 127.0.0.1 www2.autopartswarehouse.com
 127.0.0.1 www2.bannerspace.com
-127.0.0.1 www2.branch.io
 127.0.0.1 www2.clustrmaps.com
 127.0.0.1 www2.counter.bloke.com
 127.0.0.1 www2.cqcounter.com
