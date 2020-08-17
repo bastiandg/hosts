@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sat, 15 Aug 2020 08:15:10 GMT
-# entries:        3526
+# entries:        3527
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2589,6 +2589,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 permutive.com
 127.0.0.1 personagraph.com
 127.0.0.1 petiteumbrella.com
+127.0.0.1 pgl.example.com
 127.0.0.1 pgl.example0101
 127.0.0.1 pgmediaserve.com
 127.0.0.1 pgpartner.com
