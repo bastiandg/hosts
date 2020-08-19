@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 15 Aug 2020 08:15:10 GMT
-# entries:        3527
+# last updated:   Wed, 19 Aug 2020 07:16:43 GMT
+# entries:        3528
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2603,6 +2603,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 picadmedia.com
 127.0.0.1 piet2eix3l.com
 127.0.0.1 pietexture.com
+127.0.0.1 pilotaffiliate.com
 127.0.0.1 pimproll.com
 127.0.0.1 ping.ublock.org
 127.0.0.1 pipedream.wistia.com

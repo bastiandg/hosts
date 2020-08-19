@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 18 Aug 2020 at 22:55:56 GMT
+# Last updated: Wed, 19 Aug 2020 at 07:40:03 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -393,6 +393,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 admin.iesnare.co.uk
 127.0.0.1 admin.iesnare.com
 127.0.0.1 admin.iovation.com
+127.0.0.1 adobestats.com
 127.0.0.1 adopt.specificclick.net
 127.0.0.1 ads.tiscali.com
 127.0.0.1 ads.tiscali.it
@@ -896,6 +897,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 filezilla.fr
 127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 fl01.ct2.comclick.com
+127.0.0.1 flixprice.com
 127.0.0.1 flury-ycpi.gycpi.b.yahoodns.net
 127.0.0.1 flycast.com
 127.0.0.1 forbescollect.247realmedia.com
@@ -7388,6 +7390,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 bitburg.adtech.us
 127.0.0.1 bitcast-d.bitgravity.com
 127.0.0.1 bitcoadz.io
+127.0.0.1 bitcoinaussiesystemsoft.com
 127.0.0.1 bitmedia.io
 127.0.0.1 bitonclick.com
 127.0.0.1 bitraffic.com
