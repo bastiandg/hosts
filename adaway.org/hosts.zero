@@ -1641,6 +1641,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 app.roximity.com
 0.0.0.0 app.segment.com
 0.0.0.0 app.unbounce.com
+0.0.0.0 app.upee.online
 0.0.0.0 app.wootric.com
 0.0.0.0 app.xdrig.com
 0.0.0.0 app.yesware.com.herokudns.com
@@ -7468,6 +7469,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 updated.com
 0.0.0.0 updatepage.kuwo.cn
 0.0.0.0 updater.lionmobi.com
+0.0.0.0 upee.online
 0.0.0.0 upi-d.openx.net
 0.0.0.0 upload.juxiao.mediav.com
 0.0.0.0 upload.ksapisrv.com
