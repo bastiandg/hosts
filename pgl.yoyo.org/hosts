@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 19 Aug 2020 11:47:28 GMT
-# entries:        3529
+# entries:        3527
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1081,7 +1081,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 analytics.htmedia.in
 127.0.0.1 analytics.icons8.com
 127.0.0.1 analytics.inlinemanual.com
-127.0.0.1 analytics.jabong.com
 127.0.0.1 analytics.jst.ai
 127.0.0.1 analytics.live.com
 127.0.0.1 analytics.mailmunch.co
@@ -1269,7 +1268,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 berp.com
 127.0.0.1 best-realgirl2.com
 127.0.0.1 bestboundary.com
-127.0.0.1 bestprizesday2.life
 127.0.0.1 bestsearch.net
 127.0.0.1 bewilderedblade.com
 127.0.0.1 bfmio.com
@@ -1939,7 +1937,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 heyos.com
 127.0.0.1 hfc195b.com
 127.0.0.1 hgads.com
-127.0.0.1 hidden.gogoceleb.com
 127.0.0.1 highfalutinroom.com
 127.0.0.1 hightrafficads.com
 127.0.0.1 hilariouszinc.com
@@ -3539,6 +3536,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 z3dmbpl6309s.com
 127.0.0.1 z501lpfg9x8v.com
 127.0.0.1 z5x.net
+127.0.0.1 zangocash.com
 127.0.0.1 zanox-affiliate.de
 127.0.0.1 zanox.com
 127.0.0.1 zantracker.com
