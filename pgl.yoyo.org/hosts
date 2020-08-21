@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 19 Aug 2020 11:47:28 GMT
-# entries:        3527
+# last updated:   Fri, 21 Aug 2020 13:26:25 GMT
+# entries:        3529
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -275,6 +275,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ademails.com
 127.0.0.1 adengage.com
 127.0.0.1 adetracking.com
+127.0.0.1 adexc.net
 127.0.0.1 adexchangegate.com
 127.0.0.1 adexchangeprediction.com
 127.0.0.1 adexpose.com
@@ -2897,6 +2898,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 screechingfurniture.com
 127.0.0.1 scripte-monster.de
 127.0.0.1 scrubswim.com
+127.0.0.1 sdcswingers.online
 127.0.0.1 sdkfjxjertertry.com
 127.0.0.1 seadform.net
 127.0.0.1 searchmarketing.com
