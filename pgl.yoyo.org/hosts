@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 21 Aug 2020 19:18:44 GMT
-# entries:        3530
+# last updated:   Sat, 22 Aug 2020 06:21:20 GMT
+# entries:        3531
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1382,6 +1382,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 casinopays.com
 127.0.0.1 casinorewards.com
 127.0.0.1 casinotraffic.com
+127.0.0.1 causecherry.com
 127.0.0.1 cbanners.virtuagirlhd.com
 127.0.0.1 cdn.bannerflow.com
 127.0.0.1 cdn.branch.io
