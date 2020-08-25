@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 22 Aug 2020 06:21:20 GMT
-# entries:        3531
+# last updated:   Tue, 25 Aug 2020 13:15:04 GMT
+# entries:        3532
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2443,6 +2443,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 newnudecash.com
 127.0.0.1 newopenx.detik.com
 127.0.0.1 newsadsppush.com
+127.0.0.1 newsletter-link.com
 127.0.0.1 newstarads.com
 127.0.0.1 newt1.adultadworld.com
 127.0.0.1 newt1.adultworld.com
