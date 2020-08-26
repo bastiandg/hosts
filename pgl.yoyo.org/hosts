@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 25 Aug 2020 19:05:56 GMT
-# entries:        3533
+# last updated:   Wed, 26 Aug 2020 08:50:41 GMT
+# entries:        3534
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -196,6 +196,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad.simflight.com
 127.0.0.1 ad.simgames.net
 127.0.0.1 ad.smartclip.net
+127.0.0.1 ad.style
 127.0.0.1 ad.tapthislink.com
 127.0.0.1 ad.tbn.ru
 127.0.0.1 ad.technoratimedia.com
