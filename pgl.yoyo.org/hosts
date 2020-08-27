@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 26 Aug 2020 08:50:41 GMT
-# entries:        3534
+# last updated:   Thu, 27 Aug 2020 07:19:58 GMT
+# entries:        3536
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1157,6 +1157,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 avenuea.com
 127.0.0.1 avocet.io
 127.0.0.1 avpa.javalobby.org
+127.0.0.1 awakebird.com
 127.0.0.1 awempire.com
 127.0.0.1 awin1.com
 127.0.0.1 awzbijw.com
@@ -3089,6 +3090,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 steadfastsystem.com
 127.0.0.1 steelhouse.com
 127.0.0.1 steelhousemedia.com
+127.0.0.1 stepplane.com
 127.0.0.1 stickssheep.com
 127.0.0.1 stickyadstv.com
 127.0.0.1 storesurprise.com
