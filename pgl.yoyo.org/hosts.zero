@@ -740,6 +740,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.yourfreedvds.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads.zdnet.com
+0.0.0.0 ads.zmarsa.com
 0.0.0.0 ads.ztod.com
 0.0.0.0 ads1-adnow.com
 0.0.0.0 ads1.canoe.ca
@@ -866,6 +867,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adsfac.eu
 0.0.0.0 adsfac.net
 0.0.0.0 adsfac.us
+0.0.0.0 adsfeed.brabys.com
 0.0.0.0 adside.com
 0.0.0.0 adsiduous.com
 0.0.0.0 adskeeper.co.uk

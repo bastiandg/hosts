@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 27 Aug 2020 07:19:58 GMT
-# entries:        3536
+# last updated:   Thu, 27 Aug 2020 13:28:03 GMT
+# entries:        3538
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -767,6 +767,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.yourfreedvds.com
 127.0.0.1 ads.youtube.com
 127.0.0.1 ads.zdnet.com
+127.0.0.1 ads.zmarsa.com
 127.0.0.1 ads.ztod.com
 127.0.0.1 ads1-adnow.com
 127.0.0.1 ads1.canoe.ca
@@ -893,6 +894,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsfac.eu
 127.0.0.1 adsfac.net
 127.0.0.1 adsfac.us
+127.0.0.1 adsfeed.brabys.com
 127.0.0.1 adside.com
 127.0.0.1 adsiduous.com
 127.0.0.1 adskeeper.co.uk
