@@ -850,6 +850,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.sciflicks.com
 0.0.0.0 adserver.sharewareonline.com
 0.0.0.0 adserver.spankaway.com
+0.0.0.0 adserver.thema.cc
 0.0.0.0 adserver.theonering.net
 0.0.0.0 adserver.twitpic.com
 0.0.0.0 adserver.viagogo.com
@@ -860,7 +861,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver1.backbeatmedia.com
 0.0.0.0 adserver1.mindshare.de
 0.0.0.0 adserver2.mindshare.de
-0.0.0.0 adservern2.host
 0.0.0.0 adserverplus.com
 0.0.0.0 adserverpub.com
 0.0.0.0 adserversolutions.com
@@ -955,7 +955,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 advertiseireland.com
 0.0.0.0 advertisementafterthought.com
 0.0.0.0 advertiserurl.com
-0.0.0.0 advertisespace.com
 0.0.0.0 advertising.com
 0.0.0.0 advertisingbanners.com
 0.0.0.0 advertisingbox.com
@@ -2842,7 +2841,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 roughroll.com
 0.0.0.0 roxr.net
 0.0.0.0 rs6.net
-0.0.0.0 rsalcdp.com
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rtb.gumgum.com
 0.0.0.0 rtb.openx.net

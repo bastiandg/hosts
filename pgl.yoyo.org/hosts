@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 28 Aug 2020 08:20:20 GMT
-# entries:        3547
+# entries:        3545
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -877,6 +877,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver.sciflicks.com
 127.0.0.1 adserver.sharewareonline.com
 127.0.0.1 adserver.spankaway.com
+127.0.0.1 adserver.thema.cc
 127.0.0.1 adserver.theonering.net
 127.0.0.1 adserver.twitpic.com
 127.0.0.1 adserver.viagogo.com
@@ -887,7 +888,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver1.backbeatmedia.com
 127.0.0.1 adserver1.mindshare.de
 127.0.0.1 adserver2.mindshare.de
-127.0.0.1 adservern2.host
 127.0.0.1 adserverplus.com
 127.0.0.1 adserverpub.com
 127.0.0.1 adserversolutions.com
@@ -982,7 +982,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 advertiseireland.com
 127.0.0.1 advertisementafterthought.com
 127.0.0.1 advertiserurl.com
-127.0.0.1 advertisespace.com
 127.0.0.1 advertising.com
 127.0.0.1 advertisingbanners.com
 127.0.0.1 advertisingbox.com
@@ -2869,7 +2868,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 roughroll.com
 127.0.0.1 roxr.net
 127.0.0.1 rs6.net
-127.0.0.1 rsalcdp.com
 127.0.0.1 rta.dailymail.co.uk
 127.0.0.1 rtb.gumgum.com
 127.0.0.1 rtb.openx.net

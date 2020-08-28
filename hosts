@@ -4619,6 +4619,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserver.terra.com.br
 127.0.0.1 adserver.terra.es
 127.0.0.1 adserver.theknot.com
+127.0.0.1 adserver.thema.cc
 127.0.0.1 adserver.theonering.net
 127.0.0.1 adserver.thirty4.com
 127.0.0.1 adserver.thisislondon.co.uk
@@ -4700,7 +4701,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adserver9.contextad.com
 127.0.0.1 adserverb.conjelco.com
 127.0.0.1 adserverc.cliipa.com
-127.0.0.1 adservern2.host
 127.0.0.1 adserverplus.com
 127.0.0.1 adserverpub.com
 127.0.0.1 adserversolutions.com
@@ -5074,7 +5074,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 advertisementnl.112.2o7.net
 127.0.0.1 advertisers.federatedmedia.net
 127.0.0.1 advertiserurl.com
-127.0.0.1 advertisespace.com
 127.0.0.1 advertising.aol.com
 127.0.0.1 advertising.bayoubuzz.com
 127.0.0.1 advertising.bbcworldwide.com
@@ -23426,7 +23425,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 rs2.adledge.com
 127.0.0.1 rs2.qq.com
 127.0.0.1 rs6.net
-127.0.0.1 rsalcdp.com
 127.0.0.1 rsc.scmspain.com
 127.0.0.1 rscdn.cxense.com
 127.0.0.1 rscounter10.com
