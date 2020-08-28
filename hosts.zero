@@ -2673,6 +2673,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.ami-admin.com
 0.0.0.0 ads.amigos.com
 0.0.0.0 ads.anm.co.uk
+0.0.0.0 ads.annabac.com
 0.0.0.0 ads.anvato.com
 0.0.0.0 ads.aol.co.uk
 0.0.0.0 ads.aol.com
@@ -2728,6 +2729,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.battle.net
 0.0.0.0 ads.bauerpublishing.com
 0.0.0.0 ads.baventures.com
+0.0.0.0 ads.bb59.ru
 0.0.0.0 ads.bbcworld.com
 0.0.0.0 ads.bcnewsgroup.com
 0.0.0.0 ads.be2hand.com
@@ -2838,6 +2840,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.chumcity.com
 0.0.0.0 ads.cinemaden.com
 0.0.0.0 ads.cineville.nl
+0.0.0.0 ads.citymagazine.si
 0.0.0.0 ads.cjonline.com
 0.0.0.0 ads.clamav.net
 0.0.0.0 ads.clara.net
@@ -20950,6 +20953,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 openx.adfactor.nl
 0.0.0.0 openx.ajur.info
 0.0.0.0 openx.angelsgroup.org.uk
+0.0.0.0 openx.aosis.co.za
 0.0.0.0 openx.bmwpower-bg.net
 0.0.0.0 openx.cairo360.com
 0.0.0.0 openx.camelmedia.net
@@ -20957,11 +20961,13 @@ ff02::2 ip6-allrouters
 0.0.0.0 openx.engagedmediamags.com
 0.0.0.0 openx.imoti.net
 0.0.0.0 openx.itsmassive.com
+0.0.0.0 openx.kgmedia.eu
 0.0.0.0 openx.mercatormedia.com
 0.0.0.0 openx.net
 0.0.0.0 openx.omniton.net
 0.0.0.0 openx.org
 0.0.0.0 openx.shinyads.com
+0.0.0.0 openx.skinet.cz
 0.0.0.0 openx.smcaen.fr
 0.0.0.0 openx.trellian.com
 0.0.0.0 openx.vsekiden.com
@@ -20969,6 +20975,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 openx.xenium.pl
 0.0.0.0 openx2-match.dotomi.com
 0.0.0.0 openx2.fotoflexer.com
+0.0.0.0 openx2.kytary.cz
 0.0.0.0 openxenterprise.com
 0.0.0.0 openxxx.viragemedia.com
 0.0.0.0 opera-server.thinknearhub.com

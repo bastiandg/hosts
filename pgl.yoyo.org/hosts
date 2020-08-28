@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 27 Aug 2020 15:24:26 GMT
-# entries:        3540
+# last updated:   Fri, 28 Aug 2020 08:20:20 GMT
+# entries:        3547
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -431,6 +431,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.alt.com
 127.0.0.1 ads.amdmb.com
 127.0.0.1 ads.amigos.com
+127.0.0.1 ads.annabac.com
 127.0.0.1 ads.aol.co.uk
 127.0.0.1 ads.apn.co.nz
 127.0.0.1 ads.appsgeyser.com
@@ -441,6 +442,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.ask.com
 127.0.0.1 ads.aspalliance.com
 127.0.0.1 ads.avazu.net
+127.0.0.1 ads.bb59.ru
 127.0.0.1 ads.belointeractive.com
 127.0.0.1 ads.betfair.com
 127.0.0.1 ads.bigchurch.com
@@ -468,6 +470,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.centraliprom.com
 127.0.0.1 ads.channel4.com
 127.0.0.1 ads.cheabit.com
+127.0.0.1 ads.citymagazine.si
 127.0.0.1 ads.clasificadox.com
 127.0.0.1 ads.clearchannel.com
 127.0.0.1 ads.co.com
@@ -2526,8 +2529,12 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 opentag-stats.qubit.com
 127.0.0.1 openx.actvtech.com
 127.0.0.1 openx.angelsgroup.org.uk
+127.0.0.1 openx.aosis.co.za
 127.0.0.1 openx.cairo360.com
+127.0.0.1 openx.kgmedia.eu
+127.0.0.1 openx.skinet.cz
 127.0.0.1 openx.smcaen.fr
+127.0.0.1 openx2.kytary.cz
 127.0.0.1 operationkettle.com
 127.0.0.1 opienetwork.com
 127.0.0.1 opmnstr.com

@@ -404,6 +404,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.amdmb.com
 0.0.0.0 ads.amigos.com
+0.0.0.0 ads.annabac.com
 0.0.0.0 ads.aol.co.uk
 0.0.0.0 ads.apn.co.nz
 0.0.0.0 ads.appsgeyser.com
@@ -414,6 +415,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.ask.com
 0.0.0.0 ads.aspalliance.com
 0.0.0.0 ads.avazu.net
+0.0.0.0 ads.bb59.ru
 0.0.0.0 ads.belointeractive.com
 0.0.0.0 ads.betfair.com
 0.0.0.0 ads.bigchurch.com
@@ -441,6 +443,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.centraliprom.com
 0.0.0.0 ads.channel4.com
 0.0.0.0 ads.cheabit.com
+0.0.0.0 ads.citymagazine.si
 0.0.0.0 ads.clasificadox.com
 0.0.0.0 ads.clearchannel.com
 0.0.0.0 ads.co.com
@@ -2499,8 +2502,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 opentag-stats.qubit.com
 0.0.0.0 openx.actvtech.com
 0.0.0.0 openx.angelsgroup.org.uk
+0.0.0.0 openx.aosis.co.za
 0.0.0.0 openx.cairo360.com
+0.0.0.0 openx.kgmedia.eu
+0.0.0.0 openx.skinet.cz
 0.0.0.0 openx.smcaen.fr
+0.0.0.0 openx2.kytary.cz
 0.0.0.0 operationkettle.com
 0.0.0.0 opienetwork.com
 0.0.0.0 opmnstr.com
