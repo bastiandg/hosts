@@ -1910,7 +1910,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 adashbc.m.taobao.com
 127.0.0.1 adashbc.ut.taobao.com
-127.0.0.1 adashx.m.taobao.com
 127.0.0.1 adashx.ut.taobao.com
 127.0.0.1 adashx4ae.ut.taobao.com
 127.0.0.1 adashxgc.ut.taobao.com
@@ -5559,7 +5558,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ambitiousagreement.com
 127.0.0.1 ambulanciaslazaro.com
 127.0.0.1 amch.questionmarket.com
-127.0.0.1 amdc.m.taobao.com
 127.0.0.1 amdvtest.112.2o7.net
 127.0.0.1 amdzone.us.intellitxt.com
 127.0.0.1 amer.hops.glbdns.microsoft.com
@@ -12780,7 +12778,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 et.nytimes.com
 127.0.0.1 et.twyn.com
 127.0.0.1 et.w.inmobi.com
-127.0.0.1 et2-na61-na62.wagbridge.alibaba.tanx.com
 127.0.0.1 etad.telegraph.co.uk
 127.0.0.1 etahub.com
 127.0.0.1 etargetnet.com
@@ -19698,7 +19695,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 na.hitbox.com
 127.0.0.1 na61-na62-st3.wagbridge.advertisement.tanx.com
 127.0.0.1 na61-na62.wagbridge.advertisement.tanx.com
-127.0.0.1 na61-na62.wagbridge.alibaba.tanx.com
 127.0.0.1 nabina.iad-03.braze.com
 127.0.0.1 nactx.com
 127.0.0.1 nadegda-95.ru
@@ -23661,7 +23657,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 s.btstatic.com
 127.0.0.1 s.c.appier.net
 127.0.0.1 s.click.aliexpress.com
-127.0.0.1 s.click.taobao.com
 127.0.0.1 s.clickability.com
 127.0.0.1 s.clicktale.net
 127.0.0.1 s.cpro.baidu.com
@@ -30144,7 +30139,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 wonchangvacuum.com.my
 127.0.0.1 wonderlandads.com
 127.0.0.1 wondoads.de
-127.0.0.1 woodpecker.uc.cn
 127.0.0.1 woopra.com
 127.0.0.1 wootric-eligibility.herokuapp.com
 127.0.0.1 wopper.bioblitzgaming.ca

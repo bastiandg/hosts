@@ -488,7 +488,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adashbc.m.taobao.com
 0.0.0.0 adashbc.ut.taobao.com
-0.0.0.0 adashx.m.taobao.com
 0.0.0.0 adashxgc.ut.taobao.com
 0.0.0.0 adasiaholdings.com
 0.0.0.0 adasiatagmanager.appspot.com
@@ -1016,7 +1015,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 amazon-tam-match.dotomi.com
 0.0.0.0 amazon.vrvm.com
 0.0.0.0 ambient-platform.com
-0.0.0.0 amdc.m.taobao.com
 0.0.0.0 americanairlines.demdex.net
 0.0.0.0 ami-d.openx.net
 0.0.0.0 amidt.adsafeprotected.com
@@ -3400,7 +3398,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 et.kissmetrics.com
 0.0.0.0 et.mobadvent.com
 0.0.0.0 et.w.inmobi.com
-0.0.0.0 et2-na61-na62.wagbridge.alibaba.tanx.com
 0.0.0.0 etahub.com
 0.0.0.0 etcodes.com
 0.0.0.0 etl.xlmc.sandai.net
@@ -5056,7 +5053,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 na.api.inrix.com
 0.0.0.0 na61-na62-st3.wagbridge.advertisement.tanx.com
 0.0.0.0 na61-na62.wagbridge.advertisement.tanx.com
-0.0.0.0 na61-na62.wagbridge.alibaba.tanx.com
 0.0.0.0 nabina.iad-03.braze.com
 0.0.0.0 naiadsystems.com
 0.0.0.0 nan.netmng.com
@@ -6005,7 +6001,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 s.baomoi.xdn.vn
 0.0.0.0 s.c.appier.net
 0.0.0.0 s.click.aliexpress.com
-0.0.0.0 s.click.taobao.com
 0.0.0.0 s.cpro.baidu.com
 0.0.0.0 s.d.adup-tech.com
 0.0.0.0 s.dpmsrv.com
@@ -7791,7 +7786,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 wish.securedtouch.com
 0.0.0.0 wiyun.com
 0.0.0.0 wn.pos.baidu.com
-0.0.0.0 woodpecker.uc.cn
 0.0.0.0 wootric-eligibility.herokuapp.com
 0.0.0.0 worker1.advertnative.com
 0.0.0.0 worker2.advertnative.com
