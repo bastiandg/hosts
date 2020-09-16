@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 19 Aug 2020 at 07:40:03 GMT
+# Last updated: Wed, 16 Sep 2020 at 01:03:10 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2139,6 +2139,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 59-106-20-39.r-bl100.sakura.ne.jp
 127.0.0.1 662bd114b7c9.onceedge.ru
 127.0.0.1 7zip.fr
+127.0.0.1 8hj500ro4t7.groovepages.com
 127.0.0.1 ASKBOT.com
 127.0.0.1 Arrayshift.com
 127.0.0.1 BonusCashh.com
@@ -2891,6 +2892,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 stellarium.fr
 127.0.0.1 stopphoulplay.com
 127.0.0.1 stopphoulplay.net
+127.0.0.1 storeoverlylatestapplication.best
 127.0.0.1 suddenplot.com
 127.0.0.1 sunhe.jinr.ru
 127.0.0.1 superegler.net
@@ -4603,6 +4605,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 aads.treehugger.com
 127.0.0.1 aams1.aim4media.com
 127.0.0.1 aan.amazon.com
+127.0.0.1 aarth.net
 127.0.0.1 aax-cpm.amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 aax-us-pdx.amazon-adsystem.com
@@ -4617,6 +4620,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ac.rnm.ca
 127.0.0.1 ac.tynt.com
 127.0.0.1 acces.streaming-direct.co
+127.0.0.1 accessfreevpn.com
 127.0.0.1 accountprotection.xyz
 127.0.0.1 achetezfacile.com
 127.0.0.1 aclick.adhoc2.net
@@ -4644,6 +4648,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ad-mediation.tuanguwen.com
 127.0.0.1 ad-noise.net
 127.0.0.1 ad-plus.cn
+127.0.0.1 ad-score.com
 127.0.0.1 ad-server.co.za
 127.0.0.1 ad-serverparc.nl
 127.0.0.1 ad-servicestats.net
@@ -7406,6 +7411,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 blabla4u.adserver.co.il
 127.0.0.1 blasphemysfhs.info
 127.0.0.1 blatant8jh.info
+127.0.0.1 blockchaintop.nl
 127.0.0.1 blog.addthis.com
 127.0.0.1 blogads.com
 127.0.0.1 blogads.ebanner.nl
@@ -7458,6 +7464,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 bsnj.eyeblaster.akadns.net
 127.0.0.1 bt.linkpulse.com
 127.0.0.1 budapest1873.net
+127.0.0.1 buf.lemonde.fr
 127.0.0.1 bumerangshowsites.hurriyet.com.tr
 127.0.0.1 bundasnovinhas.com
 127.0.0.1 burns.adtech.de
@@ -7538,6 +7545,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 c.tw.msn.com
 127.0.0.1 c.uk.msn.com
 127.0.0.1 c.za.msn.com
+127.0.0.1 c0011.boursorama.com
 127.0.0.1 c1.adform.net
 127.0.0.1 c1.popads.net
 127.0.0.1 c1.teaser-goods.ru
@@ -7751,6 +7759,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 cgm.adbureau.ne
 127.0.0.1 cgm.adbureau.net
 127.0.0.1 chainsawoffer.com
+127.0.0.1 chaintopdom.nl
 127.0.0.1 charging-technology.com
 127.0.0.1 charmedno1.com
 127.0.0.1 charmflirt.com
@@ -8004,6 +8013,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 crowdignite.com
 127.0.0.1 crux.songline.com
 127.0.0.1 crwdcntrl.net
+127.0.0.1 cryptoblog.biz
 127.0.0.1 cryptocoinsad.com
 127.0.0.1 cryptolabpro.com
 127.0.0.1 cs.adxpansion.com
@@ -8085,6 +8095,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 dashboardnew.adcalls.nl
 127.0.0.1 dashgreen.online
 127.0.0.1 data-failover.eroadvertising.com
+127.0.0.1 data.ad-score.com
 127.0.0.1 data.eroadvertising.com
 127.0.0.1 data.flurry.com
 127.0.0.1 data.namesakeoscilloscopemarquis.com
@@ -8220,6 +8231,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 dub.mobileads.msn.com
 127.0.0.1 dy.admerize.be
 127.0.0.1 dyn.loolav.space
+127.0.0.1 dynip.org
 127.0.0.1 dzl.baidu.com
 127.0.0.1 e-ltvp.inmobi.com
 127.0.0.1 e.8p30k.cn
@@ -8409,6 +8421,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 fin.tips
 127.0.0.1 finance-offer.com
 127.0.0.1 finanzmeldungen.com
+127.0.0.1 find-your-profithere11.com
 127.0.0.1 finder.cox.net
 127.0.0.1 findsexguide.com
 127.0.0.1 firrectly.top
@@ -8621,6 +8634,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 geoloc11.geovisite.com
 127.0.0.1 geolocation-db.com
 127.0.0.1 geoweb.e-kolay.net
+127.0.0.1 get-express-vpn.com
 127.0.0.1 get.optad360.io
 127.0.0.1 get.x-link.pl
 127.0.0.1 getacool100.com
@@ -8705,8 +8719,10 @@ ff02::3		ip6-allhosts
 127.0.0.1 go.trkreward.com
 127.0.0.1 go.verymuchad.com
 127.0.0.1 go2.hit.gemius.pl
+127.0.0.1 go2page.net
 127.0.0.1 goa.camimbu.com
 127.0.0.1 goautofinance.com
+127.0.0.1 gocarosel.com
 127.0.0.1 gofreegifts.com
 127.0.0.1 goldadpremium.com
 127.0.0.1 goldbach.hit.gemius.pl
@@ -8732,6 +8748,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 gremimedia.pl
 127.0.0.1 grfx.mp3.com
 127.0.0.1 groupm.com
+127.0.0.1 grtexch.com
 127.0.0.1 grz67.com
 127.0.0.1 gs1.idsales.co.uk
 127.0.0.1 gserv.cneteu.net
@@ -9088,6 +9105,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 iq001.adtech.de
 127.0.0.1 iq001.adtech.fr
 127.0.0.1 iq001.adtech.us
+127.0.0.1 iqoption.com
 127.0.0.1 ir-de.amazon-adsystem.com
 127.0.0.1 ir-na.amazon-adsystem.com
 127.0.0.1 ir2.beap.gemini.yahoo.com
@@ -9143,7 +9161,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 join.pro-gaming-world.com
 127.0.0.1 join1.winhundred.com
 127.0.0.1 journal-des-bourses.com
+127.0.0.1 joyschema3.live
 127.0.0.1 js-sec.indexww.com
+127.0.0.1 js.ad-score.com
 127.0.0.1 js.adlink.net
 127.0.0.1 js.admngr.com
 127.0.0.1 js.adscale.de
@@ -9378,6 +9398,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 lstats.qip.ru
 127.0.0.1 lt.andomedia.com
 127.0.0.1 lt.angelfire.com
+127.0.0.1 ltk.pw
 127.0.0.1 lucky-day-uk.com
 127.0.0.1 luckymeetyou.com
 127.0.0.1 luxstockevent.su
@@ -9411,6 +9432,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 m4.afs.googleadservices.com
 127.0.0.1 m4.media-box.co
 127.0.0.1 m4ymh0220.tech
+127.0.0.1 ma-plastifieuse.info
 127.0.0.1 ma.baidu.com
 127.0.0.1 ma.wp.pl
 127.0.0.1 maaxmarket.com
@@ -9568,7 +9590,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 medya.e-kolay.net
 127.0.0.1 meevehdar.com
 127.0.0.1 mega.vast.mega-tags.com
+127.0.0.1 megabizvibes.com
 127.0.0.1 megapanel.gem.pl
+127.0.0.1 megawealthbiz.com
 127.0.0.1 megdobbensz.info
 127.0.0.1 meglepo.info
 127.0.0.1 megoszthato.blogspot.hu
@@ -9667,6 +9691,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 morickamegpiskota.housefmradio.eu
 127.0.0.1 motd.pinion.gg
 127.0.0.1 motosal.net
+127.0.0.1 mouthtroubleask17.live
 127.0.0.1 movieads.imgs.sapo.pt
 127.0.0.1 movsflix.com
 127.0.0.1 mozebyctwoje.com
@@ -9967,6 +9992,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 onlinebestoffers.net
 127.0.0.1 only.best-games.today
 127.0.0.1 only2date.com
+127.0.0.1 onmypc.net
 127.0.0.1 onocollect.247realmedia.com
 127.0.0.1 oopt.fr
 127.0.0.1 open.4info.net
@@ -10399,6 +10425,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 purryowl.com
 127.0.0.1 push-ad.com
 127.0.0.1 push-notification.tools
+127.0.0.1 push.aarth.net
 127.0.0.1 pushno.com
 127.0.0.1 pussl22.com
 127.0.0.1 pwdplz.com
@@ -10917,6 +10944,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 smartinit.webads.nl
 127.0.0.1 smartlifeguides.com
 127.0.0.1 smartshare.lgtvsdp.com
+127.0.0.1 smarttopchain.nl
 127.0.0.1 smile.modchipstore.com
 127.0.0.1 smm.sitescout.com
 127.0.0.1 smokersopinionpoll.com
@@ -11312,6 +11340,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 top5.mail.ru
 127.0.0.1 topbestgames.com
 127.0.0.1 topbrandrewards.com
+127.0.0.1 topcashvibes.com
 127.0.0.1 topconsumergifts.com
 127.0.0.1 topdemaroc.com
 127.0.0.1 tophirek.hu
@@ -11432,6 +11461,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 tsyndicate.com
 127.0.0.1 ttarget.adbureau.net
 127.0.0.1 ttnet.yandex.com.tr
+127.0.0.1 ttoc8ok.com
 127.0.0.1 ttuk.offers4u.mobi
 127.0.0.1 tudasfaja.com
 127.0.0.1 tudaskor.com
@@ -11458,6 +11488,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 twoje-nagrody.pl
 127.0.0.1 twojszczesliwydzien.com
 127.0.0.1 tz284.com
+127.0.0.1 tzeva.info
 127.0.0.1 u-ads.adap.tv
 127.0.0.1 u.admob.com
 127.0.0.1 u.openx.net
@@ -11875,6 +11906,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.888poker.com
 127.0.0.1 www.961.com
 127.0.0.1 www.a.websponsors.com
+127.0.0.1 www.aarth.net
 127.0.0.1 www.abrogatesdv.info
 127.0.0.1 www.action.ientry.net
 127.0.0.1 www.actiondesk.com
@@ -12046,6 +12078,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.blasphemysfhs.info
 127.0.0.1 www.blatant8jh.info
 127.0.0.1 www.blazingtrader.biz
+127.0.0.1 www.blockchaintop.nl
 127.0.0.1 www.bluediamondoffers.com
 127.0.0.1 www.bnnr.nl
 127.0.0.1 www.bodog.eu
@@ -12291,6 +12324,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.games-toys-free.com
 127.0.0.1 www.games-toys-rewardpath.com
 127.0.0.1 www.gatoradvertisinginformationnetwork.com
+127.0.0.1 www.get-express-vpn.com
 127.0.0.1 www.getacool100.com
 127.0.0.1 www.getacool500.com
 127.0.0.1 www.getacoollaptop.com
@@ -12331,6 +12365,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.greasypalm.com
 127.0.0.1 www.greatdexchange.com
 127.0.0.1 www.groupm.com
+127.0.0.1 www.grtexch.com
 127.0.0.1 www.grz67.com
 127.0.0.1 www.guesstheview.com
 127.0.0.1 www.guptamedianetwork.com
@@ -12384,6 +12419,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.interstitialzone.com
 127.0.0.1 www.intnet-offer.com
 127.0.0.1 www.invitefashion.com
+127.0.0.1 www.iqoption.com
 127.0.0.1 www.is1.clixgalore.com
 127.0.0.1 www.isfilebest.com
 127.0.0.1 www.isoftibest.com
@@ -12475,6 +12511,8 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.media2.travelzoo.com
 127.0.0.1 www.medical-offer.com
 127.0.0.1 www.medical-rewardpath.com
+127.0.0.1 www.megabizvibes.com
+127.0.0.1 www.megawealthbiz.com
 127.0.0.1 www.mellowads.com
 127.0.0.1 www.merchantapp.com
 127.0.0.1 www.merlin.co.il
@@ -12647,6 +12685,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.smart-scripts.com
 127.0.0.1 www.smartadserver.com
 127.0.0.1 www.smarttargetting.com
+127.0.0.1 www.smarttopchain.nl
 127.0.0.1 www.smichovbike.cz
 127.0.0.1 www.smokersopinionpoll.com
 127.0.0.1 www.smspop.com
@@ -12705,6 +12744,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.tons-to-see.com
 127.0.0.1 www.top20free.com
 127.0.0.1 www.topbrandrewards.com
+127.0.0.1 www.topcashvibes.com
 127.0.0.1 www.topconsumergifts.com
 127.0.0.1 www.topdemaroc.com
 127.0.0.1 www.topreward.site
@@ -12738,6 +12778,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.trndsys.mobi
 127.0.0.1 www.trourted.pro
 127.0.0.1 www.ttnet.yandex.com.tr
+127.0.0.1 www.ttoc8ok.com
 127.0.0.1 www.tuigang1999.com
 127.0.0.1 www.turn.com
 127.0.0.1 www.tutop.com
