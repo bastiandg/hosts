@@ -38,6 +38,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 7bpeople.com
 0.0.0.0 7search.com
 0.0.0.0 82o9v830.com
+0.0.0.0 a-ads.com
 0.0.0.0 a.aproductmsg.com
 0.0.0.0 a.consumer.net
 0.0.0.0 a.mktw.net
@@ -62,7 +63,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 abacho.net
 0.0.0.0 abackchain.com
 0.0.0.0 abandonedaction.com
-0.0.0.0 abashedangle.com
 0.0.0.0 abc-ads.com
 0.0.0.0 aboardlevel.com
 0.0.0.0 aboutads.gr
@@ -213,7 +213,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adap.tv
 0.0.0.0 adapt.tv
 0.0.0.0 adaranth.com
-0.0.0.0 adback.co
 0.0.0.0 adblade.com
 0.0.0.0 adblade.org
 0.0.0.0 adblockanalytics.com
@@ -335,7 +334,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 admized.com
 0.0.0.0 admob.com
 0.0.0.0 admonitor.com
-0.0.0.0 adn.lrb.co.uk
 0.0.0.0 adnet.asahi.com
 0.0.0.0 adnet.biz
 0.0.0.0 adnet.de
@@ -803,7 +801,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.71i.de
 0.0.0.0 adserver.adultfriendfinder.com
 0.0.0.0 adserver.adverty.com
-0.0.0.0 adserver.aidameter.com
 0.0.0.0 adserver.anawe.cz
 0.0.0.0 adserver.aol.fr
 0.0.0.0 adserver.ariase.org
@@ -934,6 +931,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adv.freeonline.it
 0.0.0.0 adv.hwupgrade.it
 0.0.0.0 adv.livedoor.com
+0.0.0.0 adv.mezon.ru
 0.0.0.0 adv.nexthardware.com
 0.0.0.0 adv.webmd.com
 0.0.0.0 adv.wp.pl
@@ -1157,6 +1155,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 banner.easyspace.com
 0.0.0.0 banner.elisa.net
 0.0.0.0 banner.eurogrand.com
+0.0.0.0 banner.finzoom.ro
 0.0.0.0 banner.goldenpalace.com
 0.0.0.0 banner.icmedia.eu
 0.0.0.0 banner.img.co.za
@@ -1187,6 +1186,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 bannerimage.com
 0.0.0.0 bannerlandia.com.ar
 0.0.0.0 bannermall.com
+0.0.0.0 bannermanager.bnr.bg
 0.0.0.0 bannermarkt.nl
 0.0.0.0 bannerpower.com
 0.0.0.0 banners.adultfriendfinder.com
@@ -1245,7 +1245,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 belstat.com
 0.0.0.0 belstat.nl
 0.0.0.0 berp.com
-0.0.0.0 best-realgirl2.com
 0.0.0.0 bestboundary.com
 0.0.0.0 bestsearch.net
 0.0.0.0 bewilderedblade.com
@@ -1291,6 +1290,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 bm.annonce.cz
 0.0.0.0 bn.bfast.com
 0.0.0.0 bnnrrv.qontentum.de
+0.0.0.0 bnrs.ilm.ee
 0.0.0.0 boffoadsapi.com
 0.0.0.0 boilingbeetle.com
 0.0.0.0 boilingumbrella.com
@@ -1355,6 +1355,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 cashengines.com
 0.0.0.0 cashfiesta.com
 0.0.0.0 cashpartner.com
+0.0.0.0 cashstaging.app
+0.0.0.0 cashstaging.me
 0.0.0.0 casinopays.com
 0.0.0.0 casinorewards.com
 0.0.0.0 casinotraffic.com
@@ -1834,6 +1836,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 fusionquest.com
 0.0.0.0 futuristicapparatus.com
 0.0.0.0 futuristicfairies.com
+0.0.0.0 fuzzybasketball.com
 0.0.0.0 fuzzyflavor.com
 0.0.0.0 fuzzyweather.com
 0.0.0.0 fxstyle.net
@@ -1858,7 +1861,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 giddycoat.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globaltakeoff.net
-0.0.0.0 globe7.com
 0.0.0.0 globus-inter.com
 0.0.0.0 glossysense.com
 0.0.0.0 gloyah.net
@@ -2010,7 +2012,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 imonomy.com
 0.0.0.0 importedincrease.com
 0.0.0.0 impossibleexpansion.com
-0.0.0.0 imprese.cz
 0.0.0.0 impressionmedia.cz
 0.0.0.0 impressionmonster.com
 0.0.0.0 impressionz.co.uk
@@ -2043,7 +2044,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 insightexpressai.com
 0.0.0.0 inskinad.com
 0.0.0.0 inspectlet.com
-0.0.0.0 inspectorclick.com
 0.0.0.0 install.365-stream.com
 0.0.0.0 instantmadness.com
 0.0.0.0 insticator.com
@@ -2077,6 +2077,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 itsptp.com
 0.0.0.0 ivwbox.de
 0.0.0.0 ivykiosk.com
+0.0.0.0 iyfnzgb.com
 0.0.0.0 j93557g.com
 0.0.0.0 jadeitite.com
 0.0.0.0 jaizouji.com
@@ -2338,6 +2339,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 moatpixel.com
 0.0.0.0 mobclix.com
 0.0.0.0 mobfox.com
+0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mobilefuse.com
 0.0.0.0 mobileiconnect.com
 0.0.0.0 mobperads.net
@@ -2450,6 +2452,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 nuttyorganization.com
 0.0.0.0 nzaza.com
 0.0.0.0 o0bc.com
+0.0.0.0 o333o.com
 0.0.0.0 oafishobservation.com
 0.0.0.0 oas.benchmark.fr
 0.0.0.0 oas.repubblica.it
@@ -2464,6 +2467,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 obscenesidewalk.com
 0.0.0.0 observantice.com
 0.0.0.0 oclasrv.com
+0.0.0.0 odbierz-bony.ovp.pl
 0.0.0.0 oewa.at
 0.0.0.0 offaces-butional.com
 0.0.0.0 offer.fyber.com
@@ -2618,7 +2622,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pokkt.com
 0.0.0.0 popads.net
 0.0.0.0 popcash.net
-0.0.0.0 popflawlessads.com
 0.0.0.0 popmyads.com
 0.0.0.0 popub.com
 0.0.0.0 popunder.ru
@@ -2779,7 +2782,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 reflectivereward.com
 0.0.0.0 reforge.in
 0.0.0.0 regnow.com
-0.0.0.0 reinvigorate.net
 0.0.0.0 reklam.rfsl.se
 0.0.0.0 reklama.mironet.cz
 0.0.0.0 reklama.reflektor.cz
@@ -3182,6 +3184,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ticklesign.com
 0.0.0.0 ticksel.com
 0.0.0.0 tidaltv.com
+0.0.0.0 tidint.pro
 0.0.0.0 tinybar.com
 0.0.0.0 tkbo.com
 0.0.0.0 tls.telemetry.swe.quicinc.com
@@ -3428,7 +3431,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 webcounter.goweb.de
 0.0.0.0 webgains.com
 0.0.0.0 webmasterplan.com
-0.0.0.0 webmasterplan.de
 0.0.0.0 weborama.com
 0.0.0.0 weborama.fr
 0.0.0.0 webpower.com
