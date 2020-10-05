@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 03 Oct 2020 11:33:39 GMT
-# entries:        3547
+# last updated:   Mon, 05 Oct 2020 15:12:50 GMT
+# entries:        3548
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -766,6 +766,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.yldmgrimg.net
 127.0.0.1 ads.yourfreedvds.com
 127.0.0.1 ads.youtube.com
+127.0.0.1 ads.yumenetworks.com
 127.0.0.1 ads.zdnet.com
 127.0.0.1 ads.zmarsa.com
 127.0.0.1 ads.ztod.com
