@@ -7665,6 +7665,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 beacon.rallydev.com
 127.0.0.1 beacon.riskified.com
 127.0.0.1 beacon.rum.dynapis.info
+127.0.0.1 beacon.s-onetag.com
 127.0.0.1 beacon.scorecardresearch.com
 127.0.0.1 beacon.searchlinks.com
 127.0.0.1 beacon.securestudies.com
@@ -10347,6 +10348,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 configusa.veinteractive.com
 127.0.0.1 connatix-supply-partners.tremorhub.com
 127.0.0.1 connatix.com
+127.0.0.1 connect-metrics-collector.s-onetag.com
 127.0.0.1 connect.247media.ads.link4ads.com
 127.0.0.1 connect.decknetwork.net
 127.0.0.1 connect.scroll.com
@@ -14050,6 +14052,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 geniusdisplay.com
 127.0.0.1 genmay.us.intellitxt.com
 127.0.0.1 geo-content.otherlevels.com
+127.0.0.1 geo-location.s-onetag.com
 127.0.0.1 geo-tracker.smadex.com
 127.0.0.1 geo.atlassbx.com
 127.0.0.1 geo.celtra.com
@@ -14129,6 +14132,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 get.mycounter.com.ua
 127.0.0.1 get.mycounter.ua
 127.0.0.1 get.optad360.io
+127.0.0.1 get.s-onetag.com
 127.0.0.1 get.whitesmoke.com
 127.0.0.1 get.x-link.pl
 127.0.0.1 getacool100.com
@@ -20814,7 +20818,9 @@ ff02::2 ip6-allrouters
 127.0.0.1 onestatfree.com
 127.0.0.1 onet.hit.gemius.pl
 127.0.0.1 onet.hit.stat.pl
+127.0.0.1 onetag-geo-grouping.s-onetag.com
 127.0.0.1 onetag-geo.onscroll.com
+127.0.0.1 onetag-geo.s-onetag.com
 127.0.0.1 onetoone.112.2o7.net
 127.0.0.1 onlamp.us.intellitxt.com
 127.0.0.1 onlgc.voluumtrk.com
@@ -24873,6 +24879,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 siemens.d1.sc.omtrdc.net
 127.0.0.1 sifomedia.citypaketet.se
 127.0.0.1 sightings.gimbal.com
+127.0.0.1 signal-metrics-collector-beta.s-onetag.com
 127.0.0.1 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 127.0.0.1 signalad.go.affec.tv
 127.0.0.1 signals.ampiri.com

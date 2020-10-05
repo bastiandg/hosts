@@ -7659,6 +7659,7 @@ beacon.qq.com
 beacon.rallydev.com
 beacon.riskified.com
 beacon.rum.dynapis.info
+beacon.s-onetag.com
 beacon.scorecardresearch.com
 beacon.searchlinks.com
 beacon.securestudies.com
@@ -10341,6 +10342,7 @@ configuration.ttpsdk.info
 configusa.veinteractive.com
 connatix-supply-partners.tremorhub.com
 connatix.com
+connect-metrics-collector.s-onetag.com
 connect.247media.ads.link4ads.com
 connect.decknetwork.net
 connect.scroll.com
@@ -14044,6 +14046,7 @@ genieessp.com
 geniusdisplay.com
 genmay.us.intellitxt.com
 geo-content.otherlevels.com
+geo-location.s-onetag.com
 geo-tracker.smadex.com
 geo.atlassbx.com
 geo.celtra.com
@@ -14123,6 +14126,7 @@ get.hitbox.com
 get.mycounter.com.ua
 get.mycounter.ua
 get.optad360.io
+get.s-onetag.com
 get.whitesmoke.com
 get.x-link.pl
 getacool100.com
@@ -20808,7 +20812,9 @@ onestat.com
 onestatfree.com
 onet.hit.gemius.pl
 onet.hit.stat.pl
+onetag-geo-grouping.s-onetag.com
 onetag-geo.onscroll.com
+onetag-geo.s-onetag.com
 onetoone.112.2o7.net
 onlamp.us.intellitxt.com
 onlgc.voluumtrk.com
@@ -24867,6 +24873,7 @@ sideshow.directtrack.com
 siemens.d1.sc.omtrdc.net
 sifomedia.citypaketet.se
 sightings.gimbal.com
+signal-metrics-collector-beta.s-onetag.com
 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 signalad.go.affec.tv
 signals.ampiri.com

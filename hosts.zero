@@ -7665,6 +7665,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 beacon.rallydev.com
 0.0.0.0 beacon.riskified.com
 0.0.0.0 beacon.rum.dynapis.info
+0.0.0.0 beacon.s-onetag.com
 0.0.0.0 beacon.scorecardresearch.com
 0.0.0.0 beacon.searchlinks.com
 0.0.0.0 beacon.securestudies.com
@@ -10347,6 +10348,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 configusa.veinteractive.com
 0.0.0.0 connatix-supply-partners.tremorhub.com
 0.0.0.0 connatix.com
+0.0.0.0 connect-metrics-collector.s-onetag.com
 0.0.0.0 connect.247media.ads.link4ads.com
 0.0.0.0 connect.decknetwork.net
 0.0.0.0 connect.scroll.com
@@ -14050,6 +14052,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 geniusdisplay.com
 0.0.0.0 genmay.us.intellitxt.com
 0.0.0.0 geo-content.otherlevels.com
+0.0.0.0 geo-location.s-onetag.com
 0.0.0.0 geo-tracker.smadex.com
 0.0.0.0 geo.atlassbx.com
 0.0.0.0 geo.celtra.com
@@ -14129,6 +14132,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 get.mycounter.com.ua
 0.0.0.0 get.mycounter.ua
 0.0.0.0 get.optad360.io
+0.0.0.0 get.s-onetag.com
 0.0.0.0 get.whitesmoke.com
 0.0.0.0 get.x-link.pl
 0.0.0.0 getacool100.com
@@ -20814,7 +20818,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 onestatfree.com
 0.0.0.0 onet.hit.gemius.pl
 0.0.0.0 onet.hit.stat.pl
+0.0.0.0 onetag-geo-grouping.s-onetag.com
 0.0.0.0 onetag-geo.onscroll.com
+0.0.0.0 onetag-geo.s-onetag.com
 0.0.0.0 onetoone.112.2o7.net
 0.0.0.0 onlamp.us.intellitxt.com
 0.0.0.0 onlgc.voluumtrk.com
@@ -24873,6 +24879,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 siemens.d1.sc.omtrdc.net
 0.0.0.0 sifomedia.citypaketet.se
 0.0.0.0 sightings.gimbal.com
+0.0.0.0 signal-metrics-collector-beta.s-onetag.com
 0.0.0.0 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 0.0.0.0 signalad.go.affec.tv
 0.0.0.0 signals.ampiri.com
