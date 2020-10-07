@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 01 Oct 2020 at 18:57:07 GMT
+# Last updated: Wed, 07 Oct 2020 at 19:13:23 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8191,6 +8191,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 dl.neodownload.webcam
 127.0.0.1 dlvr.readserver.net
 127.0.0.1 dmp.vihub.ru
+127.0.0.1 dmtt.fun
 127.0.0.1 dmxleo.dailymotion.com
 127.0.0.1 dnads.directnic.com
 127.0.0.1 dnps.com
@@ -9217,6 +9218,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 kazaa.adserver.co.il
 127.0.0.1 kbd1.kpns.ijinshan.com
 127.0.0.1 kbd2.kpns.ijinshan.com
+127.0.0.1 keek.fun
 127.0.0.1 keepyoungphone.bid
 127.0.0.1 kepzavar.info
 127.0.0.1 kergaukr.com
@@ -9775,6 +9777,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 nagroda-dla-ciebie.com
 127.0.0.1 nagyonjoo.com
 127.0.0.1 najlepszedlaciebie.com
+127.0.0.1 nakk.fun
 127.0.0.1 nanoadexchange.com
 127.0.0.1 nanocluster.reklamz.com
 127.0.0.1 napi-friss.com
@@ -9804,6 +9807,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 nearbyad.com
 127.0.0.1 needadvertising.com
 127.0.0.1 neirong.baidu.com
+127.0.0.1 nekk.shop
 127.0.0.1 net-web-techie-software.win
 127.0.0.1 netadclick.com
 127.0.0.1 netads.hotwired.com
