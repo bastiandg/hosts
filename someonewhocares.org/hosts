@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 07 Oct 2020 at 19:13:23 GMT
+# Last updated: Sat, 10 Oct 2020 at 05:50:04 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9132,6 +9132,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 it.adserver.yahoo.com
 127.0.0.1 itemagic.net
 127.0.0.1 itempana.site
+127.0.0.1 itnuzleafan.com
 127.0.0.1 itrackerpro.com
 127.0.0.1 itsfree123.com
 127.0.0.1 itxt.vibrantmedia.com
@@ -12673,6 +12674,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.sayfabulunamadi.com
 127.0.0.1 www.scoremygift.com
 127.0.0.1 www.screen-mates.com
+127.0.0.1 www.searchingzone.com
 127.0.0.1 www.searchwe.com
 127.0.0.1 www.seasonalsamplerspecials.com
 127.0.0.1 www.securecontactinfo.com
