@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 05 Oct 2020 15:12:50 GMT
-# entries:        3541
+# last updated:   Mon, 12 Oct 2020 13:04:44 GMT
+# entries:        3544
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1699,6 +1699,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 edgeio.com
 127.0.0.1 effectivemeasure.com
 127.0.0.1 effectivemeasure.net
+127.0.0.1 effectstorestream8.live
 127.0.0.1 efficaciouscactus.com
 127.0.0.1 eiv.baidu.com
 127.0.0.1 ejyymghi.com
@@ -1911,6 +1912,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 gotraffic.net
 127.0.0.1 gp.dejanews.com
 127.0.0.1 gracefulsock.com
+127.0.0.1 graizoah.com
 127.0.0.1 grandioseguide.com
 127.0.0.1 grapeshot.co.uk
 127.0.0.1 greetzebra.com
@@ -2915,6 +2917,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 sdcswingers.online
 127.0.0.1 sdkfjxjertertry.com
 127.0.0.1 seadform.net
+127.0.0.1 searching-place.com
 127.0.0.1 searchmarketing.com
 127.0.0.1 searchramp.com
 127.0.0.1 secretivecub.com
