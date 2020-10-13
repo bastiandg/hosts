@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 12 Oct 2020 13:04:44 GMT
-# entries:        3544
+# last updated:   Tue, 13 Oct 2020 07:23:39 GMT
+# entries:        3545
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2536,6 +2536,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 openx.aosis.co.za
 127.0.0.1 openx.cairo360.com
 127.0.0.1 openx.kgmedia.eu
+127.0.0.1 openx.net
 127.0.0.1 openx.skinet.cz
 127.0.0.1 openx.smcaen.fr
 127.0.0.1 openx2.kytary.cz
