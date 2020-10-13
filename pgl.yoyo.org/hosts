@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 13 Oct 2020 07:23:39 GMT
-# entries:        3545
+# last updated:   Tue, 13 Oct 2020 10:56:58 GMT
+# entries:        3546
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -3371,6 +3371,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ultraoranges.com
 127.0.0.1 unarmedindustry.com
 127.0.0.1 undertone.com
+127.0.0.1 universcine.com
 127.0.0.1 unknowntray.com
 127.0.0.1 unrulymedia.com
 127.0.0.1 untd.com
