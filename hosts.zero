@@ -4995,6 +4995,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adywind.com
 0.0.0.0 adz.afterdawn.net
 0.0.0.0 adz.rashflash.com
+0.0.0.0 adz2you.com
 0.0.0.0 adzbazar.com
 0.0.0.0 adzerk.com
 0.0.0.0 adzerk.net
@@ -9831,7 +9832,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 collector-2398.tvsquared.com
 0.0.0.0 collector-428.tvsquared.com
 0.0.0.0 collector-a.perimeterx.net
-0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 collector-px8fcgygk4.perimeterx.net
 0.0.0.0 collector-pxel3l4xih.perimeterx.net
 0.0.0.0 collector-pxhyx10rg3.perimeterx.net
@@ -11586,7 +11586,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 dyntraq.mtree.com
 0.0.0.0 dyntrk.com
 0.0.0.0 dz2fz0bgyq9tn.cloudfront.net
-0.0.0.0 dzairads.com
 0.0.0.0 dzl.baidu.com
 0.0.0.0 e-2dj6wfk4ehd5afq.stats.esomniture.com
 0.0.0.0 e-2dj6wfk4ggdzkbo.stats.esomniture.com
@@ -11873,7 +11872,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 efashionsolutions.122.2o7.net
 0.0.0.0 effectivemeasure.com
 0.0.0.0 effectivemeasure.net
-0.0.0.0 effectstorestream8.live
 0.0.0.0 effexor-xr.1.p2l.info
 0.0.0.0 efficaciouscactus.com
 0.0.0.0 efluxmedia.uk.intellitxt.com
@@ -15271,6 +15269,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 impr.taboola.com
 0.0.0.0 imprammp.taboola.com
 0.0.0.0 imprchmp.taboola.com
+0.0.0.0 imprese.cz
 0.0.0.0 impression-asia.liftoff.io
 0.0.0.0 impression-east.liftoff.io
 0.0.0.0 impression-europe.liftoff.io

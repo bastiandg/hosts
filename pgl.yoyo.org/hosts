@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 13 Oct 2020 10:56:58 GMT
-# entries:        3547
+# entries:        3545
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1008,6 +1008,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adyea.com
 127.0.0.1 adyoulike.com
 127.0.0.1 adz.rashflash.com
+127.0.0.1 adz2you.com
 127.0.0.1 adzbazar.com
 127.0.0.1 adzerk.net
 127.0.0.1 adzerk.s3.amazonaws.com
@@ -1308,6 +1309,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 blogherads.com
 127.0.0.1 blogtoplist.se
 127.0.0.1 blogtopsites.com
+127.0.0.1 blueadvertise.com
 127.0.0.1 blueconic.com
 127.0.0.1 blueconic.net
 127.0.0.1 bluekai.com
@@ -1493,7 +1495,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 coin-hive.com
 127.0.0.1 coinhive.com
 127.0.0.1 cointraffic.io
-127.0.0.1 collector-medium.lightstep.com
 127.0.0.1 colonize.com
 127.0.0.1 comclick.com
 127.0.0.1 comfortablecheese.com
@@ -1676,7 +1677,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 dsp.io
 127.0.0.1 dstillery.com
 127.0.0.1 dyntrk.com
-127.0.0.1 dzairads.com
 127.0.0.1 e-adimages.scrippsnetworks.com
 127.0.0.1 e-bannerx.com
 127.0.0.1 e-m.fr
@@ -1688,7 +1688,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 eas.almamedia.fi
 127.0.0.1 easyhits4u.com
 127.0.0.1 ebayadvertising.com
-127.0.0.1 ebocornac.com
 127.0.0.1 ebuzzing.com
 127.0.0.1 ecircle-ag.com
 127.0.0.1 ecleneue.com
@@ -1701,7 +1700,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 edgeio.com
 127.0.0.1 effectivemeasure.com
 127.0.0.1 effectivemeasure.net
-127.0.0.1 effectstorestream8.live
 127.0.0.1 efficaciouscactus.com
 127.0.0.1 eiv.baidu.com
 127.0.0.1 ejyymghi.com
@@ -2043,6 +2041,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 imonomy.com
 127.0.0.1 importedincrease.com
 127.0.0.1 impossibleexpansion.com
+127.0.0.1 imprese.cz
 127.0.0.1 impressionmedia.cz
 127.0.0.1 impressionmonster.com
 127.0.0.1 impressionz.co.uk
@@ -2491,7 +2490,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 oas.toronto.com
 127.0.0.1 oas.uniontrib.com
 127.0.0.1 oas.villagevoice.com
-127.0.0.1 oascentral.businessweek.com
 127.0.0.1 oascentral.chicagobusiness.com
 127.0.0.1 oascentral.fortunecity.com
 127.0.0.1 oascentral.register.com
