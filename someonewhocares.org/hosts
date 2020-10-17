@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 10 Oct 2020 at 05:50:04 GMT
+# Last updated: Sat, 17 Oct 2020 at 17:45:01 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -782,6 +782,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 dclk.themarketer.com
 127.0.0.1 de.sitestat.com
 127.0.0.1 de.tynt.com
+127.0.0.1 def.dev-nano.com
 127.0.0.1 delivery.loopingclick.com
 127.0.0.1 detectorcarecenter.in
 127.0.0.1 didtheyreadit.com		# email bugs
