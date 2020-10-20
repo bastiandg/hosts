@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 20 Oct 2020 at 06:42:05 GMT
+# Last updated: Tue, 20 Oct 2020 at 16:41:27 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -10731,6 +10731,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 safenyplanet.in
 127.0.0.1 sagent.io
 127.0.0.1 salesforcecom.tt.omtrdc.net
+127.0.0.1 saletrybest.su
 127.0.0.1 samsung3.solution.weborama.fr
 127.0.0.1 sanalreklam.com
 127.0.0.1 sarah.dntrx.com
