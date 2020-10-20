@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 17 Oct 2020 at 17:45:01 GMT
+# Last updated: Tue, 20 Oct 2020 at 06:42:05 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -499,7 +499,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 c.thecounter.de
 127.0.0.1 c0.adalyser.com
 127.0.0.1 c1.statcounter.com
-127.0.0.1 c1.thecounter.com
 127.0.0.1 c1.thecounter.de
 127.0.0.1 c1.xxxcounter.com
 127.0.0.1 c10.statcounter.com
@@ -511,13 +510,11 @@ ff02::3		ip6-allhosts
 127.0.0.1 c16.statcounter.com
 127.0.0.1 c17.statcounter.com
 127.0.0.1 c2.gostats.com
-127.0.0.1 c2.thecounter.com
 127.0.0.1 c2.thecounter.de
 127.0.0.1 c2.xxxcounter.com
 127.0.0.1 c3.adalyser.com
 127.0.0.1 c3.gostats.com
 127.0.0.1 c3.statcounter.com
-127.0.0.1 c3.thecounter.com
 127.0.0.1 c3.xxxcounter.com
 127.0.0.1 c4.myway.com
 127.0.0.1 c4.statcounter.com
@@ -1288,7 +1285,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 s.youtube.com				# Blocking this will interfere with video watching history
 127.0.0.1 s1-tracking.adalyser.com
 127.0.0.1 s1.shinystat.it
-127.0.0.1 s1.thecounter.com
 127.0.0.1 s10.histats.com
 127.0.0.1 s10.sitemeter.com
 127.0.0.1 s11.sitemeter.com
@@ -1580,7 +1576,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 tgpcounter.freethumbnailgalleries.com
 127.0.0.1 the-counter.net
 127.0.0.1 the.sextracker.com
-127.0.0.1 thecounter.com
 127.0.0.1 themecounter.com
 127.0.0.1 tipsurf.com
 127.0.0.1 toolbarpartner.com
@@ -2078,7 +2073,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.stiffnetwork.com
 127.0.0.1 www.testracking.com
 127.0.0.1 www.the-counter.net
-127.0.0.1 www.thecounter.com
 127.0.0.1 www.toolbarcounter.com
 127.0.0.1 www.tradedoubler.com
 127.0.0.1 www.tradedoubler.com.ar

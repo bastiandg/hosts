@@ -8213,7 +8213,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 c1.smartclick.net
 0.0.0.0 c1.statcounter.com
 0.0.0.0 c1.teaser-goods.ru
-0.0.0.0 c1.thecounter.com
 0.0.0.0 c1.thecounter.de
 0.0.0.0 c1.xxxcounter.com
 0.0.0.0 c1.zedo.com
@@ -8239,7 +8238,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 c2.statcounter.com
 0.0.0.0 c2.taboola.com
 0.0.0.0 c2.tentaculos.net
-0.0.0.0 c2.thecounter.com
 0.0.0.0 c2.thecounter.de
 0.0.0.0 c2.xxxcounter.com
 0.0.0.0 c2.zedo.com
@@ -8260,7 +8258,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 c3.gostats.com
 0.0.0.0 c3.outster.com
 0.0.0.0 c3.statcounter.com
-0.0.0.0 c3.thecounter.com
 0.0.0.0 c3.xxxcounter.com
 0.0.0.0 c3.zedo.com
 0.0.0.0 c30.statcounter.com
@@ -22939,7 +22936,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 s1.shinystat.it
 0.0.0.0 s1.sk.adocean.pl
 0.0.0.0 s1.skgde.adocean.pl
-0.0.0.0 s1.thecounter.com
 0.0.0.0 s10.flagcounter.com
 0.0.0.0 s10.histats.com
 0.0.0.0 s10.sitemeter.com
@@ -26230,7 +26226,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 thechive-d.openx.net
 0.0.0.0 theclickads.com
 0.0.0.0 theconstructor.pushengage.com
-0.0.0.0 thecounter.com
 0.0.0.0 thedailystarcom.112.2o7.net
 0.0.0.0 thedatesafe.com
 0.0.0.0 theeldergeek.us.intellitxt.com
@@ -31391,7 +31386,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.the-discount-store.com
 0.0.0.0 www.the-path-gateway.com
 0.0.0.0 www.the-smart-stop.com
-0.0.0.0 www.thecounter.com
 0.0.0.0 www.thedatesafe.com
 0.0.0.0 www.theexgirlfriends.com
 0.0.0.0 www.thehomo.org

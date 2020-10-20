@@ -8213,7 +8213,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 c1.smartclick.net
 127.0.0.1 c1.statcounter.com
 127.0.0.1 c1.teaser-goods.ru
-127.0.0.1 c1.thecounter.com
 127.0.0.1 c1.thecounter.de
 127.0.0.1 c1.xxxcounter.com
 127.0.0.1 c1.zedo.com
@@ -8239,7 +8238,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 c2.statcounter.com
 127.0.0.1 c2.taboola.com
 127.0.0.1 c2.tentaculos.net
-127.0.0.1 c2.thecounter.com
 127.0.0.1 c2.thecounter.de
 127.0.0.1 c2.xxxcounter.com
 127.0.0.1 c2.zedo.com
@@ -8260,7 +8258,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 c3.gostats.com
 127.0.0.1 c3.outster.com
 127.0.0.1 c3.statcounter.com
-127.0.0.1 c3.thecounter.com
 127.0.0.1 c3.xxxcounter.com
 127.0.0.1 c3.zedo.com
 127.0.0.1 c30.statcounter.com
@@ -22939,7 +22936,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 s1.shinystat.it
 127.0.0.1 s1.sk.adocean.pl
 127.0.0.1 s1.skgde.adocean.pl
-127.0.0.1 s1.thecounter.com
 127.0.0.1 s10.flagcounter.com
 127.0.0.1 s10.histats.com
 127.0.0.1 s10.sitemeter.com
@@ -26230,7 +26226,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 thechive-d.openx.net
 127.0.0.1 theclickads.com
 127.0.0.1 theconstructor.pushengage.com
-127.0.0.1 thecounter.com
 127.0.0.1 thedailystarcom.112.2o7.net
 127.0.0.1 thedatesafe.com
 127.0.0.1 theeldergeek.us.intellitxt.com
@@ -31391,7 +31386,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.the-discount-store.com
 127.0.0.1 www.the-path-gateway.com
 127.0.0.1 www.the-smart-stop.com
-127.0.0.1 www.thecounter.com
 127.0.0.1 www.thedatesafe.com
 127.0.0.1 www.theexgirlfriends.com
 127.0.0.1 www.thehomo.org
