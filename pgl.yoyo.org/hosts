@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 13 Oct 2020 10:56:58 GMT
-# entries:        3545
+# last updated:   Wed, 21 Oct 2020 19:20:44 GMT
+# entries:        3549
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -234,6 +234,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad4mat.com
 127.0.0.1 ad4mat.de
 127.0.0.1 ad4mat.net
+127.0.0.1 adabra.com
 127.0.0.1 adaction.de
 127.0.0.1 adadvisor.net
 127.0.0.1 adalliance.io
@@ -1340,6 +1341,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 braincash.com
 127.0.0.1 brand-display.com
 127.0.0.1 brandreachsys.com
+127.0.0.1 breaktime.com.tw
 127.0.0.1 brealtime.com
 127.0.0.1 bridgetrack.com
 127.0.0.1 brightcom.com
@@ -1468,6 +1470,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 clicktrade.com
 127.0.0.1 clickwith.bid
 127.0.0.1 clickxchange.com
+127.0.0.1 clickyab.com
 127.0.0.1 clickz.com
 127.0.0.1 clientmetrics-pa.googleapis.com
 127.0.0.1 clikerz.net
@@ -1664,6 +1667,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 doubleclick.de
 127.0.0.1 doubleclick.net
 127.0.0.1 doublepimp.com
+127.0.0.1 doubleverify.com
 127.0.0.1 doubtfulrainstorm.com
 127.0.0.1 downloadr.xyz
 127.0.0.1 dpbolvw.net
