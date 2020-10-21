@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 20 Oct 2020 at 16:41:27 GMT
+# Last updated: Wed, 21 Oct 2020 at 07:41:09 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7177,6 +7177,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 axp.zedo.com
 127.0.0.1 aynachatsrv.com
 127.0.0.1 azcentra.app.ur.gcion.com
+127.0.0.1 azoaltou.com
 127.0.0.1 azoogleads.com
 127.0.0.1 aztbeszelik.com
 127.0.0.1 b.a2gw.com
@@ -7360,7 +7361,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 best-hir.com
 127.0.0.1 best2017games.com
 127.0.0.1 best2019-games-web1.com
+127.0.0.1 best2020-games-web1.com
 127.0.0.1 bestadbid.com
+127.0.0.1 bestaryua.com
 127.0.0.1 bestgift4you.cn
 127.0.0.1 bestmmo2018.com
 127.0.0.1 bestorican.com
@@ -7646,6 +7649,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 cdn.ayads.co
 127.0.0.1 cdn.banners.scubl.com
 127.0.0.1 cdn.bestssaker.com
+127.0.0.1 cdn.betgorebysson.club
 127.0.0.1 cdn.braun634.com
 127.0.0.1 cdn.carbonads.com
 127.0.0.1 cdn.classicdanube.info
@@ -8072,6 +8076,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 d2.zedo.com
 127.0.0.1 d3.sina.com.cn
 127.0.0.1 d3.zedo.com
+127.0.0.1 d3v3bqdndm4erx.cloudfront.net
 127.0.0.1 d4.zedo.com
 127.0.0.1 d4q8zgf756.com
 127.0.0.1 d5.zedo.com
@@ -8169,6 +8174,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 directpowerrewards.com
 127.0.0.1 directrev.cloudapp.net
 127.0.0.1 dirtyrhino.com
+127.0.0.1 disapprovalaccusedirt.com
 127.0.0.1 discount-savings-more.com
 127.0.0.1 discoverdemo.com
 127.0.0.1 discoverecommerce.tt.omtrdc.net
@@ -8743,6 +8749,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 gozatar.com
 127.0.0.1 gozing.directtrack.com
 127.0.0.1 grabbit-rabbit.com
+127.0.0.1 graizoah.com
 127.0.0.1 graphics.adultfriendfinder.com
 127.0.0.1 graphics.pop6.com
 127.0.0.1 gratkapl.adocean.pl
@@ -9075,6 +9082,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 infos-bourses.com
 127.0.0.1 inklineglobal.com
 127.0.0.1 inl.adbureau.net
+127.0.0.1 inpagepush.com
 127.0.0.1 inpagevideo.nl
 127.0.0.1 input.insights.gravity.com
 127.0.0.1 ins-offer.com
@@ -9337,6 +9345,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 letslowbefast.site
 127.0.0.1 letssearch.com
 127.0.0.1 levexis.com
+127.0.0.1 lftqch650apz.com
 127.0.0.1 lg.brandreachsys.com
 127.0.0.1 libdgel.net
 127.0.0.1 liberty.gedads.com
@@ -9516,8 +9525,11 @@ ff02::3		ip6-allhosts
 127.0.0.1 maxonclick.com
 127.0.0.1 maxserving.com
 127.0.0.1 mb01.com
+127.0.0.1 mbermorn.top
 127.0.0.1 mbox2.offermatica.com
 127.0.0.1 mbox9.offermatica.com
+127.0.0.1 mc.webvisor.org
+127.0.0.1 mc.yandex.ru
 127.0.0.1 mcagbtdcwklf.com
 127.0.0.1 mccafee-orientador.com-br.site
 127.0.0.1 mcfg.sandai.net
@@ -9853,6 +9865,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ng.virgul.com
 127.0.0.1 ng3.ads.warnerbros.com
 127.0.0.1 ngads.smartage.com
+127.0.0.1 ngp1.intnotif.club
 127.0.0.1 nicappazaza.com
 127.0.0.1 nickleplatedads.com
 127.0.0.1 nitrous.exitfuel.com
@@ -9949,6 +9962,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 offer.alibaba.com
 127.0.0.1 offer.camp
 127.0.0.1 offerfactory.click
+127.0.0.1 offerimage.com
 127.0.0.1 offerreality.com
 127.0.0.1 offers.bycontext.com
 127.0.0.1 offers.impower.com
@@ -10285,6 +10299,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 pp2.pptv.com
 127.0.0.1 pq.stat.ku6.com
 127.0.0.1 pqqyhbff.cinci.rr.com
+127.0.0.1 practeddagek.club
 127.0.0.1 prefersurvey.net
 127.0.0.1 preland.softmonetize.com
 127.0.0.1 preligions.com
@@ -10393,6 +10408,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 prpops.com
 127.0.0.1 ps-us.amazon-adsystem.com
 127.0.0.1 ps.eyeota.net
+127.0.0.1 ps.popcash.net
 127.0.0.1 ps4ux.com
 127.0.0.1 pstatic.datafastguru.info
 127.0.0.1 pt-gmtdmp.mookie1.com
@@ -10400,6 +10416,8 @@ ff02::3		ip6-allhosts
 127.0.0.1 pt.trafficjunky.net
 127.0.0.1 pt21na.com
 127.0.0.1 pt5.titans-gel.net
+127.0.0.1 pteenoum.com
+127.0.0.1 ptirgaux.com
 127.0.0.1 ptrads.mp3.com
 127.0.0.1 ptreklam.com
 127.0.0.1 ptreklam.com.tr
@@ -10433,6 +10451,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 push-ad.com
 127.0.0.1 push-notification.tools
 127.0.0.1 push.aarth.net
+127.0.0.1 pushagim.com
 127.0.0.1 pushno.com
 127.0.0.1 pussl22.com
 127.0.0.1 pwdplz.com
@@ -10921,6 +10940,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 showads1000.pubmatic.com
 127.0.0.1 showadsak.pubmatic.com
 127.0.0.1 shrek.6.cn
+127.0.0.1 shrimpsqueezed.com
 127.0.0.1 si.hit.gemius.pl
 127.0.0.1 sifomedia.citypaketet.se
 127.0.0.1 signoredom.com
@@ -10959,6 +10979,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 smsmovies.net
 127.0.0.1 smutstone.com
 127.0.0.1 sn.baventures.com
+127.0.0.1 snammar-jumntal.com
 127.0.0.1 snaps.vidiemi.com
 127.0.0.1 snip.answers.com
 127.0.0.1 snipjs.answcdn.com
@@ -11107,6 +11128,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 static.oroll.com
 127.0.0.1 static.plista.com
 127.0.0.1 static.plugrush.com
+127.0.0.1 static.ptoahaistais.com
 127.0.0.1 static.pulse360.com
 127.0.0.1 static.regiojobs.be
 127.0.0.1 static.scanscout.com
@@ -11210,6 +11232,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 syndication.exdynsrv.com
 127.0.0.1 syndication.exoclick.com
 127.0.0.1 syndication.exosrv.com
+127.0.0.1 syndication.optimizesrv.com
 127.0.0.1 syndication.traffichaus.com
 127.0.0.1 sysadmin.map24.com
 127.0.0.1 sysip.net
@@ -11300,6 +11323,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 the-binary-trader.biz
 127.0.0.1 the-path-gateway.com
 127.0.0.1 the-smart-stop.com
+127.0.0.1 thebestgame2020.com
 127.0.0.1 thebrighttag.com
 127.0.0.1 thebuzz.today
 127.0.0.1 themaplemethod.com
@@ -11316,6 +11340,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 this.content.served.by.adshuffle.com
 127.0.0.1 thoughtfully-free.com
 127.0.0.1 thruport.com
+127.0.0.1 tic.filmstoon.cam
 127.0.0.1 tidebuy.com
 127.0.0.1 tiltott.net
 127.0.0.1 timelywebsitehostesses.com
@@ -11825,10 +11850,12 @@ ff02::3		ip6-allhosts
 127.0.0.1 wap.casee.cn
 127.0.0.1 warp.crystalad.com
 127.0.0.1 watch-this.live
+127.0.0.1 waust.at
 127.0.0.1 wd.adcolony.com
 127.0.0.1 wdm29.com
 127.0.0.1 we-are-gamers.com
 127.0.0.1 wearewolves-records.com
+127.0.0.1 web-bars.com
 127.0.0.1 web.adblade.com
 127.0.0.1 web.nyc.ads.juno.co
 127.0.0.1 web1b.netreflector.com
@@ -11856,6 +11883,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 wf.basebanner.com
 127.0.0.1 whatishotnow.net
 127.0.0.1 whoroaza.com
+127.0.0.1 whos.amung.us
 127.0.0.1 widespace.com
 127.0.0.1 widget.achetezfacile.com
 127.0.0.1 widget.crowdignite.com
@@ -11863,6 +11891,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 widget.plugrush.com
 127.0.0.1 widget3.linkwithin.com
 127.0.0.1 widget5.linkwithin.com
+127.0.0.1 widgets.amung.us
 127.0.0.1 widgets.outbrain.com
 127.0.0.1 widgets.tcimg.com
 127.0.0.1 wigetmedia.com
@@ -11890,6 +11919,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ws-na.amazon-adsystem.com
 127.0.0.1 ws.addthis.com
 127.0.0.1 wtp101.com
+127.0.0.1 ww1.flashx.net
 127.0.0.1 ww1510.smartadserver.com
 127.0.0.1 ww251.smartadserver.com
 127.0.0.1 ww690.smartadserver.com
@@ -12251,6 +12281,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.exasharetab.com
 127.0.0.1 www.exclusive-games.website
 127.0.0.1 www.exclusivegiftcards.com
+127.0.0.1 www.expresvpn-private-analytics.net
 127.0.0.1 www.eyeblaster-bs.com
 127.0.0.1 www.eyewonder.com
 127.0.0.1 www.falkag.de
@@ -12805,6 +12836,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.usatravel-specials.com
 127.0.0.1 www.usatravel-specials.net
 127.0.0.1 www.usemax.de
+127.0.0.1 www.user-shield.com
 127.0.0.1 www.utarget.co.uk
 127.0.0.1 www.valueclick.com
 127.0.0.1 www.verypositiveus.com
