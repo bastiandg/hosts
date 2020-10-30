@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 26 Oct 2020 15:42:53 GMT
-# entries:        3554
+# entries:        3553
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -159,7 +159,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad.gt
 127.0.0.1 ad.hbv.de
 127.0.0.1 ad.hodomobile.com
-127.0.0.1 ad.httpool.com
 127.0.0.1 ad.hyena.cz
 127.0.0.1 ad.iinfo.cz
 127.0.0.1 ad.ilove.ch
