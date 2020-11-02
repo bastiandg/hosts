@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 02 Nov 2020 08:15:11 GMT
-# entries:        3553
+# last updated:   Mon, 02 Nov 2020 18:36:23 GMT
+# entries:        3555
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2131,6 +2131,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 justrelevant.com
 127.0.0.1 justuno.com
 127.0.0.1 k.iinfo.cz
+127.0.0.1 kameleoon.com
 127.0.0.1 kanoodle.com
 127.0.0.1 kargo.com
 127.0.0.1 karisimbi.net
@@ -3447,6 +3448,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 vs.tucows.com
 127.0.0.1 vtracy.de
 127.0.0.1 vungle.com
+127.0.0.1 vwo.com
 127.0.0.1 w55c.net
 127.0.0.1 wa.and.co.uk
 127.0.0.1 waardex.com
