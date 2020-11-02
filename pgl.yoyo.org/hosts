@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 26 Oct 2020 15:42:53 GMT
-# entries:        3551
+# last updated:   Mon, 02 Nov 2020 08:15:11 GMT
+# entries:        3553
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -3167,6 +3167,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tappx.com
 127.0.0.1 targad.de
 127.0.0.1 target.microsoft.com
+127.0.0.1 targeting.api.drift.com
 127.0.0.1 targeting.nzme.arcpublishing.com
 127.0.0.1 targetingnow.com
 127.0.0.1 targetnet.com
@@ -3377,6 +3378,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 undertone.com
 127.0.0.1 universcine.com
 127.0.0.1 unknowntray.com
+127.0.0.1 unless.com
 127.0.0.1 unrulymedia.com
 127.0.0.1 untd.com
 127.0.0.1 untidyquestion.com
