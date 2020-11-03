@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 03 Nov 2020 07:42:42 GMT
-# entries:        3556
+# last updated:   Tue, 03 Nov 2020 10:18:50 GMT
+# entries:        3557
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -3408,6 +3408,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 valuesponsor.com
 127.0.0.1 vanfireworks.com
 127.0.0.1 variablefitness.com
+127.0.0.1 vcommission.com
 127.0.0.1 veille-referencement.com
 127.0.0.1 velismedia.com
 127.0.0.1 ventivmedia.com
