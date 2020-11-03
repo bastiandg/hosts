@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 03 Nov 2020 10:18:50 GMT
-# entries:        3557
+# last updated:   Tue, 03 Nov 2020 13:26:06 GMT
+# entries:        3558
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -3459,6 +3459,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 wateryvan.com
 127.0.0.1 wd-track.de
 127.0.0.1 wdads.sx.atl.publicus.com
+127.0.0.1 web-redirecting.com
 127.0.0.1 web-stat.com
 127.0.0.1 web.informer.com
 127.0.0.1 web2.deja.com
