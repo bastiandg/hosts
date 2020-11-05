@@ -5977,7 +5977,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 answerbag.us.intellitxt.com
 0.0.0.0 answerhub.com
 0.0.0.0 answers-d.openx.net
-0.0.0.0 answers.nielsen.com
 0.0.0.0 answers.us.intellitxt.com
 0.0.0.0 ant.conversive.nl
 0.0.0.0 antalya.ru
@@ -6070,7 +6069,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 aorta.clickagy.com
 0.0.0.0 aos.gop1.co
 0.0.0.0 aos.gw.youmi.net
-0.0.0.0 aos.opt8.co
 0.0.0.0 ap-adcs.rqmob.com
 0.0.0.0 ap-central.load.exelator.com
 0.0.0.0 ap-northeast-1.event.prod.bidr.io
@@ -6700,7 +6698,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 apportal.airpush.com
 0.0.0.0 appres.camera360.com
 0.0.0.0 apps-cloud.xyz
-0.0.0.0 apps-ext.outfit7.com
 0.0.0.0 apps.ad-x.co.uk
 0.0.0.0 apps.admob.com
 0.0.0.0 apps.applift.com
@@ -6711,10 +6708,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 apps.nastydollars.com
 0.0.0.0 apps.nexus.bazaarvoice.com
 0.0.0.0 apps.nielsen.com
-0.0.0.0 apps.outfit7.com
 0.0.0.0 apps.pubmatic.com
 0.0.0.0 apps.shareaholic.com
-0.0.0.0 apps2.outfit7.com
 0.0.0.0 apps5.oingo.com
 0.0.0.0 apps9039.super-your-prize33.loan
 0.0.0.0 appscout.us.intellitxt.com
@@ -9144,14 +9139,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn-fastly-009.traffic-director-alias.krxd.net
 0.0.0.0 cdn-fastly.krxd.net
 0.0.0.0 cdn-gcp.siftscience.com
-0.0.0.0 cdn-gcs.outfit7.com
 0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 cdn-guile.akamaized.net
 0.0.0.0 cdn-image.com
 0.0.0.0 cdn-inner-active.edgekey.net
 0.0.0.0 cdn-lb.vungle.akadns.net
 0.0.0.0 cdn-lb.vungle.com
-0.0.0.0 cdn-o7.outfit7.com
 0.0.0.0 cdn-otf-cas.adperfect.com
 0.0.0.0 cdn-otf-cas.prfct.cc
 0.0.0.0 cdn-pci.optimizely.com
@@ -9161,7 +9154,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn-resources.prfct.cc
 0.0.0.0 cdn-s-optional.optimizely.com
 0.0.0.0 cdn-s2s.buysellads.net
-0.0.0.0 cdn-safe.outfit7.com
 0.0.0.0 cdn-settings.segment.com
 0.0.0.0 cdn-social.janrain.com
 0.0.0.0 cdn-static.formisimo.com
@@ -9448,7 +9440,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.optmd.com
 0.0.0.0 cdn.orbengine.com
 0.0.0.0 cdn.otherlevels.com
-0.0.0.0 cdn.outfit7.com
 0.0.0.0 cdn.palomatik.info
 0.0.0.0 cdn.pardot.com
 0.0.0.0 cdn.parsely.com
@@ -13284,9 +13275,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 eventbrite.122.2o7.net
 0.0.0.0 eventlog.outbrain.com
 0.0.0.0 eventlogger.soundcloud.com
-0.0.0.0 events-api-ew1.outfit7.com
 0.0.0.0 events-api.otherlevels.com
-0.0.0.0 events-api.outfit7.com
 0.0.0.0 events-collector.spot.im
 0.0.0.0 events-p-v2-us-east-1.undertone.com
 0.0.0.0 events-p-v2-us-west-1.undertone.com
@@ -14541,7 +14530,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 geo.moatads.com
 0.0.0.0 geo.nbcsports.com
 0.0.0.0 geo.offermatica.com
-0.0.0.0 geo.opt8.co
 0.0.0.0 geo.precisionclick.com
 0.0.0.0 geo.qualaroo.com
 0.0.0.0 geo.query.yahoo.com
@@ -15780,7 +15768,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 hyperion.adtech.de
 0.0.0.0 hyperion.adtech.fr
 0.0.0.0 hyperion.adtech.us
-0.0.0.0 hypertext.service.newrelic.com
 0.0.0.0 hypertracker.com
 0.0.0.0 hyprmx.com
 0.0.0.0 hystericalhelp.com
@@ -16294,7 +16281,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 img.mobusi.com
 0.0.0.0 img.msgtag.com
 0.0.0.0 img.netwrix.com
-0.0.0.0 img.opt8.co
 0.0.0.0 img.parked.ru
 0.0.0.0 img.prohardver.hu
 0.0.0.0 img.pulsemgr.com
@@ -16559,7 +16545,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 infospace.com.112.2o7.net
 0.0.0.0 infoweb-coolinfo.tk
 0.0.0.0 infoworldmediagroup.112.2o7.net
-0.0.0.0 infra-api.newrelic.com
 0.0.0.0 infrastrategy.122.2o7.net
 0.0.0.0 infratotalduicom.122.2o7.net
 0.0.0.0 ing-district.clicktale.net
@@ -18853,10 +18838,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 match.sync.ad.cpe.dotomi.com
 0.0.0.0 match.taboola.com
 0.0.0.0 match.xg4ken.com
-0.0.0.0 match7-as-s1.outfit7.com
-0.0.0.0 match7-eu-w1.outfit7.com
-0.0.0.0 match7-so-e1.outfit7.com
-0.0.0.0 match7-us-c1.outfit7.com
 0.0.0.0 matchadsrvr.yieldmo.com
 0.0.0.0 matchbin-assets.s3.amazonaws.com
 0.0.0.0 matchcraft.com
@@ -21060,7 +21041,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 o2adpl.hit.gemius.pl
 0.0.0.0 o333o.com
 0.0.0.0 o3sndvzo25.com
-0.0.0.0 o7hb.outfit7.com
 0.0.0.0 o8.aus.cc
 0.0.0.0 oacentral.cepro.com
 0.0.0.0 oads.cracked.com
@@ -21645,7 +21625,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 openx.mercatormedia.com
 0.0.0.0 openx.net
 0.0.0.0 openx.omniton.net
-0.0.0.0 openx.org
 0.0.0.0 openx.shinyads.com
 0.0.0.0 openx.skinet.cz
 0.0.0.0 openx.smcaen.fr
@@ -21657,13 +21636,11 @@ ff02::2 ip6-allrouters
 0.0.0.0 openx2.fotoflexer.com
 0.0.0.0 openx2.kytary.cz
 0.0.0.0 openxdisplay970503469688.s.moatpixel.com
-0.0.0.0 openxenterprise.com
 0.0.0.0 openxvideo114183407631.s.moatpixel.com
 0.0.0.0 openxxx.viragemedia.com
 0.0.0.0 opera-server.thinknearhub.com
 0.0.0.0 operationkettle.com
 0.0.0.0 opienetwork.com
-0.0.0.0 opinionstage.com
 0.0.0.0 oplaca-sie.pl
 0.0.0.0 opmnstr.com
 0.0.0.0 opps.taboola.com
@@ -21672,7 +21649,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 opserver01.iti.net.pk
 0.0.0.0 opt.hit.gemius.pl
 0.0.0.0 opt.ximad.com
-0.0.0.0 opt8.co
 0.0.0.0 optad360.io
 0.0.0.0 optad360.mgr.consensu.org
 0.0.0.0 optaim.com
@@ -21835,7 +21811,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 outweb.nudt.edu.cn
 0.0.0.0 overclockersonline.us.intellitxt.com
 0.0.0.0 overconfidentfood.com
-0.0.0.0 overdrive-d.openx.net
 0.0.0.0 overflow.adsoftware.com
 0.0.0.0 overlay.ringtonematcher.com
 0.0.0.0 overstock.com.112.2o7.net
@@ -21858,12 +21833,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ox-d.hypeads.org
 0.0.0.0 ox-d.slader.servedbyopenx.com
 0.0.0.0 ox-d.zenoviagroup.com
-0.0.0.0 ox-delivery-prod-1-asia-northeast1.openx.net
-0.0.0.0 ox-delivery-prod-1-asia-southeast1.openx.net
-0.0.0.0 ox-delivery-prod-1-europe-west1.openx.net
-0.0.0.0 ox-delivery-prod-1-us-central1.openx.net
-0.0.0.0 ox-delivery-prod-1-us-east1.openx.net
-0.0.0.0 ox-delivery-prod-1-us-west1.openx.net
 0.0.0.0 ox-i.zenoviagroup.com
 0.0.0.0 ox.eurogamer.net
 0.0.0.0 ox.furaffinity.net
@@ -22660,7 +22629,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 plasmatv4free.com
 0.0.0.0 plasmatvreward.com
 0.0.0.0 platads.com
-0.0.0.0 platform-api.newrelic.com
 0.0.0.0 platform-api.sharethis.com
 0.0.0.0 platform-cdn.sharethis.com
 0.0.0.0 platform-cdn.sharethrough.com
@@ -25598,7 +25566,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 service.maxymiser.net
 0.0.0.0 service.mm-r-prop-11-16-2.com
 0.0.0.0 service.multi-pops.com
-0.0.0.0 service.newrelic.com
 0.0.0.0 service.persianstat.com
 0.0.0.0 service.sp.advertising.com
 0.0.0.0 service.sponsorpay.com

@@ -5977,7 +5977,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 answerbag.us.intellitxt.com
 127.0.0.1 answerhub.com
 127.0.0.1 answers-d.openx.net
-127.0.0.1 answers.nielsen.com
 127.0.0.1 answers.us.intellitxt.com
 127.0.0.1 ant.conversive.nl
 127.0.0.1 antalya.ru
@@ -6070,7 +6069,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 aorta.clickagy.com
 127.0.0.1 aos.gop1.co
 127.0.0.1 aos.gw.youmi.net
-127.0.0.1 aos.opt8.co
 127.0.0.1 ap-adcs.rqmob.com
 127.0.0.1 ap-central.load.exelator.com
 127.0.0.1 ap-northeast-1.event.prod.bidr.io
@@ -6700,7 +6698,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 apportal.airpush.com
 127.0.0.1 appres.camera360.com
 127.0.0.1 apps-cloud.xyz
-127.0.0.1 apps-ext.outfit7.com
 127.0.0.1 apps.ad-x.co.uk
 127.0.0.1 apps.admob.com
 127.0.0.1 apps.applift.com
@@ -6711,10 +6708,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 apps.nastydollars.com
 127.0.0.1 apps.nexus.bazaarvoice.com
 127.0.0.1 apps.nielsen.com
-127.0.0.1 apps.outfit7.com
 127.0.0.1 apps.pubmatic.com
 127.0.0.1 apps.shareaholic.com
-127.0.0.1 apps2.outfit7.com
 127.0.0.1 apps5.oingo.com
 127.0.0.1 apps9039.super-your-prize33.loan
 127.0.0.1 appscout.us.intellitxt.com
@@ -9144,14 +9139,12 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn-fastly-009.traffic-director-alias.krxd.net
 127.0.0.1 cdn-fastly.krxd.net
 127.0.0.1 cdn-gcp.siftscience.com
-127.0.0.1 cdn-gcs.outfit7.com
 127.0.0.1 cdn-gl.imrworldwide.com
 127.0.0.1 cdn-guile.akamaized.net
 127.0.0.1 cdn-image.com
 127.0.0.1 cdn-inner-active.edgekey.net
 127.0.0.1 cdn-lb.vungle.akadns.net
 127.0.0.1 cdn-lb.vungle.com
-127.0.0.1 cdn-o7.outfit7.com
 127.0.0.1 cdn-otf-cas.adperfect.com
 127.0.0.1 cdn-otf-cas.prfct.cc
 127.0.0.1 cdn-pci.optimizely.com
@@ -9161,7 +9154,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn-resources.prfct.cc
 127.0.0.1 cdn-s-optional.optimizely.com
 127.0.0.1 cdn-s2s.buysellads.net
-127.0.0.1 cdn-safe.outfit7.com
 127.0.0.1 cdn-settings.segment.com
 127.0.0.1 cdn-social.janrain.com
 127.0.0.1 cdn-static.formisimo.com
@@ -9448,7 +9440,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.optmd.com
 127.0.0.1 cdn.orbengine.com
 127.0.0.1 cdn.otherlevels.com
-127.0.0.1 cdn.outfit7.com
 127.0.0.1 cdn.palomatik.info
 127.0.0.1 cdn.pardot.com
 127.0.0.1 cdn.parsely.com
@@ -13284,9 +13275,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 eventbrite.122.2o7.net
 127.0.0.1 eventlog.outbrain.com
 127.0.0.1 eventlogger.soundcloud.com
-127.0.0.1 events-api-ew1.outfit7.com
 127.0.0.1 events-api.otherlevels.com
-127.0.0.1 events-api.outfit7.com
 127.0.0.1 events-collector.spot.im
 127.0.0.1 events-p-v2-us-east-1.undertone.com
 127.0.0.1 events-p-v2-us-west-1.undertone.com
@@ -14541,7 +14530,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 geo.moatads.com
 127.0.0.1 geo.nbcsports.com
 127.0.0.1 geo.offermatica.com
-127.0.0.1 geo.opt8.co
 127.0.0.1 geo.precisionclick.com
 127.0.0.1 geo.qualaroo.com
 127.0.0.1 geo.query.yahoo.com
@@ -15780,7 +15768,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 hyperion.adtech.de
 127.0.0.1 hyperion.adtech.fr
 127.0.0.1 hyperion.adtech.us
-127.0.0.1 hypertext.service.newrelic.com
 127.0.0.1 hypertracker.com
 127.0.0.1 hyprmx.com
 127.0.0.1 hystericalhelp.com
@@ -16294,7 +16281,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 img.mobusi.com
 127.0.0.1 img.msgtag.com
 127.0.0.1 img.netwrix.com
-127.0.0.1 img.opt8.co
 127.0.0.1 img.parked.ru
 127.0.0.1 img.prohardver.hu
 127.0.0.1 img.pulsemgr.com
@@ -16559,7 +16545,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 infospace.com.112.2o7.net
 127.0.0.1 infoweb-coolinfo.tk
 127.0.0.1 infoworldmediagroup.112.2o7.net
-127.0.0.1 infra-api.newrelic.com
 127.0.0.1 infrastrategy.122.2o7.net
 127.0.0.1 infratotalduicom.122.2o7.net
 127.0.0.1 ing-district.clicktale.net
@@ -18853,10 +18838,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 match.sync.ad.cpe.dotomi.com
 127.0.0.1 match.taboola.com
 127.0.0.1 match.xg4ken.com
-127.0.0.1 match7-as-s1.outfit7.com
-127.0.0.1 match7-eu-w1.outfit7.com
-127.0.0.1 match7-so-e1.outfit7.com
-127.0.0.1 match7-us-c1.outfit7.com
 127.0.0.1 matchadsrvr.yieldmo.com
 127.0.0.1 matchbin-assets.s3.amazonaws.com
 127.0.0.1 matchcraft.com
@@ -21060,7 +21041,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 o2adpl.hit.gemius.pl
 127.0.0.1 o333o.com
 127.0.0.1 o3sndvzo25.com
-127.0.0.1 o7hb.outfit7.com
 127.0.0.1 o8.aus.cc
 127.0.0.1 oacentral.cepro.com
 127.0.0.1 oads.cracked.com
@@ -21645,7 +21625,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 openx.mercatormedia.com
 127.0.0.1 openx.net
 127.0.0.1 openx.omniton.net
-127.0.0.1 openx.org
 127.0.0.1 openx.shinyads.com
 127.0.0.1 openx.skinet.cz
 127.0.0.1 openx.smcaen.fr
@@ -21657,13 +21636,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 openx2.fotoflexer.com
 127.0.0.1 openx2.kytary.cz
 127.0.0.1 openxdisplay970503469688.s.moatpixel.com
-127.0.0.1 openxenterprise.com
 127.0.0.1 openxvideo114183407631.s.moatpixel.com
 127.0.0.1 openxxx.viragemedia.com
 127.0.0.1 opera-server.thinknearhub.com
 127.0.0.1 operationkettle.com
 127.0.0.1 opienetwork.com
-127.0.0.1 opinionstage.com
 127.0.0.1 oplaca-sie.pl
 127.0.0.1 opmnstr.com
 127.0.0.1 opps.taboola.com
@@ -21672,7 +21649,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 opserver01.iti.net.pk
 127.0.0.1 opt.hit.gemius.pl
 127.0.0.1 opt.ximad.com
-127.0.0.1 opt8.co
 127.0.0.1 optad360.io
 127.0.0.1 optad360.mgr.consensu.org
 127.0.0.1 optaim.com
@@ -21835,7 +21811,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 outweb.nudt.edu.cn
 127.0.0.1 overclockersonline.us.intellitxt.com
 127.0.0.1 overconfidentfood.com
-127.0.0.1 overdrive-d.openx.net
 127.0.0.1 overflow.adsoftware.com
 127.0.0.1 overlay.ringtonematcher.com
 127.0.0.1 overstock.com.112.2o7.net
@@ -21858,12 +21833,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ox-d.hypeads.org
 127.0.0.1 ox-d.slader.servedbyopenx.com
 127.0.0.1 ox-d.zenoviagroup.com
-127.0.0.1 ox-delivery-prod-1-asia-northeast1.openx.net
-127.0.0.1 ox-delivery-prod-1-asia-southeast1.openx.net
-127.0.0.1 ox-delivery-prod-1-europe-west1.openx.net
-127.0.0.1 ox-delivery-prod-1-us-central1.openx.net
-127.0.0.1 ox-delivery-prod-1-us-east1.openx.net
-127.0.0.1 ox-delivery-prod-1-us-west1.openx.net
 127.0.0.1 ox-i.zenoviagroup.com
 127.0.0.1 ox.eurogamer.net
 127.0.0.1 ox.furaffinity.net
@@ -22660,7 +22629,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 plasmatv4free.com
 127.0.0.1 plasmatvreward.com
 127.0.0.1 platads.com
-127.0.0.1 platform-api.newrelic.com
 127.0.0.1 platform-api.sharethis.com
 127.0.0.1 platform-cdn.sharethis.com
 127.0.0.1 platform-cdn.sharethrough.com
@@ -25598,7 +25566,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 service.maxymiser.net
 127.0.0.1 service.mm-r-prop-11-16-2.com
 127.0.0.1 service.multi-pops.com
-127.0.0.1 service.newrelic.com
 127.0.0.1 service.persianstat.com
 127.0.0.1 service.sp.advertising.com
 127.0.0.1 service.sponsorpay.com
