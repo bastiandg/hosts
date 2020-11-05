@@ -21,7 +21,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 03 Nov 2020 13:26:06 GMT
+# last updated:   Thu, 05 Nov 2020 09:39:13 GMT
 # entries:        3558
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -1235,6 +1235,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 banners.isoftmarketing.com
 127.0.0.1 banners.linkbuddies.com
 127.0.0.1 banners.passion.com
+127.0.0.1 banners.payserve.com
 127.0.0.1 banners.resultonline.com
 127.0.0.1 banners.sys-con.com
 127.0.0.1 banners.thomsonlocal.com
@@ -2596,7 +2597,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 passion-4.net
 127.0.0.1 paycounter.com
 127.0.0.1 paypopup.com
-127.0.0.1 payserve.com
 127.0.0.1 pbnet.ru
 127.0.0.1 pbterra.com
 127.0.0.1 pcash.imlive.com
