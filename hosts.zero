@@ -6291,7 +6291,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.murdoog.com
 0.0.0.0 api.nanigans.com
 0.0.0.0 api.native.ai
-0.0.0.0 api.newrelic.com
 0.0.0.0 api.nicovideo.jp
 0.0.0.0 api.ning.com
 0.0.0.0 api.nrelate.com
@@ -18075,7 +18074,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 login-ds.dotomi.com
 0.0.0.0 login.dotomi.com
 0.0.0.0 login.linkpulse.com
-0.0.0.0 login.newrelic.com
 0.0.0.0 login.tracking101.com
 0.0.0.0 logliberation.xiti.com
 0.0.0.0 lognormal.net

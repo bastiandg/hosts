@@ -1488,7 +1488,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.muneris.io
 0.0.0.0 api.nanigans.com
 0.0.0.0 api.native.ai
-0.0.0.0 api.newrelic.com
 0.0.0.0 api.nicovideo.jp
 0.0.0.0 api.ning.com
 0.0.0.0 api.nrelate.com
@@ -5286,7 +5285,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 logging.fishsticksgames.com
 0.0.0.0 login-ds.dotomi.com
 0.0.0.0 login.dotomi.com
-0.0.0.0 login.newrelic.com
 0.0.0.0 logonext.tv.kuyun.com
 0.0.0.0 logs-01.loggly.com
 0.0.0.0 logs.81plug.com
