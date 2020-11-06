@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 05 Nov 2020 13:33:09 GMT
-# entries:        3559
+# last updated:   Fri, 06 Nov 2020 13:22:37 GMT
+# entries:        3562
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1800,6 +1800,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 farethief.com
 127.0.0.1 farmergoldfish.com
 127.0.0.1 fascinatedfeather.com
+127.0.0.1 fast-redirecting.com
 127.0.0.1 fastclick.com
 127.0.0.1 fastclick.com.edgesuite.net
 127.0.0.1 fastclick.net
@@ -2569,6 +2570,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 owebmoney.ru
 127.0.0.1 owlsr.us
 127.0.0.1 owneriq.net
+127.0.0.1 ox1.shopcool.com.tw
 127.0.0.1 oxado.com
 127.0.0.1 oxcash.com
 127.0.0.1 oxen.hillcountrytexas.com
@@ -3315,6 +3317,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tradedoubler.com
 127.0.0.1 trading-rtbg.com
 127.0.0.1 traffic-exchange.com
+127.0.0.1 traffic-redirecting.com
 127.0.0.1 traffic.focuusing.com
 127.0.0.1 trafficfactory.biz
 127.0.0.1 trafficforce.com
