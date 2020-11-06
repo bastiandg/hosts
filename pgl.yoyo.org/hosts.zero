@@ -1194,6 +1194,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 banners.adultfriendfinder.com
 0.0.0.0 banners.amigos.com
 0.0.0.0 banners.asiafriendfinder.com
+0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.bol.com.br
 0.0.0.0 banners.cams.com
 0.0.0.0 banners.clubseventeen.com
@@ -2744,7 +2745,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 railwayreason.com
 0.0.0.0 rampidads.com
 0.0.0.0 rank-master.com
-0.0.0.0 rankchamp.de
 0.0.0.0 ranking-charts.de
 0.0.0.0 ranking-hits.de
 0.0.0.0 ranking-links.de

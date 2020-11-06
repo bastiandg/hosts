@@ -1221,6 +1221,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 banners.adultfriendfinder.com
 127.0.0.1 banners.amigos.com
 127.0.0.1 banners.asiafriendfinder.com
+127.0.0.1 banners.babylon-x.com
 127.0.0.1 banners.bol.com.br
 127.0.0.1 banners.cams.com
 127.0.0.1 banners.clubseventeen.com
@@ -2771,7 +2772,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 railwayreason.com
 127.0.0.1 rampidads.com
 127.0.0.1 rank-master.com
-127.0.0.1 rankchamp.de
 127.0.0.1 ranking-charts.de
 127.0.0.1 ranking-hits.de
 127.0.0.1 ranking-links.de
