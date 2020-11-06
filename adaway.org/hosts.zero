@@ -2254,7 +2254,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bp.adkmob.com
 0.0.0.0 br.ads.justpremium.com
 0.0.0.0 br.com.tapps.analytics.s3.amazonaws.com
-0.0.0.0 br.ifunny.co
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 brain.foresee.com
 0.0.0.0 brainient.com
@@ -2677,7 +2676,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.stickyadstv.com
 0.0.0.0 cdn.stickyadstv.com.akadns.net
 0.0.0.0 cdn.taboola.com
-0.0.0.0 cdn.tagcommander.com
 0.0.0.0 cdn.tagular.com
 0.0.0.0 cdn.tanx.com
 0.0.0.0 cdn.targetspot.com
@@ -3908,7 +3906,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 events.cid.samba.tv
 0.0.0.0 events.engageya.com
 0.0.0.0 events.foreseeresults.com
-0.0.0.0 events.ifunny.co
 0.0.0.0 events.influencemobile.com
 0.0.0.0 events.kumulos.com
 0.0.0.0 events.lbesecapi.com
@@ -4239,7 +4236,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 geoip-api.cleverpush.com
 0.0.0.0 geoip.fotoable.net
 0.0.0.0 geoip.goforandroid.com
-0.0.0.0 geoip.ifunny.co
 0.0.0.0 geoplugin.net
 0.0.0.0 geoworker.ayads.co
 0.0.0.0 geshopimg.logsss.com
@@ -4704,7 +4700,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 image6.pubmatic.com
 0.0.0.0 image8.pubmatic.com
 0.0.0.0 imageplus.baidu.com
-0.0.0.0 imageproxy.ifunny.co
 0.0.0.0 images-demand.ssacdn.com
 0.0.0.0 images-dl.taboola.com
 0.0.0.0 images-or.ott.kaltura.com
@@ -4748,7 +4743,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 img.fam-ad.com
 0.0.0.0 img.flashtalking.com
 0.0.0.0 img.gop1.co
-0.0.0.0 img.ifunny.co
 0.0.0.0 img.leadzutw.com
 0.0.0.0 img.maropost.com
 0.0.0.0 img.mobusi.com
@@ -5288,7 +5282,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 logonext.tv.kuyun.com
 0.0.0.0 logs-01.loggly.com
 0.0.0.0 logs.81plug.com
-0.0.0.0 logs.ifunny.co
 0.0.0.0 logs.starbolt.io
 0.0.0.0 logs.supersonic.com
 0.0.0.0 logs.which.co.uk
@@ -7335,7 +7328,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 server.idreams.pl
 0.0.0.0 server.seadform.net
 0.0.0.0 serverc.shoofle.tv
-0.0.0.0 serverside4285.tagcommander.com
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 service.fyber.com
 0.0.0.0 service.innovid.com

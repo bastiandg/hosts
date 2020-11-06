@@ -8272,7 +8272,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 br.com.tapps.analytics.s3.amazonaws.com
 0.0.0.0 br.comclick.com
 0.0.0.0 br.fling.com
-0.0.0.0 br.ifunny.co
 0.0.0.0 br.meetlocals.com
 0.0.0.0 br.naked.com
 0.0.0.0 br.phorm.com
@@ -13293,7 +13292,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 events.cid.samba.tv
 0.0.0.0 events.engageya.com
 0.0.0.0 events.foreseeresults.com
-0.0.0.0 events.ifunny.co
 0.0.0.0 events.influencemobile.com
 0.0.0.0 events.kalooga.com
 0.0.0.0 events.kiosked.com
@@ -14565,7 +14563,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 geoip.edagames.com
 0.0.0.0 geoip.fotoable.net
 0.0.0.0 geoip.goforandroid.com
-0.0.0.0 geoip.ifunny.co
 0.0.0.0 geoip.securitetotale.com
 0.0.0.0 geoloc11.geovisite.com
 0.0.0.0 geoloc12.geovisite.com
@@ -16147,7 +16144,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 imageceu1.247realmedia.com
 0.0.0.0 imagenen1.247realmedia.com
 0.0.0.0 imageplus.baidu.com
-0.0.0.0 imageproxy.ifunny.co
 0.0.0.0 images-aud.freshmeat.net
 0.0.0.0 images-aud.slashdot.org
 0.0.0.0 images-aud.sourceforge.net
@@ -16270,7 +16266,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 img.fam-ad.com
 0.0.0.0 img.flashtalking.com
 0.0.0.0 img.gop1.co
-0.0.0.0 img.ifunny.co
 0.0.0.0 img.jizzads.com
 0.0.0.0 img.layer-ads.de
 0.0.0.0 img.leadzutw.com
@@ -18093,7 +18088,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 logs.datadoghq.eu
 0.0.0.0 logs.eresmas.com
 0.0.0.0 logs.eresmas.net
-0.0.0.0 logs.ifunny.co
 0.0.0.0 logs.loggly.com
 0.0.0.0 logs.roku.com
 0.0.0.0 logs.sexy-parade.com
@@ -25552,7 +25546,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 server821.com
 0.0.0.0 server9.opentracker.net
 0.0.0.0 serverc.shoofle.tv
-0.0.0.0 serverside4285.tagcommander.com
 0.0.0.0 servethis.com
 0.0.0.0 service.adtech.de
 0.0.0.0 service.adtech.fr

@@ -8272,7 +8272,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 br.com.tapps.analytics.s3.amazonaws.com
 127.0.0.1 br.comclick.com
 127.0.0.1 br.fling.com
-127.0.0.1 br.ifunny.co
 127.0.0.1 br.meetlocals.com
 127.0.0.1 br.naked.com
 127.0.0.1 br.phorm.com
@@ -13293,7 +13292,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 events.cid.samba.tv
 127.0.0.1 events.engageya.com
 127.0.0.1 events.foreseeresults.com
-127.0.0.1 events.ifunny.co
 127.0.0.1 events.influencemobile.com
 127.0.0.1 events.kalooga.com
 127.0.0.1 events.kiosked.com
@@ -14565,7 +14563,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 geoip.edagames.com
 127.0.0.1 geoip.fotoable.net
 127.0.0.1 geoip.goforandroid.com
-127.0.0.1 geoip.ifunny.co
 127.0.0.1 geoip.securitetotale.com
 127.0.0.1 geoloc11.geovisite.com
 127.0.0.1 geoloc12.geovisite.com
@@ -16147,7 +16144,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 imageceu1.247realmedia.com
 127.0.0.1 imagenen1.247realmedia.com
 127.0.0.1 imageplus.baidu.com
-127.0.0.1 imageproxy.ifunny.co
 127.0.0.1 images-aud.freshmeat.net
 127.0.0.1 images-aud.slashdot.org
 127.0.0.1 images-aud.sourceforge.net
@@ -16270,7 +16266,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 img.fam-ad.com
 127.0.0.1 img.flashtalking.com
 127.0.0.1 img.gop1.co
-127.0.0.1 img.ifunny.co
 127.0.0.1 img.jizzads.com
 127.0.0.1 img.layer-ads.de
 127.0.0.1 img.leadzutw.com
@@ -18093,7 +18088,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 logs.datadoghq.eu
 127.0.0.1 logs.eresmas.com
 127.0.0.1 logs.eresmas.net
-127.0.0.1 logs.ifunny.co
 127.0.0.1 logs.loggly.com
 127.0.0.1 logs.roku.com
 127.0.0.1 logs.sexy-parade.com
@@ -25552,7 +25546,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 server821.com
 127.0.0.1 server9.opentracker.net
 127.0.0.1 serverc.shoofle.tv
-127.0.0.1 serverside4285.tagcommander.com
 127.0.0.1 servethis.com
 127.0.0.1 service.adtech.de
 127.0.0.1 service.adtech.fr
