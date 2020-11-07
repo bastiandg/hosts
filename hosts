@@ -6216,7 +6216,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 api.doumob.com
 127.0.0.1 api.ent.mobileanjian.com
 127.0.0.1 api.ero-advertising.com
-127.0.0.1 api.espn.com
 127.0.0.1 api.exc.mob.com
 127.0.0.1 api.factual.com
 127.0.0.1 api.fyber.com
@@ -17947,7 +17946,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 log.btopenworld.com
 127.0.0.1 log.byteoversea.com.edgekey.net
 127.0.0.1 log.clickstream.co.za
-127.0.0.1 log.espn.com
 127.0.0.1 log.fc.yahoo.com
 127.0.0.1 log.feedjit.com
 127.0.0.1 log.fotoable.com
