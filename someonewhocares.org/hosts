@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 09 Nov 2020 at 00:58:56 GMT
+# Last updated: Mon, 09 Nov 2020 at 04:23:51 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2386,6 +2386,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 filosvybfimpsv.ru.gg
 127.0.0.1 filter.mediacpc.com
 127.0.0.1 find-your-profithere11.com
+127.0.0.1 find-yourprofithere.life
 127.0.0.1 firefox-updater.com
 127.0.0.1 firefox.net-secure-update.icu
 127.0.0.1 fndsdaytings.com
@@ -2767,6 +2768,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 pigredoben12.sytes.net
 127.0.0.1 pilltabletsrxbargain.net
 127.0.0.1 play6932.fuckingmonday113.agency
+127.0.0.1 poonstwifterspick.work
 127.0.0.1 pop.net21pk.com
 127.0.0.1 post.netchina.com.cn
 127.0.0.1 postbox.mos.ru
@@ -2855,6 +2857,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 shell.xhhow4.com
 127.0.0.1 shop.skin-safety.com
 127.0.0.1 shoppstop.comood.opsource.net
+127.0.0.1 shoptrustup.su
 127.0.0.1 signin-ebay-com-ws-ebayisapi-dll-signin-webscr.ocom.pl
 127.0.0.1 simplyfwd.com
 127.0.0.1 sincentre.info
@@ -2981,6 +2984,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 videoamp.com
 127.0.0.1 videos.dskjkiuw.com
 127.0.0.1 videos.twitter.secure-logins01.com # twitter worm (http://mashable.com/2009/09/23/twitter-worm-dms/)
+127.0.0.1 viowyf.khaiafi.com
 127.0.0.1 vip.fortunatetime.xyz
 127.0.0.1 virus-notice.com
 127.0.0.1 voyager1.telesat.com.co
