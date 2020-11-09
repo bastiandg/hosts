@@ -9616,7 +9616,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdns.privatamateure.com
 0.0.0.0 cdns.sdkconfig.site
 0.0.0.0 cdns.turn.com
-0.0.0.0 cdnsecakmi.kaltura.com
 0.0.0.0 cdnsonata.taptapnetworks.com
 0.0.0.0 cdnssl.clicktale.net
 0.0.0.0 cdnstoremedia.com
@@ -16148,7 +16147,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 images-cdn.azoogleads.com
 0.0.0.0 images-demand.ssacdn.com
 0.0.0.0 images-dl.taboola.com
-0.0.0.0 images-or.ott.kaltura.com
 0.0.0.0 images-pw.secureserver.net
 0.0.0.0 images-static.vrvm.com
 0.0.0.0 images.3lift.com
@@ -21720,7 +21718,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 origin-evt.undertone.com
 0.0.0.0 origin-tracking.trulia.com
 0.0.0.0 origin.chron.com
-0.0.0.0 origin.kaltura.com
 0.0.0.0 origin.kaltura.perf.akadns.net
 0.0.0.0 origin.optimost.io
 0.0.0.0 origo-blog.com
@@ -21769,7 +21766,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 otracking.com
 0.0.0.0 ots.optimize.webtrends.com
 0.0.0.0 otsserver.com
-0.0.0.0 ott.kaltura.com
 0.0.0.0 ottacknet.112.2o7.net
 0.0.0.0 ottdailytidingscom.112.2o7.net
 0.0.0.0 otto-images.developershed.com
@@ -21919,7 +21915,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 p4dt2-weet1.ads.tremorhub.com
 0.0.0.0 p4psearch.china.alibaba.com
 0.0.0.0 p69523.clksite.com
-0.0.0.0 pa-stats.origin-cogent.kaltura.com
 0.0.0.0 pa.5.p2l.info
 0.0.0.0 paas-push-api-log.immomo.com
 0.0.0.0 paas-push-api.immomo.com
@@ -24012,7 +24007,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 resources.taboola.com
 0.0.0.0 responsiveads.com
 0.0.0.0 responsys.net
-0.0.0.0 rest-as.ott.kaltura.com
 0.0.0.0 rest.dynamicyield.com
 0.0.0.0 rest.iad-01.braze.com
 0.0.0.0 rest.iad-03.braze.com
@@ -27104,7 +27098,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 stats.nymag.com
 0.0.0.0 stats.oix.com
 0.0.0.0 stats.olark.com
-0.0.0.0 stats.origin.kaltura.com
 0.0.0.0 stats.origin.kaltura.perf.akadns.net
 0.0.0.0 stats.outster.com
 0.0.0.0 stats.ozwebsites.biz
@@ -29522,7 +29515,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tvn.adocean.pl
 0.0.0.0 tvn.hit.gemius.pl
 0.0.0.0 tvn2.adocean.pl
-0.0.0.0 tvpapi-as.ott.kaltura.com
 0.0.0.0 tvseriesfinale.us.intellitxt.com
 0.0.0.0 tvshowslist.com
 0.0.0.0 tvshowsnow.tvmax.hop.clickbank.net

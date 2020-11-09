@@ -2726,7 +2726,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdns.connatix.com
 0.0.0.0 cdns.sdkconfig.site
 0.0.0.0 cdns.turn.com
-0.0.0.0 cdnsecakmi.kaltura.com
 0.0.0.0 cdnsonata.taptapnetworks.com
 0.0.0.0 cdnssl.clicktale.net
 0.0.0.0 cdnstoremedia.com
@@ -4698,7 +4697,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 imageplus.baidu.com
 0.0.0.0 images-demand.ssacdn.com
 0.0.0.0 images-dl.taboola.com
-0.0.0.0 images-or.ott.kaltura.com
 0.0.0.0 images-static.vrvm.com
 0.0.0.0 images.3lift.com
 0.0.0.0 images.adadapted.com
@@ -6002,7 +6000,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 origami.secure.ownlocal.com
 0.0.0.0 origin-ads.undertone.com
 0.0.0.0 origin-evt.undertone.com
-0.0.0.0 origin.kaltura.com
 0.0.0.0 origin.kaltura.perf.akadns.net
 0.0.0.0 origin.optimost.io
 0.0.0.0 orion.eyereturn.com
@@ -6019,7 +6016,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 other.upqzfile.com
 0.0.0.0 otherlevels.com
 0.0.0.0 ots.optimize.webtrends.com
-0.0.0.0 ott.kaltura.com
 0.0.0.0 oumax.oupeng.com
 0.0.0.0 ouplog.umeng.com
 0.0.0.0 out.usbla.net
@@ -6081,7 +6077,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 p4dt2-hr9oj.ads.tremorhub.com
 0.0.0.0 p4dt2-uma55.ads.tremorhub.com
 0.0.0.0 p4dt2-weet1.ads.tremorhub.com
-0.0.0.0 pa-stats.origin-cogent.kaltura.com
 0.0.0.0 paas-push-api-log.immomo.com
 0.0.0.0 paas-push-api.immomo.com
 0.0.0.0 pad-v3.presage.io
@@ -6739,7 +6734,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 resources.presage.io
 0.0.0.0 resources.taboola.com
 0.0.0.0 responsys.net
-0.0.0.0 rest-as.ott.kaltura.com
 0.0.0.0 rest.dynamicyield.com
 0.0.0.0 rest.iad-01.braze.com
 0.0.0.0 rest.iad-03.braze.com
@@ -7859,12 +7853,10 @@ ff02::2 ip6-allrouters
 0.0.0.0 stats.ipinyou.com
 0.0.0.0 stats.ivymobile.com
 0.0.0.0 stats.jpush.cn
-0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.kumulos.com
 0.0.0.0 stats.mediaforge.com
 0.0.0.0 stats.mediaforge.com.edgekey.net
 0.0.0.0 stats.netsolads.com
-0.0.0.0 stats.origin.kaltura.com
 0.0.0.0 stats.origin.kaltura.perf.akadns.net
 0.0.0.0 stats.pingdom.com
 0.0.0.0 stats.popcap.com
@@ -8507,7 +8499,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 turbo2sdk-push.oupeng.com
 0.0.0.0 turn.com.akadns.net
 0.0.0.0 tv.rlcdn.com
-0.0.0.0 tvpapi-as.ott.kaltura.com
 0.0.0.0 tvx.adgrx.com
 0.0.0.0 tvx.adgrx.com.tech.akadns.net
 0.0.0.0 tw-api.vpadn.com

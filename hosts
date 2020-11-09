@@ -9616,7 +9616,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdns.privatamateure.com
 127.0.0.1 cdns.sdkconfig.site
 127.0.0.1 cdns.turn.com
-127.0.0.1 cdnsecakmi.kaltura.com
 127.0.0.1 cdnsonata.taptapnetworks.com
 127.0.0.1 cdnssl.clicktale.net
 127.0.0.1 cdnstoremedia.com
@@ -16148,7 +16147,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 images-cdn.azoogleads.com
 127.0.0.1 images-demand.ssacdn.com
 127.0.0.1 images-dl.taboola.com
-127.0.0.1 images-or.ott.kaltura.com
 127.0.0.1 images-pw.secureserver.net
 127.0.0.1 images-static.vrvm.com
 127.0.0.1 images.3lift.com
@@ -21720,7 +21718,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 origin-evt.undertone.com
 127.0.0.1 origin-tracking.trulia.com
 127.0.0.1 origin.chron.com
-127.0.0.1 origin.kaltura.com
 127.0.0.1 origin.kaltura.perf.akadns.net
 127.0.0.1 origin.optimost.io
 127.0.0.1 origo-blog.com
@@ -21769,7 +21766,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 otracking.com
 127.0.0.1 ots.optimize.webtrends.com
 127.0.0.1 otsserver.com
-127.0.0.1 ott.kaltura.com
 127.0.0.1 ottacknet.112.2o7.net
 127.0.0.1 ottdailytidingscom.112.2o7.net
 127.0.0.1 otto-images.developershed.com
@@ -21919,7 +21915,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 p4dt2-weet1.ads.tremorhub.com
 127.0.0.1 p4psearch.china.alibaba.com
 127.0.0.1 p69523.clksite.com
-127.0.0.1 pa-stats.origin-cogent.kaltura.com
 127.0.0.1 pa.5.p2l.info
 127.0.0.1 paas-push-api-log.immomo.com
 127.0.0.1 paas-push-api.immomo.com
@@ -24012,7 +24007,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 resources.taboola.com
 127.0.0.1 responsiveads.com
 127.0.0.1 responsys.net
-127.0.0.1 rest-as.ott.kaltura.com
 127.0.0.1 rest.dynamicyield.com
 127.0.0.1 rest.iad-01.braze.com
 127.0.0.1 rest.iad-03.braze.com
@@ -27104,7 +27098,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 stats.nymag.com
 127.0.0.1 stats.oix.com
 127.0.0.1 stats.olark.com
-127.0.0.1 stats.origin.kaltura.com
 127.0.0.1 stats.origin.kaltura.perf.akadns.net
 127.0.0.1 stats.outster.com
 127.0.0.1 stats.ozwebsites.biz
@@ -29522,7 +29515,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 tvn.adocean.pl
 127.0.0.1 tvn.hit.gemius.pl
 127.0.0.1 tvn2.adocean.pl
-127.0.0.1 tvpapi-as.ott.kaltura.com
 127.0.0.1 tvseriesfinale.us.intellitxt.com
 127.0.0.1 tvshowslist.com
 127.0.0.1 tvshowsnow.tvmax.hop.clickbank.net
