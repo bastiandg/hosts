@@ -5485,7 +5485,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 akamai.mathtag.com
 0.0.0.0 akamai.smartadserver.com
 0.0.0.0 akamai.t.axf8.net
-0.0.0.0 akamai.tiqcdn.com
 0.0.0.0 akar.iad.appboy.com
 0.0.0.0 akatracking.esearchvision.com
 0.0.0.0 akihabaranews.us.intellitxt.com
@@ -9602,7 +9601,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdnads.cam4.com
 0.0.0.0 cdnaimg-ra.media.net
 0.0.0.0 cdnap.airpush.com
-0.0.0.0 cdnapisec.kaltura.com
 0.0.0.0 cdnappicons.appsflyer.com
 0.0.0.0 cdnaws.mobidea.com
 0.0.0.0 cdndownload.liehu.ijinshan.com
@@ -9718,7 +9716,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cfimage.moengage.com
 0.0.0.0 cfr.us.v2.we-stats.com
 0.0.0.0 cfrfa.112.2o7.net
-0.0.0.0 cfvod.kaltura.com
 0.0.0.0 cg-global.maxymiser.com
 0.0.0.0 cgi.hitbox.com
 0.0.0.0 cgi.honesty.com
@@ -27782,7 +27779,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tagr-gcp-odr-use1.mookie1.com
 0.0.0.0 tagr-gcp-xs2-use1.mookie1.com
 0.0.0.0 tags-cdn.deployads.com
-0.0.0.0 tags-eu.tiqcdn.com
 0.0.0.0 tags-prod.vrvm.com
 0.0.0.0 tags.acmeaom.com
 0.0.0.0 tags.adsafety.net
@@ -27812,7 +27808,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tags.t.tailtarget.com
 0.0.0.0 tags.tagcade.com
 0.0.0.0 tags.tiqcdn.com
-0.0.0.0 tags.tiqcdn.com.edgekey.net
 0.0.0.0 tags.toroadvertising.com
 0.0.0.0 tags.us.onscroll.com
 0.0.0.0 tags.viewdeos.com
@@ -28361,8 +28356,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tips.oewabox.at
 0.0.0.0 tipsforall.xyz
 0.0.0.0 tipsurf.com
-0.0.0.0 tiqcdn.com
-0.0.0.0 tiqcdn.com.edgekey.net
 0.0.0.0 tirerackcom.112.2o7.net
 0.0.0.0 tirolcom.oewabox.at
 0.0.0.0 tiscaliadv01.webtrekk.net
@@ -29134,7 +29127,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracking.rangeonlinemedia.com
 0.0.0.0 tracking.retargeting.biz
 0.0.0.0 tracking.revimedia.com
-0.0.0.0 tracking.s24.com
 0.0.0.0 tracking.salkmarketing.com
 0.0.0.0 tracking.searchmarketing.com
 0.0.0.0 tracking.sembox.it

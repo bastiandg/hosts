@@ -1051,7 +1051,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 akabench.cedexis.com
 0.0.0.0 akacdn.doubleverify.com.edgekey.net
 0.0.0.0 akamai.mathtag.com
-0.0.0.0 akamai.tiqcdn.com
 0.0.0.0 akar.iad.appboy.com
 0.0.0.0 aksdk-images.adikteev.com
 0.0.0.0 akstat.io.edgekey.net
@@ -2718,7 +2717,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdna.clicktale.net
 0.0.0.0 cdnaimg-ra.media.net
 0.0.0.0 cdnap.airpush.com
-0.0.0.0 cdnapisec.kaltura.com
 0.0.0.0 cdnappicons.appsflyer.com
 0.0.0.0 cdndownload.liehu.ijinshan.com
 0.0.0.0 cdne.cpmstar.com
@@ -2764,7 +2762,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cfg.flurry.com
 0.0.0.0 cfimage.moengage.com
 0.0.0.0 cfr.us.v2.we-stats.com
-0.0.0.0 cfvod.kaltura.com
 0.0.0.0 cguke-9h64o.ads.tremorhub.com
 0.0.0.0 cguke-unxsc.ads.tremorhub.com
 0.0.0.0 ch-gmtdmp.mookie1.com
@@ -8120,7 +8117,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tagr-gcp-odr-use1.mookie1.com
 0.0.0.0 tagr-gcp-xs2-use1.mookie1.com
 0.0.0.0 tags-cdn.deployads.com
-0.0.0.0 tags-eu.tiqcdn.com
 0.0.0.0 tags-prod.vrvm.com
 0.0.0.0 tags.acmeaom.com
 0.0.0.0 tags.adsafety.net
@@ -8141,8 +8137,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tags.rtbidder.net
 0.0.0.0 tags.srv.stackadapt.com
 0.0.0.0 tags.t.tailtarget.com
-0.0.0.0 tags.tiqcdn.com
-0.0.0.0 tags.tiqcdn.com.edgekey.net
 0.0.0.0 tags.us.onscroll.com
 0.0.0.0 tags.viewdeos.com
 0.0.0.0 tags.w55c.net
@@ -8262,8 +8256,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 timeanddate-d.openx.net
 0.0.0.0 timeinc.trc.taboola.com
 0.0.0.0 timesinternet-d.openx.net
-0.0.0.0 tiqcdn.com
-0.0.0.0 tiqcdn.com.edgekey.net
 0.0.0.0 tj.ijinshan.com
 0.0.0.0 tj.keymob.com
 0.0.0.0 tkclick.smardroid.com
@@ -8441,7 +8433,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracking.publicidees.com
 0.0.0.0 tracking.pushcrew.com
 0.0.0.0 tracking.retargeting.biz
-0.0.0.0 tracking.s24.com
 0.0.0.0 tracking.sembox.it
 0.0.0.0 tracking.taboola.com
 0.0.0.0 tracking.tapinfluence.com
