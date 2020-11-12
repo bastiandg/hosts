@@ -2246,7 +2246,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bootstrap.upsight-api.com
 0.0.0.0 boredpanda-d.openx.net
 0.0.0.0 boston-d.openx.net
-0.0.0.0 bot.whatismyipaddress.com
 0.0.0.0 bounce.emxdgt.com
 0.0.0.0 boxoffice.urbanairship.com
 0.0.0.0 bp.adkmob.com
@@ -3180,8 +3179,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 crab.baidu.com
 0.0.0.0 crash.163.com
 0.0.0.0 crasheye.cn
-0.0.0.0 crashlogs.whatsapp.net
-0.0.0.0 crashlogs.woniu.com
 0.0.0.0 crashlytics.163.com
 0.0.0.0 crashlytics2.l.google.com
 0.0.0.0 crb.kargo.com
@@ -3580,7 +3577,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 donate-api.recorder.duapps.com
 0.0.0.0 doodle-d.openx.net
 0.0.0.0 dopemobi.offerstrack.net
-0.0.0.0 doppler.hulu.com
 0.0.0.0 dot.a.mobimagic.com
 0.0.0.0 dotandad.com
 0.0.0.0 dotomi.com
@@ -3918,7 +3914,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 events.tapjoy.com
 0.0.0.0 events.tremorhub.com
 0.0.0.0 events.uber.com
-0.0.0.0 events.whisk.com
 0.0.0.0 events.xg4ken.com
 0.0.0.0 events.zaloapp.com
 0.0.0.0 events2-us-east-1.ipredictive.com
@@ -4091,7 +4086,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 front.adpia.vn
 0.0.0.0 frtn.socdm.com
 0.0.0.0 fstatic.iadvize.com
-0.0.0.0 fsuseaad1.blob.core.windows.net
 0.0.0.0 fu-1d3645db85.upalytics.com
 0.0.0.0 fu-3449ae1057.upalytics.com
 0.0.0.0 fu-3f3f48851d.upalytics.com
@@ -4158,7 +4152,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 gannett.hb.omtrdc.net
 0.0.0.0 ganon.yahoo.com
 0.0.0.0 gaspra.iad-03.braze.com
-0.0.0.0 gate.hockeyapp.net
 0.0.0.0 gateway-2.restartad.com
 0.0.0.0 gateway.adrta.com
 0.0.0.0 gateway.answerscloud.com
@@ -5226,7 +5219,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 log.fc.yahoo.com
 0.0.0.0 log.fotoable.com
 0.0.0.0 log.gds.mmstat.com
-0.0.0.0 log.getdropbox.com
 0.0.0.0 log.go.com
 0.0.0.0 log.hitsteps.com
 0.0.0.0 log.hm.baidu.com
@@ -5277,7 +5269,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 logs.81plug.com
 0.0.0.0 logs.starbolt.io
 0.0.0.0 logs.supersonic.com
-0.0.0.0 logs.which.co.uk
 0.0.0.0 logs.xiti.com
 0.0.0.0 logs1202.xiti.com
 0.0.0.0 logsdk.qq.com
@@ -5616,7 +5607,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mobile.launchdarkly.com
 0.0.0.0 mobile.mediabrix.com
 0.0.0.0 mobile.mng-ads.com
-0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 mobile01-d.openx.net
 0.0.0.0 mobilead.vn
@@ -5672,7 +5662,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 motricity.com
 0.0.0.0 motu-hk.ssl2.duapps.com
 0.0.0.0 movad.de
-0.0.0.0 movip.wps.com
 0.0.0.0 mozbar.moz.com
 0.0.0.0 mp.teads.tv
 0.0.0.0 mp5-wl.mobileposse.com
@@ -6381,7 +6370,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 prebid.s-onetag.com
 0.0.0.0 prebid.sin3.adnxs.com
 0.0.0.0 preferences.trustarc.com
-0.0.0.0 preitem.wshareit.com
 0.0.0.0 premiumsrv.aniview.com
 0.0.0.0 presage.io
 0.0.0.0 presentation-ams1.turn.com
@@ -6640,7 +6628,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 rat.nl.eu.criteo.com
 0.0.0.0 rat.va.us.criteo.com
 0.0.0.0 raven.aprod.scopely.io
-0.0.0.0 rawtelemetry-west.servicebus.windows.net
 0.0.0.0 rayjump.com
 0.0.0.0 rb.adnxs.com
 0.0.0.0 rbc.medialand.ru
@@ -7131,7 +7118,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sdk.gpowers.net
 0.0.0.0 sdk.guard.mob.com
 0.0.0.0 sdk.hansel.io
-0.0.0.0 sdk.hockeyapp.net
 0.0.0.0 sdk.hostyour.video
 0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 sdk.iad-02.braze.com
@@ -7623,7 +7609,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sprout-ad.com
 0.0.0.0 sps.springserve.com
 0.0.0.0 sptc.clicktale.net
-0.0.0.0 sqm.woniu.com
 0.0.0.0 sr-tag.abtasty.com
 0.0.0.0 sr-weight.rlcdn.com
 0.0.0.0 sr.turn.com
@@ -8059,7 +8044,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 t1.mobrand.net
 0.0.0.0 t2.beanstalkdata.com
 0.0.0.0 t2.chartboost.com
-0.0.0.0 t2.hulu.com
 0.0.0.0 tabforacause-d.openx.net
 0.0.0.0 taboola-d.openx.net
 0.0.0.0 taboola-supply-partners.tremorhub.com
@@ -8917,8 +8901,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 vod.adspruce.com
 0.0.0.0 voicefive.com.edgekey.net
 0.0.0.0 vop-tracking-vpc-1741893498.us-east-1.elb.amazonaws.com
-0.0.0.0 vortex.data.microsoft.com
-0.0.0.0 vortex.hulu.com
 0.0.0.0 vox.amp.permutive.com
 0.0.0.0 voxcustomdfp152282307853.s.moatpixel.com
 0.0.0.0 voxvidint960547728228.s.moatpixel.com

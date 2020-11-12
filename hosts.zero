@@ -8246,7 +8246,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bostoncommonpress.112.2o7.net
 0.0.0.0 bostonglobe.demdex.net
 0.0.0.0 bostonsubwayoffer.com
-0.0.0.0 bot.whatismyipaddress.com
 0.0.0.0 botd.wordpress.com
 0.0.0.0 botd2.wordpress.com
 0.0.0.0 bottleguy.com
@@ -11105,8 +11104,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 craktraffic.com
 0.0.0.0 crash.163.com
 0.0.0.0 crasheye.cn
-0.0.0.0 crashlogs.whatsapp.net
-0.0.0.0 crashlogs.woniu.com
 0.0.0.0 crashlytics.163.com
 0.0.0.0 crashlytics2.l.google.com
 0.0.0.0 crawlability.com
@@ -12190,7 +12187,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 doodle.oewabox.at
 0.0.0.0 doors.co.kr
 0.0.0.0 dopemobi.offerstrack.net
-0.0.0.0 doppler.hulu.com
 0.0.0.0 dos.velek.com
 0.0.0.0 dosszie.com
 0.0.0.0 dosugcz.biz
@@ -13306,7 +13302,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 events.tremorhub.com
 0.0.0.0 events.uber.com
 0.0.0.0 events.webflowmetrics.com
-0.0.0.0 events.whisk.com
 0.0.0.0 events.xg4ken.com
 0.0.0.0 events.zaloapp.com
 0.0.0.0 events2-us-east-1.ipredictive.com
@@ -14106,7 +14101,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 fs10.fusestats.com
 0.0.0.0 fscout24.oewabox.at
 0.0.0.0 fstatic.iadvize.com
-0.0.0.0 fsuseaad1.blob.core.windows.net
 0.0.0.0 ft2.autonomycloud.com
 0.0.0.0 ftdownload.com
 0.0.0.0 ftp.flyfishusa.com
@@ -14305,7 +14299,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 gaspra.iad-03.braze.com
 0.0.0.0 gastrointestinal.1.p2l.info
 0.0.0.0 gasurvey.gemius.com
-0.0.0.0 gate.hockeyapp.net
 0.0.0.0 gate.hyperpaysys.com
 0.0.0.0 gate.technopolis.kirov.ru
 0.0.0.0 gatehousemedia.122.2o7.net
@@ -17946,7 +17939,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 log.feedjit.com
 0.0.0.0 log.fotoable.com
 0.0.0.0 log.gds.mmstat.com
-0.0.0.0 log.getdropbox.com
 0.0.0.0 log.go.com
 0.0.0.0 log.hankooki.com
 0.0.0.0 log.hitsteps.com
@@ -18089,7 +18081,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 logs.starbolt.io
 0.0.0.0 logs.supersonic.com
 0.0.0.0 logs.thebloggernetwork.com
-0.0.0.0 logs.which.co.uk
 0.0.0.0 logs.xiti.com
 0.0.0.0 logs1122.xiti.com
 0.0.0.0 logs1125.xiti.com
@@ -19831,7 +19822,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mobile.launchdarkly.com
 0.0.0.0 mobile.mediabrix.com
 0.0.0.0 mobile.mng-ads.com
-0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 mobile.smartadserver.com
 0.0.0.0 mobile.webvisor.com
 0.0.0.0 mobile.yandexadexchange.net
@@ -19976,7 +19966,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 movies.us.intellitxt.com
 0.0.0.0 moviesonline.ca.intellitxt.com
 0.0.0.0 movieweb.us.intellitxt.com
-0.0.0.0 movip.wps.com
 0.0.0.0 movitex.122.2o7.net
 0.0.0.0 movsflix.com
 0.0.0.0 mowfruit.com
@@ -22903,7 +22892,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 preferences.trustarc.com
 0.0.0.0 prefersurvey.net
 0.0.0.0 prefix.hit.gemius.pl
-0.0.0.0 preitem.wshareit.com
 0.0.0.0 preland.softmonetize.com
 0.0.0.0 preligions.com
 0.0.0.0 premium-live-scan.com
@@ -23665,7 +23653,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 raw.oggifinogi.com
 0.0.0.0 rawoo.barginginfrance.net
 0.0.0.0 rawstory.us.intellitxt.com
-0.0.0.0 rawtelemetry-west.servicebus.windows.net
 0.0.0.0 rayjump.com
 0.0.0.0 rayo.pereira.multi.net.co
 0.0.0.0 rb-net.com
@@ -25081,7 +25068,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sdk.gpowers.net
 0.0.0.0 sdk.guard.mob.com
 0.0.0.0 sdk.hansel.io
-0.0.0.0 sdk.hockeyapp.net
 0.0.0.0 sdk.hostyour.video
 0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 sdk.iad-02.braze.com
@@ -26482,7 +26468,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sq7.co.uk
 0.0.0.0 sql-server-driver.beesearch.info
 0.0.0.0 sqlservercentral.us.intellitxt.com
-0.0.0.0 sqm.woniu.com
 0.0.0.0 squarefootball.uk.intellitxt.com
 0.0.0.0 squartera.info
 0.0.0.0 squirrelhands.com
@@ -27693,7 +27678,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 t1.trackalyzer.com
 0.0.0.0 t2.beanstalkdata.com
 0.0.0.0 t2.chartboost.com
-0.0.0.0 t2.hulu.com
 0.0.0.0 t2.junbi-tracker.com
 0.0.0.0 t2.trackalyzer.com
 0.0.0.0 t2lgo.com
@@ -30572,8 +30556,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 voodoofiles.us.intellitxt.com
 0.0.0.0 voordeel.ad.nl
 0.0.0.0 vop-tracking-vpc-1741893498.us-east-1.elb.amazonaws.com
-0.0.0.0 vortex.data.microsoft.com
-0.0.0.0 vortex.hulu.com
 0.0.0.0 vote.sparklit.com
 0.0.0.0 vox-static.liverail.com
 0.0.0.0 vox.amp.permutive.com
