@@ -14703,7 +14703,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 glbgcl.logsss.com
 127.0.0.1 glean.pop6.com
 127.0.0.1 glenm.mtxcapital.com
-127.0.0.1 glimmer.hearstapps.com
 127.0.0.1 glispa.com
 127.0.0.1 glitter.services.disqus.com
 127.0.0.1 global-promotions.internationalredirects.com
@@ -23775,7 +23774,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 rebootv5.adfuture.cn
 127.0.0.1 rebootv5.adsunflower.com
 127.0.0.1 rebtelnetworks.112.2o7.net
-127.0.0.1 rebtelsdk.pubnub.com
 127.0.0.1 receive.inplay.scanscout.com
 127.0.0.1 receptiveink.com
 127.0.0.1 receptivereaction.com
@@ -25538,6 +25536,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 server821.com
 127.0.0.1 server9.opentracker.net
 127.0.0.1 serverc.shoofle.tv
+127.0.0.1 serverside4285.tagcommander.com
 127.0.0.1 servethis.com
 127.0.0.1 service.adtech.de
 127.0.0.1 service.adtech.fr

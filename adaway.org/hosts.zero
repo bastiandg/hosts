@@ -2674,6 +2674,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.stickyadstv.com
 0.0.0.0 cdn.stickyadstv.com.akadns.net
 0.0.0.0 cdn.taboola.com
+0.0.0.0 cdn.tagcommander.com
 0.0.0.0 cdn.tagular.com
 0.0.0.0 cdn.tanx.com
 0.0.0.0 cdn.targetspot.com
@@ -4266,7 +4267,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 glance.inmobi.com
 0.0.0.0 glance.l.inmobicdn.net
 0.0.0.0 glbgcl.logsss.com
-0.0.0.0 glimmer.hearstapps.com
 0.0.0.0 glispa.com
 0.0.0.0 global-wildcard.insightexpressai.com.edgekey.net
 0.0.0.0 global.adserver.yahoo.com
@@ -6671,7 +6671,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 reaper.pulse.inmobi.com
 0.0.0.0 rebootv5.adfuture.cn
 0.0.0.0 rebootv5.adsunflower.com
-0.0.0.0 rebtelsdk.pubnub.com
 0.0.0.0 recommendation-collector-v1.us-east-1.elasticbeanstalk.com
 0.0.0.0 recommends.media.net
 0.0.0.0 record.foresee.com
@@ -7317,6 +7316,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 server.idreams.pl
 0.0.0.0 server.seadform.net
 0.0.0.0 serverc.shoofle.tv
+0.0.0.0 serverside4285.tagcommander.com
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 service.fyber.com
 0.0.0.0 service.innovid.com
