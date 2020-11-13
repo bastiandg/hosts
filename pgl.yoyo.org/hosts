@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 06 Nov 2020 13:22:37 GMT
-# entries:        3560
+# entries:        3559
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -975,7 +975,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 advertiseireland.com
 127.0.0.1 advertisementafterthought.com
 127.0.0.1 advertiserurl.com
-127.0.0.1 advertisespace.com
 127.0.0.1 advertising.com
 127.0.0.1 advertisingbanners.com
 127.0.0.1 advertisingbox.com
@@ -1541,7 +1540,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 counter.cnw.cz
 127.0.0.1 counter.cz
 127.0.0.1 counter.dreamhost.com
-127.0.0.1 counter.fateback.com
 127.0.0.1 counter.mirohost.net
 127.0.0.1 counter.mojgorod.ru
 127.0.0.1 counter.nowlinux.com
@@ -1774,7 +1772,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 exitexchange.com
 127.0.0.1 exitfuel.com
 127.0.0.1 exoclick.com
-127.0.0.1 exogripper.com
 127.0.0.1 exosrv.com
 127.0.0.1 experianmarketingservices.digital
 127.0.0.1 explorads.com
@@ -2786,6 +2783,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ratings.lycos.com
 127.0.0.1 rayjump.com
 127.0.0.1 rb1.design.ru
+127.0.0.1 re-directme.com
 127.0.0.1 reachjunction.com
 127.0.0.1 reactx.com
 127.0.0.1 readgoldfish.com
@@ -3436,6 +3434,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 visistat.com
 127.0.0.1 visit.webhosting.yahoo.com
 127.0.0.1 visitbox.de
+127.0.0.1 visitpath.com
 127.0.0.1 visual-pagerank.fr
 127.0.0.1 visualrevenue.com
 127.0.0.1 vivtracking.com

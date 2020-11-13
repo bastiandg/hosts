@@ -5078,7 +5078,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 advertisementnl.112.2o7.net
 0.0.0.0 advertisers.federatedmedia.net
 0.0.0.0 advertiserurl.com
-0.0.0.0 advertisespace.com
 0.0.0.0 advertising.amazon.co.jp
 0.0.0.0 advertising.amazon.co.uk
 0.0.0.0 advertising.aol.com
@@ -13175,7 +13174,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 exnjmdgda1.doubleclick.net
 0.0.0.0 exnjmdgds1.doubleclick.net
 0.0.0.0 exoclick.com
-0.0.0.0 exogripper.com
 0.0.0.0 exosrv.com
 0.0.0.0 exp.360in.com
 0.0.0.0 expedia.ca.112.2o7.net
@@ -23157,6 +23155,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rdr.ad-score.com
 0.0.0.0 rdsa2012.com
 0.0.0.0 rdstat.tanx.com
+0.0.0.0 re-directme.com
 0.0.0.0 re.directrev.com
 0.0.0.0 re.kontera.com
 0.0.0.0 re.revolvermaps.com
@@ -29623,6 +29622,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 visitor-service-us-east-1.tealiumiq.com
 0.0.0.0 visitor-service.tealiumiq.com
 0.0.0.0 visitors.lexus-europe.com
+0.0.0.0 visitpath.com
 0.0.0.0 visits.inlocomedia.com
 0.0.0.0 visitweb.com
 0.0.0.0 vistabet-affiliate.host.bannerflow.com
