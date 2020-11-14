@@ -7488,6 +7488,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 banners.ipotd.com
 0.0.0.0 banners.iq.pl
 0.0.0.0 banners.isoftmarketing.com
+0.0.0.0 banners.itunes.apple.com
 0.0.0.0 banners.japantoday.com
 0.0.0.0 banners.jewishfriendfinder.com
 0.0.0.0 banners.kfmb.com
@@ -8706,6 +8707,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ca.adserver.yahoo.com
 0.0.0.0 ca.altitude-arena.com
 0.0.0.0 ca.cqcounter.com
+0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 ca.res.keymedia.com
 0.0.0.0 ca1.qualtrics.com
 0.0.0.0 ca3.revieworbit.com
@@ -9589,6 +9591,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cf.ads.kontextua.com
 0.0.0.0 cf.adxcel.com
 0.0.0.0 cf.effectivemeasure.net
+0.0.0.0 cf.iadsdk.apple.com
 0.0.0.0 cf.kampyle.com
 0.0.0.0 cf.ssacdn.com
 0.0.0.0 cf.xad.com
@@ -15633,6 +15636,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 iadc.qwapi.com
 0.0.0.0 iadctest.qwapi.com
 0.0.0.0 iadnet.com
+0.0.0.0 iadsdk.apple.com
 0.0.0.0 ialaddin.genieesspv.jp
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 iamnotageek.us.intellitxt.com
@@ -27822,6 +27826,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tr.buzzlogic.com
 0.0.0.0 tr.eyereturn.com
 0.0.0.0 tr.hit.gemius.pl
+0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 tr.outbrain.com
 0.0.0.0 tr.prospecteye.com
 0.0.0.0 tr.tu.connect.wunderloop.net
@@ -29160,6 +29165,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 uswest.rtb.nativeads.com
 0.0.0.0 ut.5.p2l.info
 0.0.0.0 ut.addthis.com
+0.0.0.0 ut.iadsdk.apple.com
 0.0.0.0 utag.ijinshan.com
 0.0.0.0 utairway.com
 0.0.0.0 utarget.ru

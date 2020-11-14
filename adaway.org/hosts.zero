@@ -2059,6 +2059,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 banners.adfox.ru
 0.0.0.0 banners.adnetmedia.lt
 0.0.0.0 banners.isoftmarketing.com
+0.0.0.0 banners.itunes.apple.com
 0.0.0.0 banners.mellowads.com
 0.0.0.0 banners.videosecrets.com
 0.0.0.0 bannersnack.com
@@ -2367,6 +2368,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ca-as-1.agilone.com
 0.0.0.0 ca-gmtdmp.mookie1.com
 0.0.0.0 ca-lapresse-main.collector.snplow.net
+0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 ca.res.keymedia.com
 0.0.0.0 ca1.qualtrics.com
 0.0.0.0 ca4-bid.adsrvr.org
@@ -2750,6 +2752,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cf-ads.pinger.com
 0.0.0.0 cf-cdn.adventori.com
 0.0.0.0 cf.adxcel.com
+0.0.0.0 cf.iadsdk.apple.com
 0.0.0.0 cf.ssacdn.com
 0.0.0.0 cf.xad.com
 0.0.0.0 cfa.2mdnsys.com
@@ -4617,6 +4620,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 iad7.ipromote.com
 0.0.0.0 iad8.ipromote.com
 0.0.0.0 iadctest.qwapi.com
+0.0.0.0 iadsdk.apple.com
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 iapclick.gowadogo.com
 0.0.0.0 iapserver.avosapps.us
@@ -8292,6 +8296,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tr.alphonso.tv
 0.0.0.0 tr.blismedia.com
 0.0.0.0 tr.eyereturn.com
+0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 trace.qq.com
 0.0.0.0 tracing-collector.strava.com
 0.0.0.0 track-core.bncnt.com
@@ -8691,6 +8696,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 usweb.dotomi.com
 0.0.0.0 uswest.bfmio.com
 0.0.0.0 uswest.rtb.nativeads.com
+0.0.0.0 ut.iadsdk.apple.com
 0.0.0.0 utag.ijinshan.com
 0.0.0.0 utarget.ru
 0.0.0.0 utctime.tiltingpoint.io
