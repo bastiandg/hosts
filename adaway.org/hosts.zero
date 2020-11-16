@@ -3678,7 +3678,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 e.deployads.com
 0.0.0.0 e.dlx.addthis.com
 0.0.0.0 e.imguol.com
-0.0.0.0 e.infogram.com
 0.0.0.0 e.jp.miaozhen.com
 0.0.0.0 e.logrocket.com
 0.0.0.0 e.qq.com
@@ -6912,7 +6911,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 s.iaudienc.com
 0.0.0.0 s.idio.co
-0.0.0.0 s.infogram.com
 0.0.0.0 s.innovid.com
 0.0.0.0 s.innovid.com.akadns.net
 0.0.0.0 s.jpush.cn
