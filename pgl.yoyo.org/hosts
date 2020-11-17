@@ -21,7 +21,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 16 Nov 2020 08:30:44 GMT
+# last updated:   Tue, 17 Nov 2020 10:58:09 GMT
 # entries:        3560
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -309,7 +309,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adimg.uimserv.net
 127.0.0.1 adimg1.chosun.com
 127.0.0.1 adimgs.sapo.pt
-127.0.0.1 adimpact.com
 127.0.0.1 adincube.com
 127.0.0.1 adinjector.net
 127.0.0.1 adinterax.com
@@ -2667,6 +2666,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 porntrack.com
 127.0.0.1 possessivebucket.com
 127.0.0.1 possibleboats.com
+127.0.0.1 post.spmailtechno.com
 127.0.0.1 postback.iqm.com
 127.0.0.1 postrelease.com
 127.0.0.1 posumeads.com

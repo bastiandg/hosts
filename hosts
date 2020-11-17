@@ -2131,7 +2131,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 adimg.zdnet.com
 127.0.0.1 adimg1.chosun.com
 127.0.0.1 adimgs.sapo.pt
-127.0.0.1 adimpact.com
 127.0.0.1 adimpression.startappservice.com
 127.0.0.1 adin.bigpoint.com
 127.0.0.1 adincl.gopher.com
@@ -22283,6 +22282,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 post.netchina.com.cn
 127.0.0.1 post.rmbn.ru
 127.0.0.1 post.securestudies.com
+127.0.0.1 post.spmailtechno.com
 127.0.0.1 post.update.fbsbx.com
 127.0.0.1 post.voiceads.cn
 127.0.0.1 post1.voiceads.cn
