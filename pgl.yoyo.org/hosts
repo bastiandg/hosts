@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 17 Nov 2020 10:58:09 GMT
-# entries:        3560
+# last updated:   Tue, 17 Nov 2020 12:58:29 GMT
+# entries:        3561
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2359,6 +2359,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mixedreading.com
 127.0.0.1 mixpanel.com
 127.0.0.1 mjxads.internet.com
+127.0.0.1 mkto-ab410147.com
 127.0.0.1 mktoresp.com
 127.0.0.1 ml314.com
 127.0.0.1 mlm.de
