@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 17 Nov 2020 14:26:41 GMT
-# entries:        3563
+# last updated:   Wed, 18 Nov 2020 17:51:46 GMT
+# entries:        3564
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1488,6 +1488,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 cnomy.com
 127.0.0.1 cnt.spbland.ru
 127.0.0.1 cnt1.pocitadlo.cz
+127.0.0.1 cny.yoyo.org
 127.0.0.1 code-server.biz
 127.0.0.1 codeadnetwork.com
 127.0.0.1 cognitiv.ai
