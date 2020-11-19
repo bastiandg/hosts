@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 18 Nov 2020 18:39:39 GMT
-# entries:        3565
+# last updated:   Thu, 19 Nov 2020 11:24:03 GMT
+# entries:        3566
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2943,6 +2943,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 sensismediasmart.com.au
 127.0.0.1 separatesilver.com
 127.0.0.1 serv0.com
+127.0.0.1 servads.net
 127.0.0.1 servadsdisrupt.com
 127.0.0.1 servedby-buysellads.com
 127.0.0.1 servedbyadbutler.com

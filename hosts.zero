@@ -24849,6 +24849,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 servad.mynet.com
 0.0.0.0 servads.aip.org
 0.0.0.0 servads.fansshare.com
+0.0.0.0 servads.net
 0.0.0.0 servadsdisrupt.com
 0.0.0.0 servamain.ddns.net
 0.0.0.0 serve-prod1204.uberads.com
