@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 22 Nov 2020 at 05:08:54 GMT
+# Last updated: Mon, 23 Nov 2020 at 07:13:43 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7560,6 +7560,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 c.pt.msn.com
 127.0.0.1 c.ru.msn.com
 127.0.0.1 c.se.msn.com
+127.0.0.1 c.seznam.cz
 127.0.0.1 c.sg.msn.com
 127.0.0.1 c.silvinst.com
 127.0.0.1 c.th.msn.com
@@ -7802,6 +7803,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 cicero-mit.com
 127.0.0.1 cigape.net
 127.0.0.1 cikkelek.eu
+127.0.0.1 cileni.seznam.cz
 127.0.0.1 citepucevasuxuqesu.ga
 127.0.0.1 cithingy.info
 127.0.0.1 citrio.com
@@ -8797,6 +8799,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 h-afnetwww.adshuffle.com
 127.0.0.1 h.admob.com
 127.0.0.1 h.ppjol.com
+127.0.0.1 h.seznam.cz
 127.0.0.1 hadik.info
 127.0.0.1 halfords.ukrpts.net
 127.0.0.1 haouzy.info
@@ -8937,6 +8940,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 i.qitrck.com
 127.0.0.1 i.radzolo.com
 127.0.0.1 i.securecontactinfo.com
+127.0.0.1 i.seznam.cz
 127.0.0.1 i.simpli.fi
 127.0.0.1 i.static.zaplata.bg
 127.0.0.1 i.total-media.net
@@ -11075,6 +11079,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ssp.adplus.co.id
 127.0.0.1 ssp.anyclip-media.com
 127.0.0.1 ssp.imedia.cz
+127.0.0.1 ssp.seznam.cz
 127.0.0.1 ssp.streamrail.net
 127.0.0.1 sspcash.adxcore.com
 127.0.0.1 st.blogads.com

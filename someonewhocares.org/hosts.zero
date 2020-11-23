@@ -3723,6 +3723,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 c.pt.msn.com
 0.0.0.0 c.ru.msn.com
 0.0.0.0 c.se.msn.com
+0.0.0.0 c.seznam.cz
 0.0.0.0 c.sg.msn.com
 0.0.0.0 c.silvinst.com
 0.0.0.0 c.statcounter.com
@@ -4115,6 +4116,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cigape.net
 0.0.0.0 ciiycode.com
 0.0.0.0 cikkelek.eu
+0.0.0.0 cileni.seznam.cz
 0.0.0.0 cinplex.oewabox.at
 0.0.0.0 cioco-froll.com
 0.0.0.0 cira.login.cqr.ssl.igotmyloverback.com
@@ -6189,6 +6191,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 h-afnetwww.adshuffle.com
 0.0.0.0 h.admob.com
 0.0.0.0 h.ppjol.com
+0.0.0.0 h.seznam.cz
 0.0.0.0 h1.msn.com
 0.0.0.0 h1.ripway.com
 0.0.0.0 h1317070.stratoserver.net
@@ -6447,6 +6450,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 i.qitrck.com
 0.0.0.0 i.radzolo.com
 0.0.0.0 i.securecontactinfo.com
+0.0.0.0 i.seznam.cz
 0.0.0.0 i.simpli.fi
 0.0.0.0 i.static.zaplata.bg
 0.0.0.0 i.total-media.net
@@ -10679,6 +10683,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ssp.adplus.co.id
 0.0.0.0 ssp.anyclip-media.com
 0.0.0.0 ssp.imedia.cz
+0.0.0.0 ssp.seznam.cz
 0.0.0.0 ssp.streamrail.net
 0.0.0.0 sspcash.adxcore.com
 0.0.0.0 st.blogads.com

@@ -8558,6 +8558,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 c.scorecardresearch.com
 0.0.0.0 c.se.msn.com
 0.0.0.0 c.securepaths.com
+0.0.0.0 c.seznam.cz
 0.0.0.0 c.sg.msn.com
 0.0.0.0 c.sharethis.mgr.consensu.org
 0.0.0.0 c.silvinst.com
@@ -9729,6 +9730,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cigape.net
 0.0.0.0 ciiycode.com
 0.0.0.0 cikkelek.eu
+0.0.0.0 cileni.seznam.cz
 0.0.0.0 cinplex.oewabox.at
 0.0.0.0 cioco-froll.com
 0.0.0.0 ciq-st.nielsen.com
@@ -14912,6 +14914,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 h.online-metrix.net
 0.0.0.0 h.parrable.com
 0.0.0.0 h.ppjol.com
+0.0.0.0 h.seznam.cz
 0.0.0.0 h.spill.com
 0.0.0.0 h.verticalscope.com
 0.0.0.0 h.zedo.com
@@ -15530,6 +15533,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 i.qitrck.com
 0.0.0.0 i.radzolo.com
 0.0.0.0 i.securecontactinfo.com
+0.0.0.0 i.seznam.cz
 0.0.0.0 i.simpli.fi
 0.0.0.0 i.singular.net
 0.0.0.0 i.skimresources.com
@@ -25887,6 +25891,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ssp.lkqd.net
 0.0.0.0 ssp.send.microad.jp
 0.0.0.0 ssp.send.microadinc.com
+0.0.0.0 ssp.seznam.cz
 0.0.0.0 ssp.streamrail.net
 0.0.0.0 sspapi.admicro.vn
 0.0.0.0 sspcash.adxcore.com
