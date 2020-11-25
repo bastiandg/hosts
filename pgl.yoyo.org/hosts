@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 19 Nov 2020 11:24:03 GMT
-# entries:        3561
+# last updated:   Wed, 25 Nov 2020 08:00:48 GMT
+# entries:        3562
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2815,6 +2815,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 reflectivereward.com
 127.0.0.1 reforge.in
 127.0.0.1 regnow.com
+127.0.0.1 regularplants.com
 127.0.0.1 reklam.rfsl.se
 127.0.0.1 reklama.mironet.cz
 127.0.0.1 reklama.reflektor.cz
