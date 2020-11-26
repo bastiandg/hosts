@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 25 Nov 2020 08:00:48 GMT
-# entries:        3562
+# last updated:   Thu, 26 Nov 2020 15:36:06 GMT
+# entries:        3564
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -989,6 +989,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 advisormedia.cz
 127.0.0.1 adviva.net
 127.0.0.1 advnt.com
+127.0.0.1 adwebone.com
 127.0.0.1 adwhirl.com
 127.0.0.1 adwordsecommerce.com.br
 127.0.0.1 adworldnetwork.com
@@ -2260,6 +2261,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mackeeperapp.mackeeper.com
 127.0.0.1 madclient.uimserv.net
 127.0.0.1 madcpms.com
+127.0.0.1 madinad.com
 127.0.0.1 madisonavenue.com
 127.0.0.1 mads.cnet.com
 127.0.0.1 madvertise.de
