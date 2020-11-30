@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 30 Nov 2020 12:32:57 GMT
-# entries:        3561
+# last updated:   Mon, 30 Nov 2020 13:16:38 GMT
+# entries:        3563
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1595,6 +1595,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 cyberbounty.com
 127.0.0.1 d.adroll.com
 127.0.0.1 d2cmedia.ca
+127.0.0.1 dabiaozhi.com
 127.0.0.1 dakic-ia-300.com
 127.0.0.1 damdoor.com
 127.0.0.1 dancemistake.com
@@ -3274,6 +3275,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 track.tkbo.com
 127.0.0.1 track.ultravpn.com
 127.0.0.1 track.undressingpics.work
+127.0.0.1 track.vcdc.com
 127.0.0.1 track.viewdeos.com
 127.0.0.1 track1.viewdeos.com
 127.0.0.1 trackalyzer.com
