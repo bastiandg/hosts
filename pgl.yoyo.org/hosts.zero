@@ -1053,6 +1053,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 analytics.cohesionapps.com
 0.0.0.0 analytics.dnsfilter.com
 0.0.0.0 analytics.ext.go-tellm.com
+0.0.0.0 analytics.fkz.re
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.htmedia.in
 0.0.0.0 analytics.icons8.com

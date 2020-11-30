@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 30 Nov 2020 09:04:41 GMT
-# entries:        3560
+# last updated:   Mon, 30 Nov 2020 12:32:57 GMT
+# entries:        3561
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1080,6 +1080,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 analytics.cohesionapps.com
 127.0.0.1 analytics.dnsfilter.com
 127.0.0.1 analytics.ext.go-tellm.com
+127.0.0.1 analytics.fkz.re
 127.0.0.1 analytics.google.com
 127.0.0.1 analytics.htmedia.in
 127.0.0.1 analytics.icons8.com
