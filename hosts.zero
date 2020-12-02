@@ -6234,7 +6234,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 api.murdoog.com
 0.0.0.0 api.nanigans.com
 0.0.0.0 api.native.ai
-0.0.0.0 api.nicovideo.jp
 0.0.0.0 api.ning.com
 0.0.0.0 api.nrelate.com
 0.0.0.0 api.omniture.com
@@ -22781,7 +22780,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 public-webservice.apdc1n.adpushup.com
 0.0.0.0 public-webservice.apdc3n.adpushup.com
 0.0.0.0 public-webservice.geo.adpushup.com
-0.0.0.0 public.api.nicovideo.jp
 0.0.0.0 public2.zz.ha.cn
 0.0.0.0 publicationsunbound.112.2o7.net
 0.0.0.0 publicidad.elmundo.es
