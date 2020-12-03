@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 25 Nov 2020 at 08:10:27 GMT
+# Last updated: Thu, 03 Dec 2020 at 06:04:46 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7484,6 +7484,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 bsads.looksmart.com
 127.0.0.1 bsnj.eyeblaster.akadns.net
 127.0.0.1 bt.linkpulse.com
+127.0.0.1 btkiwisys.com
 127.0.0.1 budapest1873.net
 127.0.0.1 buf.lemonde.fr
 127.0.0.1 bumerangshowsites.hurriyet.com.tr
@@ -8321,6 +8322,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 emily.tncrun.net
 127.0.0.1 emisja.adsearch.pl
 127.0.0.1 emisja.contentstream.pl
+127.0.0.1 en.btc-trader-app.club
 127.0.0.1 engage.everyone.net
 127.0.0.1 engage.speedera.net
 127.0.0.1 engager.tmg.nl
@@ -8900,6 +8902,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 hosting.adjug.com
 127.0.0.1 hot-daily-deal.com
 127.0.0.1 hot-product-hangout.com
+127.0.0.1 hot24profit.life
 127.0.0.1 hotbar.dgndesign.com
 127.0.0.1 hotchatdate.com
 127.0.0.1 hotgiftzone.com
@@ -9164,6 +9167,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 iwantmyfreecash.com
 127.0.0.1 iwantmyfreelaptop.com
 127.0.0.1 iwantmygiftcard.com
+127.0.0.1 iwbubcs.v01aelux.space
 127.0.0.1 iwstat.tudou.com
 127.0.0.1 j.adlooxtracking.com
 127.0.0.1 j.admob.com
@@ -11897,6 +11901,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 webtrekk.net
 127.0.0.1 webuysupplystore.mooo.com
 127.0.0.1 webwise.bt.com
+127.0.0.1 wedleaunocomp.work
 127.0.0.1 wegetpaid.net
 127.0.0.1 wegotmedia.co
 127.0.0.1 welcome.faptitans.com
@@ -12121,6 +12126,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.bestshopperrewards.com
 127.0.0.1 www.bet365.com
 127.0.0.1 www.bhclicks.com
+127.0.0.1 www.bicoinsprofit.com
 127.0.0.1 www.bidtraffic.com
 127.0.0.1 www.bidvertiser.com
 127.0.0.1 www.bigbangempire.com
@@ -12129,6 +12135,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.biggestgiftrewards.com
 127.0.0.1 www.binarysystem4u.com
 127.0.0.1 www.bitcoadz.io
+127.0.0.1 www.bitlabeurope.com
 127.0.0.1 www.bitmedia.io
 127.0.0.1 www.bitraffic.com
 127.0.0.1 www.biz-offer.com
@@ -12563,6 +12570,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.macombdisplayads.com
 127.0.0.1 www.market-buster.com
 127.0.0.1 www.marketing-rewardpath.com
+127.0.0.1 www.marketrip.co
 127.0.0.1 www.mastertracks.be
 127.0.0.1 www.maxbounty.com
 127.0.0.1 www.maxonclick.com
@@ -12782,6 +12790,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.syncaccess.net
 127.0.0.1 www.system-live-media.cz
 127.0.0.1 www.tao123.com
+127.0.0.1 www.tbitcoin.me
 127.0.0.1 www.tcimg.com
 127.0.0.1 www.techconfigformat.com
 127.0.0.1 www.terraclicks.com
@@ -12817,6 +12826,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.trackadvertising.net
 127.0.0.1 www.tracklead.net
 127.0.0.1 www.tradeadexchange.com
+127.0.0.1 www.tradelax.com
 127.0.0.1 www.tradem.com
 127.0.0.1 www.trafficnetworkads24.com
 127.0.0.1 www.trafficrevenue.net
