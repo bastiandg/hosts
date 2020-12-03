@@ -1855,7 +1855,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ariane.abtasty.com
 0.0.0.0 ark.letv.com
 0.0.0.0 arkadium-d.openx.net
-0.0.0.0 arkadium-tagan.adlightning.com
 0.0.0.0 arm.c.appier.net
 0.0.0.0 arm18.track.appier.net
 0.0.0.0 arm19.track.appier.net
@@ -1967,7 +1966,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 au.umeng.co
 0.0.0.0 au.umeng.com
 0.0.0.0 au.w.inmobi.com
-0.0.0.0 au1.qualtrics.com
 0.0.0.0 aucollector.tealeaf.ibmcloud.com
 0.0.0.0 auction-load.unityads.unity3d.com
 0.0.0.0 auction.unityads.unity3d.com
@@ -2011,7 +2009,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 axion.iad.appboy.com
 0.0.0.0 axonix.com
 0.0.0.0 az-events.aerserv.com
-0.0.0.0 az1.qualtrics.com
 0.0.0.0 azsgp.adtiming.com
 0.0.0.0 b.admedia.com
 0.0.0.0 b.adnxs.com
@@ -2235,7 +2232,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bn.imguol.com
 0.0.0.0 bnmla.com
 0.0.0.0 bo.goadservices.com
-0.0.0.0 boisestate.az1.qualtrics.com
 0.0.0.0 boldwin-d.openx.net
 0.0.0.0 bond.iad-03.braze.com
 0.0.0.0 boost.mobileposse.com
@@ -2250,7 +2246,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 brain.foresee.com
 0.0.0.0 brainient.com
-0.0.0.0 brainly-tagan.adlightning.com
 0.0.0.0 brainyquote-d.openx.net
 0.0.0.0 branch.io
 0.0.0.0 brandigic-d.openx.net
@@ -2302,7 +2297,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 buttons.googlesyndication.com
 0.0.0.0 buysellads-d.openx.net
 0.0.0.0 buzzcity.net
-0.0.0.0 buzzfeed-tagan.adlightning.com
 0.0.0.0 buzzfeed.amp.permutive.com
 0.0.0.0 bx.optimix.asia
 0.0.0.0 bx01.optimix.asia
@@ -2366,7 +2360,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ca-lapresse-main.collector.snplow.net
 0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 ca.res.keymedia.com
-0.0.0.0 ca1.qualtrics.com
 0.0.0.0 ca4-bid.adsrvr.org
 0.0.0.0 ca87.playfabapi.com
 0.0.0.0 cache-05.pushwoosh.com
@@ -2384,11 +2377,9 @@ ff02::2 ip6-allrouters
 0.0.0.0 cafemedia-d.openx.net
 0.0.0.0 campaign.ad-brix.com
 0.0.0.0 campaign.adobe.com
-0.0.0.0 canadapostdigital.ca1.qualtrics.com
 0.0.0.0 capi.connatix.com
 0.0.0.0 carambo.la
 0.0.0.0 carambola-d.openx.net
-0.0.0.0 carambola-tagan.adlightning.com
 0.0.0.0 cards-sea-nfl.yinzcam.com
 0.0.0.0 cargurus-d.openx.net
 0.0.0.0 carina.iad.appboy.com
@@ -2927,7 +2918,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cnvrsns.clickmeter.com
 0.0.0.0 cnzz.mmstat.com
 0.0.0.0 co-gmtdmp.mookie1.com
-0.0.0.0 co1.qualtrics.com
 0.0.0.0 cobrowsing-ha.iadvize.com
 0.0.0.0 code.afsanalytics.com
 0.0.0.0 code.directadvert.ru
@@ -3790,7 +3780,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ent.mobileanjian.com
 0.0.0.0 entercom-d.openx.net
 0.0.0.0 enthusiast-gaming-d.openx.net
-0.0.0.0 enthusiastgaming-tagan.adlightning.com
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 entravision-d.openx.net
 0.0.0.0 entree.igetget.com
@@ -3852,7 +3841,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 eu.adventori.com
 0.0.0.0 eu.criteo.com
 0.0.0.0 eu.criteo.net
-0.0.0.0 eu.qualtrics.com
 0.0.0.0 eu.y.atwola.com
 0.0.0.0 eu01.nr-data.net
 0.0.0.0 euadsapi.manhuaren.com
@@ -4091,14 +4079,12 @@ ff02::2 ip6-allrouters
 0.0.0.0 fra-01.braze.eu
 0.0.0.0 fra-col.eum-appdynamics.com
 0.0.0.0 fra1.ipromote.com
-0.0.0.0 fra1.qualtrics.com
 0.0.0.0 fra2.ipromote.com
 0.0.0.0 frame.appsgeyser.com
 0.0.0.0 freegeoip.net
 0.0.0.0 freepik-d.openx.net
 0.0.0.0 freesam.kt.com
 0.0.0.0 freestar-d.openx.net
-0.0.0.0 freestar-tagan.adlightning.com
 0.0.0.0 front-logs.voodoo-ads.io
 0.0.0.0 front.adpia.vn
 0.0.0.0 frtn.socdm.com
@@ -4329,8 +4315,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 gotu.tpbid.com
 0.0.0.0 gourmetads-1.t.domdex.com
 0.0.0.0 gov.aniview.com
-0.0.0.0 gov1.qualtrics.com
-0.0.0.0 gov1.siteintercept.qualtrics.com
 0.0.0.0 gowadogo.com
 0.0.0.0 gpizacfw3gtfw4vmh5nc4uq6gc.gcdn.anvato.net
 0.0.0.0 gplayer.kmpmedia.net
@@ -4373,7 +4357,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 gum.hk5.vip.prod.criteo.com
 0.0.0.0 gum.ty5.vip.prod.criteo.com
 0.0.0.0 gum.va1.vip.prod.criteo.com
-0.0.0.0 gumgum-tagan.adlightning.com
 0.0.0.0 gumgum.com
 0.0.0.0 gurgle.zdbb.net
 0.0.0.0 gusabid.adview.com
@@ -4470,7 +4453,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 hoag.iad.appboy.com
 0.0.0.0 hobbes.blueoxtech.com
 0.0.0.0 holder.com.ua
-0.0.0.0 homedepot.az1.qualtrics.com
 0.0.0.0 hometalk-d.openx.net
 0.0.0.0 homify.com.mx
 0.0.0.0 hook.integromat.com
@@ -4610,7 +4592,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 iad09-usadmm-ds.dotomi.com
 0.0.0.0 iad09-usadmm.dotomi.com
 0.0.0.0 iad1.ipromote.com
-0.0.0.0 iad1.qualtrics.com
 0.0.0.0 iad10-convex.dotomi.com
 0.0.0.0 iad10-login-ds.dotomi.com
 0.0.0.0 iad10-login.dotomi.com
@@ -5153,7 +5134,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 leadzutw.com
 0.0.0.0 leanmobi.fusetracking.com
 0.0.0.0 lee.blueconic.net
-0.0.0.0 leeenterprises-tagan.adlightning.com
 0.0.0.0 legacy.dotomi.weighted.com.akadns.net
 0.0.0.0 legacycst-d.openx.net
 0.0.0.0 legolas-media.com
@@ -5196,7 +5176,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 livepassdl-global.conviva.com
 0.0.0.0 liveramp2waycm-atl.netmng.com
 0.0.0.0 lives.l.qq.com
-0.0.0.0 livingly-tagan.adlightning.com
 0.0.0.0 lm.serving-sys.com
 0.0.0.0 load-apne1.exelator.com
 0.0.0.0 load-sjc1.exelator.com
@@ -5420,10 +5399,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 material-ssl.mediav.com
 0.0.0.0 material.lionmobi.com
 0.0.0.0 material.mediav.com
-0.0.0.0 math-aids-signup-tagan.adlightning.com
-0.0.0.0 math-aids-tagan.adlightning.com
-0.0.0.0 math-aids-teamsnap-tagan.adlightning.com
-0.0.0.0 math-aids-ten-tagan.adlightning.com
 0.0.0.0 matheranalytics.com
 0.0.0.0 mathid-origin.mathtag.com
 0.0.0.0 mathid.mathtag.com
@@ -5786,7 +5761,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 nashira.iad-06.braze.com
 0.0.0.0 natgeo.blueconic.net
 0.0.0.0 nation.marketo.com
-0.0.0.0 nationalreview-tagan.adlightning.com
 0.0.0.0 nationwide.smartridemobileapp.com
 0.0.0.0 native-set-tags.otherlevels.com
 0.0.0.0 native.propellerads.com
@@ -6127,7 +6101,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pasta.tk.duapps.com
 0.0.0.0 pasta.whosthat.duapps.com
 0.0.0.0 patch-d.openx.net
-0.0.0.0 patch-tagan.adlightning.com
 0.0.0.0 patriot.cs.pp.cn
 0.0.0.0 payback.joyeggs.com
 0.0.0.0 payload.adadapted.com
@@ -6165,7 +6138,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 pe1.intentiq.com
 0.0.0.0 pebed.dm.gg
 0.0.0.0 pelmorex-d.openx.net
-0.0.0.0 penske-tagan.adlightning.com
 0.0.0.0 people.api.boomtrain.com
 0.0.0.0 pepsico.demdex.net
 0.0.0.0 perf-events.cloud.unity3d.com
@@ -6583,8 +6555,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 qs25e-musmm.ads.tremorhub.com
 0.0.0.0 qsearch.media.net
 0.0.0.0 qservz.com
-0.0.0.0 qualtrics.com.edgekey.net
-0.0.0.0 qualtrics.new.edgekey.net
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 quantcast.partners.tremorhub.com
 0.0.0.0 quantcast584928381.s.moatpixel.com
@@ -6669,7 +6639,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 realstats.dhgate.com
 0.0.0.0 realtime.clinch.co
 0.0.0.0 realtor-d.openx.net
-0.0.0.0 realtor-tagan.adlightning.com
 0.0.0.0 reaper.pulse.inmobi.com
 0.0.0.0 rebootv5.adfuture.cn
 0.0.0.0 rebootv5.adsunflower.com
@@ -7383,7 +7352,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 shareitcpi.rqmob.com
 0.0.0.0 sharethis.mgr.consensu.org
 0.0.0.0 sharethrough.adnxs.com
-0.0.0.0 sheknows-tagan.adlightning.com
 0.0.0.0 shihuo.shihuo.cn-hangzhou.log.aliyuncs.com
 0.0.0.0 shinez-u-d.openx.net
 0.0.0.0 shoparty.metrilo.com
@@ -7425,7 +7393,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sin3-ib.sin1.geoadnxs.com
 0.0.0.0 sin3.adnxs.com
 0.0.0.0 sinclair-d.openx.net
-0.0.0.0 sinclair-tagan.adlightning.com
 0.0.0.0 sindirect.adsrvr.org
 0.0.0.0 single.upsight-api.com
 0.0.0.0 singular.net
@@ -7433,7 +7400,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sinkhole.netmng.com
 0.0.0.0 sirius.iad-03.braze.com
 0.0.0.0 sis.jpush.io
-0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 sitemaji.com
 0.0.0.0 siterecruit.comscore.com
 0.0.0.0 sitescout.com
@@ -7489,7 +7455,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sjc07-login.dotomi.com
 0.0.0.0 sjc07-usadmm-ds.dotomi.com
 0.0.0.0 sjc07-usadmm.dotomi.com
-0.0.0.0 sjc1.qualtrics.com
 0.0.0.0 sjedt.adsafeprotected.com
 0.0.0.0 sjrtp-cdn.marketo.com
 0.0.0.0 sjrtp1.marketo.com
@@ -7511,7 +7476,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 slader.servedbyopenx.com
 0.0.0.0 sladermobile-d.openx.net
 0.0.0.0 slapi-bts.logsss.com
-0.0.0.0 slate-tagan.adlightning.com
 0.0.0.0 slc.stats.paypal.com
 0.0.0.0 slckg-4znyf.ads.tremorhub.com
 0.0.0.0 slckg-kqe2e.ads.tremorhub.com
@@ -7725,7 +7689,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 statgw.devtodev.com
 0.0.0.0 static-ads.zaloapp.com
 0.0.0.0 static-analytics.nativeads.com
-0.0.0.0 static-assets.qualtrics.com
 0.0.0.0 static-cdn.adblade.com
 0.0.0.0 static-content-1.smadex.com
 0.0.0.0 static-euw1.dynamicyield.com
@@ -8096,7 +8059,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tag.unionstatistics.com
 0.0.0.0 tag.widespace.com
 0.0.0.0 tag.yieldoptimizer.com
-0.0.0.0 tagan.adlightning.com
 0.0.0.0 tagged-by.rubiconproject.net.akadns.net
 0.0.0.0 tagmanager.smartadserver.com
 0.0.0.0 tagmanager.toast.com
@@ -8182,7 +8144,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tealeaf.ibmcloud.com
 0.0.0.0 tealium.hs.llnwd.net
 0.0.0.0 teams.optimizely.com
-0.0.0.0 tegna-tagan.adlightning.com
 0.0.0.0 telaria.adhaven.com
 0.0.0.0 telegraph-d.openx.net
 0.0.0.0 telegraph.grapeshot.co.uk
@@ -8231,7 +8192,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 thind.unityads.unity3d.com
 0.0.0.0 think.unbounce.com
 0.0.0.0 thinknear-hosted.thinknearhub.com
-0.0.0.0 thisoldhouse-tagan.adlightning.com
 0.0.0.0 thrtle.com
 0.0.0.0 thumbnail.smartnews-ads.com
 0.0.0.0 thumbs.glispa.com
@@ -9229,7 +9189,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 z.irs01.com
 0.0.0.0 z.moatads.com
 0.0.0.0 za-gmtdmp.mookie1.com
-0.0.0.0 zam-tagan.adlightning.com
 0.0.0.0 zarget.com
 0.0.0.0 zc.adswizz.com
 0.0.0.0 zcoup.com
@@ -9245,10 +9204,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 zhiziyun.com
 0.0.0.0 ziffdavis-d.openx.net
 0.0.0.0 ziffdavis.com
-0.0.0.0 zillow-tagan.adlightning.com
 0.0.0.0 zj.dcys.ijinshan.com
 0.0.0.0 zlifestyle-d.openx.net
-0.0.0.0 zn6fpq8uicqiph6sn-fdawebcx.gov1.siteintercept.qualtrics.com
 0.0.0.0 znsps-bl6wf.ads.tremorhub.com
 0.0.0.0 zoopla-d.openx.net
 0.0.0.0 zplayer-trk.zdn.vn
