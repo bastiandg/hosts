@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 04 Dec 2020 10:14:20 GMT
-# entries:        3566
+# entries:        3564
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -460,7 +460,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.bumq.com
 127.0.0.1 ads.businessweek.com
 127.0.0.1 ads.canalblog.com
-127.0.0.1 ads.canoe.ca
 127.0.0.1 ads.casinocity.com
 127.0.0.1 ads.casumoaffiliates.com
 127.0.0.1 ads.cbc.ca
@@ -584,7 +583,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.joaffs.com
 127.0.0.1 ads.jobsite.co.uk
 127.0.0.1 ads.jpost.com
-127.0.0.1 ads.jubii.dk
 127.0.0.1 ads.junctionbox.com
 127.0.0.1 ads.justhungry.com
 127.0.0.1 ads.kabooaffiliates.com
