@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 03 Dec 2020 13:12:44 GMT
-# entries:        3565
+# last updated:   Fri, 04 Dec 2020 10:14:20 GMT
+# entries:        3566
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -204,6 +204,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad.thewheelof.com
 127.0.0.1 ad.turn.com
 127.0.0.1 ad.tv2.no
+127.0.0.1 ad.universcine.com
 127.0.0.1 ad.usatoday.com
 127.0.0.1 ad.virtual-nights.com
 127.0.0.1 ad.wavu.hu
