@@ -743,7 +743,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.zmarsa.com
 0.0.0.0 ads.ztod.com
 0.0.0.0 ads1-adnow.com
-0.0.0.0 ads1.canoe.ca
 0.0.0.0 ads1.mediacapital.pt
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads1.rne.com
@@ -755,7 +754,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 ads2.femmefab.nl
 0.0.0.0 ads2.gamecity.net
-0.0.0.0 ads2.jubii.dk
 0.0.0.0 ads2.net-communities.co.uk
 0.0.0.0 ads2.oneplace.com
 0.0.0.0 ads2.opensubtitles.org
@@ -774,7 +772,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads4.gamecity.net
 0.0.0.0 ads4.virtual-nights.com
 0.0.0.0 ads4homes.com
-0.0.0.0 ads5.canoe.ca
 0.0.0.0 ads5.virtual-nights.com
 0.0.0.0 ads6.gamecity.net
 0.0.0.0 ads7.gamecity.net
@@ -1143,6 +1140,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 balloontexture.com
 0.0.0.0 banik.redigy.cz
 0.0.0.0 banner-exchange-24.de
+0.0.0.0 banner.ad.nu
 0.0.0.0 banner.ambercoastcasino.com
 0.0.0.0 banner.buempliz-online.ch
 0.0.0.0 banner.casino.net
@@ -1545,7 +1543,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 crazypopups.com
 0.0.0.0 creafi-online-media.com
 0.0.0.0 creatives.livejasmin.com
-0.0.0.0 credishe.com
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
 0.0.0.0 critictruck.com
@@ -1952,7 +1949,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 hits4me.com
 0.0.0.0 hitslink.com
 0.0.0.0 hittail.com
-0.0.0.0 hitttenevtanin.com
 0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hocgeese.com
 0.0.0.0 hollandbusinessadvertising.nl
@@ -2007,7 +2003,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ilead.itrack.it
 0.0.0.0 illfatedsnail.com
 0.0.0.0 illustriousoatmeal.com
-0.0.0.0 imageads.canoe.ca
 0.0.0.0 imagecash.net
 0.0.0.0 images-pw.secureserver.net
 0.0.0.0 imarketservices.com
@@ -2080,6 +2075,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 itfarm.com
 0.0.0.0 itop.cz
 0.0.0.0 its-that-easy.com
+0.0.0.0 itsptp.com
 0.0.0.0 ivwbox.de
 0.0.0.0 ivykiosk.com
 0.0.0.0 iyfnzgb.com
@@ -2833,7 +2829,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 rinconpx.net
 0.0.0.0 ringsrecord.com
 0.0.0.0 ritzykey.com
-0.0.0.0 ritzysponge.com
 0.0.0.0 rlcdn.com
 0.0.0.0 rle.ru
 0.0.0.0 rmads.msn.com
@@ -3269,7 +3264,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 tracking.39-bb4a9-osm.co.uk
 0.0.0.0 tracking.42-01pr5-osm-secure.co.uk
 0.0.0.0 tracking.5-47737-bi.co.uk
-0.0.0.0 tracking.crunchiemedia.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.gajmp.com
 0.0.0.0 tracking.ibxlink.com
