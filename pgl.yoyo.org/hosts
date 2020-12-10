@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 04 Dec 2020 10:14:20 GMT
-# entries:        3558
+# last updated:   Thu, 10 Dec 2020 10:26:31 GMT
+# entries:        3559
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -3355,6 +3355,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 truehits.net
 127.0.0.1 truehits1.gits.net.th
 127.0.0.1 truehits2.gits.net.th
+127.0.0.1 trust.titanhq.com
 127.0.0.1 trustx.org
 127.0.0.1 tsyndicate.com
 127.0.0.1 tsyndicate.net
