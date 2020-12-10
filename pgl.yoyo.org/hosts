@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 10 Dec 2020 10:26:31 GMT
-# entries:        3559
+# last updated:   Thu, 10 Dec 2020 11:24:49 GMT
+# entries:        3562
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2282,6 +2282,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mas.sector.sk
 127.0.0.1 massivemark.com
 127.0.0.1 matchcraft.com
+127.0.0.1 materialmoon.com
 127.0.0.1 matheranalytics.com
 127.0.0.1 mathtag.com
 127.0.0.1 matomo.activate.cz
@@ -2722,6 +2723,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 pubmine.com
 127.0.0.1 pubnative.net
 127.0.0.1 puffyloss.com
+127.0.0.1 puffypaste.com
 127.0.0.1 puffypull.com
 127.0.0.1 puffypurpose.com
 127.0.0.1 pushame.com
@@ -3107,6 +3109,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 stepplane.com
 127.0.0.1 stickssheep.com
 127.0.0.1 stickyadstv.com
+127.0.0.1 stiffgame.com
 127.0.0.1 storesurprise.com
 127.0.0.1 stormyachiever.com
 127.0.0.1 storygize.net
