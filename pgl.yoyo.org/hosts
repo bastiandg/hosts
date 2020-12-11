@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 10 Dec 2020 11:24:49 GMT
-# entries:        3560
+# entries:        3555
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1131,7 +1131,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 at-adserver.alltop.com
 127.0.0.1 atdmt.com
 127.0.0.1 athena-ads.wikia.com
-127.0.0.1 ato.mx
 127.0.0.1 attractiveafternoon.com
 127.0.0.1 attribution.report
 127.0.0.1 attributiontracker.com
@@ -2106,7 +2105,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 iyfnzgb.com
 127.0.0.1 j93557g.com
 127.0.0.1 jadeitite.com
-127.0.0.1 jaizouji.com
 127.0.0.1 jauchuwa.net
 127.0.0.1 jcount.com
 127.0.0.1 jdoqocy.com
@@ -2375,7 +2373,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mobperads.net
 127.0.0.1 modernpricing.com
 127.0.0.1 modifyeyes.com
-127.0.0.1 moggattice.com
 127.0.0.1 moldyicicle.com
 127.0.0.1 mon.byteoversea.com
 127.0.0.1 monarchads.com
@@ -2767,6 +2764,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 railwayreason.com
 127.0.0.1 rampidads.com
 127.0.0.1 rank-master.com
+127.0.0.1 rankchamp.de
 127.0.0.1 ranking-charts.de
 127.0.0.1 ranking-hits.de
 127.0.0.1 ranking-links.de
@@ -2838,7 +2836,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 revenuedirect.com
 127.0.0.1 revenuehits.com
 127.0.0.1 revive.docmatic.org
-127.0.0.1 revive.dubcnm.com
 127.0.0.1 revive.haskovo.net
 127.0.0.1 revive.netriota.hu
 127.0.0.1 revive.plays.bg
@@ -2973,7 +2970,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 simplehitcounter.com
 127.0.0.1 simpli.fi
 127.0.0.1 sincerebuffalo.com
-127.0.0.1 sincerespy.com
 127.0.0.1 sinoa.com
 127.0.0.1 sitedataprocessing.com
 127.0.0.1 siteimproveanalytics.com
@@ -3039,7 +3035,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 sponsorads.de
 127.0.0.1 sponsorpro.de
 127.0.0.1 sponsors.thoughtsmedia.com
-127.0.0.1 sportsad.net
 127.0.0.1 spot.fitness.com
 127.0.0.1 spotscenered.info
 127.0.0.1 spotx.tv
