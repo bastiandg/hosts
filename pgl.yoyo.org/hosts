@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 10 Dec 2020 11:24:49 GMT
-# entries:        3562
+# entries:        3560
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -94,7 +94,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 abandonedaction.com
 127.0.0.1 abc-ads.com
 127.0.0.1 aboardlevel.com
-127.0.0.1 aboutads.gr
 127.0.0.1 abruptroad.com
 127.0.0.1 absentstream.com
 127.0.0.1 absoluteclickscom.com
@@ -531,7 +530,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.foxnetworks.com
 127.0.0.1 ads.freecity.de
 127.0.0.1 ads.friendfinder.com
-127.0.0.1 ads.ft.com
 127.0.0.1 ads.gamecity.net
 127.0.0.1 ads.gamershell.com
 127.0.0.1 ads.gamespyid.com
