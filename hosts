@@ -1041,7 +1041,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 acc.magixite.com
 127.0.0.1 acceptable.a-ads.com
 127.0.0.1 acces.streaming-direct.co
-127.0.0.1 access-prod.apis.anvato.net
 127.0.0.1 accessfreevpn.com
 127.0.0.1 accessful.info
 127.0.0.1 accesstrade.com.vn
@@ -6360,7 +6359,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 apidq.punchh.com
 127.0.0.1 apinas.nct.vn
 127.0.0.1 apis.adbro.me
-127.0.0.1 apis.anvato.net
 127.0.0.1 apis.com.br
 127.0.0.1 apis.ihg.com.edgekey.net
 127.0.0.1 apis.mediamelon.com
@@ -9098,7 +9096,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.amateurmatch.com
 127.0.0.1 cdn.amgdgt.com
 127.0.0.1 cdn.amplitude.com
-127.0.0.1 cdn.anvato.net
 127.0.0.1 cdn.api.fotoable.com
 127.0.0.1 cdn.appdynamics.com
 127.0.0.1 cdn.appmachine.com
@@ -11297,7 +11294,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 d2cgumzzqhgmdu.cloudfront.net
 127.0.0.1 d2cmedia.ca
 127.0.0.1 d2o9ozfswytaqz.cloudfront.net
-127.0.0.1 d2oj2jfp5qkm5dtc3gtiqjzaab.gcdn.anvato.net
 127.0.0.1 d2tgfbvjf3q6hn.cloudfront.net
 127.0.0.1 d2vig74li2resi.cloudfront.net
 127.0.0.1 d2zah9y47r7bi2.cloudfront.net
@@ -11585,10 +11581,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 dco-assets.everestads.net
 127.0.0.1 dco-jads-727222375.us-west-2.elb.amazonaws.com
 127.0.0.1 dcproxy1.thrunet.com
-127.0.0.1 dcs-jite.cdn.anvato.net
-127.0.0.1 dcs-live.apis.anvato.net
-127.0.0.1 dcs-tgt.apis.anvato.net
-127.0.0.1 dcs-vod.apis.anvato.net
 127.0.0.1 dcs.adgear.com
 127.0.0.1 dcs.netbiscuits.net
 127.0.0.1 dcs.wtlive.com
@@ -12090,7 +12082,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 drewbarrymore.ca.tt
 127.0.0.1 driverguide.us.intellitxt.com
 127.0.0.1 drizzydrake.us.intellitxt.com
-127.0.0.1 drm.apis.anvato.net
 127.0.0.1 drmcmm.baidu.com
 127.0.0.1 dropkick.oewabox.at
 127.0.0.1 drovederuifswfe.info
@@ -14116,7 +14107,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gcads.osdn.com
 127.0.0.1 gcd.mmstat.com
 127.0.0.1 gcdn.2mdn.net
-127.0.0.1 gcdn.anvato.net
 127.0.0.1 gcdsdk.appsflyer.com
 127.0.0.1 gcir.gannett-tv.com
 127.0.0.1 gcirm.argusleader.com
@@ -14746,7 +14736,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 gpapercareer.112.2o7.net
 127.0.0.1 gpapermom104.112.2o7.net
 127.0.0.1 gparted.fr
-127.0.0.1 gpizacfw3gtfw4vmh5nc4uq6gc.gcdn.anvato.net
 127.0.0.1 gplayer.kmpmedia.net
 127.0.0.1 gr.adserver.yahoo.com
 127.0.0.1 grab.nastydollars.com
@@ -16695,7 +16684,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 jk.revolvermaps.com
 127.0.0.1 jkearns.freestats.com
 127.0.0.1 jkontherun.us.intellitxt.com
-127.0.0.1 jkvdxu3faz4qgr2j6w5qctdnde.gcdn.anvato.net
 127.0.0.1 jl29jd25sm24mc29.com
 127.0.0.1 jlinks.industrybrains.com
 127.0.0.1 jmbi58.cjt1.net
@@ -20316,7 +20304,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 nmtoronto.112.2o7.net
 127.0.0.1 nmtracking.netflix.com
 127.0.0.1 nmtricity.112.2o7.net
-127.0.0.1 nmvxdvra2muiv2amejorzkvqgg.gcdn.anvato.net
 127.0.0.1 nmyork.112.2o7.net
 127.0.0.1 no.2.cqcounter.com
 127.0.0.1 no.adserver.yahoo.com
@@ -27379,7 +27366,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 textlinks.com
 127.0.0.1 textsrv.com
 127.0.0.1 tf.nexac.com
-127.0.0.1 tfa26fsjgzw475fipe42v4rhcf.gcdn.anvato.net
 127.0.0.1 tfag.de
 127.0.0.1 tg.dr.socdm.com
 127.0.0.1 tg1.aniview.com
@@ -29896,7 +29882,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 w29.am15.net
 127.0.0.1 w29.hitbox.com
 127.0.0.1 w3.am15.net
-127.0.0.1 w3.cdn.anvato.net
 127.0.0.1 w3.extreme-dm.com
 127.0.0.1 w3.hitbox.com
 127.0.0.1 w30.am15.net
@@ -33148,7 +33133,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 xhealth.112.2o7.net
 127.0.0.1 xhealthmobiletools.112.2o7.net
 127.0.0.1 xhealthmobiltools.112.2o7.net
-127.0.0.1 xheimmxl4gfvfghng2jjos4qhb.gcdn.anvato.net
 127.0.0.1 xiaomi-mipdx.cn.miaozhen.com
 127.0.0.1 ximad.com
 127.0.0.1 xit.sexlist.com

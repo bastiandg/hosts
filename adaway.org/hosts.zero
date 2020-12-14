@@ -377,7 +377,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ac.mmstat.com
 0.0.0.0 ac7aa69d96b75a55c5e0fe8035f45bce.ulink.adjust.com
 0.0.0.0 acc.magixite.com
-0.0.0.0 access-prod.apis.anvato.net
 0.0.0.0 accesstrade.com.vn
 0.0.0.0 accesstrade.vn
 0.0.0.0 accounts.doubleclick.net
@@ -1593,7 +1592,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 apidq.punchh.com
 0.0.0.0 apinas.nct.vn
 0.0.0.0 apis.adbro.me
-0.0.0.0 apis.anvato.net
 0.0.0.0 apis.com.br
 0.0.0.0 apis.ihg.com.edgekey.net
 0.0.0.0 apis.mediamelon.com
@@ -2528,7 +2526,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.advertserve.com
 0.0.0.0 cdn.adx1.com
 0.0.0.0 cdn.amplitude.com
-0.0.0.0 cdn.anvato.net
 0.0.0.0 cdn.api.fotoable.com
 0.0.0.0 cdn.appdynamics.com
 0.0.0.0 cdn.appmachine.com
@@ -3278,7 +3275,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 d14bd151e5e8a2a2551514106f790db76ce3fa35.cws.conviva.com
 0.0.0.0 d2.hadarone.com
 0.0.0.0 d2cmedia.ca
-0.0.0.0 d2oj2jfp5qkm5dtc3gtiqjzaab.gcdn.anvato.net
 0.0.0.0 d3.hadarone.com
 0.0.0.0 d3.moatads.com
 0.0.0.0 d5.hadarone.com
@@ -3429,10 +3425,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 dclk-match.dotomi.com
 0.0.0.0 dco-assets.everestads.net
 0.0.0.0 dco-jads-727222375.us-west-2.elb.amazonaws.com
-0.0.0.0 dcs-jite.cdn.anvato.net
-0.0.0.0 dcs-live.apis.anvato.net
-0.0.0.0 dcs-tgt.apis.anvato.net
-0.0.0.0 dcs-vod.apis.anvato.net
 0.0.0.0 dcs.adgear.com
 0.0.0.0 dct.netmng.com
 0.0.0.0 dcys.ijinshan.com
@@ -3575,7 +3567,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 dps.jp.cinarra.com
 0.0.0.0 dptr.areyouahuman.com
 0.0.0.0 dr.socdm.com
-0.0.0.0 drm.apis.anvato.net
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 ds-api-public.addthis.com.edgekey.net
 0.0.0.0 ds-m.addthisedge.com.edgekey.net
@@ -4187,7 +4178,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 gbc8.hk.as.criteo.com
 0.0.0.0 gc.ds.duapps.com
 0.0.0.0 gcd.mmstat.com
-0.0.0.0 gcdn.anvato.net
 0.0.0.0 gcdsdk.appsflyer.com
 0.0.0.0 gcloud.bluecava.com
 0.0.0.0 gcm.ksmobile.com
@@ -4317,7 +4307,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 gourmetads-1.t.domdex.com
 0.0.0.0 gov.aniview.com
 0.0.0.0 gowadogo.com
-0.0.0.0 gpizacfw3gtfw4vmh5nc4uq6gc.gcdn.anvato.net
 0.0.0.0 gplayer.kmpmedia.net
 0.0.0.0 grabify.link
 0.0.0.0 grace.shareaholic.com
@@ -4950,7 +4939,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 jadserve.postrelease.com.akadns.net
 0.0.0.0 jampp.com
 0.0.0.0 jgl.microad.net
-0.0.0.0 jkvdxu3faz4qgr2j6w5qctdnde.gcdn.anvato.net
 0.0.0.0 jogger.zdbb.net
 0.0.0.0 johnston.grapeshot.co.uk
 0.0.0.0 jomashop.pushwoosh.com
@@ -5820,7 +5808,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 nmcdn.us
 0.0.0.0 nmetrics.samsung.com
 0.0.0.0 nmtracking.netflix.com
-0.0.0.0 nmvxdvra2muiv2amejorzkvqgg.gcdn.anvato.net
 0.0.0.0 noclick.connexity.com
 0.0.0.0 node.targetspot.com
 0.0.0.0 nodeny.targetspot.com
@@ -8164,7 +8151,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 testandtarget.omniture.com
 0.0.0.0 testtradedeskmve.s.moatpixel.com
 0.0.0.0 textlink.simba.taobao.com
-0.0.0.0 tfa26fsjgzw475fipe42v4rhcf.gcdn.anvato.net
 0.0.0.0 tg.dr.socdm.com
 0.0.0.0 tg1.aniview.com
 0.0.0.0 tgt.mmtro.com
@@ -8909,7 +8895,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 w.sharethis.com
 0.0.0.0 w.usabilla.com
 0.0.0.0 w.yieldmo.com
-0.0.0.0 w3.cdn.anvato.net
 0.0.0.0 w3i.com
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 wa.kuwo.cn
@@ -9126,7 +9111,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 xdssp.mediav.com
 0.0.0.0 xenon.iad-03.braze.com
 0.0.0.0 xfeedback.scloud.lfengmobile.com
-0.0.0.0 xheimmxl4gfvfghng2jjos4qhb.gcdn.anvato.net
 0.0.0.0 xiaomi-mipdx.cn.miaozhen.com
 0.0.0.0 ximad.com
 0.0.0.0 xiti.com
