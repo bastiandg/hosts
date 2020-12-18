@@ -4593,7 +4593,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.usermagnet.com
 0.0.0.0 adserver.van.net
 0.0.0.0 adserver.veruta.com
-0.0.0.0 adserver.viagogo.com
 0.0.0.0 adserver.videohub.tv
 0.0.0.0 adserver.virgin.net
 0.0.0.0 adserver.virginmedia.com
@@ -16716,7 +16715,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 kargo.com
 0.0.0.0 kargodfpnew803390365855.s.moatpixel.com
 0.0.0.0 kargovideojstag.s.moatpixel.com
-0.0.0.0 karisimbi.net
 0.0.0.0 karonty.com
 0.0.0.0 karriere.oewabox.at
 0.0.0.0 kaspersky.122.2o7.net
@@ -23197,6 +23195,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 reviewcentrecom.skimlinks.com
 0.0.0.0 reviews.domainplayersclub.com
 0.0.0.0 revive.docmatic.org
+0.0.0.0 revive.dubcnm.com
 0.0.0.0 revive.haskovo.net
 0.0.0.0 revive.netriota.hu
 0.0.0.0 revive.plays.bg
@@ -25392,6 +25391,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 sports.ign.us.intellitxt.com
 0.0.0.0 sports.msnbc.us.intellitxt.com
 0.0.0.0 sports.rightpundits.us.intellitxt.com
+0.0.0.0 sportsad.net
 0.0.0.0 sportscarillustrated.us.intellitxt.com
 0.0.0.0 sportsillustrated.tags.crwdcntrl.net
 0.0.0.0 spot-im-d.openx.net

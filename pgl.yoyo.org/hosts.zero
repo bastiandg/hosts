@@ -840,7 +840,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.spankaway.com
 0.0.0.0 adserver.theonering.net
 0.0.0.0 adserver.twitpic.com
-0.0.0.0 adserver.viagogo.com
 0.0.0.0 adserver.virginmedia.com
 0.0.0.0 adserver.yahoo.com
 0.0.0.0 adserver01.de
@@ -2099,7 +2098,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 kameleoon.com
 0.0.0.0 kanoodle.com
 0.0.0.0 kargo.com
-0.0.0.0 karisimbi.net
 0.0.0.0 karonty.com
 0.0.0.0 keymedia.hu
 0.0.0.0 kindads.com
@@ -2814,6 +2812,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 revenuedirect.com
 0.0.0.0 revenuehits.com
 0.0.0.0 revive.docmatic.org
+0.0.0.0 revive.dubcnm.com
 0.0.0.0 revive.haskovo.net
 0.0.0.0 revive.netriota.hu
 0.0.0.0 revive.plays.bg
@@ -3014,6 +3013,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 sponsorads.de
 0.0.0.0 sponsorpro.de
 0.0.0.0 sponsors.thoughtsmedia.com
+0.0.0.0 sportsad.net
 0.0.0.0 spot.fitness.com
 0.0.0.0 spotscenered.info
 0.0.0.0 spotx.tv
