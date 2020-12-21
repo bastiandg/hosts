@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 14 Dec 2020 at 06:39:20 GMT
+# Last updated: Mon, 21 Dec 2020 at 04:06:23 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2526,6 +2526,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 livecheck.theperfectsystoupdating.date
 127.0.0.1 livecheck2update.thepointofforcontentingclear.bid
 127.0.0.1 liveupdate.feednowforbrandnewcontestdistributor.win
+127.0.0.1 lnfo-can7651.com
 127.0.0.1 load.jsecoin.com
 127.0.0.1 loseweight.asdjiiw.com
 127.0.0.1 lp.cleanmymac.online
