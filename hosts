@@ -1898,6 +1898,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adboost.finalid.com
 127.0.0.1 adbooth.adk2.co
 127.0.0.1 adbooth.com
+127.0.0.1 adbooth.net
 127.0.0.1 adbot.com
 127.0.0.1 adbot.theonion.com
 127.0.0.1 adbox.inbox-online.com
@@ -21859,7 +21860,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 playhaven.com
 127.0.0.1 playinvaders.com
 127.0.0.1 playlink.pl
-127.0.0.1 playmobileads.com
 127.0.0.1 playnow.guru
 127.0.0.1 playstream.co
 127.0.0.1 playtest-api.topaz-analytics.com
