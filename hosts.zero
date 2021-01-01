@@ -1484,7 +1484,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.proxy.sh
 0.0.0.0 ad.prv.pl
 0.0.0.0 ad.pt.doubleclick.net
-0.0.0.0 ad.pttcn.net
 0.0.0.0 ad.qq.com
 0.0.0.0 ad.qwapi.com
 0.0.0.0 ad.qyer.com
@@ -2431,7 +2430,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adremote.timeinc.net
 0.0.0.0 adreporting.com
 0.0.0.0 adreq.vivo.com.cn
-0.0.0.0 adres.internet.com
 0.0.0.0 adrevenue.appsflyer.com
 0.0.0.0 adrevolver.com
 0.0.0.0 adriver.ru
@@ -5353,7 +5351,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 aics.hitbox.com
 0.0.0.0 aid-golf-golfdust-training.tabrays.com
 0.0.0.0 aidps.atdmt.com
-0.0.0.0 aidu-ads.de
 0.0.0.0 ailoganalyticsportal-eus.cloudapp.net
 0.0.0.0 aim4media.com
 0.0.0.0 aimatch.com
@@ -24125,7 +24122,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sdc.vml.com
 0.0.0.0 sdc.windowsmarketplace.com
 0.0.0.0 sdcexecs.us.intellitxt.com
-0.0.0.0 sdcswingers.online
 0.0.0.0 sdk-ads.bidmotion.com
 0.0.0.0 sdk-analytics.inlocomedia.com
 0.0.0.0 sdk-android.ad.smaato.net

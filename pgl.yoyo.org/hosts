@@ -22,7 +22,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 17 Dec 2020 09:47:06 GMT
-# entries:        3563
+# entries:        3558
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -189,7 +189,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad.preferances.com
 127.0.0.1 ad.profiwin.de
 127.0.0.1 ad.prv.pl
-127.0.0.1 ad.pttcn.net
 127.0.0.1 ad.reunion.com
 127.0.0.1 ad.sensismediasmart.com.au
 127.0.0.1 ad.seznam.cz
@@ -393,7 +392,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adrecreate.com
 127.0.0.1 adremedy.com
 127.0.0.1 adreporting.com
-127.0.0.1 adres.internet.com
 127.0.0.1 adrevolver.com
 127.0.0.1 adriver.ru
 127.0.0.1 adrolays.de
@@ -1041,7 +1039,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ah-ha.com
 127.0.0.1 ahalogy.com
 127.0.0.1 aheadday.com
-127.0.0.1 aidu-ads.de
 127.0.0.1 aim4media.com
 127.0.0.1 airpush.com
 127.0.0.1 aistat.net
@@ -2353,7 +2350,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mintegral.com
 127.0.0.1 mixedreading.com
 127.0.0.1 mixpanel.com
-127.0.0.1 mjxads.internet.com
 127.0.0.1 mkto-ab410147.com
 127.0.0.1 mktoresp.com
 127.0.0.1 ml314.com
@@ -2918,7 +2914,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 screechingfurniture.com
 127.0.0.1 scripte-monster.de
 127.0.0.1 scrubswim.com
-127.0.0.1 sdcswingers.online
 127.0.0.1 sdkfjxjertertry.com
 127.0.0.1 seadform.net
 127.0.0.1 searching-place.com
