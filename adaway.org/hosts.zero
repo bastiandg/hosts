@@ -2631,7 +2631,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.popcash.net
 0.0.0.0 cdn.pushcrew.com
 0.0.0.0 cdn.pushwoosh.com
-0.0.0.0 cdn.responsys.net
 0.0.0.0 cdn.revcontent.com
 0.0.0.0 cdn.revjet.com
 0.0.0.0 cdn.rlcdn.com
@@ -6684,7 +6683,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 resources.marketo.com
 0.0.0.0 resources.presage.io
 0.0.0.0 resources.taboola.com
-0.0.0.0 responsys.net
 0.0.0.0 rest.dynamicyield.com
 0.0.0.0 rest.iad-01.braze.com
 0.0.0.0 rest.iad-03.braze.com
@@ -7698,7 +7696,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 static.amplitude.com
 0.0.0.0 static.apester.com
 0.0.0.0 static.aprod.scopely.io
-0.0.0.0 static.cdn.responsys.net
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.cleverpush.com
 0.0.0.0 static.clevertap.com

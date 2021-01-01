@@ -9250,7 +9250,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 cdn.radiatewheel.info
 127.0.0.1 cdn.redlightcenter.com
 127.0.0.1 cdn.reporo.net
-127.0.0.1 cdn.responsys.net
 127.0.0.1 cdn.revcontent.com
 127.0.0.1 cdn.revjet.com
 127.0.0.1 cdn.rlcdn.com
@@ -23160,7 +23159,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 resources.presage.io
 127.0.0.1 resources.taboola.com
 127.0.0.1 responsiveads.com
-127.0.0.1 responsys.net
 127.0.0.1 rest.dynamicyield.com
 127.0.0.1 rest.iad-01.braze.com
 127.0.0.1 rest.iad-03.braze.com
@@ -25759,7 +25757,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 static.canalstat.com
 127.0.0.1 static.carbonads.com
 127.0.0.1 static.cdn.adblade.com
-127.0.0.1 static.cdn.responsys.net
 127.0.0.1 static.chartbeat.com
 127.0.0.1 static.cleverpush.com
 127.0.0.1 static.clevertap.com

@@ -9250,7 +9250,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.radiatewheel.info
 0.0.0.0 cdn.redlightcenter.com
 0.0.0.0 cdn.reporo.net
-0.0.0.0 cdn.responsys.net
 0.0.0.0 cdn.revcontent.com
 0.0.0.0 cdn.revjet.com
 0.0.0.0 cdn.rlcdn.com
@@ -23160,7 +23159,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 resources.presage.io
 0.0.0.0 resources.taboola.com
 0.0.0.0 responsiveads.com
-0.0.0.0 responsys.net
 0.0.0.0 rest.dynamicyield.com
 0.0.0.0 rest.iad-01.braze.com
 0.0.0.0 rest.iad-03.braze.com
@@ -25759,7 +25757,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 static.canalstat.com
 0.0.0.0 static.carbonads.com
 0.0.0.0 static.cdn.adblade.com
-0.0.0.0 static.cdn.responsys.net
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.cleverpush.com
 0.0.0.0 static.clevertap.com
