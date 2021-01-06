@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 04 Jan 2021 09:35:40 GMT
-# entries:        3559
+# last updated:   Wed, 06 Jan 2021 14:41:44 GMT
+# entries:        3563
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -816,6 +816,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsend.de
 127.0.0.1 adsensecustomsearchads.com
 127.0.0.1 adserve.ams.rhythmxchange.com
+127.0.0.1 adserve.gkeurope.de
 127.0.0.1 adserve.io
 127.0.0.1 adserve.jbs.org
 127.0.0.1 adserver.71i.de
@@ -827,6 +828,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver.bdoce.cl
 127.0.0.1 adserver.betandwin.de
 127.0.0.1 adserver.bing.com
+127.0.0.1 adserver.bizedge.com
 127.0.0.1 adserver.bizhat.com
 127.0.0.1 adserver.break-even.it
 127.0.0.1 adserver.cams.com
@@ -856,6 +858,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver.o2.pl
 127.0.0.1 adserver.oddschecker.com
 127.0.0.1 adserver.omroepzeeland.nl
+127.0.0.1 adserver.otthonom.hu
 127.0.0.1 adserver.pampa.com.br
 127.0.0.1 adserver.pl
 127.0.0.1 adserver.portugalmail.net
@@ -865,6 +868,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver.sharewareonline.com
 127.0.0.1 adserver.spankaway.com
 127.0.0.1 adserver.theonering.net
+127.0.0.1 adserver.trojaner-info.de
 127.0.0.1 adserver.twitpic.com
 127.0.0.1 adserver.virginmedia.com
 127.0.0.1 adserver.yahoo.com

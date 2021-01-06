@@ -4265,6 +4265,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserve.donanimhaber.com
 0.0.0.0 adserve.doteasy.com
 0.0.0.0 adserve.ehpub.com
+0.0.0.0 adserve.gkeurope.de
 0.0.0.0 adserve.gossipgirls.com
 0.0.0.0 adserve.io
 0.0.0.0 adserve.jbs.org
@@ -4354,6 +4355,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.billiger-surfen.de
 0.0.0.0 adserver.billiger-telefonieren.de
 0.0.0.0 adserver.bing.com
+0.0.0.0 adserver.bizedge.com
 0.0.0.0 adserver.bizhat.com
 0.0.0.0 adserver.bizland-inc.net
 0.0.0.0 adserver.bloodhorse.com
@@ -4512,6 +4514,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.oddschecker.com
 0.0.0.0 adserver.omroepzeeland.nl
 0.0.0.0 adserver.onwisconsin.com
+0.0.0.0 adserver.otthonom.hu
 0.0.0.0 adserver.outpersonals.com
 0.0.0.0 adserver.pampa.com.br
 0.0.0.0 adserver.pandora.com
@@ -4579,6 +4582,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adserver.trafficsyndicate.com
 0.0.0.0 adserver.trb.com
 0.0.0.0 adserver.tribuneinteractive.com
+0.0.0.0 adserver.trojaner-info.de
 0.0.0.0 adserver.tsgadv.com
 0.0.0.0 adserver.tulsaworld.com
 0.0.0.0 adserver.tvcatchup.com
