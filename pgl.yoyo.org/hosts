@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 06 Jan 2021 14:41:44 GMT
-# entries:        3563
+# last updated:   Thu, 07 Jan 2021 10:35:34 GMT
+# entries:        3565
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2003,6 +2003,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 hyperbanner.net
 127.0.0.1 hypertracker.com
 127.0.0.1 hyprmx.com
+127.0.0.1 hyros.com
 127.0.0.1 hystericalhelp.com
 127.0.0.1 i-clicks.net
 127.0.0.1 i-i.lt
@@ -2930,6 +2931,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 securemetrics.apple.com
 127.0.0.1 sedoparking.com
 127.0.0.1 sedotracker.com
+127.0.0.1 segmetrics.io
 127.0.0.1 selectivesummer.com
 127.0.0.1 semasio.net
 127.0.0.1 sendmepixel.com
