@@ -67,6 +67,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 abandonedaction.com
 0.0.0.0 abc-ads.com
 0.0.0.0 aboardlevel.com
+0.0.0.0 aboutads.gr
 0.0.0.0 abruptroad.com
 0.0.0.0 absentstream.com
 0.0.0.0 absoluteclickscom.com
@@ -142,7 +143,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.jamster.co.uk
 0.0.0.0 ad.jetsoftware.com
 0.0.0.0 ad.keenspace.com
-0.0.0.0 ad.kissanime.nz
 0.0.0.0 ad.liveinternet.ru
 0.0.0.0 ad.lupa.cz
 0.0.0.0 ad.media-servers.net
@@ -167,7 +167,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.seznam.cz
 0.0.0.0 ad.simflight.com
 0.0.0.0 ad.simgames.net
-0.0.0.0 ad.smartclip.net
 0.0.0.0 ad.style
 0.0.0.0 ad.tapthislink.com
 0.0.0.0 ad.tbn.ru
@@ -541,7 +540,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.imgur.com
 0.0.0.0 ads.independent.com.mt
 0.0.0.0 ads.infi.net
-0.0.0.0 ads.internet24.se
 0.0.0.0 ads.internic.co.il
 0.0.0.0 ads.ipowerweb.com
 0.0.0.0 ads.isoftmarketing.com
@@ -995,7 +993,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 affiliate.rusvpn.com
 0.0.0.0 affiliate.travelnow.com
 0.0.0.0 affiliate.treated.com
-0.0.0.0 affiliate.viator.com
 0.0.0.0 affiliatefuture.com
 0.0.0.0 affiliates.allposters.com
 0.0.0.0 affiliates.babylon.com
@@ -1815,7 +1812,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 freebanner.com
 0.0.0.0 freecounterstat.com
 0.0.0.0 freelogs.com
-0.0.0.0 freemaineads.com
 0.0.0.0 freeonlineusers.com
 0.0.0.0 freepay.com
 0.0.0.0 freeskreen.com
@@ -3230,7 +3226,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 touchclarity.com
 0.0.0.0 touchclarity.natwest.com
 0.0.0.0 tour.brazzers.com
-0.0.0.0 tpnads.com
 0.0.0.0 track.addevent.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.anchorfree.com
@@ -3342,7 +3337,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 turboadv.com
 0.0.0.0 turn.com
 0.0.0.0 tvmtracker.com
-0.0.0.0 twittad.com
 0.0.0.0 twyn.com
 0.0.0.0 tynt.com
 0.0.0.0 typicalteeth.com
