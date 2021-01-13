@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 11 Jan 2021 12:45:10 GMT
-# entries:        3561
+# last updated:   Wed, 13 Jan 2021 13:11:44 GMT
+# entries:        3562
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1045,6 +1045,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 aistat.net
 127.0.0.1 ak0gsh40.com
 127.0.0.1 aktrack.pubmatic.com
+127.0.0.1 alchemist.go2cloud.org
 127.0.0.1 alclick.com
 127.0.0.1 alenty.com
 127.0.0.1 alert.com.mt
