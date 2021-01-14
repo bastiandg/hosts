@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 13 Jan 2021 13:11:44 GMT
-# entries:        3562
+# last updated:   Thu, 14 Jan 2021 13:25:13 GMT
+# entries:        3563
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -2223,6 +2223,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 log.btopenworld.com
 127.0.0.1 log.logrocket.io
 127.0.0.1 log.pinterest.com
+127.0.0.1 log.videocampaign.co
 127.0.0.1 logger.snackly.co
 127.0.0.1 logs.datadoghq.com
 127.0.0.1 logs.datadoghq.eu

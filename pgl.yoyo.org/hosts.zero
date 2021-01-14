@@ -2196,6 +2196,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 log.btopenworld.com
 0.0.0.0 log.logrocket.io
 0.0.0.0 log.pinterest.com
+0.0.0.0 log.videocampaign.co
 0.0.0.0 logger.snackly.co
 0.0.0.0 logs.datadoghq.com
 0.0.0.0 logs.datadoghq.eu

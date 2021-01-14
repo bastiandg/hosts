@@ -17397,6 +17397,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 log.trackingio.com
 0.0.0.0 log.umsns.com
 0.0.0.0 log.umtrack.com
+0.0.0.0 log.videocampaign.co
 0.0.0.0 log.wtlogin.qq.com
 0.0.0.0 log1.countomat.com
 0.0.0.0 log3.optimizely.com
