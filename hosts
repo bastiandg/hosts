@@ -1117,6 +1117,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad-cdn.technoratimedia.com
 127.0.0.1 ad-clicks.com
 127.0.0.1 ad-cloud.jp
+127.0.0.1 ad-cupid.com
 127.0.0.1 ad-delivery.net
 127.0.0.1 ad-emea.doubleclick.net
 127.0.0.1 ad-exchange.toast.com
@@ -1325,7 +1326,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 ad.g-content.bid
 127.0.0.1 ad.g.daum.net
 127.0.0.1 ad.garantiarkadas.com
-127.0.0.1 ad.gate24.ch
 127.0.0.1 ad.gazeta.pl
 127.0.0.1 ad.ghfusion.com
 127.0.0.1 ad.go.affec.tv
@@ -4693,6 +4693,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 adsfac.eu
 127.0.0.1 adsfac.net
 127.0.0.1 adsfac.us
+127.0.0.1 adsfactor.net
 127.0.0.1 adsfeed.brabys.com
 127.0.0.1 adsfeed3.brabys.co.za
 127.0.0.1 adsfile.qq.com
@@ -7334,7 +7335,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bannerboxes.com
 127.0.0.1 bannerco-op.com
 127.0.0.1 bannercommunity.de
-127.0.0.1 bannerconnect.com
 127.0.0.1 bannerconnect.net
 127.0.0.1 bannerdriven.ru
 127.0.0.1 bannerexchange.troglod.com
@@ -7369,7 +7369,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 banners.asiafriendfinder.com
 127.0.0.1 banners.askmecca.com
 127.0.0.1 banners.audioholics.com
-127.0.0.1 banners.babylon-x.com
 127.0.0.1 banners.betcris.com
 127.0.0.1 banners.bgmaps.com
 127.0.0.1 banners.bigchurch.com
@@ -16385,6 +16384,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 jadserve.postrelease.com
 127.0.0.1 jadserve.postrelease.com.akadns.net
 127.0.0.1 jahisope45.bid
+127.0.0.1 jaizouji.com
 127.0.0.1 jajajaj-thats-you-really.com
 127.0.0.1 jakeludington.us.intellitxt.com
 127.0.0.1 jambocast.com
@@ -27788,6 +27788,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 track.tenjin.com
 127.0.0.1 track.tenjin.io
 127.0.0.1 track.the-members-section.com
+127.0.0.1 track.themaccleanup.info
 127.0.0.1 track.theprovision.net
 127.0.0.1 track.theviralconcept.com
 127.0.0.1 track.tiara.daum.net
@@ -28368,6 +28369,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 tweakvista.us.intellitxt.com
 127.0.0.1 tweetsoup.us.intellitxt.com
 127.0.0.1 twitchguru.us.intellitxt.com
+127.0.0.1 twittad.com
 127.0.0.1 twitter.login.kevanshome.org
 127.0.0.1 twitter.secure.bzpharma.net
 127.0.0.1 twittercounter.com

@@ -1117,6 +1117,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad-cdn.technoratimedia.com
 0.0.0.0 ad-clicks.com
 0.0.0.0 ad-cloud.jp
+0.0.0.0 ad-cupid.com
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad-emea.doubleclick.net
 0.0.0.0 ad-exchange.toast.com
@@ -1325,7 +1326,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.g-content.bid
 0.0.0.0 ad.g.daum.net
 0.0.0.0 ad.garantiarkadas.com
-0.0.0.0 ad.gate24.ch
 0.0.0.0 ad.gazeta.pl
 0.0.0.0 ad.ghfusion.com
 0.0.0.0 ad.go.affec.tv
@@ -4693,6 +4693,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adsfac.eu
 0.0.0.0 adsfac.net
 0.0.0.0 adsfac.us
+0.0.0.0 adsfactor.net
 0.0.0.0 adsfeed.brabys.com
 0.0.0.0 adsfeed3.brabys.co.za
 0.0.0.0 adsfile.qq.com
@@ -7334,7 +7335,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 bannerboxes.com
 0.0.0.0 bannerco-op.com
 0.0.0.0 bannercommunity.de
-0.0.0.0 bannerconnect.com
 0.0.0.0 bannerconnect.net
 0.0.0.0 bannerdriven.ru
 0.0.0.0 bannerexchange.troglod.com
@@ -7369,7 +7369,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 banners.asiafriendfinder.com
 0.0.0.0 banners.askmecca.com
 0.0.0.0 banners.audioholics.com
-0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.betcris.com
 0.0.0.0 banners.bgmaps.com
 0.0.0.0 banners.bigchurch.com
@@ -16385,6 +16384,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 jadserve.postrelease.com.akadns.net
 0.0.0.0 jahisope45.bid
+0.0.0.0 jaizouji.com
 0.0.0.0 jajajaj-thats-you-really.com
 0.0.0.0 jakeludington.us.intellitxt.com
 0.0.0.0 jambocast.com
@@ -27788,6 +27788,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 track.tenjin.com
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.the-members-section.com
+0.0.0.0 track.themaccleanup.info
 0.0.0.0 track.theprovision.net
 0.0.0.0 track.theviralconcept.com
 0.0.0.0 track.tiara.daum.net
@@ -28368,6 +28369,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tweakvista.us.intellitxt.com
 0.0.0.0 tweetsoup.us.intellitxt.com
 0.0.0.0 twitchguru.us.intellitxt.com
+0.0.0.0 twittad.com
 0.0.0.0 twitter.login.kevanshome.org
 0.0.0.0 twitter.secure.bzpharma.net
 0.0.0.0 twittercounter.com

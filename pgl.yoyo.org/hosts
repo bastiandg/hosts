@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 14 Jan 2021 13:25:13 GMT
-# entries:        3563
+# last updated:   Fri, 15 Jan 2021 13:11:10 GMT
+# entries:        3565
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -115,6 +115,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-balancer.at
 127.0.0.1 ad-balancer.net
+127.0.0.1 ad-cupid.com
 127.0.0.1 ad-delivery.net
 127.0.0.1 ad-pay.de
 127.0.0.1 ad-rotator.com
@@ -155,7 +156,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ad.flurry.com
 127.0.0.1 ad.foxnetworks.com
 127.0.0.1 ad.freecity.de
-127.0.0.1 ad.gate24.ch
 127.0.0.1 ad.grafika.cz
 127.0.0.1 ad.gt
 127.0.0.1 ad.hbv.de
@@ -864,7 +864,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adserver.sanomawsoy.fi
 127.0.0.1 adserver.sciflicks.com
 127.0.0.1 adserver.sharewareonline.com
-127.0.0.1 adserver.spankaway.com
 127.0.0.1 adserver.theonering.net
 127.0.0.1 adserver.trojaner-info.de
 127.0.0.1 adserver.twitpic.com
@@ -886,6 +885,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsfac.eu
 127.0.0.1 adsfac.net
 127.0.0.1 adsfac.us
+127.0.0.1 adsfactor.net
 127.0.0.1 adsfeed.brabys.com
 127.0.0.1 adside.com
 127.0.0.1 adsiduous.com
@@ -1129,6 +1129,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 at-adserver.alltop.com
 127.0.0.1 atdmt.com
 127.0.0.1 athena-ads.wikia.com
+127.0.0.1 ato.mx
 127.0.0.1 attractiveafternoon.com
 127.0.0.1 attribution.report
 127.0.0.1 attributiontracker.com
@@ -1198,7 +1199,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 bannerads.de
 127.0.0.1 bannerboxes.com
 127.0.0.1 bannercommunity.de
-127.0.0.1 bannerconnect.com
 127.0.0.1 bannerconnect.net
 127.0.0.1 bannergrabber.internet.gr
 127.0.0.1 bannerimage.com
@@ -1210,7 +1210,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 banners.adultfriendfinder.com
 127.0.0.1 banners.amigos.com
 127.0.0.1 banners.asiafriendfinder.com
-127.0.0.1 banners.babylon-x.com
 127.0.0.1 banners.bol.com.br
 127.0.0.1 banners.cams.com
 127.0.0.1 banners.clubseventeen.com
@@ -2104,6 +2103,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 iyfnzgb.com
 127.0.0.1 j93557g.com
 127.0.0.1 jadeitite.com
+127.0.0.1 jaizouji.com
 127.0.0.1 jauchuwa.net
 127.0.0.1 jcount.com
 127.0.0.1 jdoqocy.com
@@ -3270,6 +3270,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 track.hexcan.com
 127.0.0.1 track.mailerlite.com
 127.0.0.1 track.nuxues.com
+127.0.0.1 track.themaccleanup.info
 127.0.0.1 track.tkbo.com
 127.0.0.1 track.ultravpn.com
 127.0.0.1 track.undressingpics.work
@@ -3368,6 +3369,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 turboadv.com
 127.0.0.1 turn.com
 127.0.0.1 tvmtracker.com
+127.0.0.1 twittad.com
 127.0.0.1 twyn.com
 127.0.0.1 tynt.com
 127.0.0.1 typicalteeth.com
