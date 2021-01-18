@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 15 Jan 2021 13:11:10 GMT
-# entries:        3565
+# last updated:   Mon, 18 Jan 2021 00:52:09 GMT
+# entries:        3568
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -30,7 +30,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 22 Jan 2001 00:00:00
+# start date:    Tue, 23 Jan 2001 00:00:00
 127.0.0.1 1-1ads.com
 127.0.0.1 101com.com
 127.0.0.1 101order.com
@@ -240,6 +240,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adap.tv
 127.0.0.1 adapt.tv
 127.0.0.1 adaranth.com
+127.0.0.1 adbilty.me
 127.0.0.1 adblade.com
 127.0.0.1 adblade.org
 127.0.0.1 adblockanalytics.com
@@ -3443,6 +3444,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 visitpath.com
 127.0.0.1 visual-pagerank.fr
 127.0.0.1 visualrevenue.com
+127.0.0.1 vivads.net
 127.0.0.1 vivtracking.com
 127.0.0.1 vmmpxl.com
 127.0.0.1 voicefive.com
@@ -3541,6 +3543,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 xad.com
 127.0.0.1 xapads.com
 127.0.0.1 xchange.ro
+127.0.0.1 xcsypkknp.com
 127.0.0.1 xertive.com
 127.0.0.1 xfreeservice.com
 127.0.0.1 xg4ken.com
