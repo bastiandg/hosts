@@ -8148,6 +8148,8 @@ brokertraffic.com
 bronrt.stsdk.vivo.com.cn
 brort.stsdk.vivo.com.cn
 brothersoft.us.intellitxt.com
+browser-http-intake.logs.datadoghq.com
+browser-http-intake.logs.datadoghq.eu
 browser-message.com
 browser-notifications.bid
 browser-tools.systems
@@ -17502,8 +17504,6 @@ logp3.xiti.com
 logs-01.loggly.com
 logs.81plug.com
 logs.comics.com
-logs.datadoghq.com
-logs.datadoghq.eu
 logs.eresmas.com
 logs.eresmas.net
 logs.loggly.com
@@ -23577,6 +23577,8 @@ rules3.aatkit.com
 rum-collector-2.pingdom.net
 rum-collector.pingdom.net
 rum-collector.wpm.neustar.biz
+rum-http-intake.logs.datadoghq.com
+rum-http-intake.logs.datadoghq.eu
 rum-static.pingdom.net
 rum.logsss.com
 rum.optimizely.com

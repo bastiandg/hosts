@@ -8154,6 +8154,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 bronrt.stsdk.vivo.com.cn
 127.0.0.1 brort.stsdk.vivo.com.cn
 127.0.0.1 brothersoft.us.intellitxt.com
+127.0.0.1 browser-http-intake.logs.datadoghq.com
+127.0.0.1 browser-http-intake.logs.datadoghq.eu
 127.0.0.1 browser-message.com
 127.0.0.1 browser-notifications.bid
 127.0.0.1 browser-tools.systems
@@ -17508,8 +17510,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 logs-01.loggly.com
 127.0.0.1 logs.81plug.com
 127.0.0.1 logs.comics.com
-127.0.0.1 logs.datadoghq.com
-127.0.0.1 logs.datadoghq.eu
 127.0.0.1 logs.eresmas.com
 127.0.0.1 logs.eresmas.net
 127.0.0.1 logs.loggly.com
@@ -23583,6 +23583,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 rum-collector-2.pingdom.net
 127.0.0.1 rum-collector.pingdom.net
 127.0.0.1 rum-collector.wpm.neustar.biz
+127.0.0.1 rum-http-intake.logs.datadoghq.com
+127.0.0.1 rum-http-intake.logs.datadoghq.eu
 127.0.0.1 rum-static.pingdom.net
 127.0.0.1 rum.logsss.com
 127.0.0.1 rum.optimizely.com
