@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 15 Jan 2021 at 21:29:57 GMT
+# Last updated: Thu, 21 Jan 2021 at 09:51:06 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -395,6 +395,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 admin.iovation.com
 127.0.0.1 adobestats.com
 127.0.0.1 adopt.specificclick.net
+127.0.0.1 adpatrof.com
 127.0.0.1 ads.tiscali.com
 127.0.0.1 ads.tiscali.it
 127.0.0.1 adtrack.appcpi.net
@@ -534,6 +535,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 cdn.simpleanalytics.io
 127.0.0.1 cdn.taboolasyndication.com
 127.0.0.1 cdn.zarget.com
+127.0.0.1 cdn1.files.dotandad.com
 127.0.0.1 cdxbin.vulnerap.com
 127.0.0.1 celestia.fr
 127.0.0.1 cf.addthis.com
@@ -876,6 +878,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 entry-stats.huffingtonpost.com
 127.0.0.1 environmentalgraffiti.uk.intellitxt.com
 127.0.0.1 es.optimost.com
+127.0.0.1 et.ad.dotandad.com
 127.0.0.1 eu-track.inside-graph.com
 127.0.0.1 eus.rubiconproject.com
 127.0.0.1 exch.quantserve.com
@@ -1933,6 +1936,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 vs.dmtracker.com
 127.0.0.1 vsii.spinbox.net
 127.0.0.1 vsii.spindox.net
+127.0.0.1 w.nativery.com
 127.0.0.1 w1.tcr112.tynt.com
 127.0.0.1 warlog.info
 127.0.0.1 warning-message.com
@@ -7230,6 +7234,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 baiduccdn1.com
 127.0.0.1 baidutv.baidu.com
 127.0.0.1 bakkecske.net
+127.0.0.1 bal.ad.dotandad.com
 127.0.0.1 baldehydesupe.info
 127.0.0.1 bamulat.blogspot.hu
 127.0.0.1 bananacashback.com
@@ -7722,6 +7727,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 cdn.mega-tags.com
 127.0.0.1 cdn.merchenta.com
 127.0.0.1 cdn.mobicow.com
+127.0.0.1 cdn.nativery.com
 127.0.0.1 cdn.nearbyad.com
 127.0.0.1 cdn.nsimg.net
 127.0.0.1 cdn.onescreen.net
@@ -7767,6 +7773,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 cdn454.telemetryverification.net
 127.0.0.1 cdn5.tribalfusion.com
 127.0.0.1 cdn6.emediate.eu
+127.0.0.1 cdn99.files.dotandad.com
 127.0.0.1 cdnads.cam4.com
 127.0.0.1 cdnaws.mobidea.com
 127.0.0.1 cdns.mydirtyhobby.com
@@ -9218,6 +9225,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 js.adscale.de
 127.0.0.1 js.adserverpub.com
 127.0.0.1 js.adsonar.com
+127.0.0.1 js.adspro.it
 127.0.0.1 js.adsrvr.org
 127.0.0.1 js.betburdaaffiliates.com
 127.0.0.1 js.bizographics.com
@@ -10346,6 +10354,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 pq.stat.ku6.com
 127.0.0.1 pqqyhbff.cinci.rr.com
 127.0.0.1 practeddagek.club
+127.0.0.1 prebid.adspro.it
 127.0.0.1 prefersurvey.net
 127.0.0.1 preland.softmonetize.com
 127.0.0.1 preligions.com
@@ -10756,6 +10765,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 s.atemda.com
 127.0.0.1 s.baidu.com
 127.0.0.1 s.boom.ro
+127.0.0.1 s.clickiocdn.com
 127.0.0.1 s.clicktale.net
 127.0.0.1 s.di.com.pl
 127.0.0.1 s.domob.cn
@@ -12179,6 +12189,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.blasphemysfhs.info
 127.0.0.1 www.blatant8jh.info
 127.0.0.1 www.blazingtrader.biz
+127.0.0.1 www.blockadsnot.com
 127.0.0.1 www.blockchaintop.nl
 127.0.0.1 www.bluediamondoffers.com
 127.0.0.1 www.bnnr.nl
@@ -12947,6 +12958,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.worry-free-savings.com
 127.0.0.1 www.wppluginspro.com
 127.0.0.1 www.wtp101.com
+127.0.0.1 www.xadsmart.com
 127.0.0.1 www.xaxis.com
 127.0.0.1 www.xbn.ru
 127.0.0.1 www.xl-trk.com
