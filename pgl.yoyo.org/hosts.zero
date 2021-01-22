@@ -770,7 +770,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads5.virtual-nights.com
 0.0.0.0 ads6.gamecity.net
 0.0.0.0 ads7.gamecity.net
-0.0.0.0 ads8.com
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adsatt.abc.starwave.com
 0.0.0.0 adsatt.abcnews.starwave.com
@@ -1173,6 +1172,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 bannerads.de
 0.0.0.0 bannerboxes.com
 0.0.0.0 bannercommunity.de
+0.0.0.0 bannerconnect.com
 0.0.0.0 bannerconnect.net
 0.0.0.0 bannergrabber.internet.gr
 0.0.0.0 bannerimage.com
@@ -1467,7 +1467,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 colonize.com
 0.0.0.0 comclick.com
 0.0.0.0 comfortablecheese.com
-0.0.0.0 commindo-media-ressourcen.de
 0.0.0.0 commissionmonster.com
 0.0.0.0 commonswing.com
 0.0.0.0 compactbanner.com
@@ -2503,7 +2502,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 openads.org
 0.0.0.0 openadsnetwork.com
 0.0.0.0 opentag-stats.qubit.com
-0.0.0.0 openx.actvtech.com
 0.0.0.0 openx.angelsgroup.org.uk
 0.0.0.0 openx.aosis.co.za
 0.0.0.0 openx.cairo360.com
@@ -2732,7 +2730,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 r.msn.com
 0.0.0.0 r.scoota.co
 0.0.0.0 radar.cedexis.com
-0.0.0.0 radarurl.com
 0.0.0.0 radiate.com
 0.0.0.0 rads.alfamedia.pl
 0.0.0.0 rads.realadmin.pl
@@ -3519,7 +3516,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 xad.com
 0.0.0.0 xapads.com
 0.0.0.0 xchange.ro
-0.0.0.0 xcsypkknp.com
 0.0.0.0 xertive.com
 0.0.0.0 xfreeservice.com
 0.0.0.0 xg4ken.com

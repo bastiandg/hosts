@@ -7338,6 +7338,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 bannerboxes.com
 127.0.0.1 bannerco-op.com
 127.0.0.1 bannercommunity.de
+127.0.0.1 bannerconnect.com
 127.0.0.1 bannerconnect.net
 127.0.0.1 bannerdriven.ru
 127.0.0.1 bannerexchange.troglod.com
@@ -10320,7 +10321,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 commerce-offer.com
 127.0.0.1 commerce-rewardpath.com
 127.0.0.1 commerce.www.ibm.com
-127.0.0.1 commindo-media-ressourcen.de
 127.0.0.1 commissionmonster.com
 127.0.0.1 common.duapps.com
 127.0.0.1 common.ziffdavisinternet.com
@@ -20878,7 +20878,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 opentag-stats.qubit.com
 127.0.0.1 openx-server.thinknearhub.com
 127.0.0.1 openx.4shared.com
-127.0.0.1 openx.actvtech.com
 127.0.0.1 openx.adfactor.nl
 127.0.0.1 openx.adhaven.com
 127.0.0.1 openx.ajur.info
@@ -32787,7 +32786,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 xcore.in
 127.0.0.1 xcp.go.sonobi.com
 127.0.0.1 xcr-286.com
-127.0.0.1 xcsypkknp.com
 127.0.0.1 xdcs-collector.ximalaya.com
 127.0.0.1 xdrig.com
 127.0.0.1 xdssp.mediav.com
