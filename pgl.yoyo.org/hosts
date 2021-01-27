@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 27 Jan 2021 10:22:34 GMT
-# entries:        3569
+# last updated:   Wed, 27 Jan 2021 12:39:59 GMT
+# entries:        3570
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -887,6 +887,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsfac.us
 127.0.0.1 adsfactor.net
 127.0.0.1 adsfeed.brabys.com
+127.0.0.1 adshrink.it
 127.0.0.1 adside.com
 127.0.0.1 adsiduous.com
 127.0.0.1 adskeeper.co.uk
