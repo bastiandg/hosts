@@ -21,8 +21,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 25 Jan 2021 11:52:20 GMT
-# entries:        3568
+# last updated:   Wed, 27 Jan 2021 10:22:34 GMT
+# entries:        3569
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&star
@@ -1479,6 +1479,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 cluster.adultworld.com
 127.0.0.1 clustrmaps.com
 127.0.0.1 cmp.dmgmediaprivacy.co.uk
+127.0.0.1 cmp.osano.com
 127.0.0.1 cmvrclicks000.com
 127.0.0.1 cnomy.com
 127.0.0.1 cnt.spbland.ru
